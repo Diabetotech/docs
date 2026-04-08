@@ -4,6 +4,13 @@ site_url: https://diabetotech.readthedocs.io
 
 theme:
   name: readthedocs
+  highlightjs: true
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
