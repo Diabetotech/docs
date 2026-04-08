@@ -1,0 +1,30 @@
+site_name: Diabetotech
+site_description: Open diabetes technology reference — peer-reviewed
+site_url: https://diabetotech.readthedocs.io
+
+theme:
+  name: material
+  palette:
+    primary: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - CGM: cgm/index.md
+  - Insulin Pumps: pumps/index.md
+  - AID Systems: aid/index.md
+  - Smart Pens: pens/index.md
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@diabetotech
+    - icon: fontawesome/brands/github
+      link: https://github.com/Diabetotech
