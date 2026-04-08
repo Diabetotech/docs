@@ -2,8 +2,9 @@
 
 Free, peer-reviewed reference for healthcare professionals and people with diabetes worldwide.
 
-## What you'll find here: Practical, device-focused education covering all major diabetes technologies:
+## What you'll find here
 
+Practical, device-focused education covering all major diabetes technologies:
 - **CGM** — continuous glucose monitoring systems
 - **Insulin Pumps** — Setup, programming, and daily management
 - **AID Systems** — Automated insulin delivery, including open-source solutions
