@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/UPuR6VlGY90" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Creating and interpreting reports</u>**
 
 Welcome to this informative video on creating and interpreting reports using the YourLoops data visualization platform in the DBLG1 system.

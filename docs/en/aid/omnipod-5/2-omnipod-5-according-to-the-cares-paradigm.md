@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/il0B10aSJgw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Omnipod 5 according to the CARES paradigm</u>**
 
 Welcome to this video where we discuss the Omnipod 5 system according to the CARES paradigm.

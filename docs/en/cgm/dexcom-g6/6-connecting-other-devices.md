@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/o2VzopINizI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Connecting other devices</u>**
 
 Welcome to this lesson on connecting your Dexcom G6 sensor to other devices.

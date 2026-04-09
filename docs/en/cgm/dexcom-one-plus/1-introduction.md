@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/JCyiHZoWbuQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this video on the Dexcom ONE Plus, a continuous glucose monitor that can greatly improve your diabetes management. In this chapter, we will explore the key features of the Dexcom ONE Plus and how to maximize its benefits. Let's dive in!

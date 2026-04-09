@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dJlrmdNYRIA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Connecting other devices</u>**
 
 Welcome to this lesson on connecting your CareSens Air CGM to other devices. In this video, you'll discover how to integrate your CGM with blood glucose meters and explore options with smartwatches, smart pens, and insulin pumps. Let's start.

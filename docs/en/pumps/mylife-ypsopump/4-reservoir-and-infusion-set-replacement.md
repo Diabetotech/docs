@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/nPiG6Yznx7A" frameborder="0" allowfullscreen></iframe>
+</div>
+
 **<u>4. Reservoir and infusion set replacement</u>**
 
 Welcome, in this video we offer comprehensive guidance on how to change the infusion set and reservoir of your mylife YpsoPump.

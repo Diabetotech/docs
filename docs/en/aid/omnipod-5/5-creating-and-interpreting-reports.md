@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/imNibXiqvAw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Creating and interpreting reports</u>**
 
 In this video, we will explore the process of creating and interpreting reports using the Glooko software with Omnipod 5. By connecting your Omnipod 5 app to Glooko, you can seamlessly transmit data every 5 minutes, enabling real-time access to various insightful reports.

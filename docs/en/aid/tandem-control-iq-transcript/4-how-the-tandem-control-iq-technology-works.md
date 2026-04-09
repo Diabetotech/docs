@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/MnFyDEpCh8g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. How the Tandem Control-IQ technology works</u>**
 
 Welcome to this video, where we will discuss how Tandem Control-IQ technology works.

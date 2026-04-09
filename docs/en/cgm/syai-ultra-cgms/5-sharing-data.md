@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kR7LgTYcPTA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Sharing data</u>**
 
 Welcome to this lesson on sharing data with the Syai Ultra CGM System. This video covers how to grant sensor data access to loved ones and clinicians, as well as how to create glucose reports. Let’s start.

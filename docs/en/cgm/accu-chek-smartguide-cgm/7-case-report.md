@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Vm4Tvxa6k4k" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 Congratulations on finishing this module on the Accu-Chek SmartGuide sensor!

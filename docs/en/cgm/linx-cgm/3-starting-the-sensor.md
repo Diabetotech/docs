@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/j7wtJO5v06c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Starting the sensor</u>** 
 
 Welcome to this lesson on getting started with the LinX CGM. In this video, you’ll learn how to start the LinX sensor and become familiar with the key features of the LinX app. We’ll also share tips for proper sensor use and wear in everyday life. Let’s dive in.

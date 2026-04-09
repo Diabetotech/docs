@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/SgtqxZhrFZ8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Placing the sensor</u>**
 
 Welcome to this lesson on placing the Dexcom ONE Plus sensor.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ab-XFAjfg-w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Connecting other devices</u>**
 
 Welcome to this lesson on connecting your Sibionics GS3 CGM to other devices. In this video, you’ll learn how to link your sensor with smartwatches and discover possibilities with smart insulin pens and pumps. Let’s begin.

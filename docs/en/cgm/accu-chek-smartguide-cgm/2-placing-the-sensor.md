@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Y8WYgENELxM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Placing the sensor</u>**
 
 Welcome to the first lesson of the Accu-Chek SmartGuide CGM module. In this video, we’ll demonstrate how to apply and remove the SmartGuide sensor. Let’s begin.

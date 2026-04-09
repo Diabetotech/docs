@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/bv8f6IAc1zY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 As we conclude this module on the MiniMed 780G system, we want to share a <span class="mark">personal and detailed review that highlights the practical aspects of using this advanced diabetes management technology. We invite you to watch a video by Diabetic Danica, where she shares her experiences after using the MiniMed 780G system with the Guardian 4 CGM in SmartGuard mode for a month.</span>

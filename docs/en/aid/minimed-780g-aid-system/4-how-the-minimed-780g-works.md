@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ajyq1aPxPrY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. How the MiniMed 780G works</u>**
 
 Welcome to this lesson on the functionality of the MiniMed 780G insulin pump.

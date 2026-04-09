@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/165OF8_dodY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Pump alarms</u>**
 
 In this video, we dive into the iLet Device's alarm system. <span class="mark">We'll discuss the different kinds of alarms, and share some best practices.</span>

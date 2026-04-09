@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9NfdcNMchQo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Tandem Control-IQ technology according to the CARES Paradigm</u>**
 
 Welcome to this lesson about the Tandem Control-IQ technology according to the CARES paradigm.

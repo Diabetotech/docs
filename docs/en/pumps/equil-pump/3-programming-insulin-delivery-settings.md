@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/e3m0-19MbxM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Programming insulin delivery settings</u>**
 
 Welcome to this lesson on programming insulin delivery settings with the Equil Pump.

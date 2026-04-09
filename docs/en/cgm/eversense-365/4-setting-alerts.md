@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/tN97Suqzf2M" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Setting alerts</u>**
 
 Welcome to this lesson on setting alerts with the Eversense 365 sensor.

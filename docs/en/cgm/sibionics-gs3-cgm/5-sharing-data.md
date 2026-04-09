@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/fBK73bCv6QU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Sharing data</u>**
 
 Welcome to this lesson on sharing data with the Sibionics GS3 CGM. In this video, we’ll outline steps for sharing your sensor data with your healthcare provider and loved ones. We’ll also discuss generating reports with the GS3 system. Let’s get started.

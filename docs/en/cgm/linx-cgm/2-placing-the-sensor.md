@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1MihhESiuk8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Placing the sensor</u>**
 
 Welcome to the first lesson of the LinX CGM module. In this video, we’ll show you how to apply and remove the LinX sensor and outline the critical dos and don’ts at each step. Let’s jump right in.

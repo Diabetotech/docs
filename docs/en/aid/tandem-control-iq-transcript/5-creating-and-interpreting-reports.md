@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IZwbNT5iNek" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Creating and interpreting reports</u>**
 
 Welcome to this video on report creation and interpretation in Tandem Control-IQ technology.

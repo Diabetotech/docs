@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/8ALd8wKHHqk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. How the DBLG1 System with Kaleido works</u>**
 
 Welcome to this lesson on the functionality of the DBLG1 system with Kaleido. Controlling your insulin delivery is done through the dedicated DBLG1 handset.

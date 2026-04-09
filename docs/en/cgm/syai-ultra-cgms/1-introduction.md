@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/H9gO68RD_2Y" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module on the Syai Ultra CGM System! In the upcoming videos, we'll examine the core capabilities of this compact, AI-powered sensor that generates high-frequency glucose readings.

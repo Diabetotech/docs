@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AGuhS6aTeVs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Creating and Interpreting Reports</u>**
 
 <span class="mark">Welcome to this lesson on how to create and interpret reports using the EasyView platform for the TouchCare Nano System.</span>

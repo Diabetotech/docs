@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/sK94_WgxlE8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **Setting Alarms**
 
 Welcome! In this lesson, we will discuss setting alarms with the TouchCare Nano sensor.

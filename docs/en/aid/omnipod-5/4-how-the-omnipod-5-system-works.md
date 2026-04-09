@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/L9z80uawaFQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. How the Omnipod 5 system works</u>**
 
 Welcome to this lesson on the functionality of the Omnipod 5 system. Controlling the insulin delivery is done through the Omnipod 5 app on your Controller or on your mobile phone. Currently, the Omnipod 5 app for phone control is only available in the US, but broader roll-out is expected.

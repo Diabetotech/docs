@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/P9ml2_LmM_U" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Linking components together</u>**
 
 Welcome to this instructional video, where we will explore the process of linking the various components of Tandem Control-IQ technology. Let's dive in!

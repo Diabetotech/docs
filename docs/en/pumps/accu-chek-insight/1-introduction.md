@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/xS8MNAJJW5w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module about the Accu-Chek Insight insulin p<span class="mark">ump! Although this pump is no longer being commercialised, some people are still using it.</span>

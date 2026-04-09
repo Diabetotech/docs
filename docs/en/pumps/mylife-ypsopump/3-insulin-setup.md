@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/mbZcovNlw2g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 **<u>3. Insulin setup</u>**
 
 In this video, we're exploring how to program insulin delivery on the mylife YpsoPump.

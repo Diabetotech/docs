@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/NMUuQM_DZBo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case Report</u>** 
 
 Welcome to the final chapter of this module! In this video, we'll explore some insights shared by Peta, a Type 1 diabetic, on how to extend the lifespan of the Guardian sensors. Please note that while Peta shares her personal experience and tips, it's important to consult with your healthcare advisor.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/zghELmAexDo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Sharing data</u>**
 
 Welcome to this lesson on sharing data with the iCan i6 CGM. In this video, you’ll learn how to share sensor data and generate reports using the iCan app and the iCan View Reader. Let’s dive in.

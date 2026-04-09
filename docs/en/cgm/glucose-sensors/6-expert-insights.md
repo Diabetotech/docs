@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vlC581eFx80" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Expert insights</u>**
 
 Welcome to the final chap<span class="mark">ter of our comprehensive module on glucose sensors! You've come a long way, acquiring valuable knowledge and skills to enhance your expertise in diabetes care. Congratulations on reaching this milestone!</span>

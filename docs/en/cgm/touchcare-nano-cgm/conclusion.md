@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vc73K01MZfo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **Conclusion**
 
 Thank you for following along with this TouchCare Nano set-up guide.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/KS6_hkaeXTM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Connecting other devices</u>**
 
 Welcome to this lesson on connecting your FreeStyle Libre 2 sensor to other devices.

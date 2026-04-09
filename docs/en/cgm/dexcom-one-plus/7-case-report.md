@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/r8722_cfb5Q" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 Congratulations to all of you for successfully completing this comprehensive course on the Dexcom ONE Plus sensor! Your dedication to understanding the features, functionalities, and best practices of this continuous glucose monitoring system is commendable and a significant step towards improving your diabetes management.

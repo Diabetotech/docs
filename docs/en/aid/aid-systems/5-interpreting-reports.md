@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/g1fR6BrKjrM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<span class="mark"><u>5. Interpreting reports</u></span>** 
 
 <span class="mark">Welcome to this video on creating and interpreting reports for automated insulin delivery systems.</span>

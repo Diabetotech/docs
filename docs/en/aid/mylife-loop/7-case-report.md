@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/GaPH_vSECp8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 In this final chapter, we have an exciting YouTube video featuring Tom from Type One Talks, who made a great review of mylife Loop. In a highly engaging video, Tom goes over all the main features and his own experience with the system, while comparing mylife Loop with other automated insulin delivery systems like Tandem Control-IQ. He tested mylife Loop with both the Dexcom G6 sensor and the FreeStyle Libre 3 sensor, and described which one he liked best.

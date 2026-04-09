@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/wKYddOK9E-U" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### **3. Use the Smart MDI System**
 
 <span class="mark">In this module, we will walk you through the process of using the Smart MDI System.</span>

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/bCTxnFdXrjU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Starting and scanning the sensor</u>** 
 
 <span class="mark">Welcome to this video, where we'll show you how to start and scan the FreeStyle Libre 2 and FreeStyle Libre 2 Plus sensors. You can do this using an app on your phone or with a FreeStyle Libre 2 reader.</span>

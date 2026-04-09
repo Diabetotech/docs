@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/sMPg_uQTYmY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Linking components together</u>** 
 
 Welcome to this lesson on how to establish connections between the different components of the TouchCare Nano System.

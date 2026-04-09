@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/orOB8Befph0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Placing the sensor</u>**
 
 Welcome to the first lesson of the Anytime CT3 AT4 module. In this video, we’ll walk you through how to apply and remove the Anytime CT3 sensor, along with best practices and key precautions. The procedure is the same for the Anytime AT4. Let’s dive in.

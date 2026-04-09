@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/MsjLQoZh8zw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Comparison of different insulin pumps</u>**
 
 Welcome to this lesson, where we will explore the various insulin pumps available in the market.

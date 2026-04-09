@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/MlEulNsTEpg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **5. Creating and interpreting reports**
 
 Welcome to this video on report creation and interpretation for the iLet System.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eIN0LFSx4gk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module on the iCan i6 CGM! In the upcoming videos, we’ll explore the key features of this continuous glucose sensor, designed for children and adults with diabetes.

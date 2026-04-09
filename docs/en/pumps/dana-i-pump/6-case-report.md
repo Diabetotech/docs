@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AxEhToAx-nc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Case report</u>**
 
 Welcome to the final video of this module! Thank you for investing the time to learn about the DANA-i insulin pump.

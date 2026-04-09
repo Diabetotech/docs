@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1ghMBB1s9V0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Case report</u>**
 
 Welcome to the closing video of this module. Thank you for following along and dedicating time to understanding the Equil Insulin Pump.

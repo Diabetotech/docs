@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eq8HomuF-aw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module on the Anytime CT3 and AT4 CGMs. In this series of videos, we'll take a closer look at the main features and functions of these split-design continuous glucose sensors that provide high-frequency glucose data.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/K1n15ehW0yM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **6. Connecting Other Devices**
 
 Welcome to this lesson on how to connect your TouchCare Nano sensor to other devices. In this section, we’ll explore which devices are compatible and how they can support your diabetes management.

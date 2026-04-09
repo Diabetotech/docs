@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/M8__7s9O6_c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Setting alarms</u>**
 
 Welcome to this lesson on setting alarms with the FreeStyle Libre 3 sensor. During this session, we will guide you through the process of setting alarms and inform you about the available options. We'll cover how to set alarms on both the reader and the FreeStyle Libre 3 app on your phone, ensuring you have a comprehensive understanding of the process. Let's get started!

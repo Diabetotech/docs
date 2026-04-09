@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kZOFyTMBvKk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Setting alarms</u>**
 
 Welcome to this lesson on setting alarms with the Anytime CT3 and AT4 CGMs. In this video, we’ll examine the sensor’s alarm settings and demonstrate how to tailor them to your needs and preferences in the Anytime app. Let’s begin.

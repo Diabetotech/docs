@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/c0p-SgclfYU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Pump Operation</u>**
 
 Welcome to this video on how the Omnipod DASH insulin pump works! In this segment, we will explore the parts and buttons of the Pod and PDM, how to charge and unlock the PDM, the home screen and pump menu of the PDM, and some do's and don'ts.

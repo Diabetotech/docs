@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-BJ87lom89w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module dedicated to FreeStyle L<span class="mark">ibre 3 and 3 Plus! Throughout this journey, we will delve into the intricacies of the world's most compact sensor.</span>

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2kWEGZVJfgI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Managing special situations</u>**
 
 Welcome to this module where we will discuss managing special situations with the mylife Loop automated insulin delivery system!

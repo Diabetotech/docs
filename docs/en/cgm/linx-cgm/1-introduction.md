@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vKI6R2g6MWU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome t<span class="mark">o this module on the LinX CGM. In this video series, we’ll break down the essentials of this continuous glucose monitor, one of the smallest CGM sensors on the market designed for both children and adults.</span>

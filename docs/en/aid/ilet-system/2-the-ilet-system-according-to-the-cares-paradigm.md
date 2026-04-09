@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/coZ2_hKEH2Q" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. The iLet System according to the C<span class="mark">ARES Paradigm</span></u>**
 
 Welcome to this lesson about the iLet System according to the CARES paradigm.

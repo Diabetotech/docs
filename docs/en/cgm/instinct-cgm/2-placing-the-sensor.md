@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kC8sLyKiT6Q" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Placing the sensor</u>**
 
 Welcome to the first lesson of the Instinct CGM module. In this video, we’ll guide you through inserting and removing the Instinct sensor, and highlight major dos and don’ts.

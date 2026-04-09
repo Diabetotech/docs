@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9rVr8ojZnaE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Setting alerts</u>**
 
 Welcome to this lesson on setting alerts with the Instinct CGM. In this video, you’ll discover what kinds of alerts the Instinct sensor can send and how you can tailor them to your needs. Let’s jump right in.

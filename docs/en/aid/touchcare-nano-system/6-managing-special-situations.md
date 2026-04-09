@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/u4Iz3AG2DaA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Managing special situations</u>**
 
 Welcome to this lesson on managing special situations with the TouchCare Nano System.

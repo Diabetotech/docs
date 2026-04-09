@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/D4FWe7Nefgc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module on the Instinct CGM! Throughout this video series, we’ll cover everything you need to know about this sensor designed exclusively for MiniMed™ systems. Let’s get started.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LUBEtirLWYw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Starting the sensor</u>** 
 
 Welcome to this lesson on getting started with the iCan i6 CGM. In this video, we’ll discuss starting the iCan i6 sensor and finding your way around the iCan app and view Reader. You’ll also get practical tips for correct sensor wear and daily use. Let’s begin.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2kP84XAMJRs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## <u>6. Managing special situations</u>
 
 In this video, we will provide specific tips and recommendations for managing common situations in diabetes management while using the iAPS automated insulin delivery system.

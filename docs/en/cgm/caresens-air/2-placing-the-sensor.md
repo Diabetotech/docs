@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vLWiaYJDi2M" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Placing the sensor</u>**
 
 Welcome to the first lesson of the CareSens Air CGM module. In this video, we’ll walk you through placing and removing the CareSens Air sensor, along with key dos and don’ts. Let’s dive in.

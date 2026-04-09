@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DXGzeQ5R-x4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Starting the sensor</u>** 
 
 Welcome to this lesson on starting the CareSens Air sensor. In this video, you'll learn how to start the sensor and navigate the app. Plus, we'll tackle practical tips that will allow you to make the most of your CareSens Air system. Let’s jump right in.

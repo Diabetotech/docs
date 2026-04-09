@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ST3M2FRZwgk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **Placing the Sensor**
 
 Welcome to this lesson on placing the TouchCare Nano sensor.

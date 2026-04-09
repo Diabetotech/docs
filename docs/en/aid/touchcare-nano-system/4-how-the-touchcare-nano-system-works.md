@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PHccGrwsCOI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. How the TouchCare Nano System works</u>**
 
 Welcome to this lesson on the functionality of the TouchCare Nano System.

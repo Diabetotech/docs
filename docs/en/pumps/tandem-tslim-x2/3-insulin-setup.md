@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dE18MR0VqzY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Insulin setup</u>**
 
 Welcome to our detailed guide on insulin delivery setup for the Tandem t:slim X2 insulin pump.

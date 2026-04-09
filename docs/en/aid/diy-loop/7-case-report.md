@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/YVPk26Gd6C4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 # **<u>7. Case report</u>**
 
 In this final chapter, we would like to refer to a valuable free webinar about DIY Loop. In this video, Nabeel Khan, a Diabetes Technologist from BCDiabetes in Canada, shares a comprehensive overview of adjusting therapy settings in Loop based on real-time data from Nightscout.

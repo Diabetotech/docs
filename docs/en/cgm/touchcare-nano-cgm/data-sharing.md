@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eB7CrpwcXBU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **Data Sharing**
 
 In this lesson, we will explain how to share your glucose data with healthcare providers and family members who support your diabetes management.

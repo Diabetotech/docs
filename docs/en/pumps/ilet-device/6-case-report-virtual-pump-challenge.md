@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/c1ILRtasG6c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Case report & virtual pump challenge</u>**
 
 In this final video, we'd like to spotlight Justin from Diabetech, an individual living with type 1 diabetes who actually tested the iLet Device and made an easy to follow review. In this video, Justin shows how to program the iLet device and how it looks. <span class="mark">Please click on the link below this video to watch his review.</span>

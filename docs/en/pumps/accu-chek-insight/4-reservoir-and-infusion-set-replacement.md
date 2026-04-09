@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/tZNOqXzN5wk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Reservoir and infusion set replacement</u>**
 
 Welcome to this instructional video on how to replace the insulin reservoir and infusion set on the Accu-Chek Insight insulin pump.

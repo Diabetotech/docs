@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ylY6QReFL4U" frameborder="0" allowfullscreen></iframe>
+</div>
+
 **<u>2. How the mylife YpsoPump works</u>**
 
 Greetings and welcome to this comprehensive tutorial on navigating the mylife YpsoPump!

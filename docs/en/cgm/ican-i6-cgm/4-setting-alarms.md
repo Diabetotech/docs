@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/W_NgvtGnczY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Setting alarms</u>**
 
 Welcome to this lesson on setting alarms with the iCan i6 CGM. In this video, we’ll take a close look at the sensor’s alarms and show you how to customize them in the iCan app and on the iCan view Reader. Let’s get started.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AHzIPmO6A70" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Starting the sensor</u>** 
 
 Welcome to this lesson on starting the Sibionics GS3 CGM. In this video, we’ll dive into starting the sensor and navigating the GS3 app. We’ll also cover some tips for safe and proper use of the sensor in your daily life. Let’s jump right in.

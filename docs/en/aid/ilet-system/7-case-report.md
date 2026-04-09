@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/i1QJQlLcWpE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 Welcome to the conclusion of this module, and congratulations on completing your exploration of the iLet System! Throughout this journey, you've gained valuable insights into the features, functionalities, and best practices of this innovative hybrid automated insulin delivery system.

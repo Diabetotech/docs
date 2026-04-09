@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/hOb2E2bnqus" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Linking components together</u>**
 
 In this video, we will walk you through the process of linking the different components of mylife Loop and enabling data sharing capabilities.

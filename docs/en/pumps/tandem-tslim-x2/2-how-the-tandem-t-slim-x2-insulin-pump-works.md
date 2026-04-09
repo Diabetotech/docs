@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eyOlz5Uuu8g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. How the Tandem t:slim X2 insulin pump works</u>**
 
 Welcome to this informative video on how the Tandem t:slim X2 pump works! In this segment, we will explore the various aspects of the pump, including its parts, buttons, charging process, unlocking mechanism, and the different screens and menus.
