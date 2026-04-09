@@ -14,10 +14,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - CGM: cgm/index.md
-  - Insulin Pumps: pumps/index.md
-  - AID Systems: aid/index.md
-  - Smart Pens: pens/index.md
+  - CGM: en/cgm/
+  - Insulin Pumps: en/pumps/
+  - AID Systems: en/aid/
+  - Smart Pens: en/pens/
 
 plugins:
   - search
