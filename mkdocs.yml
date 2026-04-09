@@ -15,52 +15,405 @@ markdown_extensions:
 nav:
   - Home: index.md
   - CGM:
-    - Glucose Sensors (Master Module): en/cgm/glucose-sensors.md
-    - Accu-Chek Smartguide: en/cgm/accu-chek-smartguide-cgm.md
-    - Anytime CT3 / AT4: en/cgm/anytime-ct3-at4.md
-    - CareSens Air: en/cgm/caresens-air.md
-    - Dexcom G6: en/cgm/dexcom-g6.md
-    - Dexcom G7: en/cgm/dexcom-g7.md
-    - Dexcom ONE Plus: en/cgm/dexcom-one-plus.md
-    - Eversense 365: en/cgm/eversense-365.md
-    - FreeStyle Libre 2 (Plus): en/cgm/freestyle-libre-2.md
-    - FreeStyle Libre 3: en/cgm/freestyle-libre-3.md
-    - Guardian 4: en/cgm/guardian-4.md
-    - iCan i6: en/cgm/ican-i6-cgm.md
-    - Instinct CGM: en/cgm/instinct-cgm.md
-    - LinX CGM: en/cgm/linx-cgm.md
-    - Sibionics GS3: en/cgm/sibionics-gs3-cgm.md
-    - Simplera: en/cgm/simplera.md
-    - Syai Ultra: en/cgm/syai-ultra-cgms.md
-    - TouchCare Nano CGM: en/cgm/touchcare-nano-cgm.md
+    - Glucose Sensors (Master Module):
+      - Overview: en/cgm/glucose-sensors/index.md
+      - 1. Introduction: en/cgm/glucose-sensors/1-introduction.md
+      - 2. Comparison of different sensors: en/cgm/glucose-sensors/2-comparison-of-different-sensors.md
+      - 3. Reliability of glucose sensors: en/cgm/glucose-sensors/3-reliability-of-glucose-sensors.md
+      - 4. Effective sensor site management: en/cgm/glucose-sensors/4-effective-sensor-site-management.md
+      - 5. Interpreting sensor reports: en/cgm/glucose-sensors/5-interpreting-sensor-reports.md
+      - 6. Expert insights: en/cgm/glucose-sensors/6-expert-insights.md
+
+    - Accu-Chek Smartguide:
+      - Overview: en/cgm/accu-chek-smartguide-cgm/index.md
+      - 1. Introduction: en/cgm/accu-chek-smartguide-cgm/1-introduction.md
+      - 2. Placing the sensor: en/cgm/accu-chek-smartguide-cgm/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/accu-chek-smartguide-cgm/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/accu-chek-smartguide-cgm/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/accu-chek-smartguide-cgm/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/accu-chek-smartguide-cgm/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/accu-chek-smartguide-cgm/7-case-report.md
+
+    - Anytime CT3 / AT4:
+      - Overview: en/cgm/anytime-ct3-at4/index.md
+      - 1. Introduction: en/cgm/anytime-ct3-at4/1-introduction.md
+      - 2. Placing the sensor: en/cgm/anytime-ct3-at4/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/anytime-ct3-at4/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/anytime-ct3-at4/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/anytime-ct3-at4/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/anytime-ct3-at4/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/anytime-ct3-at4/7-case-report.md
+
+    - CareSens Air:
+      - Overview: en/cgm/caresens-air/index.md
+      - 1. Introduction: en/cgm/caresens-air/1-introduction.md
+      - 2. Placing the sensor: en/cgm/caresens-air/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/caresens-air/3-starting-the-sensor.md
+      - 4. Setting alerts: en/cgm/caresens-air/4-setting-alerts.md
+      - 5. Sharing data: en/cgm/caresens-air/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/caresens-air/6-connecting-other-devices.md
+      - 7. Conclusion: en/cgm/caresens-air/7-conclusion.md
+
+    - Dexcom G6:
+      - Overview: en/cgm/dexcom-g6/index.md
+      - 1. Introduction: en/cgm/dexcom-g6/1-introduction.md
+      - 2. Placing the sensor: en/cgm/dexcom-g6/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/dexcom-g6/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/dexcom-g6/4-setting-alarms.md
+      - 5. Data sharing: en/cgm/dexcom-g6/5-data-sharing.md
+      - 6. Connecting other devices: en/cgm/dexcom-g6/6-connecting-other-devices.md
+
+    - Dexcom G7:
+      - Overview: en/cgm/dexcom-g7/index.md
+      - 1. Introduction: en/cgm/dexcom-g7/1-introduction.md
+      - 2. Placing the sensor: en/cgm/dexcom-g7/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/dexcom-g7/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/dexcom-g7/4-setting-alarms.md
+      - 5. Data sharing: en/cgm/dexcom-g7/5-data-sharing.md
+      - 6. Connecting other devices: en/cgm/dexcom-g7/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/dexcom-g7/7-case-report.md
+
+    - Dexcom ONE Plus:
+      - Overview: en/cgm/dexcom-one-plus/index.md
+      - 1. Introduction: en/cgm/dexcom-one-plus/1-introduction.md
+      - 2. Placing the sensor: en/cgm/dexcom-one-plus/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/dexcom-one-plus/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/dexcom-one-plus/4-setting-alarms.md
+      - 5. Data sharing: en/cgm/dexcom-one-plus/5-data-sharing.md
+      - 6. Connecting other devices: en/cgm/dexcom-one-plus/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/dexcom-one-plus/7-case-report.md
+
+    - Eversense 365:
+      - Overview: en/cgm/eversense-365/index.md
+      - 1. Introduction: en/cgm/eversense-365/1-introduction.md
+      - 2. Placing the sensor: en/cgm/eversense-365/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/eversense-365/3-starting-the-sensor.md
+      - 4. Setting alerts: en/cgm/eversense-365/4-setting-alerts.md
+      - 5. Data sharing: en/cgm/eversense-365/5-data-sharing.md
+      - 6. Connecting other devices: en/cgm/eversense-365/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/eversense-365/7-case-report.md
+
+    - FreeStyle Libre 2 (Plus):
+      - Overview: en/cgm/freestyle-libre-2/index.md
+      - 1. Introduction: en/cgm/freestyle-libre-2/1-introduction.md
+      - 2. Placing the sensor: en/cgm/freestyle-libre-2/2-placing-the-sensor.md
+      - 3. Starting and scanning the sensor: en/cgm/freestyle-libre-2/3-starting-and-scanning-the-sensor.md
+      - 5. Sharing data: en/cgm/freestyle-libre-2/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/freestyle-libre-2/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/freestyle-libre-2/7-case-report.md
+
+    - FreeStyle Libre 3:
+      - Overview: en/cgm/freestyle-libre-3/index.md
+      - 1. Introduction: en/cgm/freestyle-libre-3/1-introduction.md
+      - 2. Placing the sensor: en/cgm/freestyle-libre-3/2-placing-the-sensor.md
+      - 3. Starting and scanning the sensor: en/cgm/freestyle-libre-3/3-starting-and-scanning-the-sensor.md
+      - 4. Setting alarms: en/cgm/freestyle-libre-3/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/freestyle-libre-3/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/freestyle-libre-3/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/freestyle-libre-3/7-case-report.md
+
+    - Guardian 4:
+      - Overview: en/cgm/guardian-4/index.md
+      - 1. Introduction: en/cgm/guardian-4/1-introduction.md
+      - 2. Placing the sensor: en/cgm/guardian-4/2-placing-the-sensor.md
+      - 4. Setting alarms: en/cgm/guardian-4/4-setting-alarms.md
+      - 5. Data sharing: en/cgm/guardian-4/5-data-sharing.md
+      - 6. Connecting other devices: en/cgm/guardian-4/6-connecting-other-devices.md
+      - 7. Case Report: en/cgm/guardian-4/7-case-report.md
+
+    - iCan i6:
+      - Overview: en/cgm/ican-i6-cgm/index.md
+      - 1. Introduction: en/cgm/ican-i6-cgm/1-introduction.md
+      - 2. Placing the sensor: en/cgm/ican-i6-cgm/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/ican-i6-cgm/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/ican-i6-cgm/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/ican-i6-cgm/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/ican-i6-cgm/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/ican-i6-cgm/7-case-report.md
+
+    - Instinct CGM:
+      - Overview: en/cgm/instinct-cgm/index.md
+      - 1. Introduction: en/cgm/instinct-cgm/1-introduction.md
+      - 2. Placing the sensor: en/cgm/instinct-cgm/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/instinct-cgm/3-starting-the-sensor.md
+      - 4. Setting alerts: en/cgm/instinct-cgm/4-setting-alerts.md
+      - 5. Sharing data: en/cgm/instinct-cgm/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/instinct-cgm/6-connecting-other-devices.md
+      - 7. Conclusion: en/cgm/instinct-cgm/7-conclusion.md
+
+    - LinX CGM:
+      - Overview: en/cgm/linx-cgm/index.md
+      - 1. Introduction: en/cgm/linx-cgm/1-introduction.md
+      - 2. Placing the sensor: en/cgm/linx-cgm/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/linx-cgm/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/linx-cgm/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/linx-cgm/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/linx-cgm/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/linx-cgm/7-case-report.md
+
+    - Sibionics GS3:
+      - Overview: en/cgm/sibionics-gs3-cgm/index.md
+      - 1. Introduction: en/cgm/sibionics-gs3-cgm/1-introduction.md
+      - 2. Placing the sensor: en/cgm/sibionics-gs3-cgm/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/sibionics-gs3-cgm/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/sibionics-gs3-cgm/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/sibionics-gs3-cgm/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/sibionics-gs3-cgm/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/sibionics-gs3-cgm/7-case-report.md
+
+    - Simplera:
+      - Overview: en/cgm/simplera/index.md
+      - 1. Introduction: en/cgm/simplera/1-introduction.md
+      - 2. Placing the sensor: en/cgm/simplera/2-placing-the-sensor.md
+      - 4. Setting alarms: en/cgm/simplera/4-setting-alarms.md
+      - 5. Data sharing: en/cgm/simplera/5-data-sharing.md
+      - 6. Connecting other devices: en/cgm/simplera/6-connecting-other-devices.md
+
+    - Syai Ultra:
+      - Overview: en/cgm/syai-ultra-cgms/index.md
+      - 1. Introduction: en/cgm/syai-ultra-cgms/1-introduction.md
+      - 2. Placing the sensor: en/cgm/syai-ultra-cgms/2-placing-the-sensor.md
+      - 3. Starting the sensor: en/cgm/syai-ultra-cgms/3-starting-the-sensor.md
+      - 4. Setting alarms: en/cgm/syai-ultra-cgms/4-setting-alarms.md
+      - 5. Sharing data: en/cgm/syai-ultra-cgms/5-sharing-data.md
+      - 6. Connecting other devices: en/cgm/syai-ultra-cgms/6-connecting-other-devices.md
+      - 7. Case report: en/cgm/syai-ultra-cgms/7-case-report.md
+
+    - TouchCare Nano CGM:
+      - Overview: en/cgm/touchcare-nano-cgm/index.md
+      - Introduction: en/cgm/touchcare-nano-cgm/introduction.md
+      - Placing the Sensor: en/cgm/touchcare-nano-cgm/placing-the-sensor.md
+      - Starting the Sensor: en/cgm/touchcare-nano-cgm/starting-the-sensor.md
+      - Setting Alarms: en/cgm/touchcare-nano-cgm/setting-alarms.md
+      - Data Sharing: en/cgm/touchcare-nano-cgm/data-sharing.md
+      - 6. Connecting Other Devices: en/cgm/touchcare-nano-cgm/6-connecting-other-devices.md
+      - Conclusion: en/cgm/touchcare-nano-cgm/conclusion.md
+
   - Insulin Pumps:
-    - Insulin Pumps (Master Module): en/pumps/insulin-pumps-the-master-module.md
-    - Accu-Chek Insight: en/pumps/accu-chek-insight.md
-    - DANA-i Pump: en/pumps/dana-i-pump.md
-    - Equil Pump: en/pumps/equil-pump.md
-    - iLet Device: en/pumps/ilet-device.md
-    - Kaleido IP: en/pumps/kaleido-ip.md
-    - Medtrum Nano: en/pumps/medtrum-nano-insulin-pump.md
-    - MiniMed 780G: en/pumps/minimed-780g-insulin-pump.md
-    - mylife YpsoPump: en/pumps/mylife-ypsopump.md
-    - Omnipod DASH: en/pumps/omnipod-dash.md
-    - Tandem Mobi: en/pumps/tandem-mobi-insulin-pump.md
-    - Tandem t:slim X2: en/pumps/tandem-tslim-x2.md
+    - Insulin Pumps (Master Module):
+      - Overview: en/pumps/insulin-pumps-the-master-module/index.md
+      - 1. Introduction: en/pumps/insulin-pumps-the-master-module/1-introduction.md
+      - 2. Comparison of different insulin pumps: en/pumps/insulin-pumps-the-master-module/2-comparison-of-different-insulin-pumps.md
+      - 3. Insulin settings: en/pumps/insulin-pumps-the-master-module/3-insulin-settings.md
+      - 4. Reservoir and infusion set replacement: en/pumps/insulin-pumps-the-master-module/4-reservoir-and-infusion-set-replacement.md
+      - 6. Case story: en/pumps/insulin-pumps-the-master-module/6-case-story.md
+
+    - Accu-Chek Insight:
+      - Overview: en/pumps/accu-chek-insight/index.md
+      - 1. Introduction: en/pumps/accu-chek-insight/1-introduction.md
+      - 2. How the Accu-Chek Insight insulin pump works: en/pumps/accu-chek-insight/2-how-the-accu-chek-insight-insulin-pump-works.md
+      - 3. Insulin setup: en/pumps/accu-chek-insight/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement: en/pumps/accu-chek-insight/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/accu-chek-insight/5-pump-alarms.md
+      - 6. Case report: en/pumps/accu-chek-insight/6-case-report.md
+
+    - DANA-i Pump:
+      - Overview: en/pumps/dana-i-pump/index.md
+      - 1. Introduction: en/pumps/dana-i-pump/1-introduction.md
+      - 2. Pump operation: en/pumps/dana-i-pump/2-pump-operation.md
+      - 3. Programming the pump: en/pumps/dana-i-pump/3-programming-the-pump.md
+      - 4. Reservoir and infusion set replacement: en/pumps/dana-i-pump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/dana-i-pump/5-pump-alarms.md
+      - 6. Case report: en/pumps/dana-i-pump/6-case-report.md
+
+    - Equil Pump:
+      - Overview: en/pumps/equil-pump/index.md
+      - 1. Introduction: en/pumps/equil-pump/1-introduction.md
+      - 2. Pump operation: en/pumps/equil-pump/2-pump-operation.md
+      - 3. Programming insulin delivery settings: en/pumps/equil-pump/3-programming-insulin-delivery-settings.md
+      - 4. Reservoir and infusion set replacement: en/pumps/equil-pump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/equil-pump/5-pump-alarms.md
+      - 6. Case report: en/pumps/equil-pump/6-case-report.md
+
+    - iLet Device:
+      - Overview: en/pumps/ilet-device/index.md
+      - 1. Introduction: en/pumps/ilet-device/1-introduction.md
+      - 2. How the iLet Device works: en/pumps/ilet-device/2-how-the-ilet-device-works.md
+      - 3. Insulin setup: en/pumps/ilet-device/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement: en/pumps/ilet-device/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/ilet-device/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge: en/pumps/ilet-device/6-case-report-virtual-pump-challenge.md
+
+    - Kaleido IP:
+      - Overview: en/pumps/kaleido-ip/index.md
+      - 1. Introduction: en/pumps/kaleido-ip/1-introduction.md
+      - 2. Pump Operation: en/pumps/kaleido-ip/2-pump-operation.md
+      - 4. Replacing the insulin reservoir and infusion set: en/pumps/kaleido-ip/4-replacing-the-insulin-reservoir-and-infusion-set.md
+      - 5. Pump alarms: en/pumps/kaleido-ip/5-pump-alarms.md
+      - 6. Case report: en/pumps/kaleido-ip/6-case-report.md
+
+    - Medtrum Nano:
+      - Overview: en/pumps/medtrum-nano-insulin-pump/index.md
+      - 1. Introduction: en/pumps/medtrum-nano-insulin-pump/1-introduction.md
+      - 2. Pump Operation: en/pumps/medtrum-nano-insulin-pump/2-pump-operation.md
+      - 3. Insulin set-up: en/pumps/medtrum-nano-insulin-pump/3-insulin-set-up.md
+      - 4. Patch Pump replacement: en/pumps/medtrum-nano-insulin-pump/4-patch-pump-replacement.md
+      - 5. Pump alarms: en/pumps/medtrum-nano-insulin-pump/5-pump-alarms.md
+      - 6. Case report: en/pumps/medtrum-nano-insulin-pump/6-case-report.md
+
+    - MiniMed 780G:
+      - Overview: en/pumps/minimed-780g-insulin-pump/index.md
+      - 1. Introduction: en/pumps/minimed-780g-insulin-pump/1-introduction.md
+      - 3. Insulin setup: en/pumps/minimed-780g-insulin-pump/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement: en/pumps/minimed-780g-insulin-pump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/minimed-780g-insulin-pump/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge: en/pumps/minimed-780g-insulin-pump/6-case-report-virtual-pump-challenge.md
+
+    - mylife YpsoPump:
+      - Overview: en/pumps/mylife-ypsopump/index.md
+      - 1. Introduction: en/pumps/mylife-ypsopump/1-introduction.md
+      - 2. How the mylife YpsoPump works: en/pumps/mylife-ypsopump/2-how-the-mylife-ypsopump-works.md
+      - 3. Insulin setup: en/pumps/mylife-ypsopump/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement: en/pumps/mylife-ypsopump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/mylife-ypsopump/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge: en/pumps/mylife-ypsopump/6-case-report-virtual-pump-challenge.md
+
+    - Omnipod DASH:
+      - Overview: en/pumps/omnipod-dash/index.md
+      - 1. Introduction: en/pumps/omnipod-dash/1-introduction.md
+      - 2. Pump Operation: en/pumps/omnipod-dash/2-pump-operation.md
+      - 3. Insulin setup: en/pumps/omnipod-dash/3-insulin-setup.md
+      - 4. Replacing the Pod: en/pumps/omnipod-dash/4-replacing-the-pod.md
+      - 5. Pump alarms: en/pumps/omnipod-dash/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge: en/pumps/omnipod-dash/6-case-report-virtual-pump-challenge.md
+
+    - Tandem Mobi:
+      - Overview: en/pumps/tandem-mobi-insulin-pump/index.md
+      - 1. Introduction: en/pumps/tandem-mobi-insulin-pump/1-introduction.md
+
+    - Tandem t:slim X2:
+      - Overview: en/pumps/tandem-tslim-x2/index.md
+      - 1. Introduction: en/pumps/tandem-tslim-x2/1-introduction.md
+      - 2. How the Tandem t:slim X2 insulin pump works: en/pumps/tandem-tslim-x2/2-how-the-tandem-t-slim-x2-insulin-pump-works.md
+      - 3. Insulin setup: en/pumps/tandem-tslim-x2/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement: en/pumps/tandem-tslim-x2/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/tandem-tslim-x2/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge: en/pumps/tandem-tslim-x2/6-case-report-virtual-pump-challenge.md
+
   - AID Systems:
-    - AID Systems Overview: en/aid/aid-systems.md
-    - AndroidAPS: en/aid/androidaps.md
-    - Diabeloop-Kaleido: en/aid/diabeloop-kaleido.md
-    - DIY Loop: en/aid/diy-loop.md
-    - iAPS: en/aid/iaps.md
-    - iLet System: en/aid/ilet-system.md
-    - MiniMed 780G: en/aid/minimed-780g-aid-system.md
-    - mylife Loop: en/aid/mylife-loop.md
-    - Omnipod 5: en/aid/omnipod-5.md
-    - Tandem Control-IQ: en/aid/tandem-control-iq-transcript.md
-    - Tandem Mobi System: en/aid/tandem-mobi-system.md
-    - TouchCare Nano System: en/aid/touchcare-nano-system.md
+    - AID Systems Overview:
+      - Overview: en/aid/aid-systems/index.md
+      - 1. Introduction: en/aid/aid-systems/1-introduction.md
+      - 2. The CARES framework: en/aid/aid-systems/2-the-cares-framework.md
+      - 3. Key education points: en/aid/aid-systems/3-key-education-points.md
+      - 4. Starting an AID System: en/aid/aid-systems/4-starting-an-aid-system-indications-timing-and-choosing-the-right-system.md
+      - 5. Interpreting reports: en/aid/aid-systems/5-interpreting-reports.md
+      - 7. A comprehensive AID overview: en/aid/aid-systems/7-a-comprehensive-automated-insulin-delivery-overview.md
+
+    - AndroidAPS:
+      - Overview: en/aid/androidaps/index.md
+      - 1. Introduction: en/aid/androidaps/1-introduction.md
+      - 2. AndroidAPS according to the CARES paradigm: en/aid/androidaps/2-androidaps-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/androidaps/3-linking-components-together.md
+      - 4. How AndroidAPS works: en/aid/androidaps/4-how-androidaps-works.md
+      - 5. Creating and interpreting reports: en/aid/androidaps/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/androidaps/6-managing-special-situations.md
+      - 7. Case report: en/aid/androidaps/7-case-report.md
+
+    - Diabeloop-Kaleido:
+      - Overview: en/aid/diabeloop-kaleido/index.md
+      - 1. Introduction: en/aid/diabeloop-kaleido/1-introduction.md
+      - 2. DBLG1 System with Kaleido according to the CARES Paradigm: en/aid/diabeloop-kaleido/2-dblg1-system-with-kaleido-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/diabeloop-kaleido/3-linking-components-together.md
+      - 4. How the DBLG1 System with Kaleido works: en/aid/diabeloop-kaleido/4-how-the-dblg1-system-with-kaleido-works.md
+      - 5. Creating and interpreting reports: en/aid/diabeloop-kaleido/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/diabeloop-kaleido/6-managing-special-situations.md
+      - 7. Case report: en/aid/diabeloop-kaleido/7-case-report.md
+
+    - DIY Loop:
+      - Overview: en/aid/diy-loop/index.md
+      - 1. Introduction: en/aid/diy-loop/1-introduction.md
+      - 2. DIY Loop according to the CARES paradigm: en/aid/diy-loop/2-diy-loop-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/diy-loop/3-linking-components-together.md
+      - 4. How DIY Loop works: en/aid/diy-loop/4-how-diy-loop-works.md
+      - 5. Creating and interpreting reports: en/aid/diy-loop/5-creating-and-interpreting-reports.md
+      - 7. Case report: en/aid/diy-loop/7-case-report.md
+
+    - iAPS:
+      - Overview: en/aid/iaps/index.md
+      - 1. Introduction: en/aid/iaps/1-introduction.md
+      - 2. iAPS according to the CARES paradigm: en/aid/iaps/2-iaps-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/iaps/3-linking-components-together.md
+      - 4. How iAPS works: en/aid/iaps/4-how-iaps-works.md
+      - 5. Creating and interpreting reports: en/aid/iaps/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/iaps/6-managing-special-situations.md
+      - 7. Case report: en/aid/iaps/7-case-report.md
+
+    - iLet System:
+      - Overview: en/aid/ilet-system/index.md
+      - 1. Introduction: en/aid/ilet-system/1-introduction.md
+      - 2. The iLet System according to the CARES Paradigm: en/aid/ilet-system/2-the-ilet-system-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/ilet-system/3-linking-components-together.md
+      - 4. How the iLet System works: en/aid/ilet-system/4-how-the-ilet-system-works.md
+      - 5. Creating and interpreting reports: en/aid/ilet-system/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/ilet-system/6-managing-special-situations.md
+      - 7. Case report: en/aid/ilet-system/7-case-report.md
+
+    - MiniMed 780G:
+      - Overview: en/aid/minimed-780g-aid-system/index.md
+      - 1. Introduction: en/aid/minimed-780g-aid-system/1-introduction.md
+      - 2. MiniMed 780G according to the CARES paradigm: en/aid/minimed-780g-aid-system/2-minimed-780g-according-to-the-cares-paradigm.md
+      - 4. How the MiniMed 780G works: en/aid/minimed-780g-aid-system/4-how-the-minimed-780g-works.md
+      - 5. Creating and Interpreting Reports: en/aid/minimed-780g-aid-system/5-creating-and-interpreting-reports.md
+      - 7. Case report: en/aid/minimed-780g-aid-system/7-case-report.md
+
+    - mylife Loop:
+      - Overview: en/aid/mylife-loop/index.md
+      - 1. Introduction: en/aid/mylife-loop/1-introduction.md
+      - 3. Linking components together: en/aid/mylife-loop/3-linking-components-together.md
+      - 4. How mylife Loop works: en/aid/mylife-loop/4-how-mylife-loop-works.md
+      - 5. Creating and interpreting reports: en/aid/mylife-loop/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/mylife-loop/6-managing-special-situations.md
+      - 7. Case report: en/aid/mylife-loop/7-case-report.md
+
+    - Omnipod 5:
+      - Overview: en/aid/omnipod-5/index.md
+      - 1. Introduction: en/aid/omnipod-5/1-introduction.md
+      - 2. Omnipod 5 according to the CARES paradigm: en/aid/omnipod-5/2-omnipod-5-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/omnipod-5/3-linking-components-together.md
+      - 4. How the Omnipod 5 system works: en/aid/omnipod-5/4-how-the-omnipod-5-system-works.md
+      - 5. Creating and interpreting reports: en/aid/omnipod-5/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/omnipod-5/6-managing-special-situations.md
+
+    - Tandem Control-IQ:
+      - Overview: en/aid/tandem-control-iq-transcript/index.md
+      - 1. Introduction: en/aid/tandem-control-iq-transcript/1-introduction.md
+      - 2. Tandem Control-IQ technology according to the CARES Paradigm: en/aid/tandem-control-iq-transcript/2-tandem-control-iq-technology-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/tandem-control-iq-transcript/3-linking-components-together.md
+      - 4. How the Tandem Control-IQ technology works: en/aid/tandem-control-iq-transcript/4-how-the-tandem-control-iq-technology-works.md
+      - 5. Creating and interpreting reports: en/aid/tandem-control-iq-transcript/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/tandem-control-iq-transcript/6-managing-special-situations.md
+      - 7. Case report: en/aid/tandem-control-iq-transcript/7-case-report.md
+
+    - Tandem Mobi System:
+      - Overview: en/aid/tandem-mobi-system/index.md
+      - 1. Introduction: en/aid/tandem-mobi-system/1-introduction.md
+      - 2. Tandem Mobi System’s Control IQ-technology according to the CARES Paradigm: en/aid/tandem-mobi-system/2-tandem-mobi-system-s-control-iq-technology-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/tandem-mobi-system/3-linking-components-together.md
+      - 4. How the Tandem Mobi Control-IQ technology works: en/aid/tandem-mobi-system/4-how-the-tandem-mobi-control-iq-technology-works.md
+      - 5. Creating and interpreting reports: en/aid/tandem-mobi-system/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/tandem-mobi-system/6-managing-special-situations.md
+      - 7. Case report: en/aid/tandem-mobi-system/7-case-report.md
+
+    - TouchCare Nano System:
+      - Overview: en/aid/touchcare-nano-system/index.md
+      - 1. Introduction: en/aid/touchcare-nano-system/1-introduction.md
+      - 2. TouchCare Nano according to the CARES paradigm: en/aid/touchcare-nano-system/2-touchcare-nano-according-to-the-cares-paradigm.md
+      - 3. Linking components together: en/aid/touchcare-nano-system/3-linking-components-together.md
+      - 4. How the TouchCare Nano System works: en/aid/touchcare-nano-system/4-how-the-touchcare-nano-system-works.md
+      - 5. Creating and Interpreting Reports: en/aid/touchcare-nano-system/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations: en/aid/touchcare-nano-system/6-managing-special-situations.md
+      - 7. Case report: en/aid/touchcare-nano-system/7-case-report.md
+
   - Smart Pens:
-    - Smart MDI System (InPen): en/pens/smart-mdi-inpen-module.md
+    - Smart MDI System (InPen):
+      - Overview: en/pens/smart-mdi-inpen-module/index.md
+      - 1. Introduction: en/pens/smart-mdi-inpen-module/1-introduction.md
+      - 2. Set Up the Smart MDI System: en/pens/smart-mdi-inpen-module/2-set-up-the-smart-mdi-system.md
+      - 3. Use the Smart MDI System: en/pens/smart-mdi-inpen-module/3-use-the-smart-mdi-system.md
+      - 4. Report Interpretation: en/pens/smart-mdi-inpen-module/4-report-interpretation.md
+      - 5. Case report: en/pens/smart-mdi-inpen-module/5-case-report.md
+
 
 plugins:
   - search
