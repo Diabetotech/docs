@@ -21,6 +21,7 @@ nav:
 
 plugins:
   - search
+  - awesome-pages
 
 extra:
   social:
