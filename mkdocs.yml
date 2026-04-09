@@ -14,10 +14,53 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - CGM: en/cgm/
-  - Insulin Pumps: en/pumps/
-  - AID Systems: en/aid/
-  - Smart Pens: en/pens/
+  - CGM:
+    - Glucose Sensors (Master Module): en/cgm/glucose-sensors.md
+    - Accu-Chek Smartguide: en/cgm/accu-chek-smartguide-cgm.md
+    - Anytime CT3 / AT4: en/cgm/anytime-ct3-at4.md
+    - CareSens Air: en/cgm/caresens-air.md
+    - Dexcom G6: en/cgm/dexcom-g6.md
+    - Dexcom G7: en/cgm/dexcom-g7.md
+    - Dexcom ONE Plus: en/cgm/dexcom-one-plus.md
+    - Eversense 365: en/cgm/eversense-365.md
+    - FreeStyle Libre 2 (Plus): en/cgm/freestyle-libre-2.md
+    - FreeStyle Libre 3: en/cgm/freestyle-libre-3.md
+    - Guardian 4: en/cgm/guardian-4.md
+    - iCan i6: en/cgm/ican-i6-cgm.md
+    - Instinct CGM: en/cgm/instinct-cgm.md
+    - LinX CGM: en/cgm/linx-cgm.md
+    - Sibionics GS3: en/cgm/sibionics-gs3-cgm.md
+    - Simplera: en/cgm/simplera.md
+    - Syai Ultra: en/cgm/syai-ultra-cgms.md
+    - TouchCare Nano CGM: en/cgm/touchcare-nano-cgm.md
+  - Insulin Pumps:
+    - Insulin Pumps (Master Module): en/pumps/insulin-pumps-the-master-module.md
+    - Accu-Chek Insight: en/pumps/accu-chek-insight.md
+    - DANA-i Pump: en/pumps/dana-i-pump.md
+    - Equil Pump: en/pumps/equil-pump.md
+    - iLet Device: en/pumps/ilet-device.md
+    - Kaleido IP: en/pumps/kaleido-ip.md
+    - Medtrum Nano: en/pumps/medtrum-nano-insulin-pump.md
+    - MiniMed 780G: en/pumps/minimed-780g-insulin-pump.md
+    - mylife YpsoPump: en/pumps/mylife-ypsopump.md
+    - Omnipod DASH: en/pumps/omnipod-dash.md
+    - Tandem Mobi: en/pumps/tandem-mobi-insulin-pump.md
+    - Tandem t:slim X2: en/pumps/tandem-tslim-x2.md
+  - AID Systems:
+    - AID Systems Overview: en/aid/aid-systems.md
+    - AndroidAPS: en/aid/androidaps.md
+    - Diabeloop-Kaleido: en/aid/diabeloop-kaleido.md
+    - DIY Loop: en/aid/diy-loop.md
+    - iAPS: en/aid/iaps.md
+    - iLet System: en/aid/ilet-system.md
+    - MiniMed 780G: en/aid/minimed-780g-aid-system.md
+    - mylife Loop: en/aid/mylife-loop.md
+    - Omnipod 5: en/aid/omnipod-5.md
+    - Tandem Control-IQ: en/aid/tandem-control-iq-transcript.md
+    - Tandem Mobi System: en/aid/tandem-mobi-system.md
+    - TouchCare Nano System: en/aid/touchcare-nano-system.md
+  - Smart Pens:
+    - Smart MDI System (InPen): en/pens/smart-mdi-inpen-module.md
 
 plugins:
   - search
