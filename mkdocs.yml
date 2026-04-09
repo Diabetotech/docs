@@ -281,6 +281,15 @@ nav:
       - Overview: en/pumps/tandem-mobi-insulin-pump/index.md
       - 1. Introduction: en/pumps/tandem-mobi-insulin-pump/1-introduction.md
 
+    - twiist Insulin Pump:
+      - Overview: en/pumps/twiist-insulin-pump/index.md
+      - 1. Introduction: en/pumps/twiist-insulin-pump/1-introduction.md
+      - 2. Pump Operation: en/pumps/twiist-insulin-pump/2-pump-operation.md
+      - 3. Insulin set-up: en/pumps/twiist-insulin-pump/3-insulin-set-up.md
+      - 4. Reservoir and infusion set replacement: en/pumps/twiist-insulin-pump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms: en/pumps/twiist-insulin-pump/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge: en/pumps/twiist-insulin-pump/6-case-report-virtual-pump-challenge.md
+
     - Tandem t:slim X2:
       - Overview: en/pumps/tandem-tslim-x2/index.md
       - 1. Introduction: en/pumps/tandem-tslim-x2/1-introduction.md
