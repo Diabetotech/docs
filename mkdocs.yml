@@ -4,14 +4,12 @@ site_url: https://diabetotech.readthedocs.io
 
 theme:
   name: readthedocs
+  custom_dir: overrides
   highlightjs: true
 
 extra_css:
   - css/diabetotech.css
   - css/language-switcher.css
-
-extra_javascript:
-  - js/language-switcher.js
 
 markdown_extensions:
   - admonition
