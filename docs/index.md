@@ -6,37 +6,27 @@ Independent, peer-reviewed **device training** for healthcare professionals and 
 
 ## Start here
 
-This platform provides **practical training on specific diabetes technologies**.
+This platform provides **practical guidance on how to use specific diabetes technologies**.
 
-Choose the path that fits your situation:
+You can:
 
-### 👩‍⚕️ I am a healthcare professional
-- I know which device I want to use → search or navigate directly to that device  
-- I want to start a patient on a system → review the relevant **sensor, pump, and AID modules**  
+- go directly to a **device or system** you want to learn about  
+- or start with the **general modules** to understand the basics  
 
-### 🧑‍⚕️ I am a General Physician or non-specialist
-- Start with the **general modules** (CGM, pumps, AID)  
-- Then continue to the **specific device** used in your centre  
-
-### 👩‍👧 I am a person living with diabetes or caregiver
-- If you already know your system → go directly to that device  
-- If not → discuss options first with your care team before using this platform  
+👉 You do not need to follow a fixed order.  
+Each module links to the relevant background and next steps.
 
 ---
 
-⚠️ This platform focuses on **how to use devices**, not on choosing between them.  
-Availability and reimbursement vary by country and centre.
+## How diabetes technology is structured
 
----
+Most modern systems—especially **automated insulin delivery (AID)**—consist of three components:
 
-👉 New to closed-loop or Automated Insulin Delivery (AID) systems?  
-A complete system always includes:
+- **Sensor (CGM)** — measures glucose continuously  
+- **Insulin pump** — delivers insulin  
+- **Algorithm** — adjusts insulin delivery automatically  
 
-- a **sensor**
-- an **insulin pump**
-- an **algorithm**
-
-You will typically need to review all three components.
+To fully understand a system, you will often need to review **all three components**.
 
 ---
 
@@ -50,6 +40,7 @@ Practical, device-focused education covering all major technologies:
 - **Smart Pens** — connected multiple daily injection (MDI) technology  
 
 Each topic includes:
+
 - short-form video explanations  
 - full transcripts  
 
@@ -61,11 +52,11 @@ Course-specific disclaimers, as well as disclosures from authors and reviewers, 
 
 - Search for a **specific device or topic**  
 - Navigate via **sensor, pump, or AID categories**  
-- Follow both:
-  - the **general module** (concepts)  
-  - the **device-specific module** (practical use)
+- Combine:
+  - **general modules** (concepts)  
+  - **device-specific modules** (practical use)
 
-👉 Example 6-step learning path:  
+👉 Example learning approach:  
 CGM basics → specific sensor → pump basics → specific pump → AID system basics → specific AID system
 
 ---
