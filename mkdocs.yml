@@ -281,15 +281,6 @@ nav:
       - Overview: en/pumps/tandem-mobi-insulin-pump/index.md
       - 1. Introduction (2 min): en/pumps/tandem-mobi-insulin-pump/1-introduction.md
 
-    - twiist Insulin Pump:
-      - Overview: en/pumps/twiist-insulin-pump/index.md
-      - 1. Introduction (2 min): en/pumps/twiist-insulin-pump/1-introduction.md
-      - 2. Pump Operation (10.5 min): en/pumps/twiist-insulin-pump/2-pump-operation.md
-      - 3. Insulin set-up (4.5 min): en/pumps/twiist-insulin-pump/3-insulin-set-up.md
-      - 4. Reservoir and infusion set replacement (8.5 min): en/pumps/twiist-insulin-pump/4-reservoir-and-infusion-set-replacement.md
-      - 5. Pump alarms (5.5 min): en/pumps/twiist-insulin-pump/5-pump-alarms.md
-      - 6. Case report & virtual pump challenge (1 min): en/pumps/twiist-insulin-pump/6-case-report-virtual-pump-challenge.md
-
     - Tandem t:slim X2:
       - Overview: en/pumps/tandem-tslim-x2/index.md
       - 1. Introduction (2.5 min): en/pumps/tandem-tslim-x2/1-introduction.md
@@ -298,6 +289,15 @@ nav:
       - 4. Reservoir and infusion set replacement (6 min): en/pumps/tandem-tslim-x2/4-reservoir-and-infusion-set-replacement.md
       - 5. Pump alarms (3 min): en/pumps/tandem-tslim-x2/5-pump-alarms.md
       - 6. Case report & virtual pump challenge (2 min): en/pumps/tandem-tslim-x2/6-case-report-virtual-pump-challenge.md
+
+  - twiist Insulin Pump:
+      - Overview: en/pumps/twiist-insulin-pump/index.md
+      - 1. Introduction (2 min): en/pumps/twiist-insulin-pump/1-introduction.md
+      - 2. Pump Operation (10.5 min): en/pumps/twiist-insulin-pump/2-pump-operation.md
+      - 3. Insulin set-up (4.5 min): en/pumps/twiist-insulin-pump/3-insulin-set-up.md
+      - 4. Reservoir and infusion set replacement (8.5 min): en/pumps/twiist-insulin-pump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms (5.5 min): en/pumps/twiist-insulin-pump/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge (1 min): en/pumps/twiist-insulin-pump/6-case-report-virtual-pump-challenge.md
 
   - AID Systems:
     - AID Systems Overview:
