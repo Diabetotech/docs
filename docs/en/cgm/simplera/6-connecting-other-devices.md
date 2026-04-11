@@ -1,4 +1,4 @@
-## **<span class="mark"><u>6. Connecting other devices (12.5 min)</u></span>**
+## **<span class="mark"><u>6. Connecting other devices</u></span>**
 
 <span class="mark">Welcome to this lesson on connecting your Simplera sensor to other devices.</span>
 
