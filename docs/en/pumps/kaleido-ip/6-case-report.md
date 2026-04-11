@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/iUhmZP04wH8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Case report</u>**
 
 <span class="mark">Welcome to this final part of the module about the Kaleido insulin pump!</span> You've gained valuable insights into its features and functions, showing your dedication to managing diabetes effectively. Now, let's take a look at a real-life review of the Kaleido pump.

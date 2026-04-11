@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/qG9MS31JqZY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<span class="mark"><u>6. Connecting other devices</u></span>**
 
 <span class="mark">Welcome to this lesson on connecting your Simplera sensor to other devices.</span>

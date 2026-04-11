@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vMsuBFMfI2E" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## <u>1. Introduction</u>
 
 Welcome to this comprehensive video series on Trio, an open-source automated insulin delivery system for iPhones. In these videos, we will explore the key components of Trio, including the insulin pumps and glucose sensor options, and the Oref algorithm. Additionally, we will delve into important topics such as viewing reports with Nightscout and remotely monitoring users as a caregiver.

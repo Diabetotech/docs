@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VElMatsCTbY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>4. Replacing the insulin reservoir and infusion set</u>**
 
 Welcome to this lesson on how to replace the insulin reservoir, or cartridge, and infusion set of the Kaleido insulin pump.

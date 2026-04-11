@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IfuRpIy47Z4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Pump Operation</u>**
 
 Welcome to this video on how the Kaleido insulin pump works! In this segment, we will explore the parts and buttons of the pump and handset, how to charge them, how to unlock the handset, the home screen and menu of the handset, and some do's and don'ts.

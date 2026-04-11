@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kh1mhYCNZww" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Pump Operation</u>**
 
 Welcome to our comprehensive guide on the Tandem Mobi insulin pump! By the end of this module, you'll have a thorough understanding of how the Tandem Mobi insulin pump works, its various features, including the pump's components, charging the pump, unlocking process, the screens and menus on the Tandem Mobi Mobile app and do’s and don’ts.

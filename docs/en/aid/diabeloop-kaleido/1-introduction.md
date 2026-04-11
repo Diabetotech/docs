@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/wQD9E-yJh-I" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>** 
 
 Welcome to this video on the DB<span class="mark">LG1 System with Kaleido.</span>

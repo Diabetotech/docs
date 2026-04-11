@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AceE3Q6LPwM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<span class="mark"><u>1. Introduction</u></span>**
 
 <span class="mark">Welcome to this video module on the Simplera continuous glucose monitor. Whether you are a healthcare professional or someone living with diabetes, this course will provide you with valuable insights and practical tips to make the most of the Simplera system. Let's dive in!</span>

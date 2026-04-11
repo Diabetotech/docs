@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/z92Q4GOPjX8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this guide all about the Medtrum TouchCare Nano Insulin Patch Pump System.

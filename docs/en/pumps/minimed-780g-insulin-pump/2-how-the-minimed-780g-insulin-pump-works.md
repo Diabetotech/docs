@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1KciF2qZS6k" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. How the MiniMed 780G insulin pump works</u>**
 
 Welcome to this informative video on how the MiniMed 780G pump <span class="mark">works! To</span>day, we'll explore its various features, including the pump's components, battery replacement, unlocking process, and the screens and menu options you'll encounter.

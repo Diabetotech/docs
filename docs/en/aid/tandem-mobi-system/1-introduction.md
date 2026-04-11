@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Pl2j3oQpb64" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 <span class="mark">Welcome to this module on Tandem Mobi System, the smallest durable automated insulin delivery system available in the U.S that can be fully controlled by a mobile device.</span>

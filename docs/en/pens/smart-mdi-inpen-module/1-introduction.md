@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dCCJnc1o14E" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### **1. Introduction**
 
 Welcome to this module on the Smart MDI system, a connected solution for people with diabetes using multiple daily injections.

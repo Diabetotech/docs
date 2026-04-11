@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/0ITNK84T6RE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 Congratulations on completing this course and gaining valuable insights into the TouchCare Nano System!

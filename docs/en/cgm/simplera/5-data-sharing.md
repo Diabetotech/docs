@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/JTk4AycTr14" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<span class="mark"><u>5. Data sharing</u></span>**
 
 <span class="mark">Welcome to this lesson on sharing data with the Simplera sensor.</span>
