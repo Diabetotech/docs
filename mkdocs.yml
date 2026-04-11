@@ -4,7 +4,6 @@ site_url: https://diabetotech.readthedocs.io
 
 theme:
   name: readthedocs
-  custom_dir: docs/overrides
   highlightjs: true
 
 extra_css:
