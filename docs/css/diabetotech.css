@@ -1,0 +1,11 @@
+/* Header */
+.wy-nav-top { background: #445cd4; }
+/* Sidebar achtergrond */
+.wy-nav-side { background: #01161E; }
+.wy-side-nav-search { background: #445cd4; }
+/* Sectietitels in navigatie */
+.wy-menu-vertical p.caption { color: #5574fb; }
+/* Actieve link */
+.wy-menu-vertical li.current a { background: rgba(68,92,212,.25); }
+/* Hover */
+.wy-menu-vertical a:hover { background: rgba(85,116,251,.15); }
