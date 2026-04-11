@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/4mw4hLSwYGA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Managing special situations</u>**
+## **<u>6. Managing special situations (8 min)</u>**
 
 Welcome to this video on managing special situations with the Omnipod 5 automated insulin delivery system.
 

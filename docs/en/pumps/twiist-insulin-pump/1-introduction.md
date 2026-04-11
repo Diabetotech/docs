@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5k3wC9ngNwo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## 1. Introduction
+## 1. Introduction (2 min)
 
 Welcome to the twiist Pump module!
 

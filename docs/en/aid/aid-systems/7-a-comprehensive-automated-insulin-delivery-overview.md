@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/NdzDERxNX-Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>7. A comprehensive automated insulin delivery overview</u></span>**
+## **<span class="mark"><u>7. A comprehensive automated insulin delivery overview (17 min)</u></span>**
 
 <span class="mark">Congratulations on completing this module! You have gained valuable insights into the world of automated insulin delivery systems for diabetes management. In this final chapter, we will provide you with a thorough overview of the various automated insulin delivery systems available, highlighting their features, advantages, and considerations.</span>
 

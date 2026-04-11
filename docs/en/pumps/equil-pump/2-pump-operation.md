@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/BxrGLwcTqgQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Pump operation</u>**
+## **<u>2. Pump operation (22 min)</u>**
 
 Welcome to this lesson on operating the Equil Insulin Pump.
 

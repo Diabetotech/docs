@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/s5My26E3koA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Conclusion</u>**
+## **<u>7. Conclusion (1 min)</u>**
 
 Congratulations on completing this module on the CareSens Air! Learning how this CGM works is a significant step toward managing diabetes with greater confidence and effectiveness.
 

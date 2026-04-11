@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/tjNfA34hKB0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>7. Case report</u></span>** 
+## **<span class="mark"><u>7. Case report (2 min)</u></span>** 
 
 <span class="mark">Congratulations on completing this module on the Freestyle Libre 2 and FreeStyle Libre 2 Plus sensor!</span>
 

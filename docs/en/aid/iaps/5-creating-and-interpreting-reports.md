@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/83twtwY-d1M" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## <u>5. Creating and interpreting reports</u>
+## <u>5. Creating and interpreting reports (10.5 min)</u>
 
 In this video, we will explore the process of creating and interpreting reports in Nightscout, which is used in conjunction with iAPS.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZYkD4CRynFU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (3 min)</u>**
 
 <span class="mark">Welcome to this module on the FreeStyle Libre 2 and FreeStyle Libre 2 Plus sensors! In this session, we’ll explore the details of the world’s most widely used glucose monitoring sensors.</span>
 

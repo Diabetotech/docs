@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/TlMIMwFLGgo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Insulin setup</u>**
+## **<u>3. Insulin setup (5.5 min)</u>**
 
 Welcome to our comprehensive guide on setting up insulin delivery for the iLet Device.
 

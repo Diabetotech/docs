@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/vPelV4LWh20" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Sharing data</u>**
+## **<u>5. Sharing data (5 min)</u>**
 
 Welcome to this lesson on sharing data with the Anytime CT-3 and AT4 CGMs. In this video, you’ll learn how to share sensor data with loved ones and healthcare providers, as well as create glucose reports. Let’s get started.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/idBUb_4UTIU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>3. Key education points</u></span>** 
+## **<span class="mark"><u>3. Key education points (8 min)</u></span>** 
 
 <span class="mark">Welcome to this video where we will discuss 10 key education points for users of Automated Insulin Delivery systems.</span>
 

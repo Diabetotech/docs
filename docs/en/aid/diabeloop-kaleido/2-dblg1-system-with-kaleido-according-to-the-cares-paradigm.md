@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Wuy01i711aI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. DBLG1 System with Kaleido according to the CARES Paradigm</u>**
+## **<u>2. DBLG1 System with Kaleido according to the CARES Paradigm (18 min)</u>**
 
 Welcome to this video where we will explore the DBLG1 System with <span class="mark">Kaleido based on the CARES paradigm.</span>
 

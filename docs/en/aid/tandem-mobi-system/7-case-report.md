@@ -1,4 +1,4 @@
-## **<u>7. Case report</u>**
+## **<u>7. Case report (40.5 min)</u>**
 
 <span class="mark">Welcome to this final video featuring the Tandem Mobi System!</span>
 

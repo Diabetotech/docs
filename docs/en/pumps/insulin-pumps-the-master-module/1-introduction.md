@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ueHExRPlF1Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (3 min)</u>**
 
 Welcome to this journey into the world of insulin pumps!
 

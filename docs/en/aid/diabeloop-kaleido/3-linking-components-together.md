@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/weGSnWRuk-g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Linking components together</u>**
+## **<u>3. Linking components together (3 min)</u>**
 
 In this video, we will demonstrate the process of establishing connections between the components of the DBLG1 System with Kaleido.
 

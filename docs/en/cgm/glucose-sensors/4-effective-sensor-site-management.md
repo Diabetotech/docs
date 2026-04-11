@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uLQnhjc4tb8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Effective sensor site management</u>**
+## **<u>4. Effective sensor site management (9.5 min)</u>**
 
 Welcom<span class="mark">e to this video on effective site management.</span>
 

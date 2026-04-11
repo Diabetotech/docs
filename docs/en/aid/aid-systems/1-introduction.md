@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-Q6nkBXqaaA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>1. Introduction</u></span>**
+## **<span class="mark"><u>1. Introduction (3 min)</u></span>**
 
 <span class="mark">Welcome to this comprehensive module on automated insulin delivery or AID systems.</span>
 

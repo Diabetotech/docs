@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/akH3vhz8H_g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Case report</u>**
+## **<u>7. Case report (1 min)</u>**
 
 Congratulations on completing this module on the LinX CGM!
 

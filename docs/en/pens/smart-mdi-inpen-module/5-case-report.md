@@ -1,4 +1,4 @@
-### **5. Case report**
+### **5. Case report (11.5 min)**
 
 To conclude this module, we present a real-world example of how the Smart MDI system — combining the InPen smart insulin pen and Simplera CGM — is experienced by a person living with type 1 diabetes.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/UQ0Q2G-re-Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Case report</u>**
+## **<u>7. Case report (1 min)</u>**
 
 The DBLG1 System with Kaleido is a relatively new automated insulin delivery system. <span class="mark">Despite our inability to find a user review on YouTube at present, we are eager to offer insights from Dr. Bernhard Gehr in Germany, who has reviewed the earlier iteration, Diabeloop-Insight. While Diabeloop-Insight predates the current DBLG1 System with Kaleido, the lessons learned from Dr. Gehr's evaluation remain relevant.</span>
 

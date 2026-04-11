@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/DKCzffaOyuw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Starting the sensor</u>** 
+## **<u>3. Starting the sensor (5.5 min)</u>** 
 
 Welcome to this lesson on starting and using the Dexcom ONE Plus sensor.
 

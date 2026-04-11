@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/T5EMLzmRRo0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Insulin setup</u>**
+## **<u>3. Insulin setup (4 min)</u>**
 
 Welcome to this instructional video on how to set insulin delivery on the Accu-Chek Insight insulin pump.
 

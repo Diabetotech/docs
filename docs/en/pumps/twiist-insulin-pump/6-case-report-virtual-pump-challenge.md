@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Z-7DvDKnxp0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## 6. Case report & virtual pump challenge
+## 6. Case report & virtual pump challenge (1 min)
 
 Welcome to the final part of this module. We appreciate the time you've taken to learn about the twiist insulin pump.
 

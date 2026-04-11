@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uz73QatBCaE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Setting alarms</u>**
+## **<u>4. Setting alarms (2.5 min)</u>**
 
 Welcome to this lesson on setting alarms with the LinX CGM. In this video, we’ll explore the sensor’s alarm options and show you how to personalise them in the LinX app. Let’s start.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/voFTMjHNm7I" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Case report</u>**
+## **<u>7. Case report (2 min)</u>**
 
 Welcome to this concluding video featuring a case study on the Tandem Control-IQ technology.
 

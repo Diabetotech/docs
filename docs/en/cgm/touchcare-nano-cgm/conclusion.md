@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/vc73K01MZfo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **Conclusion**
+## **Conclusion (1.5 min)**
 
 Thank you for following along with this TouchCare Nano set-up guide.
 

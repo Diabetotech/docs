@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/c4obUjksP5U" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (2.5 min)</u>**
 
 Welcome to this video on the Dexcom G6, a continuous glucose monitor that can greatly improve your diabetes management. In this chapter, we will explore the key features of the Dexcom G6 and how to maximize its benefits. Let's dive in!
 

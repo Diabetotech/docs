@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/yqtuPXHdqRk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Case report</u>**
+## **<u>7. Case report (2.5 min)</u>**
 
 # Congratulations on completing this module on the Anytime CT3 and AT4 CGMs!
 

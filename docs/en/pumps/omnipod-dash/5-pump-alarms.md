@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/lb2jPUQiTyY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Pump alarms</u>**
+## **<u>5. Pump alarms (5 min)</u>**
 
 Welcome to this lesson about the alarms on the Omnipod DASH insulin pump.
 

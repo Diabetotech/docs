@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/XECH8d_pQ1E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Managing special situations</u>**
+## **<u>6. Managing special situations (11 min)</u>**
 
 In this video, we will provide specific tips and recommendations for managing common situations in diabetes management while using the AndroidAPS automated insulin delivery system.
 

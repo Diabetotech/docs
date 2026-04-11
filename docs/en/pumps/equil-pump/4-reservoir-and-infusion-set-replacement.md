@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/eL2v7gx7asU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Reservoir and infusion set replacement</u>**
+## **<u>4. Reservoir and infusion set replacement (8 min)</u>**
 
 Welcome to this lesson on replacing the Equil Insulin Pump reservoir and infusion set.
 

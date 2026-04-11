@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_qzxhZbZLdA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Replacing the Pod</u>** 
+## **<u>4. Replacing the Pod (6.5 min)</u>** 
 
 Welcome to this lesson on how to replace the Pod on your Omnipod DASH insulin pump!
 

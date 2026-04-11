@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/BPzQeGwA4f4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Insulin setup</u>**
+## **<u>3. Insulin setup (7 min)</u>**
 
 In this video, we will guide you through the process of setting the insulin delivery on the Omnipod DASH PDM.
 

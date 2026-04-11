@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dldkzaC7x0k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (2.5 min)</u>**
 
 Welcome to this module on the Sibionics GS3 CGM. In this series of videos, we’ll unpack the essentials of using the world’s thinnest sensor.
 

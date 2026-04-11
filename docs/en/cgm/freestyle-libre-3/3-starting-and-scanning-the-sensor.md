@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kOw5DSCYPiE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Starting and scanning the sensor</u>** 
+## **<u>3. Starting and scanning the sensor (13.5 min)</u>** 
 
 Welcome to this video where we will explore how to start the FreeStyle Libre 3 sensor. Whether you have the FreeStyle Libre 3 reader or the FreeStyle Libre 3 app on your mobile phone, this video will guide you through the process step by step.
 

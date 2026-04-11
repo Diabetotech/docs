@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/de5Yyq5Zotw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Placing the sensor</u>**
+## **<u>2. Placing the sensor (4.5 min)</u>**
 
 Welcome to the first lesson of the Syai Ultra CGM System module. In this video, you’ll learn the correct method for applying and removing the Syai Ultra sensor, including safety tips and best practices. Let’s get started.
 

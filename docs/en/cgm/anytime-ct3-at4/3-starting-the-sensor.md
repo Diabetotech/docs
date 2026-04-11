@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/aLaCyMSIRxU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Starting the sensor</u>** 
+## **<u>3. Starting the sensor (6 min)</u>** 
 
 Welcome to this lesson on getting started with the Anytime CT3 and AT4 CGMs. In this video, we’ll show you how to get your Anytime sensor up and running and guide you through the Anytime app. We’ll also share practical tips to help you wear the sensor safely and correctly every day. Let’s jump right in.
 

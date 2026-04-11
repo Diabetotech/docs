@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2BUtPZqGxL4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. How the Accu-Chek Insight insulin pump works</u>**
+## **<u>2. How the Accu-Chek Insight insulin pump works (5.5 min)</u>**
 
 Welcome to this informative video on how the Accu-Chek Insight pump operates. In this segment, we will explore the different parts and buttons of the pump, learn how to change the battery, unlock its functions, and navigate through its screens and menus.
 

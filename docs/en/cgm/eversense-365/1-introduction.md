@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/lnrGAEnWoTo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (3 min)</u>**
 
 Welcome to this course on the Eversense 365 system. In this video, we'll explore the intricacies of the world's longest-lasting CGM. Let’s get started!
 

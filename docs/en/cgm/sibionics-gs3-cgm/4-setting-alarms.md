@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/KpkS3nXHOns" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Setting alarms</u>**
+## **<u>4. Setting alarms (4 min)</u>**
 
 Welcome to this lesson on setting alarms with the Sibionics GS3 CGM. In this video, we’ll look at the different types of alarms the GS3 sensor can generate and show you how to configure them in the app. Let’s start.
 

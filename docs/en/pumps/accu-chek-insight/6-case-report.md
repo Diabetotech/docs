@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/TSY7o9cwHNQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Case report</u>**
+## **<u>6. Case report (1.5 min)</u>**
 
 Welcome back! We've reached the final chapter of our comprehensive Accu-Chek Insight Pump module. Throughout this journey, we've covered various aspects of using the pump, from understanding its features to setting insulin delivery, replacing the reservoir and infusion set, and dealing with alarms. Now, it's time to celebrate your progress and achievements!
 

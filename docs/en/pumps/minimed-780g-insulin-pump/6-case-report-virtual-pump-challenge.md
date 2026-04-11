@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/JZSNVcpC7o8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Case report & virtual pump challenge</u>**
+## **<u>6. Case report & virtual pump challenge (2 min)</u>**
 
 Welcome to this final video about the MiniMed 780G insulin pump, where we will showcase a case report and immerse ourselves in a virtual pump challenge.
 

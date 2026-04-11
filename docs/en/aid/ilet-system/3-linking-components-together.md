@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/254ZtLxh4Jg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Linking components together</u>**
+## **<u>3. Linking components together (7 min)</u>**
 
 Welcome to this instructional video, where we will explore the process of linking the various components of the iLet System. Let's dive in!
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5k3wC9ngNwo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (2 min)</u>**
 
 Welcome to our focused exploration of the Tandem Mobi insuli<span class="mark">n pu</span>mp!
 

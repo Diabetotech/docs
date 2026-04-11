@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VF9Ne5y5NkA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Reservoir and infusion set replacement</u>**
+## **<u>4. Reservoir and infusion set replacement (8.5 min)</u>**
 
 Welcome to this lesson about reservoir and infusion set replacement in insulin pumps.
 

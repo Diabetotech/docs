@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ia9RUMytt1k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (3.5 min)</u>**
 
 Welcome t<span class="mark">o this module on the iLet Bionic Pancreas System, or simply the iLet System, one of the easiest automated insulin delivery systems for people with type 1 diabetes. In this comprehensive guide, we will delve into the intricacies of the iLet System technology, providing you with a step-by-step understanding of its functionality and how to effectively manage your diabetes with this system.</span>
 

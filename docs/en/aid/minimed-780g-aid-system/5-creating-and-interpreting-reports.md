@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Vnov9mdLTTA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Creating and Interpreting Reports</u>**
+## **<u>5. Creating and Interpreting Reports (7.5 min)</u>**
 
 Welcome to this video on creating and interpreting reports using the CareLink software for the MiniMed 780G system.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6YyaQIXgIzk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Case report & virtual pump challenge</u>**
+## **<u>6. Case report & virtual pump challenge (2 min)</u>**
 
 In this final video, we'd like to spotlight Tom from Type One Talks, an individual living with type 1 diabetes, as he embarks on a journey with the Tandem t:slim X2 insulin pump. Through this case study, Tom will unveil his personal experiences over a considerable period, shedding light on the pump's strengths, drawbacks, and the practical strategies he's developed for managing his diabetes more effectively.
 

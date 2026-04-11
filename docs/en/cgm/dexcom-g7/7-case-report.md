@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dhSjYKnWfy0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Case report</u>**
+## **<u>7. Case report (2 min)</u>**
 
 Congratulations to all of you for successfully completing this comprehensive course on the Dexcom G7! Your dedication to understanding the features, functionalities, and best practices of this continuous glucose monitoring system is commendable and a significant step towards improving your diabetes management.
 

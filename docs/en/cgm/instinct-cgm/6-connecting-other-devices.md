@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/KOP5aGxjA_w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connecting other devices</u>**
+## **<u>6. Connecting other devices (4.5 min)</u>**
 
 Welcome to this lesson on connecting your Instinct CGM to other devices. In this video, we’ll tackle integrating your Instinct sensor with smartwatches, and smart insulin pens and pumps. Let’s proceed.
 

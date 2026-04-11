@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9-K-3gcXglo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connecting other devices</u>**
+## **<u>6. Connecting other devices (3.5 min)</u>**
 
 Welcome to this lesson on connecting your LinX CGM to other devices. In this video, you'll learn how to integrate your sensor with smartwatches and outline possibilities with smart insulin pens and insulin pumps. Let's begin.
 

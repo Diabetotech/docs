@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AIYVH2pae8o" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## <u>7. Case report</u>
+## <u>7. Case report (3 min)</u>
 
 In this final chapter of the iAPS course, we will explore the practical use of Nightscout, a powerful tool for monitoring and analyzing diabetes data. We will showcase real-life examples of Nightscout in action, highlighting the benefits of iAPS and its impact on glucose control. By understanding these examples, you will gain insights into how iAPS and Nightscout work together to optimize insulin delivery and improve quality of life for individuals with diabetes.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/MlEulNsTEpg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **5. Creating and interpreting reports**
+## **5. Creating and interpreting reports (13.5 min)**
 
 Welcome to this video on report creation and interpretation for the iLet System.
 

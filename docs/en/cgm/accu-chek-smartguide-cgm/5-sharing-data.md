@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/mKFRHiStaMU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Sharing data</u>**
+## **<u>5. Sharing data (5 min)</u>**
 
 Welcome to this lesson on sharing data with the Accu-Chek SmartGuide CGM. In this video, we’ll explain how you can share your sensor data with your healthcare provider and generate reports with the Predict app. Let's jump right in.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Nz4Rwyf6KEM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Placing the sensor</u>**
+## **<u>2. Placing the sensor (3 min)</u>**
 
 Welcome to this lesson about placement of the FreeStyle Libre 3 sensor. In this video, we will guide you through the process of placing and removing a FreeStyle Libre 3 sensor, and go over some do’s and don’ts.
 

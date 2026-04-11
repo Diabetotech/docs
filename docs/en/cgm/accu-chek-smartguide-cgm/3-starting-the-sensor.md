@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/LKZDVROS7Pk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Starting the sensor</u>** 
+## **<u>3. Starting the sensor (12.5 min)</u>** 
 
 Welcome to this lesson on starting the Accu-Chek SmartGuide CGM. In this video, we’ll guide you through starting the sensor and navigating the SmartGuide and Predict apps. Plus, we’ll share tips for safe and effective use of the CGM as part of your daily routine. Let’s dive in.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Pl2j3oQpb64" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>4. How the Tandem Mobi Control-IQ technology works</u></span>**
+## **<span class="mark"><u>4. How the Tandem Mobi Control-IQ technology works (3 min)</u></span>**
 
 <span class="mark">Welcome to this video, where we will discuss how the Tandem Mobi System works.</span>
 

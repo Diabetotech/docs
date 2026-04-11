@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Qoo4hl8yhS8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-**<u>1. Introduction</u>**
+**<u>1. Introduction (2.5 min)</u>**
 
 Welcome to our comprehensive overview of the mylife YpsoPump!
 

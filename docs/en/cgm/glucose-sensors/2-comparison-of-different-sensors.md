@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2G5DKQZ5KnA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Comparison of different sensors</u>**
+## **<u>2. Comparison of different sensors (9.5 min)</u>**
 
 Welcome to this video detailing the assorted glucose sensors available today. We'll discuss the existing sensor types and their fundamental differences.
 

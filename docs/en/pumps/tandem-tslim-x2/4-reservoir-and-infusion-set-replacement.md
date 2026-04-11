@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uAh_d-GZK8Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Reservoir and infusion set replacement</u>** 
+## **<u>4. Reservoir and infusion set replacement (6 min)</u>** 
 
 Welcome to this lesson on reservoir and infusion set replacement on the Tandem t:slim X2 insulin pump.
 

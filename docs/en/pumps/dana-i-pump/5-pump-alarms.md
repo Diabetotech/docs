@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/rVQheqjldO0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Pump alarms</u>**
+## **<u>5. Pump alarms (3.5 min)</u>**
 
 Welcome to this lesson on alarms, errors, alerts, and reminders with the DANA-i pump.
 

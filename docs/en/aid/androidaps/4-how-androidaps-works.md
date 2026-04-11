@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/NImulyM3f0k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. How AndroidAPS works</u>**
+## **<u>4. How AndroidAPS works (13.5 min)</u>**
 
 Welcome to this video on the functionality of AndroidAPS.
 

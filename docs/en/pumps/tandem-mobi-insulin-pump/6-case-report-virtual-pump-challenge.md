@@ -1,4 +1,4 @@
-## **<u>6. Case report & virtual pump challenge</u>**
+## **<u>6. Case report & virtual pump challenge (15 min)</u>**
 
 <span class="mark">In this final video, we'd like to highlight a video tutorial of Jillian Boleau, an individual living with type 1 diabetes, as she shows how to change your insulin cartridge, tubing and infusion set with the Tandem Mobi. This is great for visual learners who want to see all the steps on a real person. During the video she also gives several practical tips based on her personal experience which makes the video even more valuable.</span>
 

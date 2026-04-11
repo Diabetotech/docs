@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zxES3KEQ4iw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-# **<u>1. Introduction</u>** 
+# **<u>1. Introduction (4 min)</u>** 
 
 Welcome to this module on DIY Loop, **a** widely used open-source automated insulin delivery system for iPhones. In this module, we will dive into the details of DIY Loop, and explore how it works step by step.
 

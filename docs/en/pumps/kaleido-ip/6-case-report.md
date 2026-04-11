@@ -1,4 +1,4 @@
-## **<u>6. Case report</u>**
+## **<u>6. Case report (19 min)</u>**
 
 <span class="mark">Welcome to this final part of the module about the Kaleido insulin pump!</span> You've gained valuable insights into its features and functions, showing your dedication to managing diabetes effectively. Now, let's take a look at a real-life review of the Kaleido pump.
 
