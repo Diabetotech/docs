@@ -6,77 +6,53 @@ Independent, peer-reviewed **device training** for healthcare professionals and 
 
 ## Start here
 
-This platform provides **practical guidance on how to use specific diabetes technologies**.
-
-You can:
-
-- go directly to a **device or system** you want to learn about  
-- or start with the **general modules** to understand the basics  
-
-👉 You do not need to follow a fixed order.  
-Each module links to the relevant background and next steps.
+👉 Begin with the **general modules**, then continue to the **device-specific modules** for your system.  
+You can also go directly to a device — each module links to the necessary background.
 
 ---
 
-## How diabetes technology is structured
+## How Automated Insulin Delivery (AID) systems are built
 
-Most modern systems—especially **automated insulin delivery (AID)**—consist of three components:
-
-- **Sensor (CGM)** — measures glucose continuously  
-- **Insulin pump** — delivers insulin  
-- **Algorithm** — adjusts insulin delivery automatically  
-
-To fully understand a system, you will often need to review **all three components**.
+**Sensor (CGM)** + **Insulin pump** + **Algorithm (AID)**  
+→ most systems combine all three components.
 
 ---
 
-## What you’ll find here
+## Explore
 
-Practical, device-focused education covering all major technologies:
-
-- **CGM** — continuous glucose monitoring systems  
-- **Insulin Pumps** — setup, programming, and daily management  
-- **AID Systems** — automated insulin delivery, including open-source solutions  
-- **Smart Pens** — connected multiple daily injection (MDI) technology  
+- **CGM** — continuous glucose monitoring  
+- **Insulin Pumps** — setup and daily management  
+- **AID Systems** — automated insulin delivery  
+- **Smart Pens** — connected MDI technology  
 
 Each topic includes:
-
 - short-form video explanations  
 - full transcripts  
 
-Course-specific disclaimers, as well as disclosures from authors and reviewers, are available in the first section of each course.
-
 ---
 
-## How to use this site
+## Advance your training
 
-- Search for a **specific device or topic**  
-- Navigate via **sensor, pump, or AID categories**  
-- Combine:
-  - **general modules** (concepts)  
-  - **device-specific modules** (practical use)
+👉 Looking for **structured learning and certification**?
 
-👉 Example learning approach:  
-CGM basics → specific sensor → pump basics → specific pump → AID system basics → specific AID system
+Access the full platform with:
+- **EACCME-accredited CME credits**
+- structured courses and assessments  
+- certification of completion  
+
+🔗 https://www.diabetotech.com
 
 ---
 
 ## Important
 
-- Content is **independent and non-promotional**  
-- No preference is given to any specific device  
+- Independent, non-promotional content  
+- No preference for any device  
 - Availability and reimbursement vary by country and centre  
 
 ---
 
-## Full learning platform
-
-For certification and EACCME-accredited CME credits, visit:  
-https://www.diabetotech.com
-
----
-
-**Content peer-reviewed by 35+ independent experts**  
+**Peer-reviewed by 35+ experts**  
 https://www.diabetotech.com/reviewers  
 
 _Licensed under CC BY-NC 4.0_
