@@ -29,8 +29,9 @@ Availability and reimbursement vary by country and centre.
 
 ---
 
-👉 New to automated insulin delivery systems?  
+👉 New to closed-loop or Automated Insulin Delivery (AID) systems?  
 A complete system always includes:
+
 - a **sensor**
 - an **insulin pump**
 - an **algorithm**
