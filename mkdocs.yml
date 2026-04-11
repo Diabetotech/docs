@@ -348,16 +348,6 @@ nav:
       - 6. Managing special situations (10 min): en/aid/iaps/6-managing-special-situations.md
       - 7. Case report (3 min): en/aid/iaps/7-case-report.md
 
-    - Trio:
-      - Overview: en/aid/trio/index.md
-      - 1. Introduction: en/aid/trio/1-introduction.md
-      - 2. Trio according to the CARES paradigm (26.5 min): en/aid/trio/2-trio-according-to-the-cares-paradigm.md
-      - 3. Linking components together (11 min): en/aid/trio/3-linking-components-together.md
-      - 4. How Trio works (9 min): en/aid/trio/4-how-trio-works.md
-      - 5. Creating and interpreting reports (11 min): en/aid/trio/5-creating-and-interpreting-reports.md
-      - 6. Managing special situations (10 min): en/aid/trio/6-managing-special-situations.md
-      - 7. Case report (2 min): en/aid/trio/7-case-report.md
-
     - iLet System:
       - Overview: en/aid/ilet-system/index.md
       - 1. Introduction (3.5 min): en/aid/ilet-system/1-introduction.md
@@ -424,6 +414,16 @@ nav:
       - 6. Managing special situations (4 min): en/aid/touchcare-nano-system/6-managing-special-situations.md
       - 7. Case report: en/aid/touchcare-nano-system/7-case-report.md
 
+    - Trio:
+      - Overview: en/aid/trio/index.md
+      - 1. Introduction: en/aid/trio/1-introduction.md
+      - 2. Trio according to the CARES paradigm (26.5 min): en/aid/trio/2-trio-according-to-the-cares-paradigm.md
+      - 3. Linking components together (11 min): en/aid/trio/3-linking-components-together.md
+      - 4. How Trio works (9 min): en/aid/trio/4-how-trio-works.md
+      - 5. Creating and interpreting reports (11 min): en/aid/trio/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations (10 min): en/aid/trio/6-managing-special-situations.md
+      - 7. Case report (2 min): en/aid/trio/7-case-report.md
+      
   - Smart Pens:
     - Smart MDI System (InPen):
       - Overview: en/pens/smart-mdi-inpen-module/index.md
