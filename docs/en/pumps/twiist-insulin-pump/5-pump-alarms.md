@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/NYmwfOSc9EQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## 5. Pump alarms
+## 5. Pump alarms (5.5 min)
 
 Welcome to this lesson on alarms and alerts for the twiist insulin pump.
 

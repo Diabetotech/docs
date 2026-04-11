@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/c9K8dy30cl4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connecting other devices</u>**
+## **<u>6. Connecting other devices (2.5 min)</u>**
 
 Welcome to this lesson on connecting your Accu-Chek SmartGuide CGM to other devices. In this video, you’ll discover how to integrate your sensor with smartwatches. We’ll also outline options involving smart insulin pens and pumps. Let’s jump right in.
 

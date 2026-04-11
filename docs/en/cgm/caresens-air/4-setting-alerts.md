@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PRiYvDj3BHA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Setting alerts</u>**
+## **<u>4. Setting alerts (7 min)</u>**
 
 Welcome to this lesson on setting alerts with the CareSens Air CGM. In this video, you’ll learn about the types of alerts you can receive from the CareSens Air app and how to customize them. Let’s get started.
 

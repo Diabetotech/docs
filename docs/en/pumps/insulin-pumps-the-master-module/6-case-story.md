@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/SQbtfYNNtQo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Case story</u>**
+## **<u>6. Case story (3 min)</u>**
 
 Welcome to our final chapter, where we have a special video for you to watch. In this segment, we hear from Andrea, an insulin pump user with over 19 years of experience managing type 1 diabetes. Andrea shares her personal transition story from using insulin pens to embracing an insulin pump, providing valuable insights into this significant change.
 

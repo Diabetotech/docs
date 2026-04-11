@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fNQ_OjGLvSM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## <u>2. iAPS according to the CARES paradigm</u>
+## <u>2. iAPS according to the CARES paradigm (28.5 min)</u>
 
 In this video, we will cover iAPS according to the CARES paradigm.
 

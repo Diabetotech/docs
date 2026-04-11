@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/o2hX9qQu5mE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Managing special situations</u>**
+## **<u>6. Managing special situations (8.5 min)</u>**
 
 Welcome to this video on managing special situations with the iLet System.
 

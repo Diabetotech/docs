@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PVVACUx6CKA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Sharing data</u>**
+## **<u>5. Sharing data (3.5 min)</u>**
 
 Welcome to this lesson on sharing data with the Instinct CGM. In this video, we’ll walk you through sharing your sensor glucose data with your healthcare provider and loved ones. We’ll also discuss viewing and creating your glucose reports with the CareLink<sup>TM</sup> system. Let’s start.
 

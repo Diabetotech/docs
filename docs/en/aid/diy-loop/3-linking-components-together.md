@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fhyJ5T-B1LE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-# **<u>3. Linking components together</u>**
+# **<u>3. Linking components together (11.5 min)</u>**
 
 In this instructional video, we will guide you through the process of linking the components of DIY Loop.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9_JC7citmro" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **6. Managing special situations**
+## **6. Managing special situations (4 min)**
 
 <span class="mark">Welcome to this video on managing special situations with the Tandem Mobi System!</span>
 

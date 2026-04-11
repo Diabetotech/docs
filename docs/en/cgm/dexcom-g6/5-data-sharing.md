@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2VSB19T_uRI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Data sharing</u>**
+## **<u>5. Data sharing (5.5 min)</u>**
 
 Welcome to this lesson on sharing data with the Dexcom G6 sensor.
 

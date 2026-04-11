@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zX3kXhp5j2k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connecting other devices</u>**
+## **<u>6. Connecting other devices (2 min)</u>**
 
 Welcome to this lesson on connecting your iCan i6 CGM to other devices. In this video, we'll outline sensor integration options with smartwatches, insulin pens, and insulin pumps. Let's start.
 

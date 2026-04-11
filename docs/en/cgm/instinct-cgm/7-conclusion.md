@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/qYX3CbbgVXg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Conclusion</u>**
+## **<u>7. Conclusion (1.5 min)</u>**
 
 Congratulations on finishing this module on the Instinct sensor!
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dw5qsqY-SiM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Placing the sensor</u>**
+## **<u>2. Placing the sensor (3 min)</u>**
 
 Welcome to the first lesson of the Sibionics GS3 CGM module. This video will show you how to apply and remove the GS3 sensor and point out essential dos and don’ts. Let’s dive in.
 

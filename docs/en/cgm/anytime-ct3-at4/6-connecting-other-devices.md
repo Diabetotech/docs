@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/t2J_m0QgHI8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connecting other devices</u>**
+## **<u>6. Connecting other devices (2 min)</u>**
 
 Welcome to this lesson on connecting your Anytime CT3 and AT4 CGMs to other devices. In this video, we'll take a look at how these sensors work together with smartwatches, insulin pens, and insulin pumps. Let’s dive in.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/oW_X9ZSIk7s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>** 
+## **<u>1. Introduction (2.5 min)</u>** 
 
 Welcome to this informative video on the iLet Device! This insulin pump is used in conjunction with iLet Dosing Decision Software, which combines it with a Dexcom G6 or G7 sensor for advanced diabetes management.
 

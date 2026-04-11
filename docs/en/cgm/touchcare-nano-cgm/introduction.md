@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/z92Q4GOPjX8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **Introduction**
+## **Introduction (2 min)**
 
 Welcome <span class="mark">to this guide on the TouchCare Nano sensor, a continuous glucose monitor or CGM that can enhance your diabetes management. In this chapter, we will introduce the key features of the TouchCare Nano sensor and how to make the most of its benefits. Let's get started!</span>
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WXpfwSIU-Hc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Case report</u>**
+## **<u>7. Case report (1.5 min)</u>**
 
 Congratulations on completing this course on the Eversense 365! Your commitment to learning how this CGM works is a meaningful step toward more confident and effective diabetes management.
 

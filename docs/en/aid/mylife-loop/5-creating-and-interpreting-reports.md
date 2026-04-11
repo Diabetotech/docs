@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/4ZM-AvJ4TQs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Creating and interpreting reports</u>**
+## **<u>5. Creating and interpreting reports (16 min)</u>**
 
 Welcome to this informative video on creating and interpreting reports using mylife Loop. In order to access and analyze these reports, we will be utilizing the Glooko readout software.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/3otVDPdKfwg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-# **<u>5. Creating and interpreting reports</u>**
+# **<u>5. Creating and interpreting reports (10.5 min)</u>**
 
 Welcome to this video on creating and interpreting reports of DIY Loop via Nightscout.
 

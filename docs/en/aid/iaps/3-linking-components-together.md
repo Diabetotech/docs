@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FisWfrA4YRs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## <u>3. Linking components together</u>
+## <u>3. Linking components together (3.5 min)</u>
 
 In this video tutorial, we will guide you through the process of creating the necessary links within the iAPS automated insulin delivery system. These links establish connections between various components to ensure seamless communication and data exchange.
 

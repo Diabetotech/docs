@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dCCJnc1o14E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### **2. Set Up the Smart MDI System**
+### **2. Set Up the Smart MDI System (2.5 min)**
 
 <span class="mark">Welcome to this lesson on how to set up the Smart MDI System.</span>
 

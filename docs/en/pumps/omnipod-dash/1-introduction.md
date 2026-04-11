@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bXDiEVpHYkc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>** 
+## **<u>1. Introduction (2.5 min)</u>** 
 
 Welcome to this module on the Omnipod DASH insulin pump! In this video, we will explore the features and operation of the Omnipod DASH. This patchpump is usually used as a separate manual pump, but can <span class="mark">also be used in open-source automated insulin delivery systems such as AndroidAPS, DIY Loop, iAPS or Trio.</span>
 

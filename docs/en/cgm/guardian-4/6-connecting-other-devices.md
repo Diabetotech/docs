@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/yeg8i1451nE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connecting other devices</u>**
+## **<u>6. Connecting other devices (5 min)</u>**
 
 Welcome to this lesson on connecting your Guardian 4 sensor to other devices.
 

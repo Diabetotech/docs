@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/8vbdy6YpqiI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## 4. Reservoir and infusion set replacement
+## 4. Reservoir and infusion set replacement (8.5 min)
 
 Welcome to this lesson on cassette and infusion set replacement with the twiist Pump!
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/0tewbEGuaHo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## 2. Pump Operation
+## 2. Pump Operation (10.5 min)
 
 Welcome to the twiist Pump Operation module!
 

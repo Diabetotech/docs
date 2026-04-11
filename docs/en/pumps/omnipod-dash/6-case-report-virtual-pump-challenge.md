@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VBwcFDi2-u0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Case report & virtual pump challenge</u>**
+## **<u>6. Case report & virtual pump challenge (2.5 min)</u>**
 
 Congratulations! You have successfully completed the course on the Omnipod DASH insulin pump, gaining valuable knowledge about its features and functionalities. Your dedication to learning about this innovative pump demonstrates your commitment to effectively managing diabetes. Now, let's delve into a real-life case that showcases the practical aspects of using the Omnipod DASH pump.
 

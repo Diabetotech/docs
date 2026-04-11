@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/M00ju6ZVgUQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Placing the sensor</u>**
+## **<u>2. Placing the sensor (10.5 min)</u>**
 
 Welcome to this lesson on placing the Eversense 365 sensor.
 

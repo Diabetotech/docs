@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/KMTBhzEchds" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### **4. Report Interpretation**
+### **4. Report Interpretation (7 min)**
 
 <span class="mark">Welcome to this lesson wherein we will discuss the report interpretation.</span>
 

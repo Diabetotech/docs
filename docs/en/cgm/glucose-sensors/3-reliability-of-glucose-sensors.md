@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/cmzVLYvZMls" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Reliability of glucose sensors</u>**
+## **<u>3. Reliability of glucose sensors (9 min)</u>**
 
 In this segment, we'll delve into the reliability of glucose sensors. We'll dissect the accuracy of sensors, trend arrows' interpretation based on lag time, instances where a finger prick is required, recommendations for sensor calibration, interfering substances and some extra tips and tricks.
 

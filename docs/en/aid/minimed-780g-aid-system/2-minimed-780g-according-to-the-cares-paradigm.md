@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/nn8vvzR8aUE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. MiniMed 780G according to the CARES paradigm</u>**
+## **<u>2. MiniMed 780G according to the CARES paradigm (3.5 min)</u>**
 
 Welcome to this lesson about the MiniMed 780G according to the CARES paradigm.
 

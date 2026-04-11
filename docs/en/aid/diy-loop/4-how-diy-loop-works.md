@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/0qRtN0Kj838" frameborder="0" allowfullscreen></iframe>
 </div>
 
-# **<u>4. How DIY Loop works</u>**
+# **<u>4. How DIY Loop works (14 min)</u>**
 
 Welcome to this video on the functionality of DIY Loop.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-An5ZnTUfs4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Data sharing</u>**
+## **<u>5. Data sharing (2.5 min)</u>**
 
 Welcome to this lesson on sharing data with the Guardian sensor.
 

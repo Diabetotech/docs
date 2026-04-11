@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/GpIBKHupfbs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-**<u>6. Case report & virtual pump challenge</u>**
+**<u>6. Case report & virtual pump challenge (2 min)</u>**
 
 In this final chapter, we’d like to showcase Tom from TypeOneTalks, an inspiring individual living with type 1 diabetes, as he shares his journey with the mylife YpsoPump. Through his personal experiences over an extended period, Tom will shed light on the pump's strengths, limitations, and the practical strategies he has developed to effectively manage his diabetes.
 

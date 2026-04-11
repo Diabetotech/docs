@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Lwh-ZJQX00Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Placing the sensor</u>**
+## **<u>2. Placing the sensor (4 min)</u>**
 
 Welcome to this lesson on how to place the Guardian 4 sensor.
 

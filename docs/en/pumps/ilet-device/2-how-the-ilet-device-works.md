@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/vK7t9aee0vM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. How the iLet Device works</u>**
+## **<u>2. How the iLet Device works (7.5 min)</u>**
 
 Welcome to this informative video on how the iLet Device works! In this segment, we will explore the various aspects of the pump, including its parts, buttons, charging process, unlocking mechanism, and the different screens and menus.
 

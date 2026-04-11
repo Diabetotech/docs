@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/86HQv4mhV_U" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **3. Starting the sensor** 
+## **3. Starting the sensor (7.5 min)**
 
 Welcome to this lesson on starting the Instinct sensor. In this video, you'll learn how to start the sensor and navigate the pump and the app. In addition, we'll go over some practical tips for living with your sensor. Let’s dive in.
 

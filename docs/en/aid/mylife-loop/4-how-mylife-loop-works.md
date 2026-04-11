@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/r7nHMlW6PHk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. How mylife Loop works</u>**
+## **<u>4. How mylife Loop works (12.5 min)</u>**
 
 Welcome to this lesson on the functionality of mylife Loop. Controlling mylife Loop is done through the mylife CamAPS FX app on your mobile phone.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/P7FkC5o2Bx8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>2. The CARES framework</u></span>**
+## **<span class="mark"><u>2. The CARES framework (6 min)</u></span>**
 
 <span class="mark">Welcome to this video where we will discuss how to compare different Automated Insulin Delivery or AID systems, using the CARES framework.</span>
 

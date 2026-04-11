@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/tN97Suqzf2M" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Setting alerts</u>**
+## **<u>4. Setting alerts (5.5 min)</u>**
 
 Welcome to this lesson on setting alerts with the Eversense 365 sensor.
 

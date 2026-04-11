@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Xpa--WTguj4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Sharing data</u>**
+## **<u>5. Sharing data (10.5 min)</u>**
 
 Welcome to this lesson on sharing data with the CareSens Air CGM. This video will explain how you can share your glucose data with your healthcare provider and loved ones via the Sens365 app and Sens365 Web. We’ll also go over the details <span class="mark">of t</span>he available reports.
 

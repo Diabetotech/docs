@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/KLzn--AqjBU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (2.5 min)</u>**
 
 Welcome to this video module on the Guardian 4 continuous glucose monitor. Whether you are a healthcare professional or someone living with diabetes, this course will provide you with valuable insights and practical tips to make the most of the Guardian 4 system. Let's dive in!
 

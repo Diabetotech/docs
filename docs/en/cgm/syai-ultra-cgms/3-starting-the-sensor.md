@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/joYVeQJV_Zs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Starting the sensor</u>** 
+## **<u>3. Starting the sensor (7 min)</u>** 
 
 Welcome to this lesson on starting the Syai Ultra CGM System. In this video, we’ll show you how to get started with the Syai Ultra sensor and navigate the Syai app. In addition, we’ll share essential tips to promote safe and proper daily wear of the sensor. Let’s begin.
 

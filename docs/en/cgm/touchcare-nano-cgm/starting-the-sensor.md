@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bp8dlnuKhGM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **Starting the Sensor**
+## **Starting the Sensor (7.5 min)**
 
 In this lesson, we will show you how to start the TouchCare Nano sensor.
 

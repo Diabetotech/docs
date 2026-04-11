@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/RVTE5tux1n0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Setting alarms</u>**
+## **<u>4. Setting alarms (2.5 min)</u>**
 
 Welcome to this lesson on setting alarms with the Dexcom G6 sensor.
 

@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Pb1HvCiQwhc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Setting alarms</u>**
+## **<u>4. Setting alarms (6 min)</u>**
 
 Welcome to this lesson on setting alarms with the Syai Ultra CGM system. In this video, we’ll explore the sensor’s alarm features and show you how to customize them on the Syai app to suit your personal preferences. Let’s jump right in.
 

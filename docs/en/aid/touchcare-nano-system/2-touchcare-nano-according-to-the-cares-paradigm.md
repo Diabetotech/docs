@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WlIykVE0W4Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. TouchCare Nano according to the CARES paradigm</u>**
+## **<u>2. TouchCare Nano according to the CARES paradigm (8.5 min)</u>**
 
 Welcome to this lesson on the TouchCare Nano System, structured according to the CARES paradigm.
 

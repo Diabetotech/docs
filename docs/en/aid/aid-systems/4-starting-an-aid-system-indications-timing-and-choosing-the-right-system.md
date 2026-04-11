@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Hqe27-ABo20" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<span class="mark"><u>4. Starting an AID System: Indications, Timing, and Choosing the Right System</u></span>**
+## **<span class="mark"><u>4. Starting an AID System: Indications, Timing, and Choosing the Right System (1.5 min)</u></span>**
 
 <span class="mark">Welcome to this video where will explore different topics around starting an automated insulin delivery system.</span>
 

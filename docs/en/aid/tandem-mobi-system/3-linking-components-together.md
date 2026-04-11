@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/7z2O1TQKmQI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Linking components together</u>**
+## **<u>3. Linking components together (6 min)</u>**
 
 Welcome to this instructional video, where we will explore the process of linking the various components of the Tandem Mobi System. Let's dive in!
 

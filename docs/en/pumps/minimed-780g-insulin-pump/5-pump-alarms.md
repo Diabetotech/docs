@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/yigqp6h40uI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Pump alarms</u>**
+## **<u>5. Pump alarms (4 min)</u>**
 
 Welcome to this informative video about the alarms and notifications on the MiniMed 780G pump.
 

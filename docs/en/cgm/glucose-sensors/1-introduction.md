@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/jIkTduqv4pE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (3.5 min)</u>**
 
 It's a pleasure to welcome you to this module focusing on glucose sensors, more formally known as continuous glucose monitors (CGMs).
 

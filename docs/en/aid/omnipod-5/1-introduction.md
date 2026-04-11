@@ -2,7 +2,7 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ALf3Gqikoow" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduction</u>**
+## **<u>1. Introduction (3.5 min)</u>**
 
 Welcome to this comprehensive module on the Omnipod 5 automated insulin delivery system. Designed to provide you with a thorough understanding of the system, this module will guide you through its components, functionality, and practical application. By the end of this module, you will have gained valuable knowledge on how to effectively utilize the Omnipod 5 system in your diabetes management.
 
