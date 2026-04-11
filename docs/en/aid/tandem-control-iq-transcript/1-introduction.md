@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/MnFyDEpCh8g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>**
 
 Welcome to this module on Tandem Control-IQ technology, one of the most widely used automated insulin delivery systems, particularly in the US. In this comprehensive guide, we will delve into the intricacies of Tandem Control-IQ technology, providing you with a step-by-step understanding of its functionality and how to effectively manage your diabetes with this system.

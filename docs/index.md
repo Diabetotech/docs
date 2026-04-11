@@ -26,6 +26,7 @@ You can also go directly to a device — each module links to the necessary back
 - **Smart Pens** — connected MDI technology  
 
 Each topic includes:
+
 - short-form video explanations  
 - full transcripts  
 
@@ -36,11 +37,12 @@ Each topic includes:
 👉 Looking for **structured learning and certification**?
 
 Access the full platform with:
+
 - **EACCME-accredited CME credits**
 - structured courses and assessments  
 - certification of completion  
 
-🔗 https://www.diabetotech.com
+🔗 [https://www.diabetotech.com](https://www.diabetotech.com)
 
 ---
 
@@ -53,6 +55,6 @@ Access the full platform with:
 ---
 
 **Peer-reviewed by 35+ experts**  
-https://www.diabetotech.com/reviewers  
+🔗 [https://www.diabetotech.com/reviewers](https://www.diabetotech.com/reviewers) 
 
 _Licensed under CC BY-NC 4.0_

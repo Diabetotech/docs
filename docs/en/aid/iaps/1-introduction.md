@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/FisWfrA4YRs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## <u>1. Introduction</u>
 
 Welcome to this comprehensive video series on iAP<span class="mark">S, an</span> open-source automated insulin delivery system for iPhones. iAPS stands for iPhone Artificial Pancreas System, and in these videos, we will explore the key components of iAPS, including the insulin pumps and glucose sensor options, and the Oref algorithm. Additionally, we will delve into important topics such as viewing reports with Nightscout and remotely monitoring users as a caregiver.

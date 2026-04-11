@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kQ9lb-OorU8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<span class="mark"><u>2. Placing the sensor</u></span>**
 
 <span class="mark">Welcome to this lesson on how to place the Simplera sensor.</span>

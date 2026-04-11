@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PbACczaldGE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>7. Case report</u>**
 
 In this final chapter of the AndroidAPS course, we will explore the practical use of Nightscout, a powerful tool for monitoring and analyzing diabetes data. We will showcase real-life examples of Nightscout in action, highlighting the benefits of AndroidAPS and its impact on glucose control. By understanding these examples, you will gain insights into how AndroidAPS and Nightscout work together to optimize insulin delivery and improve quality of life for individuals with diabetes.

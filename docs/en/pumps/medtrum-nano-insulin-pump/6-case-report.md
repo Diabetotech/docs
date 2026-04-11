@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OfCIOJm7VCU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>6. Case report</u>**
 
 <span class="mark">We’re so glad you’ve joined us on this journey, and we hope you continue to feel confident using your insulin pump to manage your diabetes.</span>

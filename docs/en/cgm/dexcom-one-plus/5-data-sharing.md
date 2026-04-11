@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ho5v4c5cSGE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>5. Data sharing</u>**
 
 Welcome to this lesson on sharing data with the Dexcom ONE Plus sensor.

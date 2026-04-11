@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/hOb2E2bnqus" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>** 
 
 Welcome to this module about mylife Loop automated insulin delivery system. This relatively new automated insulin delivery system combination from YpsoMed uses the CamAPS FX algorithm that has been developed in the UK, and is the first automated insulin delivery system with the FreeStyle Libre 3 sensor.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/nn8vvzR8aUE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>** 
 
 Welcome to this module on the MiniMed 780G automated insulin delivery system. As one of the most widely used automated insulin delivery systems in many European countries, the MiniMed 780G offers a comprehensive solution for diabetes management.

@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PHccGrwsCOI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>** 
 
 Hi there, and welcome! In this Module, we’re going to introduce you to the Medtrum TouchCare Nano automated insulin delivery system. — a super convenient, tubeless insulin pump combined with a continuous glucose monitor. The TouchCare Nano System is designed to help people with diabetes manage their blood sugar easily, without the hassle of tubes or complicated set-ups.

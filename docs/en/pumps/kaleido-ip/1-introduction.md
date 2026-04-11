@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/hX7wAIYLBco" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>1. Introduction</u>** 
 
 Welcome to this <span class="mark">module</span> on the Kaleido insulin pump! In this <span class="mark">module,</span> we will explore the features and operation of the Kaleido insulin pump.

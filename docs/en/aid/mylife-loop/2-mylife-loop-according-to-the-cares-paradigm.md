@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/T4ZXvJe2hfE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>2. Mylife Loop according to the CARES paradigm</u>**
 
 Welcome to this video where we will dive into mylife Loop, examining its functionality based on the CARES paradigm.

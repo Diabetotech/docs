@@ -1,3 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/gh7XSGHSMi8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **<u>3. Insulin set-up</u>**
 
 Welcome to the part where we set up your insulin delivery — don’t worry, it’s easier than it sounds! We’ll show you how to program your basal insulin delivery, set a temporary basal, suspending insulin, deliver an insulin bolus, and give you some simple tips to make it all go smoothly.
