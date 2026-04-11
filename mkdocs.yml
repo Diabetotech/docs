@@ -428,12 +428,13 @@ plugins:
   - search
   - awesome-pages
   - i18n:
-      default_language: en
+      docs_structure: folder
       languages:
-        en:
+        - locale: en
+          default: true
           name: English
           build: true
-        nl:
+        - locale: nl
           name: Nederlands
           build: true
 
