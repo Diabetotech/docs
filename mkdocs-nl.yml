@@ -44,7 +44,7 @@ plugins:
 nav:
   - Home: index.md
   - CGM / CKM:
-    - Glucose Sensors (Master Module):
+    - Glucose Sensoren (Master Module):
       - Overview: cgm/glucose-sensors/index.md
       - 1. Introduction (3.5 min): cgm/glucose-sensors/1-introduction.md
       - 2. Comparison of different sensors (9.5 min): cgm/glucose-sensors/2-comparison-of-different-sensors.md
@@ -223,7 +223,7 @@ nav:
       - 6. Connecting Other Devices (1.5 min): cgm/touchcare-nano-cgm/6-connecting-other-devices.md
       - 7. Conclusion (1.5 min): cgm/touchcare-nano-cgm/conclusion.md
 
-  - Insulin Pumps:
+  - Insulinepompen:
     - Insulin Pumps (Master Module):
       - Overview: pumps/insulin-pumps-the-master-module/index.md
       - 1. Introduction (3 min): pumps/insulin-pumps-the-master-module/1-introduction.md
@@ -341,8 +341,8 @@ nav:
       - 5. Pump alarms (5.5 min): pumps/twiist-insulin-pump/5-pump-alarms.md
       - 6. Case report & virtual pump challenge (1 min): pumps/twiist-insulin-pump/6-case-report-virtual-pump-challenge.md
 
-  - AID Systems:
-    - AID Systems (Master mMdule):
+  - Closed-loop systemen:
+    - Closed-loop systemen Master mMdule):
       - Overview: aid/aid-systems/index.md
       - 1. Introduction (3 min): aid/aid-systems/1-introduction.md
       - 2. The CARES framework (6 min): aid/aid-systems/2-the-cares-framework.md
@@ -482,8 +482,8 @@ nav:
       - 6. Managing special situations (6 min): aid/twiist/6-managing-special-situations.md
       - 7. Case report (1.5 min): aid/twiist/7-case-report.md
 
-  - Smart Pens:
-    - Smart MDI System (InPen):
+  - Slimme insulinepen:
+    - Slimme InPen Systeem:
       - Overview: pens/smart-mdi-inpen-module/index.md
       - 1. Introduction (2.5 min): pens/smart-mdi-inpen-module/1-introduction.md
       - 2. Set Up the Smart MDI System (2.5 min): pens/smart-mdi-inpen-module/2-set-up-the-smart-mdi-system.md
@@ -491,7 +491,7 @@ nav:
       - 4. Report Interpretation (7 min): pens/smart-mdi-inpen-module/4-report-interpretation.md
       - 5. Case report (2 min): pens/smart-mdi-inpen-module/5-case-report.md
 
-  - Learning Plans:
+  - Leerplannen:
     - Overview: learning-plans/index.md
     - For Patients & Families: learning-plans/patient.md
     - For Healthcare Professionals: learning-plans/hcp.md
