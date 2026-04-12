@@ -465,6 +465,16 @@ nav:
       - 6. Managing special situations (10 min): en/aid/trio/6-managing-special-situations.md
       - 7. Case report (2 min): en/aid/trio/7-case-report.md
 
+    - twiist:
+      - Overview: en/aid/twiist/index.md
+      - 1. Introduction (X min): en/aid/twiist/1-introduction.md
+      - 2. twiist according to the CARES paradigm (X min): en/aid/twiist/2-twiist-according-to-the-cares-paradigm.md
+      - 3. Linking components together (X min): en/aid/twiist/3-linking-components-together.md
+      - 4. How twiist works (X min): en/aid/twiist/4-how-twiist-works.md
+      - 5. Creating and interpreting reports (X min): en/aid/twiist/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations (X min): en/aid/twiist/6-managing-special-situations.md
+      - 7. Case report (X min): en/aid/twiist/7-case-report.md
+
   - Smart Pens:
     - Smart MDI System (InPen):
       - Overview: en/pens/smart-mdi-inpen-module/index.md
