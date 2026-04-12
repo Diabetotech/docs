@@ -20,6 +20,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.prune
     - navigation.top
     - search.highlight
     - search.suggest
