@@ -501,6 +501,9 @@ plugins:
   - awesome-pages
 
 extra:
+  analytics:
+    provider: google
+    property: G-CQY7RM61QB
   alternate:
     - name: English
       link: https://diabetotech.github.io/docs/en/
