@@ -203,13 +203,13 @@ nav:
 
     - TouchCare Nano CGM:
       - Overview: en/cgm/touchcare-nano-cgm/index.md
-      - Introduction (2 min): en/cgm/touchcare-nano-cgm/introduction.md
-      - Placing the Sensor (5.5 min): en/cgm/touchcare-nano-cgm/placing-the-sensor.md
-      - Starting the Sensor (7.5 min): en/cgm/touchcare-nano-cgm/starting-the-sensor.md
-      - Setting Alarms (5 min): en/cgm/touchcare-nano-cgm/setting-alarms.md
-      - Data Sharing (4 min): en/cgm/touchcare-nano-cgm/data-sharing.md
+      - 1. Introduction (2 min): en/cgm/touchcare-nano-cgm/introduction.md
+      - 2. Placing the Sensor (5.5 min): en/cgm/touchcare-nano-cgm/placing-the-sensor.md
+      - 3. Starting the Sensor (7.5 min): en/cgm/touchcare-nano-cgm/starting-the-sensor.md
+      - 4. Setting Alarms (5 min): en/cgm/touchcare-nano-cgm/setting-alarms.md
+      - 5. Data Sharing (4 min): en/cgm/touchcare-nano-cgm/data-sharing.md
       - 6. Connecting Other Devices (1.5 min): en/cgm/touchcare-nano-cgm/6-connecting-other-devices.md
-      - Conclusion (1.5 min): en/cgm/touchcare-nano-cgm/conclusion.md
+      - 7. Conclusion (1.5 min): en/cgm/touchcare-nano-cgm/conclusion.md
 
   - Insulin Pumps:
     - Insulin Pumps (Master Module):
