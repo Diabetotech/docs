@@ -84,6 +84,7 @@ nav:
       - 4. Setting alarms (2.5 min): en/cgm/dexcom-g6/4-setting-alarms.md
       - 5. Data sharing (5.5 min): en/cgm/dexcom-g6/5-data-sharing.md
       - 6. Connecting other devices (6 min): en/cgm/dexcom-g6/6-connecting-other-devices.md
+      - 7. Case report (2 min): en/cgm/dexcom-g6/7-case-report.md
 
     - Dexcom G7:
       - Overview: en/cgm/dexcom-g7/index.md
@@ -95,7 +96,7 @@ nav:
       - 6. Connecting other devices (7.5 min): en/cgm/dexcom-g7/6-connecting-other-devices.md
       - 7. Case report (2 min): en/cgm/dexcom-g7/7-case-report.md
 
-    - Dexcom ONE Plus:
+    - Dexcom ONE+:
       - Overview: en/cgm/dexcom-one-plus/index.md
       - 1. Introduction (2.5 min): en/cgm/dexcom-one-plus/1-introduction.md
       - 2. Placing the sensor (4 min): en/cgm/dexcom-one-plus/2-placing-the-sensor.md
@@ -120,11 +121,12 @@ nav:
       - 1. Introduction (3 min): en/cgm/freestyle-libre-2/1-introduction.md
       - 2. Placing the sensor (2 min): en/cgm/freestyle-libre-2/2-placing-the-sensor.md
       - 3. Starting and scanning the sensor (11 min): en/cgm/freestyle-libre-2/3-starting-and-scanning-the-sensor.md
+      - 4. Setting alarms (3 min): en/cgm/freestyle-libre-2/4-setting-alarms.md
       - 5. Sharing data (3 min): en/cgm/freestyle-libre-2/5-sharing-data.md
       - 6. Connecting other devices (7.5 min): en/cgm/freestyle-libre-2/6-connecting-other-devices.md
       - 7. Case report (2 min): en/cgm/freestyle-libre-2/7-case-report.md
 
-    - FreeStyle Libre 3:
+    - FreeStyle Libre 3 (Plus):
       - Overview: en/cgm/freestyle-libre-3/index.md
       - 1. Introduction (3 min): en/cgm/freestyle-libre-3/1-introduction.md
       - 2. Placing the sensor (3 min): en/cgm/freestyle-libre-3/2-placing-the-sensor.md
@@ -138,6 +140,7 @@ nav:
       - Overview: en/cgm/guardian-4/index.md
       - 1. Introduction (2.5 min): en/cgm/guardian-4/1-introduction.md
       - 2. Placing the sensor (4 min): en/cgm/guardian-4/2-placing-the-sensor.md
+      - 3. Starting the sensor (3.5 min): en/cgm/guardian-4/3-starting-the-sensor.md
       - 4. Setting alarms (3 min): en/cgm/guardian-4/4-setting-alarms.md
       - 5. Data sharing (2.5 min): en/cgm/guardian-4/5-data-sharing.md
       - 6. Connecting other devices (5 min): en/cgm/guardian-4/6-connecting-other-devices.md
@@ -185,11 +188,13 @@ nav:
 
     - Simplera:
       - Overview: en/cgm/simplera/index.md
-      - 1. Introduction: en/cgm/simplera/1-introduction.md
-      - 2. Placing the sensor: en/cgm/simplera/2-placing-the-sensor.md
-      - 4. Setting alarms: en/cgm/simplera/4-setting-alarms.md
-      - 5. Data sharing: en/cgm/simplera/5-data-sharing.md
-      - 6. Connecting other devices: en/cgm/simplera/6-connecting-other-devices.md
+      - 1. Introduction (3 min): en/cgm/simplera/1-introduction.md
+      - 2. Placing the sensor (3.5 min): en/cgm/simplera/2-placing-the-sensor.md
+      - 3. Starting the sensor (5 min): en/cgm/simplera/3-starting-the-sensor.md
+      - 4. Setting alarms (4.5 min): en/cgm/simplera/4-setting-alarms.md
+      - 5. Data sharing (3 min): en/cgm/simplera/5-data-sharing.md
+      - 6. Connecting other devices (5.5 min): en/cgm/simplera/6-connecting-other-devices.md
+      - 7. Case report (1.5 min): en/cgm/simplera/7-case-report.md
 
     - Syai Ultra:
       - Overview: en/cgm/syai-ultra-cgms/index.md
@@ -218,6 +223,7 @@ nav:
       - 2. Comparison of different insulin pumps (8 min): en/pumps/insulin-pumps-the-master-module/2-comparison-of-different-insulin-pumps.md
       - 3. Insulin settings (13 min): en/pumps/insulin-pumps-the-master-module/3-insulin-settings.md
       - 4. Reservoir and infusion set replacement (8.5 min): en/pumps/insulin-pumps-the-master-module/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms (3 min): en/pumps/insulin-pumps-the-master-module/5-pump-alarms.md
       - 6. Case story (3 min): en/pumps/insulin-pumps-the-master-module/6-case-story.md
 
     - Accu-Chek Insight:
@@ -256,26 +262,28 @@ nav:
       - 5. Pump alarms (4.5 min): en/pumps/ilet-device/5-pump-alarms.md
       - 6. Case report & virtual pump challenge (2 min): en/pumps/ilet-device/6-case-report-virtual-pump-challenge.md
 
-    - Kaleido IP:
+    - Kaleido Pump:
       - Overview: en/pumps/kaleido-ip/index.md
-      - 1. Introduction: en/pumps/kaleido-ip/1-introduction.md
-      - 2. Pump Operation: en/pumps/kaleido-ip/2-pump-operation.md
-      - 4. Replacing the insulin reservoir and infusion set: en/pumps/kaleido-ip/4-replacing-the-insulin-reservoir-and-infusion-set.md
-      - 5. Pump alarms: en/pumps/kaleido-ip/5-pump-alarms.md
-      - 6. Case report: en/pumps/kaleido-ip/6-case-report.md
+      - 1. Introduction (3.5 min): en/pumps/kaleido-ip/1-introduction.md
+      - 2. Pump Operation (7 min): en/pumps/kaleido-ip/2-pump-operation.md
+      - 3. Insulin setup (8 min): en/pumps/kaleido-ip/3-insulin-setup.md
+      - 4. Replacing the insulin reservoir and infusion set (13.5 min): en/pumps/kaleido-ip/4-replacing-the-insulin-reservoir-and-infusion-set.md
+      - 5. Pump alarms (3.5 min): en/pumps/kaleido-ip/5-pump-alarms.md
+      - 6. Case report (1.5 min): en/pumps/kaleido-ip/6-case-report.md
 
-    - Medtrum Nano:
+    - Touchcare Nano Pump:
       - Overview: en/pumps/medtrum-nano-insulin-pump/index.md
-      - 1. Introduction: en/pumps/medtrum-nano-insulin-pump/1-introduction.md
-      - 2. Pump Operation: en/pumps/medtrum-nano-insulin-pump/2-pump-operation.md
-      - 3. Insulin set-up: en/pumps/medtrum-nano-insulin-pump/3-insulin-set-up.md
-      - 4. Patch Pump replacement: en/pumps/medtrum-nano-insulin-pump/4-patch-pump-replacement.md
-      - 5. Pump alarms: en/pumps/medtrum-nano-insulin-pump/5-pump-alarms.md
-      - 6. Case report: en/pumps/medtrum-nano-insulin-pump/6-case-report.md
+      - 1. Introduction (2 min): en/pumps/medtrum-nano-insulin-pump/1-introduction.md
+      - 2. Pump Operation (7 min): en/pumps/medtrum-nano-insulin-pump/2-pump-operation.md
+      - 3. Insulin set-up (5 min): en/pumps/medtrum-nano-insulin-pump/3-insulin-set-up.md
+      - 4. Patch Pump replacement (7 min): en/pumps/medtrum-nano-insulin-pump/4-patch-pump-replacement.md
+      - 5. Pump alarms (5 min): en/pumps/medtrum-nano-insulin-pump/5-pump-alarms.md
+      - 6. Case report (1 min): en/pumps/medtrum-nano-insulin-pump/6-case-report.md
 
     - MiniMed 780G:
       - Overview: en/pumps/minimed-780g-insulin-pump/index.md
       - 1. Introduction (2.5 min): en/pumps/minimed-780g-insulin-pump/1-introduction.md
+      - 2. How the MiniMed 780G insulin pump works (5.5 min): en/pumps/minimed-780g-insulin-pump/2-how-the-minimed-780g-insulin-pump-works.md
       - 3. Insulin setup (5 min): en/pumps/minimed-780g-insulin-pump/3-insulin-setup.md
       - 4. Reservoir and infusion set replacement (6.5 min): en/pumps/minimed-780g-insulin-pump/4-reservoir-and-infusion-set-replacement.md
       - 5. Pump alarms (4 min): en/pumps/minimed-780g-insulin-pump/5-pump-alarms.md
@@ -299,9 +307,23 @@ nav:
       - 5. Pump alarms (5 min): en/pumps/omnipod-dash/5-pump-alarms.md
       - 6. Case report & virtual pump challenge (2.5 min): en/pumps/omnipod-dash/6-case-report-virtual-pump-challenge.md
 
+    - Tandem t:slim X2:
+      - Overview: en/pumps/tandem-tslim-x2/index.md
+      - 1. Introduction (2.5 min): en/pumps/tandem-tslim-x2/1-introduction.md
+      - 2. How the Tandem t:slim X2 insulin pump works (6.5 min): en/pumps/tandem-tslim-x2/2-how-the-tandem-t-slim-x2-insulin-pump-works.md
+      - 3. Insulin setup (6 min): en/pumps/tandem-tslim-x2/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement (6 min): en/pumps/tandem-tslim-x2/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms (3 min): en/pumps/tandem-tslim-x2/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge (2 min): en/pumps/tandem-tslim-x2/6-case-report-virtual-pump-challenge.md
+
     - Tandem Mobi:
       - Overview: en/pumps/tandem-mobi-insulin-pump/index.md
       - 1. Introduction (2 min): en/pumps/tandem-mobi-insulin-pump/1-introduction.md
+      - 2. Pump operation (9.5 min): en/pumps/tandem-mobi-insulin-pump/2-pump-operation.md
+      - 3. Insulin setup (5 min): en/pumps/tandem-mobi-insulin-pump/3-insulin-setup.md
+      - 4. Reservoir and infusion set replacement (7.5 min): en/pumps/tandem-mobi-insulin-pump/4-reservoir-and-infusion-set-replacement.md
+      - 5. Pump alarms (6 min): en/pumps/tandem-mobi-insulin-pump/5-pump-alarms.md
+      - 6. Case report & virtual pump challenge (1 min): en/pumps/tandem-mobi-insulin-pump/6-case-report-virtual-pump-challenge.md
 
     - twiist Insulin Pump:
       - Overview: en/pumps/twiist-insulin-pump/index.md
@@ -312,15 +334,6 @@ nav:
       - 5. Pump alarms (5.5 min): en/pumps/twiist-insulin-pump/5-pump-alarms.md
       - 6. Case report & virtual pump challenge (1 min): en/pumps/twiist-insulin-pump/6-case-report-virtual-pump-challenge.md
 
-    - Tandem t:slim X2:
-      - Overview: en/pumps/tandem-tslim-x2/index.md
-      - 1. Introduction (2.5 min): en/pumps/tandem-tslim-x2/1-introduction.md
-      - 2. How the Tandem t:slim X2 insulin pump works (6.5 min): en/pumps/tandem-tslim-x2/2-how-the-tandem-t-slim-x2-insulin-pump-works.md
-      - 3. Insulin setup (6 min): en/pumps/tandem-tslim-x2/3-insulin-setup.md
-      - 4. Reservoir and infusion set replacement (6 min): en/pumps/tandem-tslim-x2/4-reservoir-and-infusion-set-replacement.md
-      - 5. Pump alarms (3 min): en/pumps/tandem-tslim-x2/5-pump-alarms.md
-      - 6. Case report & virtual pump challenge (2 min): en/pumps/tandem-tslim-x2/6-case-report-virtual-pump-challenge.md
-
   - AID Systems:
     - AID Systems Overview:
       - Overview: en/aid/aid-systems/index.md
@@ -329,6 +342,7 @@ nav:
       - 3. Key education points (8 min): en/aid/aid-systems/3-key-education-points.md
       - 4. Starting an AID System (1.5 min): en/aid/aid-systems/4-starting-an-aid-system-indications-timing-and-choosing-the-right-system.md
       - 5. Interpreting reports (13 min): en/aid/aid-systems/5-interpreting-reports.md
+      - 6. Managing special situations (17 min): en/aid/aid-systems/6-managing-special-situations.md
       - 7. A comprehensive AID overview (17 min): en/aid/aid-systems/7-a-comprehensive-automated-insulin-delivery-overview.md
 
     - AndroidAPS:
@@ -358,6 +372,7 @@ nav:
       - 3. Linking components together (11.5 min): en/aid/diy-loop/3-linking-components-together.md
       - 4. How DIY Loop works (14 min): en/aid/diy-loop/4-how-diy-loop-works.md
       - 5. Creating and interpreting reports (10.5 min): en/aid/diy-loop/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations (18.5 min): en/aid/diy-loop/6-managing-special-situations.md
       - 7. Case report (2 min): en/aid/diy-loop/7-case-report.md
 
     - iAPS:
@@ -384,13 +399,16 @@ nav:
       - Overview: en/aid/minimed-780g-aid-system/index.md
       - 1. Introduction: en/aid/minimed-780g-aid-system/1-introduction.md
       - 2. MiniMed 780G according to the CARES paradigm (3.5 min): en/aid/minimed-780g-aid-system/2-minimed-780g-according-to-the-cares-paradigm.md
+      - 3. Linking components together (11 min): en/aid/minimed-780g-aid-system/3-linking-components-together.md
       - 4. How the MiniMed 780G works (7.5 min): en/aid/minimed-780g-aid-system/4-how-the-minimed-780g-works.md
       - 5. Creating and Interpreting Reports (7.5 min): en/aid/minimed-780g-aid-system/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations (7 min): en/aid/minimed-780g-aid-system/6-managing-special-situations.md
       - 7. Case report (1.5 min): en/aid/minimed-780g-aid-system/7-case-report.md
 
     - mylife Loop:
       - Overview: en/aid/mylife-loop/index.md
       - 1. Introduction: en/aid/mylife-loop/1-introduction.md
+      - 2. mylife Loop according to the CARES paradigm (12.5 min): en/aid/mylife-loop/2-mylife-loop-according-to-the-cares-paradigm.md
       - 3. Linking components together (3.5 min): en/aid/mylife-loop/3-linking-components-together.md
       - 4. How mylife Loop works (12.5 min): en/aid/mylife-loop/4-how-mylife-loop-works.md
       - 5. Creating and interpreting reports (16 min): en/aid/mylife-loop/5-creating-and-interpreting-reports.md
@@ -405,6 +423,7 @@ nav:
       - 4. How the Omnipod 5 system works (11.5 min): en/aid/omnipod-5/4-how-the-omnipod-5-system-works.md
       - 5. Creating and interpreting reports (15 min): en/aid/omnipod-5/5-creating-and-interpreting-reports.md
       - 6. Managing special situations (8 min): en/aid/omnipod-5/6-managing-special-situations.md
+      - 7. Case report (2 min): en/aid/omnipod-5/7-case-report.md
 
     - Tandem Control-IQ:
       - Overview: en/aid/tandem-control-iq-transcript/index.md
@@ -418,32 +437,42 @@ nav:
 
     - Tandem Mobi System:
       - Overview: en/aid/tandem-mobi-system/index.md
-      - 1. Introduction: en/aid/tandem-mobi-system/1-introduction.md
+      - 1. Introduction (3 min): en/aid/tandem-mobi-system/1-introduction.md
       - 2. Tandem Mobi System Control IQ-technology according to the CARES Paradigm (11 min): en/aid/tandem-mobi-system/2-tandem-mobi-system-s-control-iq-technology-according-to-the-cares-paradigm.md
       - 3. Linking components together (6 min): en/aid/tandem-mobi-system/3-linking-components-together.md
       - 4. How the Tandem Mobi Control-IQ technology works (3 min): en/aid/tandem-mobi-system/4-how-the-tandem-mobi-control-iq-technology-works.md
       - 5. Creating and interpreting reports (7 min): en/aid/tandem-mobi-system/5-creating-and-interpreting-reports.md
       - 6. Managing special situations (4 min): en/aid/tandem-mobi-system/6-managing-special-situations.md
-      - 7. Case report: en/aid/tandem-mobi-system/7-case-report.md
+      - 7. Case report (1.5 min): en/aid/tandem-mobi-system/7-case-report.md
 
     - TouchCare Nano System:
       - Overview: en/aid/touchcare-nano-system/index.md
-      - 1. Introduction: en/aid/touchcare-nano-system/1-introduction.md
+      - 1. Introduction (3 min): en/aid/touchcare-nano-system/1-introduction.md
       - 2. TouchCare Nano according to the CARES paradigm (8.5 min): en/aid/touchcare-nano-system/2-touchcare-nano-according-to-the-cares-paradigm.md
       - 3. Linking components together (6 min): en/aid/touchcare-nano-system/3-linking-components-together.md
       - 4. How the TouchCare Nano System works (3 min): en/aid/touchcare-nano-system/4-how-the-touchcare-nano-system-works.md
       - 5. Creating and Interpreting Reports (6 min): en/aid/touchcare-nano-system/5-creating-and-interpreting-reports.md
       - 6. Managing special situations (4 min): en/aid/touchcare-nano-system/6-managing-special-situations.md
-      - 7. Case report: en/aid/touchcare-nano-system/7-case-report.md
+      - 7. Case report (1.5 min): en/aid/touchcare-nano-system/7-case-report.md
+
+    - Trio:
+      - Overview: en/aid/trio/index.md
+      - 1. Introduction (2.5 min): en/aid/trio/1-introduction.md
+      - 2. Trio according to the CARES paradigm (26.5 min): en/aid/trio/2-trio-according-to-the-cares-paradigm.md
+      - 3. Linking components together (11 min): en/aid/trio/3-linking-components-together.md
+      - 4. How Trio works (9 min): en/aid/trio/4-how-trio-works.md
+      - 5. Creating and interpreting reports (10.5 min): en/aid/trio/5-creating-and-interpreting-reports.md
+      - 6. Managing special situations (10 min): en/aid/trio/6-managing-special-situations.md
+      - 7. Case report (2 min): en/aid/trio/7-case-report.md
 
   - Smart Pens:
     - Smart MDI System (InPen):
       - Overview: en/pens/smart-mdi-inpen-module/index.md
-      - 1. Introduction: en/pens/smart-mdi-inpen-module/1-introduction.md
+      - 1. Introduction (2.5 min): en/pens/smart-mdi-inpen-module/1-introduction.md
       - 2. Set Up the Smart MDI System (2.5 min): en/pens/smart-mdi-inpen-module/2-set-up-the-smart-mdi-system.md
       - 3. Use the Smart MDI System (7.5 min): en/pens/smart-mdi-inpen-module/3-use-the-smart-mdi-system.md
       - 4. Report Interpretation (7 min): en/pens/smart-mdi-inpen-module/4-report-interpretation.md
-      - 5. Case report: en/pens/smart-mdi-inpen-module/5-case-report.md
+      - 5. Case report (2 min): en/pens/smart-mdi-inpen-module/5-case-report.md
 
   - Learning Plans:
     - Overview: learning-plans/index.md
