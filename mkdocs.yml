@@ -1,6 +1,6 @@
 site_name: Diabetotech
 site_description: Open diabetes technology education — peer-reviewed
-site_url: https://diabetotech.readthedocs.io
+site_url: https://diabetotech.github.io/docs/
 
 theme:
   name: material
@@ -465,10 +465,10 @@ plugins:
 extra:
   alternate:
     - name: English
-      link: https://diabetotech.readthedocs.io/en/latest/
+      link: https://diabetotech.github.io/docs/en/
       lang: en
     - name: Nederlands
-      link: https://diabetotech-nl.readthedocs.io/nl/latest/
+      link: https://diabetotech.github.io/docs/nl/
       lang: nl
   social:
     - icon: fontawesome/brands/youtube
