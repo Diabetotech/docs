@@ -3,11 +3,32 @@ site_description: Open diabetes technology education — peer-reviewed
 site_url: https://diabetotech.readthedocs.io
 
 theme:
-  name: readthedocs
-  highlightjs: true
+  name: material
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
 extra_css:
-  - css/diabetotech.css
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -16,7 +37,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Start here: index.md
+  - Home: index.md
   - CGM:
     - Glucose Sensors (Master Module):
       - Overview: en/cgm/glucose-sensors/index.md
@@ -400,7 +421,7 @@ nav:
     - Tandem Mobi System:
       - Overview: en/aid/tandem-mobi-system/index.md
       - 1. Introduction: en/aid/tandem-mobi-system/1-introduction.md
-      - 2. Tandem Mobi System’s Control IQ-technology according to the CARES Paradigm (11 min): en/aid/tandem-mobi-system/2-tandem-mobi-system-s-control-iq-technology-according-to-the-cares-paradigm.md
+      - 2. Tandem Mobi System Control IQ-technology according to the CARES Paradigm (11 min): en/aid/tandem-mobi-system/2-tandem-mobi-system-s-control-iq-technology-according-to-the-cares-paradigm.md
       - 3. Linking components together (6 min): en/aid/tandem-mobi-system/3-linking-components-together.md
       - 4. How the Tandem Mobi Control-IQ technology works (3 min): en/aid/tandem-mobi-system/4-how-the-tandem-mobi-control-iq-technology-works.md
       - 5. Creating and interpreting reports (7 min): en/aid/tandem-mobi-system/5-creating-and-interpreting-reports.md
@@ -426,12 +447,29 @@ nav:
       - 4. Report Interpretation (7 min): en/pens/smart-mdi-inpen-module/4-report-interpretation.md
       - 5. Case report: en/pens/smart-mdi-inpen-module/5-case-report.md
 
+  - Learning Plans:
+    - Overview: learning-plans/index.md
+    - For Patients & Families: learning-plans/patient.md
+    - For Healthcare Professionals: learning-plans/hcp.md
+
+  - Contribute:
+    - How to help: contribute/index.md
+    - Translate content: contribute/translate.md
+    - Improve content on GitHub: contribute/github.md
+    - Donate: contribute/donate.md
 
 plugins:
   - search
   - awesome-pages
 
 extra:
+  alternate:
+    - name: English
+      link: https://diabetotech.readthedocs.io/en/latest/
+      lang: en
+    - name: Nederlands
+      link: https://diabetotech-nl.readthedocs.io/nl/latest/
+      lang: nl
   social:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@diabetotech

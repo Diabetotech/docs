@@ -1,0 +1,44 @@
+site_name: Diabetotech — Nederlands
+site_description: Open diabetes technologie educatie — peer-reviewed
+site_url: https://diabetotech-nl.readthedocs.io
+
+docs_dir: docs/nl
+
+theme:
+  name: material
+  language: nl
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Schakel naar donkere modus
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Schakel naar lichte modus
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - awesome-pages
