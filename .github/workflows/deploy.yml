@@ -14,6 +14,6 @@ jobs:
         with:
           python-version: '3.13'
       - run: pip install mkdocs-material mkdocs-awesome-pages-plugin ghp-import
-      - run: mkdocs build
+      - run: mkdocs build --site-dir site/en/
       - run: mkdocs build --config-file mkdocs-nl.yml --site-dir site/nl/
       - run: ghp-import -n -p -f site
