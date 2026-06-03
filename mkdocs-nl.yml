@@ -513,3 +513,6 @@ extra:
     - name: Nederlands
       link: https://diabetotech.github.io/docs/nl/
       lang: nl
+    - name: Español
+      link: https://diabetotech.github.io/docs/es/
+      lang: es
