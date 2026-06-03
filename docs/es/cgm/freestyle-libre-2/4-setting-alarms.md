@@ -1,0 +1,7 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ufMGtBs87NU" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>4. Configuracion de alarmas (3 min)</u>**
+
+<!-- Pegue aqui el contenido del documento de Google Drive: https://docs.google.com/document/d/1vUWPxwJTtGUF6WcVF72KTfV24IAIbELEc1jNqNdecG4 -->

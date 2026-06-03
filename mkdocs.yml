@@ -1,4 +1,4 @@
-site_name: Diabetotech
+﻿site_name: Diabetotech
 site_description: Open diabetes technology education — peer-reviewed
 site_url: https://diabetotech.github.io/docs/en/
 docs_dir: docs/en
@@ -519,3 +519,4 @@ extra:
       link: https://youtube.com/@diabetotech
     - icon: fontawesome/brands/github
       link: https://github.com/Diabetotech
+
