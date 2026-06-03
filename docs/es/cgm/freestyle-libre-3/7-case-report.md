@@ -2,6 +2,6 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6yjCy0osPHk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Informe de caso (1.5 min)</u>**
+## **<u>4. Después de una hora de calentamiento del sensor, puede ver la glucosa del</u>**
 
-<!-- Pegue aqui el contenido del documento de Google Drive: https://docs.google.com/document/d/1U8ekCRUSXxUE0fV527FNusx_8jMvnTQw -->
+<span class="mark">sensor en el lector. Mostrará su nivel actual de glucosa en el sensor, una flecha de tendencia de glucosa y su curva de glucosa reciente.</span>
