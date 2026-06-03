@@ -43,7 +43,7 @@ plugins:
 
 nav:
   - Inicio: index.md
-  - CGM / MCG:
+  - CGM / CKM:
     - Sensores de glucosa (Módulo principal):
       - Descripción general: cgm/glucose-sensors/index.md
       - 1. Introducción (3.5 min): cgm/glucose-sensors/1-introduction.md
@@ -222,6 +222,26 @@ nav:
       - 5. Compartir datos: cgm/ican-i3-cgm/5-sharing-data.md
       - 6. Conectar otros dispositivos: cgm/ican-i3-cgm/6-connecting-other-devices.md
       - 7. Informe de caso: cgm/ican-i3-cgm/7-case-report.md
+
+  - Bombas de insulina:
+    - Descripción general: pumps/index.md
+
+  - Sistemas AAI:
+    - Descripción general: aid/index.md
+
+  - Bolígrafos inteligentes:
+    - Descripción general: pens/index.md
+
+  - Planes de aprendizaje:
+    - Descripción general: learning-plans/index.md
+    - Para pacientes y familias: learning-plans/patient.md
+    - Para profesionales de la salud: learning-plans/hcp.md
+
+  - Contribuir:
+    - Cómo ayudar: contribute/index.md
+    - Traducir contenido: contribute/translate.md
+    - Mejorar el contenido en GitHub: contribute/github.md
+    - Donar: contribute/donate.md
 
 extra:
   analytics:
