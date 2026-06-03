@@ -1,0 +1,244 @@
+site_name: Diabetotech — Español
+site_description: Educación abierta en tecnología para diabetes — revisada por pares
+site_url: https://diabetotech.github.io/docs/es/
+
+docs_dir: docs/es
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - awesome-pages
+
+nav:
+  - Inicio: index.md
+  - CGM / MCG:
+    - Sensores de glucosa (Módulo principal):
+      - Descripción general: cgm/glucose-sensors/index.md
+      - 1. Introducción (3.5 min): cgm/glucose-sensors/1-introduction.md
+      - 2. Comparación de diferentes sensores (9.5 min): cgm/glucose-sensors/2-comparison-of-different-sensors.md
+      - 3. Fiabilidad de los sensores de glucosa (9 min): cgm/glucose-sensors/3-reliability-of-glucose-sensors.md
+      - 4. Gestión eficaz del lugar del sensor (9.5 min): cgm/glucose-sensors/4-effective-sensor-site-management.md
+      - 5. Interpretación de informes del sensor (6 min): cgm/glucose-sensors/5-interpreting-sensor-reports.md
+      - 6. Perspectivas de expertos: cgm/glucose-sensors/6-expert-insights.md
+
+    - FreeStyle Libre 2 (Plus):
+      - Descripción general: cgm/freestyle-libre-2/index.md
+      - 1. Introducción (3 min): cgm/freestyle-libre-2/1-introduction.md
+      - 2. Colocación del sensor (2 min): cgm/freestyle-libre-2/2-placing-the-sensor.md
+      - 3. Inicio y escaneo del sensor (11 min): cgm/freestyle-libre-2/3-starting-and-scanning-the-sensor.md
+      - 4. Configuración de alarmas (3 min): cgm/freestyle-libre-2/4-setting-alarms.md
+      - 5. Compartir datos (3 min): cgm/freestyle-libre-2/5-sharing-data.md
+      - 6. Conectar otros dispositivos (7.5 min): cgm/freestyle-libre-2/6-connecting-other-devices.md
+      - 7. Informe de caso (2 min): cgm/freestyle-libre-2/7-case-report.md
+
+    - Dexcom G6:
+      - Descripción general: cgm/dexcom-g6/index.md
+      - 1. Introducción (2.5 min): cgm/dexcom-g6/1-introduction.md
+      - 2. Colocación del sensor (4 min): cgm/dexcom-g6/2-placing-the-sensor.md
+      - 3. Inicio del sensor (4 min): cgm/dexcom-g6/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (2.5 min): cgm/dexcom-g6/4-setting-alarms.md
+      - 5. Compartir datos (5.5 min): cgm/dexcom-g6/5-data-sharing.md
+      - 6. Conectar otros dispositivos (6 min): cgm/dexcom-g6/6-connecting-other-devices.md
+      - 7. Informe de caso (2 min): cgm/dexcom-g6/7-case-report.md
+
+    - Guardian 4:
+      - Descripción general: cgm/guardian-4/index.md
+      - 1. Introducción (2.5 min): cgm/guardian-4/1-introduction.md
+      - 2. Colocación del sensor (4 min): cgm/guardian-4/2-placing-the-sensor.md
+      - 3. Inicio del sensor (3.5 min): cgm/guardian-4/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (3 min): cgm/guardian-4/4-setting-alarms.md
+      - 5. Compartir datos (2.5 min): cgm/guardian-4/5-data-sharing.md
+      - 6. Conectar otros dispositivos (5 min): cgm/guardian-4/6-connecting-other-devices.md
+      - 7. Informe de caso (2 min): cgm/guardian-4/7-case-report.md
+
+    - FreeStyle Libre 3 (Plus):
+      - Descripción general: cgm/freestyle-libre-3/index.md
+      - 1. Introducción (3 min): cgm/freestyle-libre-3/1-introduction.md
+      - 2. Colocación del sensor (3 min): cgm/freestyle-libre-3/2-placing-the-sensor.md
+      - 3. Inicio y escaneo del sensor (13.5 min): cgm/freestyle-libre-3/3-starting-and-scanning-the-sensor.md
+      - 4. Configuración de alarmas (4.5 min): cgm/freestyle-libre-3/4-setting-alarms.md
+      - 5. Compartir datos: cgm/freestyle-libre-3/5-sharing-data.md
+      - 6. Conectar otros dispositivos (9 min): cgm/freestyle-libre-3/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/freestyle-libre-3/7-case-report.md
+
+    - Dexcom G7:
+      - Descripción general: cgm/dexcom-g7/index.md
+      - 1. Introducción (3 min): cgm/dexcom-g7/1-introduction.md
+      - 2. Colocación del sensor (5 min): cgm/dexcom-g7/2-placing-the-sensor.md
+      - 3. Inicio del sensor (11.5 min): cgm/dexcom-g7/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (5 min): cgm/dexcom-g7/4-setting-alarms.md
+      - 5. Compartir datos (6 min): cgm/dexcom-g7/5-data-sharing.md
+      - 6. Conectar otros dispositivos (7.5 min): cgm/dexcom-g7/6-connecting-other-devices.md
+      - 7. Informe de caso (2 min): cgm/dexcom-g7/7-case-report.md
+
+    - Dexcom ONE+:
+      - Descripción general: cgm/dexcom-one-plus/index.md
+      - 1. Introducción (2.5 min): cgm/dexcom-one-plus/1-introduction.md
+      - 2. Colocación del sensor (4 min): cgm/dexcom-one-plus/2-placing-the-sensor.md
+      - 3. Inicio del sensor (5.5 min): cgm/dexcom-one-plus/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (2.5 min): cgm/dexcom-one-plus/4-setting-alarms.md
+      - 5. Compartir datos: cgm/dexcom-one-plus/5-data-sharing.md
+      - 6. Conectar otros dispositivos (5 min): cgm/dexcom-one-plus/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/dexcom-one-plus/7-case-report.md
+
+    - Simplera:
+      - Descripción general: cgm/simplera/index.md
+      - 1. Introducción (3 min): cgm/simplera/1-introduction.md
+      - 2. Colocación del sensor (3.5 min): cgm/simplera/2-placing-the-sensor.md
+      - 3. Inicio del sensor (5 min): cgm/simplera/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (4.5 min): cgm/simplera/4-setting-alarms.md
+      - 5. Compartir datos (3 min): cgm/simplera/5-data-sharing.md
+      - 6. Conectar otros dispositivos (5.5 min): cgm/simplera/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/simplera/7-case-report.md
+
+    - TouchCare Nano CGM:
+      - Descripción general: cgm/touchcare-nano-cgm/index.md
+      - 1. Introducción (2 min): cgm/touchcare-nano-cgm/1-introduction.md
+      - 2. Colocación del sensor (5.5 min): cgm/touchcare-nano-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor (7.5 min): cgm/touchcare-nano-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (5 min): cgm/touchcare-nano-cgm/4-setting-alarms.md
+      - 5. Compartir datos (4 min): cgm/touchcare-nano-cgm/5-data-sharing.md
+      - 6. Conectar otros dispositivos (1.5 min): cgm/touchcare-nano-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/touchcare-nano-cgm/7-case-report.md
+
+    - Accu-Chek SmartGuide:
+      - Descripción general: cgm/accu-chek-smartguide-cgm/index.md
+      - 1. Introducción (3 min): cgm/accu-chek-smartguide-cgm/1-introduction.md
+      - 2. Colocación del sensor (4 min): cgm/accu-chek-smartguide-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor (12.5 min): cgm/accu-chek-smartguide-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (12.5 min): cgm/accu-chek-smartguide-cgm/4-setting-alarms.md
+      - 5. Compartir datos (5 min): cgm/accu-chek-smartguide-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos (2.5 min): cgm/accu-chek-smartguide-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/accu-chek-smartguide-cgm/7-case-report.md
+
+    - Eversense 365:
+      - Descripción general: cgm/eversense-365/index.md
+      - 1. Introducción (3 min): cgm/eversense-365/1-introduction.md
+      - 2. Colocación del sensor (10.5 min): cgm/eversense-365/2-placing-the-sensor.md
+      - 3. Inicio del sensor (14 min): cgm/eversense-365/3-starting-the-sensor.md
+      - 4. Configuración de alertas (5.5 min): cgm/eversense-365/4-setting-alerts.md
+      - 5. Compartir datos (5.5 min): cgm/eversense-365/5-data-sharing.md
+      - 6. Conectar otros dispositivos (5.5 min): cgm/eversense-365/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/eversense-365/7-case-report.md
+
+    - LinX CGM:
+      - Descripción general: cgm/linx-cgm/index.md
+      - 1. Introducción (3 min): cgm/linx-cgm/1-introduction.md
+      - 2. Colocación del sensor (3.5 min): cgm/linx-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor (5 min): cgm/linx-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (2.5 min): cgm/linx-cgm/4-setting-alarms.md
+      - 5. Compartir datos (4.5 min): cgm/linx-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos (3.5 min): cgm/linx-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso (1 min): cgm/linx-cgm/7-case-report.md
+
+    - CareSens Air:
+      - Descripción general: cgm/caresens-air/index.md
+      - 1. Introducción (2.5 min): cgm/caresens-air/1-introduction.md
+      - 2. Colocación del sensor (3.5 min): cgm/caresens-air/2-placing-the-sensor.md
+      - 3. Inicio del sensor (8.5 min): cgm/caresens-air/3-starting-the-sensor.md
+      - 4. Configuración de alertas (7 min): cgm/caresens-air/4-setting-alerts.md
+      - 5. Compartir datos (10.5 min): cgm/caresens-air/5-sharing-data.md
+      - 6. Conectar otros dispositivos (4.5 min): cgm/caresens-air/6-connecting-other-devices.md
+      - 7. Conclusión (1 min): cgm/caresens-air/7-conclusion.md
+
+    - Sibionics GS3:
+      - Descripción general: cgm/sibionics-gs3-cgm/index.md
+      - 1. Introducción (2.5 min): cgm/sibionics-gs3-cgm/1-introduction.md
+      - 2. Colocación del sensor (3 min): cgm/sibionics-gs3-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor (5 min): cgm/sibionics-gs3-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas (4 min): cgm/sibionics-gs3-cgm/4-setting-alarms.md
+      - 5. Compartir datos (4 min): cgm/sibionics-gs3-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos (2.5 min): cgm/sibionics-gs3-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso (1.5 min): cgm/sibionics-gs3-cgm/7-case-report.md
+
+    - Instinct CGM:
+      - Descripción general: cgm/instinct-cgm/index.md
+      - 1. Introducción (2.5 min): cgm/instinct-cgm/1-introduction.md
+      - 2. Colocación del sensor (3.5 min): cgm/instinct-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor (7.5 min): cgm/instinct-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alertas (9 min): cgm/instinct-cgm/4-setting-alerts.md
+      - 5. Compartir datos (3.5 min): cgm/instinct-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos (4.5 min): cgm/instinct-cgm/6-connecting-other-devices.md
+      - 7. Conclusión (1.5 min): cgm/instinct-cgm/7-conclusion.md
+
+    - Stelo:
+      - Descripción general: cgm/stelo-cgm/index.md
+      - 1. Introducción: cgm/stelo-cgm/1-introduction.md
+      - 2. Colocación del sensor: cgm/stelo-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor: cgm/stelo-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas: cgm/stelo-cgm/4-setting-alarms.md
+      - 5. Compartir datos: cgm/stelo-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos: cgm/stelo-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso: cgm/stelo-cgm/7-case-report.md
+
+    - Lingo:
+      - Descripción general: cgm/lingo-cgm/index.md
+      - 1. Introducción: cgm/lingo-cgm/1-introduction.md
+      - 2. Colocación del sensor: cgm/lingo-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor: cgm/lingo-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas: cgm/lingo-cgm/4-setting-alarms.md
+      - 5. Compartir datos: cgm/lingo-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos: cgm/lingo-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso: cgm/lingo-cgm/7-case-report.md
+
+    - iCan i3:
+      - Descripción general: cgm/ican-i3-cgm/index.md
+      - 1. Introducción: cgm/ican-i3-cgm/1-introduction.md
+      - 2. Colocación del sensor: cgm/ican-i3-cgm/2-placing-the-sensor.md
+      - 3. Inicio del sensor: cgm/ican-i3-cgm/3-starting-the-sensor.md
+      - 4. Configuración de alarmas: cgm/ican-i3-cgm/4-setting-alarms.md
+      - 5. Compartir datos: cgm/ican-i3-cgm/5-sharing-data.md
+      - 6. Conectar otros dispositivos: cgm/ican-i3-cgm/6-connecting-other-devices.md
+      - 7. Informe de caso: cgm/ican-i3-cgm/7-case-report.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-6Z9ZYHEYTC
+  alternate:
+    - name: English
+      link: https://diabetotech.github.io/docs/en/
+      lang: en
+    - name: Nederlands
+      link: https://diabetotech.github.io/docs/nl/
+      lang: nl
+    - name: Español
+      link: https://diabetotech.github.io/docs/es/
+      lang: es
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@diabetotech
+    - icon: fontawesome/brands/github
+      link: https://github.com/Diabetotech
