@@ -3,6 +3,10 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Inicio de un sistema AID: indicaciones, momento y eleccion del sistema adecuado</u>**
+## **<u>4. Diabeloop:</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 3.1 AID Systems - v3.pdf -->
+- Características: El algoritmo DBLG1 es conocido por sus numerosos ajustes
+regulables, su modo Zen opcional y su algoritmo de autoaprendizaje de.
+- Consideraciones: Los inconvenientes son que necesitas tener el auricular
+cerca del cuerpo en todo momento para permanecer en modo automático, y
+que no hay ninguna aplicación específica disponible para seguirlo.

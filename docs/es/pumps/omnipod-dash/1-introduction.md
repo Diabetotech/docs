@@ -3,6 +3,6 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduccion</u>**
+## **<u>1. Haz clic en el enlace que aparece debajo de este vídeo para abrir el PDM virtual.</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.6 Omnipod DASH  - v3.pdf -->
+

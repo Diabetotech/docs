@@ -3,6 +3,6 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Funcionamiento de la bomba</u>**
+## **<u>2. Familiarízate con la genial interfaz de la aplicación y sus increíbles</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.6 Omnipod DASH  - v3.pdf -->
+funcionalidades.

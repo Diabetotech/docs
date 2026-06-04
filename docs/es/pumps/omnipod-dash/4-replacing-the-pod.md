@@ -3,6 +3,6 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Sustitucion del pod</u>**
+## **<u>4. Captura una captura de pantalla de tu PDM virtual en acción, ¡dando ese</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.6 Omnipod DASH  - v3.pdf -->
+momento de bolo épico!

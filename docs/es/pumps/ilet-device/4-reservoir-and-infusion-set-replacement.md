@@ -3,6 +3,206 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Sustitucion del deposito y el set de infusion</u>**
+## **<u>4. Sustitución del depósito y del equipo de infusión</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.8 iLet Device - v2.pdf -->
+Bienvenido a esta lección sobre la sustitución del depósito y el equipo de infusión
+en el dispositivo iLet.
+En este vídeo, trataremos las diferentes opciones de equipos de infusión, las
+instrucciones paso a paso para sustituir el cartucho de insulina y el equipo de
+infusión, y consejos útiles para tener éxito.
+4.1 Diferentes equipos de infusión
+El equipo de infusión Inset 1 es el más utilizado para el dispositivo iLet. Tiene una
+cánula de teflón de 6 mm en ángulo recto.
+
+Si prefiere una cánula de acero, puede optar por el equipo de infusión Contact
+Detach. Encontrará una descripción detallada de estos equipos de infusión,
+incluidas las longitudes de los tubos y las cánulas y los volúmenes de llenado, en la
+descarga que hay debajo de este vídeo.
+Demostraremos cómo cambiar el depósito de insulina y el equipo de infusión
+utilizando el equipo de infusión Inset 1. Para ver vídeos de demostración de los
+equipos de infusión Contact Detach, consulte el enlace que aparece debajo de este
+vídeo.
+Contact Detach => https://www.youtube.com/watch?v=8xtQm11BeKk
+4.2 Cambio del cartucho de insulina y del equipo de infusión
+Comience por lavarse las manos y asegurarse de que su espacio de trabajo está
+limpio, y reúna estos elementos: tu Dispositivo iLet, unsistema de infusión con
+tubos, un luer lock iLet Connect, unas toallitas con alcohol y tu insulina a
+temperatura ambiente. Puede ser un cartucho de insulina precargado, por ejemplo
+de 160 U de Fiasp, o puede ser tu vial de insulina con un cartucho iLet de 180 U,
+jeringa y aguja.
+#1 Sustitución del depósito
+Para rellenar el cartucho iLet con insulina, reúna los siguientes suministros: un
+cartucho islote, una jeringa y una aguja, un vial de insulina Humalog o Novolog o
+Fiasp y una toallita con alcohol. Si utiliza cartuchos precargados de Fiasp, puede
+omitir este paso.
+En primer lugar, limpie la parte superior del vial de insulina con una toallita con
+alcohol y déjela secar. A continuación, abra el envase del cartucho iLet y extraiga el
+cartucho vacío del envase. Abra el envase de la jeringa y extraiga la jeringa del
+envase. Por último, abra el envase de la aguja y sáquela del embalaje.
+Acople la jeringa a la aguja girando una sobre otra. Retire el protector de la aguja
+sin tocarla. Tire hacia atrás del émbolo de la jeringa. Asegúrate de que el émbolo
+está en la marca de 1,8 mililitros, que está aproximadamente a medio camino entre
+las marcas de 1,5 y 2 mililitros. Inserta la jeringa en el vial de insulina mientras el
+vial está colocado en posición vertical sobre una mesa o encimera. Empuje hacia
+
+abajo el émbolo de la jeringa para llenar el vial con el aire de la jeringa. Sin soltar el
+vástago del émbolo, invierta el vial de insulina y la jeringa.
+Con cuidado y lentamente, tire hacia atrás de la varilla del émbolo de la jeringa para
+llenarla con la cantidad de insulina que necesite en 2 ó 3 días, pero no más de 1,8
+mililitros. Elimine el aire que quede en la jeringa. Tire hacia atrás lo necesario, de
+nuevo, para llenar la jeringa hasta aproximadamente 1,8 mililitros.
+Para llenar el cartucho iLet, coloque la base del cartucho vacío en posición vertical
+sobre una superficie plana. Sujete el cartucho con una mano. Con la otra mano,
+inserte la aguja de la jeringa en el tabique vacío del cartucho. Presiona lentamente
+el émbolo de la jeringa para transferir la insulina de la jeringa al cartucho. Es
+importante no llenar demasiado el cartucho. El émbolo de goma de la parte
+posterior podría salirse si se transfiere demasiada insulina. Si esto ocurre, deseche
+el cartucho y utilice uno nuevo. El cartucho no contiene más de 1,8 mililitros de
+insulina.
+Extraiga todo el aire que pueda del cartucho tirando ligeramente hacia atrás del
+vástago del émbolo de la jeringa. Una vez que no queden burbujas de aire dentro
+del cartucho, retire la jeringa y deseche la aguja de la jeringa en un contenedor para
+objetos punzantes.
+Cuando llenes el cartucho de insulina, recuerda mantener la aguja recta y no la
+inclines para intentar eliminar las burbujas de los lados del cartucho. Esto puede
+romper el tabique del cartucho, lo que puede provocar fugas de insulina. Si el
+tabique se rompe, desecha el cartucho y reinicia el proceso. Si sigue habiendo una
+burbuja cerca de la parte superior del cartucho, retire lentamente la aguja de la
+jeringa del cartucho mientras mantiene la presión sobre el émbolo. La punta de la
+aguja debería estar ahora rodeada por la burbuja de aire. Tira del émbolo hacia
+atrás hasta que se haya eliminado la burbuja de aire.
+Es importante recordar que hay que ser cuidadoso al rellenar el cartucho de
+insulina. No introduzcas la aguja demasiadas veces ni la muevas demasiado
+mientras está insertada en el cartucho. Estas cosas pueden desgarrar el tabique, lo
+que provocará fugas de insulina en el iLet. Tenga cuidado de eliminar las burbujas
+grandes del cartucho, pero las burbujas pequeñas y abundantes son aceptables y se
+eliminarán cuando cebe el tubo.
+
+No conecte todavía el cartucho de insulina lleno al iLet Connect o al tubo de
+insulina. Nunca deben colocarse fuera del iLet.
+En primer lugar, debe preparar el iLet para el cartucho y el tubo de insulina.
+Recuerde que no debe insertar el cartucho lleno en el iLet hasta que esté
+completamente enrollado.
+Para preparar su tubo de insulina, tire de la cinta roja para retirar el precinto de
+seguridad del equipo de infusión Inset. Retire el papel estéril. Para retirar la tapa,
+presione firmemente los tres puntos elevados de cada lado mientras levanta la
+tapa. Tenga cuidado de no doblar ni tocar la aguja introductora al preparar el equipo
+de infusión. La aguja debe venir bien colocada en el introductor, apuntando recta, no
+en ángulo ni suelta. Si no está recta o si está suelta y se intenta la inserción, puede
+producirse dolor o lesiones leves. Para evitarlo, asegúrese de que los siguientes
+pasos se realizan con cuidado para que el equipo de infusión no se afloje o se retire
+por accidente. Desenrolle el tubo desenganchándolo con cuidado de la ranura.
+Ahora desenrolle el tubo del introductor tirando con cuidado hacia arriba. Tenga
+cuidado de no tocar la aguja introductora mientras desenrolla el tubo o de no tirar
+demasiado fuerte cuando el tubo esté completamente desenrollado, ya que podría
+extraer accidentalmente el equipo de infusión del insertador. Conecte el adaptador
+Luer iLet Connect y el tubo flexible del equipo de infusión de insulina girando uno
+dentro del otro hasta que quede apretado. Asegúrese de que esta conexión esté
+recta y apretada.
+Una vez que el tubo de insulina esté listo, prepare el Dispositivo iLet para el nuevo
+cartucho de insulina. En la pantalla de inicio, selecciona el icono Insulina Cartucho.
+Seleccione Cambiar cartucho y tubo. Desconecte cualquier tubo del equipo de
+infusión de insulina de su cuerpo. Deje que el dispositivo iLet complete el proceso
+de rebobinado. A continuación, retire el cartucho de insulina antiguo y el tubo
+conectado. Inserte el cartucho de insulina sólo cuando haya finalizado el proceso de
+rebobinado.
+Inserte el nuevo cartucho de insulina en la cámara de insulina del Dispositivo iLet.
+Una vez introducido el cartucho, inserte el iLet Connect en la cámara del Dispositivo
+iLet para bloquear el cartucho de insulina lleno en su sitio. Sin dejar de empujar el
+iLet Connect en la cámara, gire el conector un cuarto de vuelta hacia la derecha
+hasta que el iLet Connect quede bien ajustado.
+
+#2 Llenado del tubo
+Una vez colocado el nuevo cartucho de insulina, pulse "Ir a llenar tubo" en la
+pantalla del dispositivo iLet. Mantenga pulsado el botón "Pulsar y mantener" hasta
+que el tubo esté lleno, sin burbujas, y vea gotas en el extremo del equipo de
+infusión de insulina. Asegúrese de que no quedan burbujas de aire en el tubo.
+Cuando llene el tubo del equipo de infusión, sujételo con la aguja hacia abajo para
+asegurarse de que la insulina no entra en contacto con el papel adhesivo. Cuando
+el tubo de insulina esté lleno y vea gotas en el extremo, pulse "Sí" en la pantalla
+para completar el proceso.
+La bomba le preguntará ahora si también necesita sustituir el equipo de infusión.
+-​ Si no necesita insertar una nueva base del equipo de infusión de insulina,
+seleccione "No" y conecte el nuevo tubo del equipo de infusión de insulina a
+la base del equipo de infusión de insulina que ya está en su cuerpo.
+-​ Si necesita insertar una nueva base de infusión de insulina, seleccione "Sí".
+#3 Colocación del set de infusión
+Ahora, estamos listos para colocar el set de infusión. Tire suavemente de la
+lengüeta blanca para retirar el papel adhesivo. Coloque los dedos en las hendiduras
+rayadas de cada lado. Tire firmemente del muelle hacia atrás hasta que oiga un clic.
+Retire con cuidado el protector de la aguja girándolo suavemente y tirando de él
+hacia arriba, teniendo cuidado de no tocar la propia aguja. Compruebe que la cánula
+blanda no sobrepasa la aguja introductora. Antes de colocar el equipo de infusión
+inserto sobre un sitio de inserción limpio, coloque el tubo en la ranura para
+asegurarse de que el tubo no quede atrapado debajo del equipo de infusión durante
+la inserción. Inserte el equipo de infusión colocándolo sobre el punto de inserción
+limpio. Simultáneamente, presione las hendiduras redondas a cada lado del insertor
+para insertar el set de infusión. Empuje suavemente el centro del insertador para
+fijar el adhesivo en la piel. Retire el insertador e introduzca una aguja agarrando el
+centro y tirando suavemente hacia atrás. Masajee suavemente la cinta adhesiva
+sobre la piel.
+#4 Relleno de la cánula
+Si se ha insertado una nueva base de infusión de insulina y el tubo de insulina está
+conectado a ella, arrastre "Siguiente" para ir a la pantalla Llenar cánula.
+
+Arrastre "Llenar" hacia la derecha para llenar la cánula. El usuario debe seleccionar
+el tipo de equipo de insulina que está utilizando. Si se ha seleccionado un equipo de
+infusión de teflón, "Llenar cánula" suministrará el volumen adecuado de insulina
+para llenar la cánula y restablecerá el recordatorio para sustituir el equipo de
+infusión a la cuenta atrás de tres días. Para un equipo de infusión de acero, "Llenar
+Cánula" no suministrará insulina (la cánula de acero se llena durante el cebado)
+pero reiniciará el recordatorio para reemplazar el equipo de infusión a la cuenta
+atrás de dos días.
+Cuando la cánula termine de llenarse, verá una pantalla confirmando que el proceso
+se ha completado. ¡Buen trabajo! Ya has sustituido con éxito el depósito de insulina
+y el equipo de infusión.
+4.3 Qué hacer y qué no hacer
+- La insulina aprobada en el Dispositivo iLet es Novolog, Humalog y Fiasp.
+- El depósito de insulina o el cartucho de insulina deben sustituirse cuando se
+agote la insulina o cada 3 días en el caso de los equipos de infusión de teflón,
+o cada 2 días en el caso de los equipos de infusión de acero, lo que ocurra
+antes. El dispositivo iLet no se apaga automáticamente, pero recibirá una
+notificación. El iLet Connect y el tubo del equipo de infusión deben sustituirse
+cada vez que sustituya el cartucho de insulina iLet. El cartucho de insulina
+iLet, el iLet Connect y el tubo deben sustituirse siempre juntos. Ninguno de
+estos componentes debe reutilizarse, y no deben separarse una vez
+conectados.
+- Su equipo de infusión debe sustituirse cada 3 días en el caso de las cánulas
+de teflón o cada 2 días en el caso de las cánulas de acero, aunque el depósito
+no esté vacío. Sustituya siempre su equipo de infusión iLet (así como el
+cartucho, el tubo y el conector) si tiene alguna duda de que no funciona.
+- Si hay una burbuja grande en el iLet Connect o en el tubo, puede utilizar
+"Llenar sólo el tubo" a través del "Icono del cartucho" para cebar la burbuja y
+garantizar un suministro de insulina constante. Asegúrese de que el usuario
+se desconecta del punto de infusión antes de cebar el tubo.
+- El equipo de infusión debe colocarse a una distancia mínima de 7,5 cm o 3
+pulgadas de un MCG Dexcom, y a 2,5 cm o 1 pulgada de un MCG Abbott.
+- Evite colocar el tubo en la muesca del insertador antes de tirar del insertador
+accionado por resorte, ya que esto creará tensión y puede provocar que la
+
+cánula se doble. Introduzca el tubo en la muesca sólo después de cargar el
+insertador.
+- Antes de desechar el dispositivo de inserción, vuelva a colocar la tapa hasta
+que haga clic.
+- Recuerde, 2 horas después de insertar un nuevo equipo, debe comprobar su
+nivel de glucosa. Comprobar el nivel de glucosa es la única forma de
+confirmar que el equipo de infusión está bien colocado y que está recibiendo
+insulina.
+- El set de infusión Inset le permite desconectar temporalmente su bomba sin
+tener que cambiar el set de infusión. Sujete la cinta adhesiva colocando un
+dedo justo delante del alojamiento canular y apriete suavemente los
+laterales del conector. Tire de la aguja del conector para sacarla del
+alojamiento canular. Si lo prefiere, inserte la tapa de desconexión en el
+alojamiento canular hasta que oiga un clic. Para volver a conectar el tubo al
+equipo de infusión, retire la tapa de desconexión del alojamiento canular.
+Asegure el flujo llenando el tubo hasta que la insulina salga por la aguja.
+Cuando llenes el tubo, sujeta la aguja del conector apuntando hacia abajo.
+Coloque un dedo sobre la cinta adhesiva situada justo delante del
+alojamiento del canular y empuje la aguja del conector hacia dentro hasta
+que oiga un clic. Ya estás listo para reiniciar la administración de insulina.
+Ahora ya sabes cómo sustituir el depósito de insulina y el equipo de infusión del
+dispositivo iLet. Si tropiezas, no te preocupes - es perfectamente normal. Mantenga
+la calma, siga los pasos y recuerde que, si todo lo demás falla, siempre tiene a su
+disposición el servicio gratuito de atención al cliente de Beta Bionics. Además, no
+olvides que puedes ponerte en contacto con tu equipo de diabetes, que también
+dispone de un servicio de guardia para asistencia médica. ¡Mucha suerte!

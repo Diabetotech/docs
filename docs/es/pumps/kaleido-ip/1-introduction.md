@@ -3,6 +3,51 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduccion</u>**
+## **<u>1. Introducción</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.7 Kaleido IP - v2.pdf -->
+¡Bienvenido a este módulo sobre la bomba de insulina Kaleido! En este módulo,
+exploraremos las características y el funcionamiento de la bomba de insulina
+Kaleido.
+Esta bomba de insulina modular puede utilizarse como bomba de standalona
+independiente, pero también en un sistema automatizado de administración de
+insulina como DBLG1 de Diabeloop con Kaleido. Este módulo se centra
+específicamente en la bomba de insulina Kaleido, utilizando el microteléfono
+dedicado Kaleido, proporcionando información valiosa sobre su uso y funcionalidad.
+La bomba Kaleido es una bomba semiparche que funciona con un dispositivo
+portátil y es conocida por su amplia gama de colores. Cada usuario recibe dos
+bombas y puede elegir entre diez combinaciones de colores diferentes para la
+bomba y el microteléfono, desde el naranja vibrante hasta el negro clásico.
+Tanto el dispositivo como las bombas son recargables y reutilizables durante cuatro
+años. Sin embargo, es importante tener en cuenta que el depósito de insulina, o
+cartucho, y el equipo de infusión deben sustituirse al menos cada tres días.
+Una de las características más destacadas de la bomba Kaleido es su tamaño
+compacto, que la convierte en una de las bombas duraderas más pequeñas del
+mercado. Puede fijarse a la piel mediante un tubo corto de 5 cm (o 2 pulgadas), o
+puede llevarse cómodamente en el bolsillo con un tubo más largo de 30 cm (o 12
+pulgadas).
+En el módulo general sobre bombas de insulina, ya ha aprendido los fundamentos
+de las bombas de insulina, como su funcionamiento, la configuración de la insulina
+basal y en bolo, el cambio de insulina y de los equipos de infusión, y la gestión de
+las alarmas.
+En los próximos vídeos, mostraremos Kaleido en acción, centrándonos en aspectos
+específicos de la formación inicial para esta bomba de semiparche. Tenga en cuenta
+que el contenido presentado aquí puede cambiar sin notificación previa. El Manual
+del usuario del dispositivo médico sigue siendo el documento principal para
+garantizar un funcionamiento seguro, y es importante tener en cuenta que estos
+
+vídeos no pretenden ser un consejo médico. Consulte siempre a su profesional
+sanitario antes de realizar cualquier ajuste en su terapia.
+Estos vídeos han sido creados por la Dra. Inge Van Boxelaer, fundadora de
+Diabetotech y endocrinóloga del Hospital St-Lucas de Gante (Bélgica). El contenido
+ha sido revisado por la Dra. Sarah Siegelaar, endocrinóloga del UMC de Ámsterdam
+en los Países Bajos, así como por Vanessa Buitendijk de los Países Bajos, una
+persona con diabetes tipo 1 que utiliza la bomba Kaleido. Sus contribuciones
+garantizan que la información proporcionada sea imparcial e independiente.
+Al final de estos vídeos, comprenderá perfectamente cómo funciona la bomba de
+insulina Kaleido, cómo ajustar la insulina basal y en bolo, cómo cambiar el depósito
+de insulina y el equipo de infusión, y qué medidas tomar en caso de alarma.
+Tanto si eres un cuidador que busca guiar a las personas que utilizan Kaleido, como
+si eres un usuario que se prepara para una puesta en marcha con éxito, estos vídeos
+te proporcionarán valiosos conocimientos, junto con consejos prácticos y trucos para
+mejorar tu experiencia con Kaleido.
+¡Le deseamos la mejor de las suertes en su viaje con la bomba de insulina Kaleido!

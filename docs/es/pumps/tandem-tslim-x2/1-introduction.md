@@ -3,6 +3,42 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduccion</u>**
+## **<u>1. Introducción</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.3 Tandem t_slim X2 - v3.pdf -->
+Bienvenido a este vídeo informativo sobre la bomba de insulina Tandem t:slim X2.
+Esta bomba se utiliza principalmente junto con la tecnología Tandem Control-IQ,
+que la combina con un sensor de glucosa como un sensor Dexcom G6, Dexcom G7
+o FreeStyle Libre para un control avanzado de la diabetes.
+En los anteriores vídeos generales sobre bombas de insulina, aprendiste los
+fundamentos del funcionamiento de las bombas de insulina, la configuración de la
+insulina basal y en bolo, el cambio de insulina y de los equipos de infusión y el
+manejo de las alarmas.
+En los siguientes vídeos, nos centraremos específicamente en la bomba de insulina
+Tandem t:slim X2, proporcionando una completa formación inicial sobre esta bomba
+ampliamente utilizada. Estas explicaciones beneficiarán a los profesionales
+sanitarios que guían a las personas que utilizan la bomba Tandem y ofrecerán
+apoyo a quienes se inician en el uso de la bomba Tandem. Tenga en cuenta que
+estos vídeos no pretenden ser un consejo médico. Es fundamental que consulte a su
+profesional sanitario antes de realizar cualquier ajuste terapéutico.
+Los vídeos han sido producidos por la Dra. Inge Van Boxelaer, fundadora de
+Diabetotech y endocrinóloga del hospital general St-Lucas de Gante (Bélgica). El
+contenido fue revisado por la Dra. Liesbeth Van Huffel, endocrinóloga del Hospital
+OLV de Aalst (Bélgica), junto con Rosaline Jongeneelen e Ilse Faber, ambas usuarias
+del sistema Tandem Control-IQ residentes en los Países Bajos. Aquí puede ver sus
+declaraciones. Sus declaraciones figuran debajo del vídeo. Sus conocimientos y
+experiencias personales garantizan que la información presentada en los vídeos sea
+completa e imparcial.
+Al ver estos vídeos, comprenderá claramente:
+- - - - Cómo funciona la bomba de insulina Tandem t:slim X2
+Cómo ajustar la insulina basal y en bolo en la micro-infusora
+Cómo cambiar el depósito de insulina y el equipo de infusión
+Y qué medidas tomar en caso de alarma de la bomba
+
+Como profesional sanitario, estos vídeos le proporcionarán los conocimientos
+necesarios para guiar mejor a las personas que utilizan la bomba de insulina
+Tandem t:slim X2. Para los usuarios de la micro-infusora Tandem, este recurso les
+ayudará a prepararse para un inicio satisfactorio con la micro-infusora, a la vez que
+les proporcionará valiosos consejos y trucos para que la vida con Tandem Control IQ
+sea aún más llevadera.
+Le deseamos la mejor de las suertes en su viaje con la bomba de insulina Tandem
+t:slim X2, ya sea como profesional sanitario o como persona con diabetes.

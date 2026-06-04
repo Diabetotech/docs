@@ -3,6 +3,58 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduccion</u>**
+## **<u>1. Introducción</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 3.6 Omnipod 5 - v3.pdf -->
+Bienvenido a este completo módulo sobre el sistema automático de administración
+de insulina Omnipod 5. Diseñado para proporcionarle un conocimiento profundo del
+sistema, este módulo le guiará a través de sus componentes, funcionalidad y
+aplicación práctica. Al final de este módulo, habrá adquirido valiosos conocimientos
+sobre cómo utilizar eficazmente el sistema Omnipod 5 en el control de su diabetes.
+El sistema automatizado de administración de insulina Omnipod 5 se utiliza
+ampliamente en Estados Unidos y ha llegado recientemente a Europa, con
+expectativas de expandirse a más países en un futuro próximo. El sistema combina
+tres componentes clave:
+- Un sensor de glucosa como el Dexcom G6, Dexcom G7 o FreeStyle Libre 2
+Plus, que proporciona un control preciso y continuo de la glucosa.
+- La bomba de insulina Omnipod 5, que comparte similitudes con la Omnipod
+DASH.
+- Y el algoritmo SmartAdjust integrado, que ajusta automáticamente la
+administración de insulina en función de los datos de glucosa.
+Se puede acceder a los informes del sistema y analizarlos mediante la plataforma
+Glooko o la plataforma dedicada Omnipod Discover. El control de la bomba puede
+gestionarse a través del controlador Omnipod 5. En Estados Unidos también existe
+una aplicación Omnipod 5 disponible para teléfonos iOS y Android. Si utilizas un
+sensor Dexcom, la app Dexcom G6 o G7 juega un papel crucial en el sistema
+Omnipod 5, permitiendo a los miembros de la familia seguir y monitorizar
+fácilmente los niveles de glucosa a través de la app Dexcom Follow. Cuando se
+utiliza un sensor FreeStyle Libre, los datos de glucosa pueden compartirse con
+familiares a través de LibreLinkUp, dependiendo de la disponibilidad regional.
+A lo largo de este módulo, nos basaremos en los conocimientos adquiridos en
+nuestros vídeos generales sobre los sistemas automáticos de administración de
+insulina, cubriendo temas como la comparación de estos sistemas de AID utilizando
+
+el marco de referencia CARES, la selección del sistema adecuado para sus
+necesidades, la interpretación de los informes y la gestión de diversos escenarios
+como la hipo y la hiperglucemia, el ejercicio, la enfermedad, las comidas ricas en
+grasas, el alcohol y los viajes.
+Es fundamental recordar que estos vídeos no pretenden ser un consejo médico, por
+lo que se recomienda consultar al médico antes de realizar cualquier ajuste en el
+tratamiento.
+El contenido del curso ha sido desarrollado por la Dra. Inge Van Boxelaer,
+fundadora de Diabetotech y endocrinóloga del hospital St-Lucas de Gante en
+Bélgica. El material ha sido revisado por Gary Scheiner, especialista certificado en
+atención y educación diabéticas y usuario y formador de OmniPod de Integrated
+Diabetes Services en EE.UU., y Meg Cremin por EE.UU., una persona con diabetes
+tipo 1 que utiliza el sistema Omnipod 5. Sus conocimientos y experiencia personal
+contribuyen a que los vídeos ofrezcan una información completa y fiable.
+Al final de este módulo, habrá adquirido un conocimiento exhaustivo del sistema
+automatizado de administración de insulina Omnipod 5, incluido su funcionamiento
+dentro del paradigma CARES, la implementación práctica mediante el controlador y
+la aplicación Omnipod 5, la generación e interpretación de informes mediante
+Glooko y las estrategias para gestionar la hipo e hiperglucemia, el ejercicio, las
+enfermedades, las comidas ricas en grasas, el alcohol y los viajes.
+Como cuidador, estará equipado para ayudar mejor a las personas que utilicen el
+sistema Omnipod 5, y como usuario de Omnipod 5, estará bien preparado para una
+puesta en marcha satisfactoria, ¡armado con una gran cantidad de consejos y trucos
+para simplificar el control de su diabetes con el sistema Omnipod 5!
+Mucha suerte en su viaje.

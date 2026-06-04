@@ -3,6 +3,24 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>7. Informe de caso</u>**
+## **<u>7. Caso clínico</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 3.9 Diabeloop-Kaleido - v2.pdf -->
+El sistema DBLG1 con Kaleido es un sistema automatizado de administración de
+insulina relativamente nuevo. A pesar de nuestra incapacidad para encontrar una
+revisión de usuario en YouTube en la actualidad, estamos ansiosos por ofrecer ideas
+de Dr. Bernhard Gehr en Alemania, que ha revisado la iteración anterior,
+Diabeloop-Insight. Aunque Diabeloop-Insight es anterior al actual sistema DBLG1
+con Kaleido, las lecciones aprendidas de la evaluación del Dr. Gehr siguen siendo
+relevantes.
+El Dr. Gehr destaca sus experiencias iniciales con el sistema, haciendo hincapié en
+su impacto positivo en la vida de los pacientes. El sistema ha demostrado
+excelentes resultados, proporcionando a las personas una mejor calidad de vida.
+Por favor, haga clic en el enlace debajo de esta lección, para ver la revisión del Dr.
+Gehr ahora.
+https://www.youtube.com/watch?v=ZuwB7I-53rQ - 5 min
+Enhorabuena por haber completado este curso sobre el sistema DBLG1 de Kaleido.
+Al equiparse con el conocimiento y la comprensión, usted ha dado un paso
+significativo hacia la gestión eficaz de su diabetes. Este logro es importante porque
+le permite tomar decisiones con conocimiento de causa, optimizar su tratamiento y
+mejorar su bienestar general. Recuerde que usted es capaz de recorrer con éxito el
+camino de la diabetes, y le felicitamos por su dedicación y compromiso con su salud.

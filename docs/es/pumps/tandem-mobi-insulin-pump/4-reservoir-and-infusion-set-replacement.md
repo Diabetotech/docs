@@ -3,6 +3,131 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Sustitucion del deposito y el set de infusion</u>**
+## **<u>4. Sustitución del depósito y del equipo de infusión</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.9 Tandem Mobi Insulin Pump - v2.pdf -->
+Bienvenido a esta lección sobre la sustitución del depósito y el equipo de infusión de la
+bomba de insulina Tandem Mobi.
+En este vídeo, trataremos las diferentes opciones de sistemas de infusión, las
+instrucciones paso a paso para sustituir el depósito y el sistema de infusión, y consejos
+útiles para el éxito.
+4.1 Diferentes equipos de infusión
+El equipo de infusión Autosoft 90 es el más utilizado para la bomba Tandem. Otras
+alternativas son el Autosoft 30, el Varisoft con cánula en ángulo y el TruSteel con
+cánula de acero.
+Además, Tandem ofrece tubos de diferentes longitudes. La mayoría de las personas
+utilizan el tubo corto de (12 cm o 5 pulgadas) para mantener la bomba cerca de la zona
+de infusión en la piel, pero también puede optar por las opciones de tubo más largo de
+(60 a 110 cm o 23 a 43 pulgadas) para llevar la bomba en el bolsillo.
+Puede encontrar una descripción detallada de estos equipos de infusión, incluidas las
+longitudes de los tubos y las cánulas y los volúmenes de infusión, en la descarga que
+se encuentra debajo de este vídeo.
+
+4.2 Sustitución del depósito y del equipo de infusión
+Empieza por lavarte las manos y asegurarte de que tu lugar de trabajo está limpio.
+Reúna estos artículos: un depósito, un cartucho, su insulina (a temperatura ambiente),
+un equipo de infusión, unas toallitas con alcohol y su bomba.
+#1 Sustitución del depósito
+Asegúrate de tener las manos limpias y de haber frotado antes la parte superior del
+depósito con alcohol. Vamos a preparar el nuevo cartucho. Para ello, baje la varilla de
+llenado y vuelva a subirla para expulsar el aire del cartucho. A continuación, tira de la
+varilla de llenado hacia abajo hasta alcanzar el volumen deseado. Puedes medirlo
+utilizando el anillo superior del émbolo para alinearlo con la cantidad de insulina
+deseada. Ahora es el momento de llenar el cartucho. Empieza colocando el vial de
+insulina en posición vertical sobre una superficie plana. Empuja el adaptador del vial
+hacia abajo. A continuación, empuje la varilla de llenado hacia abajo para introducir el
+aire del cartucho en el vial. Asegúrese de mantener la presión sobre la varilla de
+llenado. A continuación, gire el conjunto con el vial todavía asegurado boca abajo y
+suelte lentamente la varilla de llenado. La insulina comenzará a fluir del vial al
+cartucho. A partir de aquí, puedes tirar lentamente de la varilla de llenado hasta
+alcanzar la cantidad de insulina deseada. Ten en cuenta que deben quedar al menos 30
+unidades de insulina en el cartucho una vez que el tubo esté lleno. A continuación,
+golpee y gire el cartucho para liberar posibles burbujas de aire. Si observa burbujas de
+aire, empuje hacia arriba la varilla de llenado para forzar su salida. Ten en cuenta que al
+expulsar las burbujas de aire también puede salir algo de insulina. Asegúrate de que
+hay suficiente insulina en el cartucho. Termina el proceso de llenado retirando la
+ampolla del adaptador de ampolla.
+A continuación, es el momento de retirar el cartucho del set. Empiece desenroscando la
+varilla de llenado en el sentido contrario a las agujas del reloj y, a continuación, suelte
+suavemente el cartucho del juego. Ahora desenrosque el adaptador del vial en el
+sentido contrario a las agujas del reloj para retirarlo del conector t-lock.
+Se le pedirá que retire el cartucho vacío de la bomba girándolo girándolo en sentido
+contrario a las agujas del reloj. Asegúrese de que el pistón de su bomba está en
+posición baja. Debería verse así, no así. Ahora coloque el cartucho recién rellenado en
+
+la bomba y gírelo en el sentido de las agujas del reloj hasta que encaje en su sitio,
+luego dé un golpecito para continuar.
+Asegúrese de seguir todos los métodos adecuados de eliminación de agujas,
+cartuchos, componentes y equipos de infusión.
+#2 Llenado del tubo
+A continuación llenará el tubo. Confirme que el equipo de infusión está desconectado
+de su cuerpo. Conecte el tubo de un nuevo equipo de infusión al conector t-lock del
+cartucho. A continuación, siga dando golpecitos. Sujete la bomba con el conector en T
+hacia arriba. Así se asegurará de que el aire que pueda haber en el cartucho salga
+primero por el tubo. A continuación, pulse "Sí" en la aplicación móvil. Asegúrese de que
+el equipo de infusión está desconectado de su cuerpo. A continuación, mantenga
+pulsado el botón de la bomba para llenar el tubo del equipo de infusión con insulina.
+Sostenga la bomba en posición vertical y mantenga pulsado el botón hasta que vea
+gotas de insulina en el extremo del equipo de infusión. Una vez que vea las gotas de
+insulina, suelte el botón de la bomba. Este proceso es mucho más rápido con el
+tándem Mobi que con la bomba t-slim X2. Por lo tanto, preste mucha atención. Ten en
+cuenta que la bomba puede hacer pausas a intervalos regulares durante el proceso.
+Esto es normal y te permite comprobar si hay gotas de insulina. Pulse "Sí" si ve gotas
+de insulina en el extremo del tubo.
+#3 Colocación del equipo de infusión
+Ahora, estamos listos para aplicar el equipo de infusión. Le mostraremos el equipo de
+infusión Autosoft 90. Empiece por desinfectarse la piel y retire el papel protector del
+parche del equipo de infusión. Asegúrese de mantener el equipo de infusión
+firmemente colocado en la aguja durante este proceso. A continuación, prepare el
+equipo de inserción tirando del plástico blanco hasta que oiga un clic. En este punto,
+puede retirar con seguridad el protector de la aguja. Localice una de las dos
+depresiones en el dispositivo de inserción e introduzca la sonda. Coloque el dispositivo
+preparado sobre su piel limpia y presione la aguja en su sitio ejerciendo una suave
+presión sobre las dos depresiones circulares. Presione el plástico blanco una vez más.
+Por último, tenga cuidado de retirar con cuidado el dispositivo de inserción.
+
+No olvide hacer clic en "Finalizar" cuando se le indique para continuar con la
+administración de insulina. Si lo olvida, sonará una alarma a modo de recordatorio.
+¡Ya ha sustituido correctamente el cartucho de insulina y el equipo de infusión!
+Recuerde hacerlo al menos una vez cada tres días, aunque el cartucho aún no esté
+vacío.
+#4 Llenado de la cánula
+Cuando se llena el tubo del equipo de infusión Autosoft, la cánula se llena
+automáticamente. Si en algún momento sustituye solo el equipo de infusión pero
+mantiene el tubo existente, deberá llenar la cánula manualmente. Esto puede hacerse
+a través del mismo menú de la bomba. Llene la cánula del equipo de infusión Autosoft
+90 con 0,3 unidades para agujas de 6 mm o 0,5 unidades para agujas de 9 mm. Las
+cánulas en ángulo necesitan un volumen de llenado de 0,7 unidades, y las cánulas de
+acero no necesitan llenarse.
+4.3 Qué hacer y qué no hacer
+- La insulina aprobada en la bomba de insulina Tandem Mobi es NovoLog o
+NovoRapid y Humalog con una concentración de 100 U/ml.
+- Recuerde, 2 horas después de insertar un nuevo set, debe comprobar su glucosa
+en sangre. Comprobar su glucemia es la única forma de confirmar que su equipo
+de infusión está correctamente insertado y que está recibiendo insulina.
+- Antes de desechar el dispositivo de inserción, vuelva a colocar la tapa hasta que
+haga clic.
+- Cuando se quite temporalmente la bomba de insulina, es mejor tapar la pieza de
+conexión del equipo de infusión. Si deja la cubierta protectora abierta, puede
+entrar suciedad en la abertura, lo que puede provocar infecciones u oclusiones.
+- Asegúrate de inspeccionar el tubo en busca de burbujas de aire. El aire y el tubo
+ocupan espacio donde debería estar la insulina. Y esto puede afectar a la
+administración de insulina. Recuerda que los cambios de temperatura o de
+tiempo pueden provocar burbujas. Si observa burbujas en el cartucho, considere
+la posibilidad de utilizar la bomba con el tubo inclinado hacia abajo o hacia un
+lado para evitar que el aire penetre en el tubo. Si observa burbujas de aire en el
+tubo, desconecte la zona de infusión de su cuerpo. A continuación, en el menú
+
+de carga del cartucho, seleccione llenar tubo y cebe el tubo hasta que el aire se
+haya purgado por completo. Esto expulsará el aire del tubo.
+- Tenga en cuenta que algunos productos para el cuidado de la piel, como
+lociones, protectores solares y repelentes de insectos, pueden causar grietas en
+el plástico del cartucho o la bomba. No permita que estos productos entren en
+contacto con la bomba o el cartucho. Recuerde lavarse siempre las manos antes
+de manipular la bomba o el cartucho después de utilizar este tipo de productos.
+Ahora ya sabe cómo sustituir el cartucho de insulina y el equipo de infusión de la
+bomba de insulina Tandem Mobi. Si cometes un error, no te preocupes, es
+perfectamente normal. Mantén la calma y sigue los pasos. Recuerda que, si todo lo
+demás falla, siempre tienes a tu disposición el Servicio de Atención al Cliente y un
+montón de vídeos útiles en YouTube. Además, no olvides que puedes ponerte en
+contacto con tu equipo de diabetes, que también dispone de un servicio de guardia,
+para recibir asistencia médica. ¡Sigue trabajando así de bien! Mucha suerte.

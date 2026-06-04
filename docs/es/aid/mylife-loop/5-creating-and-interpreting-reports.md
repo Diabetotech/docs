@@ -3,6 +3,267 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Creacion e interpretacion de informes</u>**
+## **<u>5. Creación e interpretación de informes</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 3.4 Mylife Loop - v3.pdf -->
+Bienvenido a este vídeo informativo sobre la creación e interpretación de informes
+utilizando mylife Loop. Para acceder y analizar estos informes, utilizaremos el
+software de lectura Glooko.
+Antes de entrar en detalles, asegúrate de haber seguido las instrucciones de los
+vídeos anteriores para crear una cuenta de Glooko y conectarla a tu aplicación
+mylife CamAPS FX. Esto asegura que tu información se transmita regularmente a
+Glooko cada 5-10 minutos.
+
+En este vídeo trataremos los siguientes puntos clave:
+- ​ Visión general de los diferentes tipos de informes disponibles en Glooko.
+- ​ Y orientaciones paso a paso sobre cómo interpretar eficazmente estos
+informes.
+Al final de este vídeo, tendrás una comprensión completa de cómo generar y sacar
+el máximo provecho de los informes proporcionados por Glooko. Vamos a explorar
+este aspecto esencial de mylife Loop.
+5.1 Tipos de informes
+En Glooko, puedes encontrar los informes clave en las pestañas Resumen, Gráficos,
+Perspectivas y Dispositivos.
+La pestaña de resumen es la primera pestaña dentro de cualquier perfil de paciente
+en Glooko. Aquí tienes el nombre del paciente, su fecha de nacimiento y su tipo de
+diabetes. También puedes crear informes en pdf.
+Debajo tenemos el selector de tiempo. Aquí, usando el desplegable, puedes
+seleccionar entre una variedad de periodos de tiempo, desde un día hasta 90 días, y
+rangos de tiempo personalizados. Puedes seleccionar entre datos de glucosa en
+sangre y datos de CGM utilizando el selector de la derecha. Utilizando las flechas
+de abajo puedes navegar entre diferentes periodos de tiempo en los incrementos
+seleccionados, en el cuadro desplegable de tiempo de arriba.
+Al continuar desplazándose, puede ver que tenemos los datos de glucosa divididos
+en tiempo dentro del intervalo, tiempo por debajo del intervalo y tiempo por encima
+del intervalo.
+También podemos ver otras métricas como el indicador de gestión de glucosa, los
+promedios, así como las lecturas de glucosa en sangre más alta y más baja dentro
+de este periodo de tiempo. Si seguimos desplazándonos, veremos que se nos
+presenta un gráfico AGP.
+Aquí puede ver la línea oscura que indica la mediana y las distintas zonas
+sombreadas que muestran la distribución estadística.
+
+Si miramos hacia la parte derecha de la pestaña de resumen, podemos ver los datos
+de insulina. Aquí tenemos el promedio diario total de dosis basal y dosis de bolo y
+también este porcentaje dividido entre cada uno. Podemos ver la dosis diaria total
+de media así como el porcentaje de anulaciones que este paciente está realizando
+utilizando en este caso su bomba de insulina. Las anulaciones no siempre estarán
+disponibles, al igual que otras métricas que se mostrarán en función de la
+disponibilidad de los datos en los dispositivos que el paciente esté utilizando.
+Por ejemplo, para los usuarios del algoritmo CamAPS FX, el informe de resumen de
+Glooko también mostrará estos Detalles del Sistema, indicando la cantidad de
+tiempo en Modo Automático Encendido y Apagado, el tiempo en Modo Automático
+Intentando, y el uso de la función Boost y Ease-Off.
+A medida que continuamos desplazándonos podemos encontrar información
+dietética para el promedio de carbohidratos por día y el número de entradas y
+debajo de eso finalmente tenemos la sección de historial aquí tenemos todos los
+eventos listados para el período de tiempo seleccionado incluyendo alimentos,
+resultados de glucosa en sangre y cualquier uso de insulina
+La pestaña de resumen dentro de la sección de gráficos del perfil de un paciente es
+particularmente flexible y permite una visión profunda de los datos que se han
+cargado. En primer lugar, podemos seleccionar el intervalo de tiempo que nos
+gustaría revisar en el menú desplegable, incluidos los intervalos de tiempo
+personalizados. Una vez hecho esto, podemos revisar el siguiente gráfico donde
+vemos los resultados de glucosa codificados por colores para aquellos que están
+por encima y por debajo del rango objetivo, incluyendo una línea de tendencia
+negra. Debajo tenemos los carbohidratos que se representan como barras de
+tamaño proporcional en el gráfico que representa la cantidad de carbohidratos que
+se registran para cada día. Del mismo modo, tenemos barras de tamaño
+proporcional para la insulina que indican la cantidad de insulina que se ha
+administrado en cada día.
+Lo bueno de los gráficos de Glooko es que se puede interactuar con ellos. Así que
+cuando resaltamos un día en particular, podemos ver la glucosa media para ese día,
+podemos ver el total de carbohidratos, así como el total de unidades de insulina en
+el transcurso de ese día. Si queremos ver esta información en una vista más
+
+detallada, podemos hacer clic en ese día específico. Aparecerá un gráfico mucho
+más detallado, que mostrará los resultados del sensor, pero esta vez junto a los
+valores individuales de glucosa en sangre registrados. Debajo tenemos los valores
+de carbohidratos que se registraron y cuando pasamos el ratón sobre ellos tenemos
+la hora exacta en la que se registraron. Tenemos la insulina en bolo que se presenta
+con barras proporcionales y cuando pasamos el ratón sobre ellas obtenemos más
+información como esta de aquí.
+Debajo tenemos el rayo basal, en el que la línea de puntos representa una basal
+temporal, la línea continua representa una basal programada y puede haber
+lagunas en esa línea, como la que vemos aquí a la derecha, señalada por los puntos
+rojos, que indican que la basal se ha suspendido durante ese tiempo.
+Para los usuarios de sistemas automatizados de administración de insulina, también
+puedes ver la administración de insulina basal automatizada y los detalles del
+sistema.
+Para los pacientes que utilizan bombas de insulina, la pestaña Insights puede ser
+especialmente útil, ya que permite a los médicos y a los pacientes ver cómo los
+eventos y las características exclusivas de una bomba de insulina afectan al control
+de la diabetes. Aquí puede ver que empezamos en la pestaña de cambio de set y
+sitio. Aquí podemos ver la frecuencia con la que un paciente cambia el set o el sitio
+en el que se encuentra su bomba. Se puede ver, por ejemplo, que este paciente ha
+cambiado su set de bomba después de dos días, lo ha cambiado cinco veces
+después de tres días, y lo ha cambiado tres veces después de cuatro días. Esto
+permite al médico y al paciente ver si el paciente se está ciñendo a las directrices
+recomendadas y, tal vez, aquí donde el paciente cambió después de dos días había
+un problema con la bomba que querría discutir con su médico.
+A medida que nos desplazamos hacia abajo se puede ver la fecha y hora de cada
+uno de estos eventos y el tiempo transcurrido desde el último conjunto o cambio de
+sitio. Verás que en lado derecho tenemos cada uno de los eventos alineados aquí
+abajo en la línea negra. Podemos ver el control de glucosa durante 12 horas antes
+del evento y durante seis horas después del evento. Esto nos permite ver si la forma
+en que se ha manejado el evento ha impactado en el control de la glucosa. Por
+ejemplo, la inserción de una cánula en un bulto de grasa dura puede afectar a la
+
+forma en que el cuerpo absorbe la insulina y podría ser algo que el médico querría
+explorar más a fondo con un paciente y ofrecerle una oportunidad de educación.
+La pestaña de dispositivos dentro del perfil de un paciente muestra todos los
+dispositivos que están aportando datos al informe que se ve dentro del perfil. En la
+parte izquierda aparecen todos los dispositivos, junto con el número de serie y la
+hora en que el dispositivo se sincronizó por última vez con Glooko. Si seleccionamos
+un dispositivo, como una bomba de insulina, veremos que tenemos información
+específica del dispositivo, incluyendo los perfiles basales. Estos se representan en
+formato de texto y gráficamente, mostrando las unidades por hora en que se
+administrará la insulina y cómo varía a lo largo de un periodo de 24 horas. A medida
+que nos desplazamos por la pantalla, encontraremos más información, como las
+proporciones de carbohidratos, la sensibilidad a la insulina y los intervalos de
+glucosa en sangre objetivo, que el dispositivo utiliza para proporcionar orientación
+tanto para la corrección como para la dosis de bolo.
+Al desplazarnos de nuevo a la parte superior de la pantalla podemos acceder a los
+ajustes del dispositivo. Aquí tenemos información general como el tiempo de
+insulina activo, las unidades en las que informa el dispositivo, así como parámetros
+como el bolo máximo y la tasa basal máxima. Ten en cuenta que desde aquí no
+puedes cambiar los ajustes, pero quedarán registrados. Esto es muy útil, porque si
+decide cambiar los ajustes para beneficiar los resultados del paciente, pero esto no
+tiene el efecto deseado, y desea volver a los ajustes que se han utilizado
+anteriormente, puede utilizar el cuadro desplegable en el lado derecho, para ver los
+ajustes de cargas anteriores. Verás que a la izquierda tenemos un icono de un reloj y
+de nuevo que se muestra en la parte superior de la pantalla. Eso indica que la hora
+y la fecha de este dispositivo no coinciden con la hora y la fecha del servidor de
+glucosa. En este caso puedes ver por el texto de la derecha que este dispositivo se
+desvía tres minutos. Es importante que todos los dispositivos que utiliza un paciente
+estén sincronizados para garantizar que los informes sean de la máxima calidad y
+que usted pueda obtener de ellos la mejor información clínica para asistir a un
+paciente y fundamentar la toma de decisiones clínicas.
+Al generar un informe en PDF en Glooko, también tendrá acceso al Resumen
+Semanal junto con otros informes.
+
+Este informe le permite comparar varios informes diarios en detalle, proporcionando
+una forma más rápida y eficaz de analizar los datos en comparación con la
+visualización individual de los mismos a través de la pestaña de gráficos.
+5.2 Interpretación de informes
+Al utilizar mylife Loop, la capacidad de ajustar los parámetros es limitada,
+centrándose principalmente en el valor objetivo y la proporción de carbohidratos.
+Sin embargo, entender y utilizar eficazmente las funciones adicionales del sistema,
+como Añadir Comida, Ease-Off y Boost, es clave para maximizar su potencial.
+Además, es importante tener en cuenta el tiempo que se pasa en el modo
+automático, ya que el algoritmo funciona con el teléfono móvil, que puede no estar
+cerca del sensor y la bomba en todo momento.
+Se recomienda encarecidamente dejar un período de gracia de aproximadamente
+dos semanas para que el sistema se adapte al usuario antes de aplicar ajustes
+significativos. Transcurrido este tiempo, es habitual afinar el sistema estableciendo
+una proporción de carbohidratos más agresiva y reduciendo el valor objetivo de
+glucosa personal.
+Al analizar los informes, es beneficioso seguir un enfoque estructurado, como se
+destaca en el módulo general sobre sistemas automatizados de administración de
+insulina. Aquí tienes una hoja de ruta para guiar tu interpretación:
+1.​ Evalúe la información glucémica: Comience evaluando el TIR (Tiempo en
+rango) y el TBR (Tiempo por debajo del rango) durante las últimas 2-4
+semanas en la pestaña Resumen. .
+- ​ Garantizar el cumplimiento de los objetivos del tratamiento, con un TIR
+superior al 70% y un TBR inferior al 4%.
+- ​ Es importante prestar atención a la frecuencia de los bolos de comida, que
+también se indica en la pestaña Resumen de Glooko. Por término medio,
+debería haber unos 3 bolos al día para las comidas. Si observa un número
+inusualmente alto de bolos, como 20 bolos al día, puede indicar que el
+usuario no confía en el sistema y está constantemente interfiriendo con los
+bolos de corrección manual.
+
+2. Optimizar los ajustes de administración automática de insulina: Analizar el AGP
+(Perfil Ambulatorio de Glucosa) en la pestaña Resumen para identificar tendencias
+de hipo o hiperglucemia, y comprobar si estas tendencias están relacionadas con
+bolos en los informes de Resumen Semanal.
+-​ Si se observan tendencias después de los bolos de comida, es importante
+evaluar diversos factores, como el momento y el recuento exacto de
+carbohidratos, antes de ajustar la proporción de carbohidratos.
+-​ Los hipos persistentes después de las comidas indican una proporción
+de hidratos de carbono demasiado elevada.
+-​ La administración persistente de insulina basal después de las
+comidas, con posible hipo posprandial tardía, indica una proporción de
+hidratos de carbono demasiado débil.
+-​ Para tendencias fuera de los bolos de comida, considere ajustar el valor
+objetivo. Tenga en cuenta que dispone de flexibilidad para ajustar el valor
+objetivo en función de los distintos bloques horarios. Considere reducir aún
+más el valor objetivo durante los periodos nocturnos para optimizar el tiempo
+en rango (TIR) y mejorar el control glucémico general.
+-​ Además, explore posibles correlaciones con factores como el ejercicio, el
+consumo de alcohol o la hipoglucemia.
+Si encuentra "pulsos de permeabilidad" en los informes Glooko, no tiene por qué
+preocuparse.
+-​ Estos
+
+pulsos
+
+representan pequeños bolos de insulina de 0,04 E
+
+administrados cada 90 minutos cuando la insulina basal está desactivada. Su
+finalidad es evitar el bloqueo del catéter o del equipo de infusión. Aunque
+pueden aparecer como 0,2 E en el gráfico, en realidad equivalen a sólo 0,04
+E. Esta dosis mínima de insulina no tiene ningún efecto clínico significativo y
+no causará hipoglucemia.
+-​ Si observa pulsos de permeabilidad frecuentes a lo largo del día, es
+aconsejable investigar las posibles razones de esta necesidad temporal de
+insulina. En el caso de los niños muy pequeños, los pulsos de permeabilidad
+suelen observarse durante la última parte de la noche debido a sus menores
+necesidades de insulina.
+
+3. Guía Recomendaciones de comportamiento: Para asegurar el uso adecuado del
+sistema automatizado de administración de insulina, es importante revisar diversos
+aspectos en los informes disponibles. He aquí algunas consideraciones clave:
+-​ Pestaña Resumen: Comprueba la duración del desgaste del sensor y el
+tiempo pasado en Modo Automático..
+-​ Si el tiempo en modo automático es <85%, haga hincapié en que el
+teléfono móvil, que aloja el algoritmo, debe mantenerse cerca en todo
+momento.
+-​ También en la pestaña Resumen: Evalúe si las anulaciones de la calculadora
+de bolo son bajas (idealmente 0%). Además, compruebe la cantidad de
+carbohidratos introducidos para las comidas.
+-​ Informe semanal: Evaluar la adherencia a la bolización precomida, la
+sobrecorrección de la hipo e hiperglucemia y el uso apropiado de la función
+Ease-Off y Boost.
+-​ En este ejemplo, puede observar una situación en la que se omitió un
+bolo, lo que provocó niveles elevados de glucosa en sangre.
+-​ Aquí se puede ver un caso en el que un usuario administró un bolo
+doble de hidratos de carbono, pero, lamentablemente, lo hizo después
+de la subida de los niveles de glucosa en sangre, lo que provocó una
+hipoglucemia retardada.
+-​ Durante la fase inicial, se aconseja limitar el uso de las funciones
+Boost y Ease-Off. De este modo, el algoritmo tendrá la oportunidad de
+establecer el equilibrio óptimo y adaptarse a las necesidades de su
+cuerpo. Es habitual que las personas sean demasiado agresivas a la
+hora de corregir la hipoglucemia y la hiperglucemia, como se ilustra en
+este ejemplo.
+-​ En la pestaña Insights, puede comprobar si la sustitución del equipo de
+infusión se realiza cada 3 días.
+-​ Pestaña Dispositivos: Evalúe la idoneidad de los ajustes de alarma y
+recordatorios en la aplicación mylife CamAPS FX. Compruebe que los ajustes
+se ajustan a las necesidades y preferencias del usuario..
+4. Revise los ajustes de las bombas y los planes de emergencia:
+-​ Es importante actualizar el peso en cada revisión si es necesario,
+especialmente durante el embarazo, ya que el peso corporal desempeña un
+papel crucial en el cálculo de la insulina posprandial. Sin embargo, fuera del
+
+embarazo, cuando se persiguen objetivos posprandiales menos estrictos, la
+actualización del peso es menos crítica.
+-​ Verifica que la tasa de insulina basal preestablecida en tu mylife YpsoPump
+se alinea aproximadamente con la insulina basal del Modo Automático.
+Puedes comprobarlo en la pestaña Dispositivos del informe Glooko.
+-​ Lleve un registro detallado de todos los ajustes de la bomba y elabore un
+plan de emergencia que incluya instrucciones para utilizar las plumas de
+insulina en caso de avería de la bomba. Garantice un fácil acceso a las
+plumas de insulina para estas situaciones.
+Ya has aprendido a obtener e interpretar los informes del sistema automático de
+administración de insulina mylife Loop. Ha obtenido información valiosa para
+optimizar su configuración y realizar ajustes para mejorar su experiencia.
+Con el conocimiento y la comprensión que has adquirido, puedes sentirte seguro de
+controlar tu diabetes de forma eficaz utilizando el sistema mylife Loop AID.
+Recuerda que es normal que te lleve algún tiempo afinar los parámetros y encontrar
+el equilibrio adecuado para tus necesidades particulares. Confía en ti mismo y en el
+sistema, y no dudes en pedir ayuda a los profesionales sanitarios o a la comunidad
+en línea si lo necesitas.
+Con mylife Loop podrás tomar el control de tu diabetes y conseguir mejores
+resultados. Sigue trabajando así de bien y disfruta de los beneficios de esta
+avanzada tecnología.

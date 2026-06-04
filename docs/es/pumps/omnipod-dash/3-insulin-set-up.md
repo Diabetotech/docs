@@ -3,6 +3,6 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Configuracion de insulina</u>**
+## **<u>3. Juega con los ajustes de insulina y administra un bolo de insulina de 5 unidades.</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 2.6 Omnipod DASH  - v3.pdf -->
+

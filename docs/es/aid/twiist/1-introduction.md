@@ -3,6 +3,9 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>1. Introduccion</u>**
+## **<u>1. Evaluar la información glucémica.</u>**
 
-<!-- Pegue aqui el contenido de la transcripcion del PDF: ES 3.14 twiist AID System - v1.pdf -->
+-​ Comprueba el tiempo dentro del rango durante las últimas 2-4
+semanas. Intenta alcanzar al menos un 70 % dentro del rango y
+menos del 4 % por debajo del rango, siguiendo los estándares
+internacionales.
