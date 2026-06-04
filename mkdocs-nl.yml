@@ -1,4 +1,4 @@
-﻿site_name: Diabetotech — Nederlands
+site_name: Diabetotech — Nederlands
 site_description: Open diabetes technologie educatie — peer-reviewed
 site_url: https://diabetotech.github.io/docs/nl/
 
@@ -516,4 +516,7 @@ extra:
     - name: Español
       link: https://diabetotech.github.io/docs/es/
       lang: es
+    - name: Français
+      link: https://diabetotech.github.io/docs/fr/
+      lang: fr
 
