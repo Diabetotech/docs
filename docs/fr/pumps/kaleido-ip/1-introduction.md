@@ -4,4 +4,49 @@
 
 ## **<u>1. Introduction</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette formation sur la pompe à insuline Kaleido ! Dans ce module,
+nous allons explorer les caractéristiques et le fonctionnement de la pompe à
+insuline Kaleido.
+Cette pompe à insuline modulaire peut être utilisée comme pompe autonome, mais
+aussi dans un système automatisé d'administration d'insuline, tel que le DBLG1 de
+Diabeoloop. Ce module parlera spécifiquement de la pompe à insuline Kaleido, à
+l'aide de l’appareil portable Kaleido, et fournit des informations précieuses sur son
+utilisation et ses fonctionnalités.
+La pompe Kaleido est une pompe semi-patch fonctionnant à l'aide d'une
+télécommande et connue pour sa large gamme de couleurs. Chaque utilisateur
+reçoit deux pompes et peut choisir parmi dix combinaisons de couleurs différentes
+pour sa pompe et sa télécommande, allant de l'orange vibrant au noir classique.
+La télécommande et les pompes sont rechargeables et réutilisables pendant quatre
+ans. Toutefois, il faut noter que le réservoir d'insuline, ou cartouche, et le dispositif
+de perfusion doivent être remplacés au moins tous les trois jours.
+L'une des principales caractéristiques de la pompe Kaleido est sa taille compacte,
+qui en fait l'une des plus petites pompes durables disponibles sur le marché. Elle
+peut être fixée sur le corps à l'aide d'un tube court de 5 cm (ou 2 pouces), ou être
+transportée dans une poche à l'aide d'un tube plus long de 30 cm (ou 12 pouces).
+Dans le module général sur les pompes à insuline, vous avez appris les principes
+fondamentaux des pompes à insuline, tels que leur fonctionnement, le réglage du
+débit basal et du bolus, le changement de l'insuline et des sets de perfusion, et la
+gestion des alarmes.
+Dans les prochaines vidéos, nous présenterons Kaleido en action, en mettant un
+focus sur des aspects spécifiques de la formation à l'utilisation de cette pompe
+semi-patch. Veuillez noter que le contenu présenté ici peut évoluer sans préalable.
+Le manuel d'utilisation du dispositif médical reste le document principal pour
+garantir un fonctionnement sûr, et il faut noter que ces vidéos ne sont pas destinées
+
+à servir d’avis médical. Consultez toujours votre médecin avant d’effectuer toute
+modification à votre traitement.
+Ces vidéos ont été créées par la Dr Inge Van Boxelaer, fondatrice de Diabetotech et
+endocrinologue à l'hôpital St-Lucas de Gand en Belgique. Le contenu a été revu par
+la Dr Sarah Siegelaar, endocrinologue à l'UMC d'Amsterdam aux Pays-Bas, ainsi
+que par Vanessa Buitendijk des Pays-Bas, une personne atteinte de diabète de type
+1 et utilisatrice de la pompe Kaleido. Leurs contributions donnent de l'impartialité
+et de l'indépendance aux informations présentées.
+À la fin de cette formation, vous comprendrez parfaitement le fonctionnement de la
+pompe à insuline Kaleido, le réglage du débit basal et du bolus, le remplacement du
+réservoir d'insuline et du dispositif de perfusion, ainsi que les mesures à prendre en
+cas d'alarme.
+Que vous soyez un soignant souhaitant accompagner les utilisateurs de Kaleido, ou
+vous-même utilisateur vous préparant à une mise en service réussie, ces vidéos
+vous apporteront des connaissances précieuses, ainsi que des conseils pratiques et
+des astuces pour améliorer votre expérience avec Kaleido.
+Bon courage dans votre voyage avec la pompe à insuline Kaleido !

@@ -2,6 +2,157 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q8hx7hJYDR5BrYVy-BcigNl&index=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>2. Comparaison des differentes pompes a insuline</u>**
+## **<u>2. Comparaison des différentes pompes à insuline</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette capsule vidéo où nous allons explorer les différentes pompes
+à insuline disponibles sur le marché.
+Nous discuterons des pompes classiques à tubulure et des pompes patch, ainsi que
+les considérations essentielles à retenir lorsque l’on choisit la pompe à insuline la
+mieux adaptée à ses besoins.
+Les pompes à insuline, dispositifs petits mais puissants, consistent d’un réservoir
+d'insuline, d’un mécanisme de pompage, d’un micro-ordinateur et d’une batterie.
+
+Elles fonctionnent avec de l'insuline à action rapide qu'elles délivrent à un débit
+faible et régulier en tant qu'insuline basale, ou à des doses plus importantes en
+bolus pendant les repas ou lorsqu'une dose de correction est nécessaire. L'insuline
+la plus généralement répandue est de la marque Novorapid, de l’insuline issue de
+Humalog, NovoRapid, NovoLog, de Apidra, de Fiasp ou de Lyumjev peuvent
+également être utilisée en fonction de la distribution du fabricant et de l’ordonnance
+d’un professionnel médical.
+Examinons les différences entre les pompes à insuline.
+Il existe en deux types : les pompes classiques dotées d’une tubulure et les pompes
+patch.
+-​ Les pompes à tubulure sont de petits appareils de commande. Elles sont
+dotées d'un logiciel intégré, des touches, et d'un écran pour contrôler la
+pompe. Ces dispositifs acheminent l'insuline par une tubulure jusqu'à un
+dispositif de perfusion fixé sur votre corps, qui l'injecte dans votre tissu
+adipeux sous-cutané par l'intermédiaire d'une canule. Tous les 2 à 7 jours,
+vous devez remplacer le dispositif de perfusion et la canule pour éviter les
+infections et assurer un contrôle précis de la glycémie. La pompe doit être
+portée 24 heures sur 24, 7 jours sur 7, bien qu'elle puisse être déconnectée
+pendant 2 heures au maximum pour un bain, des rapports intimes ou
+certaines activités physiques. Elle peut également être accrochée à vos
+vêtements ou placée à votre côté pendant le sommeil.
+-​ D'autre part, les pompes patch sont des unités simplifiées composées
+uniquement de l'insuline, du mécanisme de la pompe et d'une batterie. Elles
+sont calibrées par une commande externe ou un smartphone. Fixée
+directement sur le corps, une pompe à patch doit être remplacée tous les
+trois jours, à l’inverse de la plupart des dispositifs de perfusion avec tubulure.
+Elles peuvent offrir une plus grande liberté d’action durant les activités
+quotidiennes, étant donné qu’il n'y a pas de risque que la tubulure se coince.
+Cependant, vous devez toujours avoir sur vous la télécommande de la pompe
+ou un téléphone portable. Une fois que vous avez appliqué une pompe patch,
+vous la gardez sur le site d’insertion pendant 3 jours, ce qui peut être plus
+visible qu'une pompe à tubulure en fonction des vêtements que vous portez.
+
+2.1 Pompes à tubulure
+Les pompes tubulaires les plus populaires sont le MiniMed 780G, le Tandem t:slim
+X2, le Tandem Mobi, Kaleido, la mylife Ypsopump, le iLet, la pompe Dana, et la
+twiist.
+-​ Bien que la taille ne soit généralement pas un facteur déterminant dans le
+choix d’une pompe, la pompe MiniMed est la plus grande pompe tubulaire.
+Les pompes mylife YpsoPump et Dana sont des modèles à tubulure plus
+compacts. Les pompes Tandem Mobi, Kaleido, et twiist sont des systèmes à
+tubulure qui peuvent également être portés sur le corps. Les pompes
+Tandem Mobi et Kaleido proposent également des tubulures plus courtes, ce
+qui permet de placer la pompe directement à côté du kit de perfusion.
+-​ La plupart de ces pompes tubulaires sont dotées de piles remplaçables qui
+durent généralement de 1 à 4 semaines. En revanche, les pompes Tandem,
+Kaleido et iLet disposent d'une batterie rechargeable, offrant une option
+écoresponsable mais nécessitant une recharge régulière.
+-​ Les réservoirs d'insuline sont généralement remplis à la main à partir d'un
+flacon d'insuline, mais les pompes mylife YpsoPump et iLet peuvent
+également être utilisées avec des PumpCarts pré-remplis. Ces PumpCarts ne
+contiennent que 160 unités d'insuline et doivent être ainsi remplacés plus
+fréquemment que les réservoirs de la pompe MiniMed, qui peuvent contenir
+300 unités.
+-​ Les pompes tubulaires sont généralement dotées d'un écran et de touches
+permettant de calibrer l'administration d'insuline. La pompe Tandem t:slim
+X2, la pompe mylife YpsoPump, et la iLet sont équipées d'un écran tactile,
+tandis que la plupart des autres pompes sont commandées à l'aide de
+boutons. Les pompes Tandem Mobi, twiist, et Kaleido sont commandées via
+une application pour smartphone, mais les pompes Tandem Mobi et twiist
+sont également équipées d'un bouton sur la pompe elle-même.
+-​ Toutes ces pompes peuvent être intégrées à un capteur ou à un algorithme
+via Bluetooth, ce qui explique leur utilisation fréquente dans les systèmes en
+boucle fermée. Ces systèmes feront l’objet d’une exploration plus
+approfondie dans leurs modules respectifs au cours de la formation d'expert
+en technologie du diabète.
+
+2.2 Pompes patch
+Quelques exemples de pompes patch sont les Omnipod DASH et Omnipod 5, la
+pompe Medtrum TouchCare Nano et la pompe Equil.
+Les pompes patch sont contrôlées à distance ou avec une application sur votre
+smartphone.
+-​ Vérifiez toujours si votre smartphone est compatible et si l'application est
+disponible dans votre région. L-application pour Omnipod 5, par exemple,
+l'application n'est disponible qu'aux États-Unis.
+La plupart des pompes patch sont modulaires, avec une base de pompe réutilisable
+qui dure généralement jusqu'à 4 ans, tandis que le réservoir d'insuline doit être
+remplacé tous les 3 jours. Les pompes Omnipod constituent une exception, car elles
+sont entièrement jetées tous les 3 jours.
+L'évolution des pompes à insuline est très rapide. Ce contenu a été mis à jour en
+Novembre 2025. Pour obtenir les dernières mises à jour, veuillez consulter les sites
+Web des entreprises. Par ailleurs, des ressources telles que le blog Diabetotech
+peuvent vous aider à explorer le domaine en constante évolution des technologies
+liées au diabète.
+2.3 Choisir une pompe à insuline
+Lors du choix d'une pompe, il faut considérer certains éléments.
+-​ Vérifiez quelles pompes à insuline sont prises en charge par votre assurance
+maladie. Les systèmes en boucle fermée ne sont pas tous remboursés dans
+tous les pays, ni même dans toutes les régions ou tous les hôpitaux d'un
+même pays. Consultez également votre équipe de diabétologie pour savoir si
+elle peut vous proposer un appareil qui répond le mieux à vos besoins. Parmi
+les éléments importants à prendre en compte, citons la capacité de la pompe
+à fonctionner en boucle fermée, votre préférence pour un patch ou la pompe ,
+la taille et le poids, et la nécessité de transporter une télécommande ou un
+téléphone portable pour contrôler la pompe.
+-​ Il est également important de protéger votre pompe et votre télécommande
+de manière appropriée. Un étui en silicone et un protecteur d'écran sont
+généralement inclus et sont recommandés. Une fissure dans le boîtier de
+
+votre pompe signifie qu'elle n'est plus étanche et doit être remplacée. Les
+pompes à insuline bénéficient généralement d'une garantie de 4 ans.
+-​ Il existe différentes façons pour le port des pompes tubulaires, et de
+nombreux accessoires faits pour l’accompagner sont disponibles, tels que
+des pochettes personnalisées, des ceintures, des vêtements et des sous-vêtements spéciaux. Certains fabricants de pompes offrent
+généralement un clip de ceinture ou un support. N'oubliez pas de garder
+votre pompe à portée de main car vous devrez y accéder fréquemment. Ne
+manquez pas d'explorer les options à la fois uniques et pratiques qui sont
+disponibles dans différentes boutiques spécialisées en ligne.
+-​ Lors de la douche ou du bain, la plupart des utilisateurs choisissent de
+déconnecter leur pompe tubulaire au niveau du dispositif de perfusion. Pour
+les activités intimes, vous pouvez soit laisser attacher votre pompe si votre
+cathéter est suffisamment long, soit la débrancher. Sachez toutefois que
+votre pompe ne doit pas être déconnectée pendant plus de deux heures
+étant donné que vous pourriez vous retrouver sans insuline, ce qui
+augmenterait le risque d'acidocétose.
+-​ Enfin, n'oubliez pas que le principal problème des pompes à insuline est de
+s'assurer que l'insuline est administrée en toute sécurité. La plupart des
+dispositifs de perfusion doivent être changés tous les trois jours afin de
+réduire le risque d'infection et de maintenir les taux de glucose. Se priver
+d'insuline faute d’une bonne absorption peut augmenter le risque
+d'acidocétose diabétique, qui est une urgence médicale grave.
+Vous savez maintenant généraliser le fonctionnement des pompes à insuline, les
+types de pompe disponibles et les différences entre eux. Ceci peut représenter
+beaucoup d'informations, mais une fois que vous les aurez comprises, vous verrez
+que chaque pompe à insuline est intuitive et fonctionne généralement de la même
+manière que les autres. La plupart des utilisateurs de pompes à insuline sont
+parfaitement capables d’assurer son fonctionnement de manière autonome, étant
+donné qu’ils s’en servent 24 heures sur 24, 7 jours sur 7. N’hésitez donc pas à
+commencer un traitement par pompe à insuline. Considérez-la comme un téléphone
+portable : une fois que vous en aurez l’habitude, les fonctions deviendront une
+seconde nature.
+
+3. Réglages de l'insuline
+Bienvenue dans cette capsule vidéo sur les réglages de la pompe à insuline !
+Une pompe à insuline offre une méthode complexe d'administration de l'insuline :
+elle vous permet de contrôler vos taux d'insuline basale et de bolus avec seulement
+de l'insuline à action rapide.
+Dans ce module, nous explorerons les différents réglages et la manière de régler les
+paramètres d'insuline basale et de bolus lorsque vous faites la transition des stylos
+à insuline à une pompe à insuline.
+Il faut noter que la plupart des directives concernant les réglages de la pompe à
+insuline sont subjectives et que ces vidéos ne peuvent en aucun cas substituer à un
+avis médical. Consultez toujours votre professionnel de santé avant de modifier
+votre traitement.

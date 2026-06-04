@@ -2,6 +2,248 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q9h0iTuSD5dY5wj9_foFlV2&index=4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>5. Creation et interpretation des rapports</u>**
+## **<u>5. Création et interprétation des rapports</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue! Dans cette capsule vidéo, nous allons explorer la création et
+l'interprétation de rapports de l’Omnipod 5 à l’aide du logiciel Glooko.
+En connectant votre application Omnipod 5 à Glooko, vous pouvez transmettre de
+manière transparente des données toutes les 5 minutes, ce qui vous permet
+d'accéder en temps réel à divers rapports pertinents.
+
+Cette vidéo présente les différents types de rapports disponibles dans Glooko et
+explique comment interpréter et analyser efficacement les données présentées
+dans ces rapports.
+En maîtrisant la création et l'interprétation des rapports, vous obtiendrez des
+informations précieuses sur la gestion de votre diabète, ce qui vous permettra de
+prendre des décisions éclairées et d'améliorer votre contrôle global. Plongeons
+dans cette aventure et découvrons la puissance des rapports d'Omnipod 5 avec
+Glooko !
+5.1 Types de rapports
+Dans Glooko, vous pouvez trouver les rapports clés sous les onglets [Bilan],
+[Graphiques], [Aperçus], et [Dispositifs].
+L'onglet [Bilan] est le premier onglet du profil patient sur Glooko. Vous y trouverez
+le nom du patient, sa date de naissance, et son type de diabète. Vous pouvez
+également créer des rapports au format PDF.
+En dessous, nous avons le sélecteur de temps. Ici, à l'aide du menu déroulant, vous
+pouvez choisir parmi une variété de périodes de temps, allant d'un jour à 90 jours, et
+des plages de temps personnalisées. Vous pouvez choisir entre les données de
+glycémie et les données CGM à l'aide du sélecteur situé à droite. Les flèches
+ci-dessous vous permettent de naviguer entre les différentes plages de temps en
+fonction des incréments sélectionnés dans le menu déroulant ci-dessus.
+En continuant à défiler, vous pouvez voir que les données sur le glucose sont
+divisées en trois catégories : le temps dans la cible, le temps en dessous de la cible,
+et le temps au-dessus de la cible.
+Nous pouvons également voir d'autres mesures telles que l'indicateur de gestion du
+glucose, les moyennes, ainsi que les valeurs de glycémie les plus élevées et les plus
+basses au cours de cette période. En continuant à faire défiler l'écran, vous verrez
+qu'un graphique AGP s'affiche.
+Vous pouvez voir ici la ligne sombre indiquant la médiane et les différentes zones
+ombragées montrant la distribution statistique.
+
+En regardant vers la droite de l'onglet [Bilan], vous pouvez voir les données
+relatives à l'insuline. Nous avons ici la dose basale totale quotidienne moyenne et la
+dose de bolus, ainsi que le pourcentage de répartition entre les deux. Nous pouvons
+voir la dose quotidienne totale moyenne ainsi que le pourcentage de dérogations
+que ce patient effectue en utilisant, dans ce cas, sa pompe à insuline. Les
+dérogations ne seront pas toujours disponibles, de même que d'autres mesures qui
+seront affichées en fonction de la disponibilité des données dans les appareils
+utilisés par le patient.
+Par exemple, pour les utilisateurs de l'Omnipod 5, le rapport [Synthèse] de Glooko
+affichera également ces détails du système, indiquant le temps passé en mode
+automatisé, en mode limité, en fonction d'activité et en mode manuel. Il est
+important de noter que le mode limité peut se produire lorsqu'il n'y a pas de
+données du capteur pendant plus de 20 minutes, par exemple pendant le
+préchauffage du capteur ou pendant des périodes prolongées d'administration
+maximale et/ou minimale d'insuline. La compréhension de ces modes et de leur
+durée permet d'évaluer les performances et la fonctionnalité du système Omnipod
+5.
+En continuant à faire défiler l'écran, vous trouverez des informations diététiques
+concernant la quantité moyenne de glucides par jour et le nombre d'entrées. En
+dessous, vous trouverez enfin la section [Historique] où sont répertoriés tous les
+événements de la période sélectionnée, y compris les aliments, les résultats
+glycémiques et l'utilisation éventuelle d'insuline.
+L'onglet [Aperçu] de la section [Graphiques] du profil patient est particulièrement
+flexible et permet d'obtenir des informations approfondies sur les données qui ont
+été téléchargées. Tout d'abord, nous pouvons sélectionner la période que nous souhaitons examiner dans la liste déroulante, y compris les périodes
+personnalisées. Nous pouvons ensuite consulter le graphique ci-dessous, où les
+résultats de glycémie sont codés en couleur pour ceux qui se situent au-dessus et
+en dessous de la plage cible, avec une ligne de tendance noire. En dessous, nous
+avons les glucides qui sont représentés par des barres de taille proportionnelle sur
+le graphique représentant la quantité de glucides enregistrée pour chaque jour. De
+même, les barres proportionnelles pour l'insuline indiquent la quantité d'insuline
+administrée chaque jour.
+
+Ce qu'il y a de bien avec les graphiques de Glooko, c'est qu'il est possible d'interagir
+avec eux. Ainsi, lorsque nous mettons en évidence un jour particulier, nous pouvons
+voir la glycémie médiane pour ce jour, le nombre total de glucides ainsi que le
+nombre total d'unités d'insuline au cours de cette journée. Si vous souhaitez obtenir
+des informations plus détaillées, vous pouvez cliquer sur le jour en question. Vous
+obtiendrez alors un graphique beaucoup plus détaillé, qui montrera les résultats du
+capteur. Mais cette fois, ils seront présentés avec les valeurs de glycémie
+individuelles qui ont été enregistrées. En dessous, nous avons les valeurs de
+glucides qui ont été enregistrées. Lorsque nous les survolons, nous obtenons
+l'heure exacte à laquelle elles ont été enregistrées. L'insuline bolus est présentée
+sous forme de barres proportionnelles et, lorsque nous passons la souris dessus,
+nous obtenons davantage d'informations, comme celle-ci.
+En dessous, nous avons le rayon basal où vous voyez que la ligne pointillée
+représente un basal temporaire, la ligne continue représente un basal programmé et
+nous pouvons avoir des lacunes dans cette ligne comme nous le voyons ici sur le
+côté droit, ce qui est signifié par les points rouges qui montrent que le basal a été
+suspendu pendant cette période.
+Pour les utilisateurs du système Omnipod 5, vous pouvez également voir
+l'administration automatisée d'insuline basale et les détails du système.
+Pour les patients qui utilisent des pompes à insuline, l'onglet [Aperçus] peut être
+particulièrement utile car il permet aux cliniciens et aux patients de voir comment
+les événements et les caractéristiques propres à une pompe à insuline ont un
+impact sur la gestion du diabète. Ici, vous pouvez voir que nous commençons par
+l'onglet [Remplacement Du Kit De Perfusion Et Changement De Site]. Il permet de
+voir à quelle fréquence un patient change le set ou le site où se trouve sa pompe.
+Vous pouvez voir par exemple que ce patient a changé de pompe au bout de deux
+jours, qu'il l'a changée cinq fois au bout de trois jours et qu'il l'a changée trois fois au
+bout de quatre jours. Cela permet au clinicien et au patient de voir si le patient
+respecte les directives recommandées et si, dans le cas présent, le patient a changé
+de pompe après deux jours, il y avait un problème avec la pompe dont il devrait
+discuter avec son clinicien.
+En défilant vers le bas, vous pouvez voir la date et l'heure de chacun de ces
+événements, ainsi que le temps écoulé depuis le dernier réglage ou changement de
+
+site. Vous verrez que, sur le côté droit, chaque événement est aligné sur la ligne
+noire. Nous pouvons voir le contrôle du glucose pendant les 12 heures précédant
+l'événement et pendant les six heures suivant l'événement. Cela nous permet de
+voir si la façon dont l'événement a été géré a eu un impact sur la gestion du glucose.
+Par exemple, l'insertion d'une canule dans un amas graisseux dur peut avoir un
+impact sur la façon dont l'insuline est absorbée par l'organisme et peut être un sujet
+que le clinicien souhaiterait explorer plus avant avec le patient et lui offrir une
+opportunité d'éducation.
+L'onglet [Dispositifs] dans le profil patient montre tous les appareils qui fournissent
+des données au rapport vu dans le profil. Sur le côté gauche, vous pouvez trouver
+tous les appareils listés, ainsi que le numéro de série et la date de la dernière
+synchronisation de l'appareil avec Glooko. Si nous sélectionnons un appareil tel
+qu'une pompe à insuline, vous verrez que nous avons des informations spécifiques à
+l'appareil, y compris les profils basaux. Ceux-ci sont représentés sous forme de
+texte et de graphique, montrant les unités d'insuline par heure et leur variation sur
+une période de 24 heures. En continuant à faire défiler l'écran, vous trouverez
+d'autres informations telles que les rapports glucidiques, la sensibilité à l'insuline et
+les plages de glycémie cibles, que l'appareil utilise pour fournir des indications sur
+les doses de correction et de bolus.
+En remontant en haut de l'écran, vous pouvez accéder aux paramètres de l'appareil.
+Vous y trouverez des informations générales telles que la durée d'insuline active,
+les unités de mesure utilisées par l'appareil, ainsi que des paramètres tels que les
+valeurs maximales de bolus et du débit basal. Veuillez noter que vous ne pouvez
+pas modifier les paramètres à partir d'ici, mais qu'ils seront enregistrés. Ce qui est
+très utile, car si vous décidez de modifier les paramètres afin d'améliorer les
+résultats pour le patient, mais que cela n'a pas l'effet escompté et que vous
+souhaitez revenir aux paramètres utilisés précédemment, vous pouvez utiliser la
+liste déroulante sur le côté droit pour afficher les paramètres des téléchargements
+précédents. Vous verrez à gauche l'icône d'une horloge, qui s'affiche en haut de
+l'écran. Cela indique que l'heure et la date de cet appareil ne correspondent pas à
+l'heure et à la date du serveur de glucose. Dans ce cas, vous pouvez voir dans le
+texte à droite que l'appareil a un écart de trois minutes. Il est important que tous les
+appareils utilisés par un patient soient synchronisés afin que les rapports soient de
+la plus haute qualité et que vous puissiez en tirer les meilleures informations
+cliniques pour aider le patient et éclairer la prise de décision clinique.
+
+Lorsque vous générez un rapport PDF dans Glooko, vous avez également accès à
+l'aperçu hebdomadaire ainsi qu'à d'autres rapports.
+Ce rapport vous permet de comparer plusieurs rapports quotidiens en détail, ce qui
+constitue un moyen plus rapide et plus efficace d'analyser les données que de les
+visualiser individuellement à l'aide de l'onglet [Graphiques].
+5.2 Interprétation des rapports
+Avec l’Omnipod 5, la valeur cible, le facteur de correction, la durée d'action de
+l'insuline, et le rapport insuline/glucides sont les paramètres clés qui peuvent être
+ajustés pour personnaliser votre insulinothérapie.
+La valeur cible représente le taux de glucose souhaité et peut être réglée pour
+chaque tranche horaire afin de répondre aux différents besoins en insuline tout au
+long de la journée. De même, le rapport insuline/glucides détermine la quantité
+d'insuline nécessaire pour une certaine quantité de glucides consommée. Ces deux
+paramètres peuvent être facilement ajustés dans les réglages du bolus, ce qui vous
+permet d'affiner l'administration d'insuline en fonction de vos besoins et de vos
+préférences.
+Lors de l'analyse des rapports, il est utile de suivre une approche structurée, comme
+le souligne le module général sur les systèmes en boucle fermée. Voici une feuille
+de route pour guider votre interprétation :
+1. Évaluer l'information glycémique. Commencer par évaluer le temps dans la cible
+et le temps en dessous de la cible au cours des 2 à 4 dernières semaines sur
+l'onglet [Bilan].
+- Vérifier que les objectifs du traitement sont atteints, avec un temps dans la
+cible supérieur à 70 % et un temps en dessous de la cible inférieur à 4 %.
+- Il est important de prêter attention à la fréquence des bolus de repas, qui est
+également indiquée dans l'onglet [Bilan] de Glooko. En moyenne, il devrait y
+avoir environ 3 bolus par jour pour les repas, avec quelques bolus
+supplémentaires pour les collations. Si vous remarquez un nombre
+anormalement élevé de bolus, comme 20 bolus par jour, cela peut indiquer
+que l'utilisateur ne fait pas confiance au système et qu'il interfère
+constamment en délivrant des bolus de correction manuelle. En revanche,
+
+moins de 3 bolus par jour peuvent indiquer que l'utilisateur néglige de
+prendre des bolus pour la nourriture et croit à tort que l'algorithme
+compensera ses repas et ses collations.
+2. Optimisez les paramètres du système en boucle fermée. Analysez le profil
+glycémique ambulatoire (AGP) dans l'onglet [Bilan] pour identifier les tendances
+d'hypo- ou d'hyperglycémie, et vérifiez si ces tendances sont liées aux bolus dans
+les rapports hebdomadaires.
+- Si vous observez des tendances après les bolus des repas, il est important
+d'évaluer différents facteurs tels que le moment de la prise du bolus et la
+précision du comptage des glucides, avant d'ajuster le rapport des glucides.
+- Si vous observez une tendance après des bolus manuels ou d'autocorrection,
+vous pouvez essayer d'ajuster le facteur de correction, la durée de l'action de
+l'insuline ou le seuil [Corriger si supérieur à].
+- Pour les tendances en dehors des bolus repas, envisager d'ajuster la valeur
+cible. Notez que l’on peut ajuster la valeur cible en fonction de différents
+blocs horaires. Si les taux de glucose sont légèrement élevés pendant la nuit,
+envisager d'abaisser davantage la valeur cible pendant les périodes
+nocturnes afin d'optimiser le temps dans la cible et d'améliorer le contrôle
+glycémique global.
+- En outre, étudiez les corrélations possibles avec des facteurs tels que
+l'exercice, la consommation d'alcool ou l'hypoglycémie.
+3. Rédiger des recommandations comportementales. Pour garantir l'utilisation
+correcte du système automatisé d'administration d'insuline, il est important
+d'examiner divers aspects dans les rapports disponibles. Voici quelques éléments
+clés à prendre en compte :
+- Vérifiez la durée d'usure du capteur et le temps passé en mode automatisé
+dans l'onglet [Bilan].
+- Le temps passé en mode automatisé doit être supérieur à 90 % et le temps
+passé en mode limité doit être faible. Si le temps en mode limité est élevé,
+cela peut être dû à une mauvaise connexion entre l'émetteur et le pod. Vous
+pouvez vérifier que le capteur et le pod sont portés du même côté du corps,
+en vue l'un de l'autre, afin de réduire les problèmes de connexion.
+- Une autre cause de mode limité excessif est une alarme fréquente de
+[Restriction de l’administration automatisée]. Expliquez à l'utilisateur que
+cette alarme est plus susceptible à se déclencher au cours des premières
+
+semaines d'utilisation du système et qu'il est important d'y répondre en
+confirmant l'exactitude du SCG, puis en réactivant le mode Automatisé.
+- Également dans l'onglet [Bilan] : Évaluez si les dérogations du calculateur de
+bolus sont faibles (idéalement 0 %). Vérifiez également la quantité de
+glucides saisie pour les repas.
+- Sur les rapports hebdomadaires : Évaluer le respect du bolus préprandial, la
+correction excessive de l'hypoglycémie et de l'hyperglycémie, et l'utilisation
+appropriée de la fonction Activité.
+- Dans l'onglet [Aperçus], vous pouvez vérifier si le remplacement des pods est
+effectué conformément aux recommandations (qui doit être en général tous
+les trois jours).
+- Demandez au patient si les paramètres d'alerte du capteur correspondent à
+ses besoins et à ses préférences. Ces paramètres peuvent être ajustés dans
+l'application Dexcom G6.
+4. Examiner le réglage des pompes et les plans d'urgence :
+- Dans l’onglet [Dispositifs], vérifiez que le débit d'insuline basal préréglé sur
+votre Pod Omnipod correspond approximativement à la quantité d'insuline
+basale administrée en mode automatisé. Pour ce faire, divisez le débit de
+base quotidien moyen par 24.
+- Conservez un registre détaillé de tous les réglages de la pompe et élaborez
+un plan d'urgence comprenant des instructions pour l'utilisation de stylos
+d'insuline à longue durée d'action et à courte durée d'action en cas de
+dysfonctionnement de la pompe. Veillez à ce que les stylos à insuline soient
+facilement accessibles dans de telles situations.
+Enfin, il convient de mentionner les outils précieux fournis par le Centre Barbara
+Davis au Colorado. Son site web Panther Diabetes propose des ressources
+téléchargeables gratuitement, dont deux feuilles de route spécialement conçues
+pour le suivi des personnes sur Omnipod 5. Ces ressources, qui peuvent être
+téléchargées au bas de la vidéo, offrent des conseils et un soutien pour optimiser la
+gestion du diabète. Il est essentiel de souligner l'importance de l'éducation en
+conjonction avec ces outils afin de garantir une approche globale du traitement du
+diabète.
+
+En maximisant l’utilisation de ces ressources et en s'engageant à suivre une
+formation continue, les personnes qui se trouvent sur le site peuvent maximiser les
+avantages d'Omnipod 5 et améliorer la gestion globale de leur diabète.

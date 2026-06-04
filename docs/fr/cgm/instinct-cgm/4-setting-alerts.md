@@ -2,6 +2,167 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q9zFUaZE9vnhGQllF1hmcIt&index=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Reglage des alertes</u>**
+## **<u>4. Configuration des alertes</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette leçon sur la configuration des alertes avec le CGM Instinct.
+Dans cette vidéo, vous découvrirez les types d'alertes que le capteur Instinct peut
+envoyer et comment vous pouvez les adapter à vos besoins. Commençons sans
+plus attendre.
+4.1 Les alertes disponibles
+Le système AID MiniMed™ 780G dispose d'un réseau de sécurité sophistiqué. Si le
+réseau détecte une activité inhabituelle, il communique cette information par le
+biais de notifications. Ces notifications sont constituées d' alarmes, d'alertes, et de
+messages.
+Une alarme signale une situation qui nécessite une attention immédiate. Les
+niveaux de glucose bas et l'arrêt de l'administration d'insuline sont les causes les
+plus courantes des alarmes. Lorsqu'une alarme se déclenche, la pompe affiche une
+notification avec une icône rouge et des instructions. Le voyant rouge clignote deux
+fois, suivi d'une pause, selon un cycle répétitif continu. En fonction des réglages
+sonores et vibratoires, la pompe émet également une série de tonalités d'alarme et
+de vibrations. Le problème sous-jacent qui a déclenché l'alarme doit être résolu.
+Dans la plupart des cas, appuyez sur le bouton Sélectionner ou sur la flèche vers le
+bas, puis effectuez une sélection pour désactiver l'alarme. Parfois, le problème
+d’origine n'est pas résolu lorsque l'alarme est désactivée. L'alarme se répète
+jusqu'à ce que le problème de base soit résolu. Si le problème à l'origine de
+l'alarme n'est pas résolu après 10 minutes, la tonalité de l'alarme s'intensifie pour
+devenir une sirène d'urgence puissante.
+
+Les alertes indiquent qu'une situation peut nécessiter votre attention. Lorsqu'une
+alerte se déclenche, vérifiez l'écran de la pompe pour voir si une action est
+nécessaire. Lorsqu'une alerte se déclenche, la pompe affiche une notification avec
+une icône jaune et des instructions. Le voyant rouge de notification sur la pompe
+clignote une fois, suivi d'une pause, puis clignote à nouveau de manière répétée. En
+fonction des réglages du son et des vibrations, la pompe génère également une
+série de tonalités et de vibrations. Pour effacer une alerte, appuyez sur la touche
+Bas, puis effectuez une sélection. La pompe émet un bip toutes les 5 ou 15
+minutes, selon l'alerte, jusqu'à ce que celle-ci soit résolue. Certaines alertes se
+transforment également en une sirène d'urgence puissante après 10 minutes.
+Un message est une notification qui indique l'état de la pompe ou s'affiche
+lorsqu'une décision doit être prise. Lorsqu'un message apparaît, la pompe affiche
+une notification avec une icône bleue et des instructions ; certains messages
+affichent une icône jaune. Le voyant rouge de notification sur la pompe ne clignote
+pas. De plus, la pompe émet un signal sonore, une vibration à impulsion unique ou
+une combinaison des deux. Pour effacer un message, appuyez sur la touche Bas,
+puis effectuez une sélection.
+Il existe également plusieurs rappels spécifiques qui déclenchent une action
+particulière. Il s'agit notamment de rappels personnels concernant les lectures du
+glucomètre et les médicaments, ainsi que des rappels concernant les bolus et le
+réservoir d'insuline.
+Passons maintenant aux alarmes et alertes liées au CGM Instinct. Les alarmes
+comprennent les alertes de glycémie basse, de faible SG, de fin de durée de vie du
+capteur, de suspension en cas de glycémie basse, et de dispositif médical. Les
+alertes peuvent concerner les niveaux de SG, l'état du capteur, la glycémie et
+l'administration d'insuline.
+Toutes les alertes sont facultatives, à l'exception de l'alerte urgente de glycémie
+basse qui se déclenche lorsque la valeur de glycémie mesurée par le capteur est
+inférieure ou égale à 54 mg/dl ou 3,0 mmol/l, et de l'alerte de glycémie élevée qui
+se déclenche lorsque la valeur de glycémie mesurée par le capteur est supérieure à
+250 mg/dl ou 13,8 mmol/l pendant plus de 3 heures.
+
+4.2 Réglage des alertes sur la pompe
+Sur la pompe à insuline, vous pouvez personnaliser les alertes SG hautes et
+basses, définir la durée de la répétition pour chacune d'elles et désactiver les
+alertes selon vos préférences.
+Avec les réglages SG élevés, vous pouvez activer les alertes « Rise Alert » (Alerte
+de hausse), « Alert Before High » (Alerte avant hausse) et « Alert On High » (Alerte
+en cas de hausse). Pour configurer ces alertes élevées, commencez depuis l'écran
+d'accueil. Appuyez sur le bouton central circulaire, sélectionnez « Settings »
+(Paramètres), puis choisissez « Alert Settings » (Paramètres d'alerte) et appuyez
+sur « High Alert » (Alerte élevée). L'écran « High Setup » (Configuration élevée)
+s'affiche.
+Commencez par sélectionner un segment horaire. L'heure de fin clignotera.
+L'heure de début du premier segment est toujours 00 h 00, et vous pouvez définir
+jusqu'à huit segments horaires, chacun avec sa propre limite supérieure. Tous les
+segments doivent totaliser une période complète de 24 heures. Réglez l'heure de
+fin, puis entrez votre limite supérieure en choisissant une valeur comprise entre
+100 et 400 mg/dL par incréments de 5 mg/dL.
+Pour personnaliser les alertes élevées pour ce segment, sélectionnez la flèche à
+côté de l'heure de fin. Un écran s'affichera, indiquant les alertes élevées
+disponibles.
+- Activez l'option « Alerte avant dépassement » pour recevoir une alerte avant
+d'atteindre le seuil supérieur. Réglez le délai avant dépassement entre 5 et
+30 minutes.
+- Activez l'alerte « Haut » pour recevoir une alerte lorsque la limite haute est
+
+atteinte.
+- Activez l'alerte d'augmentation pour recevoir une alerte lorsque le SG
+augmente rapidement.
+Les paramètres SG bas vous alertent ou suspendent l'administration d'insuline
+lorsque le SG approche ou atteint la limite basse. Pour modifier les paramètres SG
+bas, commencez par l'écran d'accueil, appuyez sur le bouton central circulaire et
+sélectionnez Paramètres. Choisissez Paramètres d'alerte, puis Alerte basse. Sur
+l'écran Configuration basse, sélectionnez Modifier, ajustez le segment de temps et
+
+modifiez les paramètres d'alerte basse selon vos besoins. Sélectionnez Suivant,
+puis Vérifier, et terminez en sélectionnant Enregistrer.
+La fonction High Snooze (Répétition alerte haute) permet de définir la durée
+pendant laquelle la pompe attend avant de répéter une alerte haute si la condition
+haute persiste. Pour la régler, accédez à Paramètres, Paramètres d'alerte, puis
+Répétition alerte haute et basse. Sur l'écran Répétition, sélectionnez Répétition
+alerte haute et entrez une durée par incréments de 5 minutes, comprise entre 5
+minutes et 3 heures, puis sélectionnez Enregistrer.
+La fonction « Low Snooze » (Répétition faible) fonctionne de la même manière,
+mais pour les alertes faibles. Dans l'écran « Snooze » (Répétition), sélectionnez «
+Low Snooze » (Répétition faible) et choisissez un délai compris entre 5 minutes et
+1 heure, par incréments de 5 minutes. Sélectionnez « Save » (Enregistrer).
+La fonction « Alert Silence » (Silence des alertes) désactive les alertes des
+capteurs sélectionnés. Lorsqu'elle est activée, l'icône « Alert Silence » apparaît sur
+l'écran d'accueil. Les alertes continuent d'apparaître à l'écran, mais le son et les
+vibrations sont désactivés.
+Pour désactiver les alertes, commencez par l'écran d'accueil et appuyez sur le
+bouton central circulaire. Sélectionnez l'icône du volume, puis choisissez «
+Désactiver les alertes du capteur ». Choisissez entre « Alertes élevées uniquement
+», « Alertes élevées et basses » ou « Toutes les alertes du capteur ». Définissez une
+durée par incréments de 15 minutes, de 30 minutes à 24 heures, puis sélectionnez
+« Commencer ».
+Pour désactiver le mode silencieux, ouvrez à nouveau l'icône du volume,
+sélectionnez Mode silencieux, puis appuyez sur Désactiver le mode silencieux.
+4.3 Configuration des alertes sur l'application mobile MiniMedTM
+L'application mobile MiniMedTM vous permet de recevoir des alarmes, des alertes,
+des rappels et des messages provenant de votre pompe sur votre smartphone
+compatible. Toutes les notifications provenant de la pompe s'affichent en haut de
+l'écran d'accueil. Les notifications d'alarme s'affichent sur fond rouge, les alertes
+sur fond jaune, les messages sur fond bleu et les rappels sur fond gris.
+Vous pouvez contrôler deux paramètres de notification à partir de l'écran
+Notifications. Le premier concerne les notifications provenant de la pompe. Lorsque
+
+ce paramètre est activé, les alarmes, alertes, messages et rappels provenant de
+votre pompe s'affichent à la fois sur votre pompe et sur votre smartphone
+compatible. Les notifications provenant de l'application MiniMed Mobile doivent
+également être activées sur votre appareil. Si l'un ou l'autre de ces paramètres est
+désactivé, les notifications s'affichent uniquement sur votre pompe.
+Ensuite, il y a les notifications répétées. Lorsque ce paramètre est activé, les
+notifications se répètent toutes les minutes sur votre smartphone compatible
+jusqu'à ce qu'elles soient effacées sur la pompe ou ignorées dans l'application. Si
+ce paramètre est désactivé, les notifications ne se répètent pas sur l'appareil.
+Appuyez sur les boutons pour activer ou désactiver les notifications souhaitées.
+Appuyez ensuite sur Terminé en bas de l'écran.
+
+Si vous avez activé les
+
+notifications, un message s'affiche pour vous rappeler que les alertes et les
+alarmes doivent toujours être effacées sur la pompe. Appuyez sur OK.
+4.4 À faire et à ne pas faire
+Voici quelques rappels concernant les notifications du capteur Instinct sur la pompe
+et l'application.
+- Le capteur Instinct ne nécessitant aucun étalonnage, des contrôles de
+sécurité supplémentaires ont été mis en place. Par conséquent, l'alerte «
+Mise à jour du capteur » peut s'afficher lorsque le système vérifie la fiabilité
+du capteur. Il n'est pas nécessaire d'intervenir, sauf si le système le
+recommande. Si la mise à jour dure plus de 3 heures, envisagez de
+remplacer le capteur.
+- Ne vous fiez pas uniquement aux notifications de l'application MiniMedTM
+Mobile. Les notifications sur votre smartphone ou celles envoyées à vos
+soignants peuvent ne pas se produire comme prévu et ne pas toujours être
+perceptibles. Fiez-vous toujours à votre pompe comme source principale de
+notifications.
+- Effacez toujours les notifications sur votre pompe. Le fait de rejeter une
+notification dans l'application ne la supprime pas de la pompe. Il est donc
+important de répondre rapidement et d'effacer toutes les notifications qui
+apparaissent sur votre pompe.
+
+Dans cette vidéo, nous avons exploré les alarmes, les alertes et les messages liés
+au capteur Instinct, ainsi que leur mode de transmission via la pompe MiniMed™
+780G et l'application mobile. En adaptant ces alertes à vos besoins, vous pouvez
+transformer les problèmes potentiels liés à la gestion de votre diabète en invites
+d'action opportunes, ce qui vous permet de garder le contrôle de votre santé.

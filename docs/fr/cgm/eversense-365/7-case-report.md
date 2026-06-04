@@ -4,4 +4,28 @@
 
 ## **<u>7. Rapport de cas</u>**
 
-<!-- Transcription a ajouter -->
+Félicitations pour avoir complété ce cours sur Eversense 365 ! Votre engagement à
+apprendre le fonctionnement de ce CGM est une étape importante vers une gestion
+plus sécurisée et plus efficace du diabète.
+Vous avez acquis des bases solides ; il est donc temps de faire le lien entre la
+théorie et la pratique. Pour mieux comprendre le fonctionnement de l’Eversense au
+quotidien, nous vous recommandons vivement de regarder la vidéo YouTube
+ci-dessous :
+https://www.youtube.com/watch?v=QI7FROStO28
+Dans cette vidéo qui a été visionnée près de 90 000 fois et qui continue de faire le
+buzz, Tom partage de nombreux conseils pratiques et astuces quotidiennes tirés de
+son expérience personnelle avec le capteur Eversense 3. Bien que l'Eversense 3
+soit indiqué pour une utilisation pouvant aller jusqu'à six mois, il partage de
+nombreuses caractéristiques et fonctions essentielles avec l'Eversense 365, ce qui
+rend les observations de Tom très pertinentes.
+En tirant parti des expériences concrètes, parallèlement aux concepts abordés ici,
+vous pourrez transformer vos connaissances en résultats optimaux avec Eversense
+365.
+N'oubliez pas que vous n'êtes pas seul dans votre parcours. Demandez de
+l'assistance à votre équipe soignante, à d'autres personnes diabétiques, et à des
+communautés en ligne. Continuez à bénéficier de la technologie pour faire des
+choix éclairés en matière de santé.
+
+Une fois encore, félicitations pour avoir suivi ce cours jusqu'au bout. Que vos
+nouvelles compétences et votre détermination vous mènent vers de nouveaux
+succès !

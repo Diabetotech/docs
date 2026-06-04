@@ -2,6 +2,224 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-ZZxkdgGFXySjecnvkLsZe&index=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Reglage des alarmes</u>**
+## **<u>4. Réglage des alarmes</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette leçon consacrée au réglage des alarmes avec le CGM
+Accu-Chek SmartGuide. Dans cette vidéo, nous aborderons les différentes alarmes
+que le capteur peut émettre et vous montrerons comment les personnaliser dans
+les applications SmartGuide et Predict. Commençons.
+4.1 Alarmes disponibles
+L'application Accu-Chek SmartGuide peut vous alerter lorsque votre glycémie est
+très élevée, basse, ou très basse. L'alarme de glycémie très élevée vous avertit
+lorsque votre glycémie dépasse votre limite maximale. Par défaut, celle-ci est fixée
+à 250 mg/dL ou 13,9 mmol/L. L'alarme de glycémie basse vous avertit lorsque votre
+glycémie descend en dessous de votre seuil minimal. Le seuil de glycémie basse par
+défaut est de 70 mg/dL ou 3,9 mmol/L. L'alarme de glycémie très basse vous avertit
+lorsque votre glycémie descend en dessous de 54 mg/dL ou 3,0 mmol/L. Pour des
+raisons de sécurité, la limite très basse ne peut être modifiée.
+Vous ne recevrez qu'une seule alerte lorsque votre glycémie dépasse pour la
+première fois la limite supérieure ou inférieure. En revanche, si votre glycémie reste
+inférieure au seuil minimal, l'application continuera à envoyer une alerte toutes les 5
+minutes jusqu'à ce que votre valeur franchisse le seuil minimal ou que vous
+désactivez l'alerte.
+Les alarmes de glycémie sont actives 24 heures sur 24, sauf si vous avez activé les
+alarmes de veille. Les alarmes de veille vous permettent de choisir différents seuils
+
+d'alarme pendant la nuit afin de ne pas être dérangé inutilement pendant votre
+sommeil.
+Les alarmes de glucose sont activées par défaut, mais elles peuvent être
+désactivées. Or, il n'est pas recommandé de les désactiver pour des raisons de
+sécurité.
+La fonction « Ne pas déranger » vous permet de continuer à recevoir les notifications
+importantes relatives à votre glycémie même lorsque votre smartphone est en
+mode silencieux ou en mode « Ne pas déranger ». Pour l'activer, appuyez sur Menu,
+puis sur « Ne pas déranger » et activez-la dans les paramètres de votre smartphone
+afin de pouvoir réagir rapidement en cas de variations importantes de votre
+glycémie.
+Vous pouvez également recevoir un rappel lorsque votre capteur CGM arrive à
+expiration et doit être remplacé. Appuyez sur Menu, puis sur Rappels d'expiration
+du capteur, et sélectionnez [24 heures avant], [2 heures avant], ou les deux.
+Vous recevrez également une notification si l'application perd la connexion avec le
+capteur. Pour régler ce paramètre, allez dans Menu, puis appuyez sur Perte de
+connexion du capteur. Cette alerte est activée par défaut.
+L'application SmartGuide utilise également diverses autres notifications pour vous
+tenir informé de l'état des capteurs, des problèmes et des actions requises. Ces
+notifications peuvent prendre la forme de messages d'erreur, de messages de
+maintenance, d'avertissements, de messages d'information, ou de rappels.
+D'autre part, l'application Predict se concentre sur la prévision de votre taux de
+glucose. Son objectif est de vous fournir des informations avancées afin que vous
+puissiez agir rapidement et maintenir votre taux de glucose dans la plage cible,
+plutôt que de réagir uniquement après un pic ou une baisse.
+L'application Predict propose trois types de prévisions glycémiques : Glucose
+Predict, Low Glucose Predict, et Night Low Predict.
+Glucose Predict affiche une estimation de votre taux de glucose pour les 2
+prochaines heures. Pour accéder à cette fonctionnalité, vous devez disposer d'au
+moins 1 heure de données CGM, d'une connexion Internet active sur votre appareil
+et d'une mesure de glucose actuelle supérieure à votre seuil de glycémie basse de
+70 mg/dL (ou 3,9 mmol/L).
+
+Sur le graphique, le gros point vert et le chiffre indiqué en dessous représentent
+tous deux votre glycémie actuelle. À gauche de ce point, une ligne continue indique
+vos mesures de glycémie des 60 dernières minutes. À droite, une ligne pointillée
+indique la meilleure estimation de vos futures valeurs de glycémie. Derrière cette
+ligne pointillée, des barres grises verticales illustrent le degré d'incertitude de la
+prévision. Comme pour toute prévision, plus elle s'étend dans le futur, moins elle
+est certaine. Cela est indiqué par la longueur des barres grises : plus les barres sont
+longues, plus l'incertitude est grande. Vos valeurs glycémiques réelles peuvent
+encore se situer en dehors de ces barres grises. Les valeurs glycémiques sont
+codées par couleur : les mesures comprises dans votre plage cible sont indiquées en
+vert, tandis que les valeurs supérieures à cette plage apparaissent en jaune ou en
+orange, et les valeurs basses sont marquées en rouge ou en rouge foncé.
+La fonction Glucose Predict vous alerte lorsqu'un épisode d'hypoglycémie est
+susceptible de se produire dans les 30 minutes suivantes. Lorsque le système
+détecte un risque accru d'hypoglycémie, il envoie une notification push. Vous pouvez
+régler le seuil de glycémie qui déclenche cette notification entre 60 et 100 mg/dL
+(ou 3,3 à 5,6 mmol/L) en modifiant le paramètre d'alarme d'hypoglycémie dans les paramètres thérapeutiques de l'application Accu-Chek SmartGuide. Cette
+fonctionnalité est activée par défaut, mais peut être désactivée via les paramètres
+de notification dans les options du menu de l'application Predict. Lorsque vous
+appuyez sur la notification, des détails supplémentaires et des actions suggérées
+s'affichent.
+La fonction Low Glucose Predict (ou Prévision d'hypoglycémie) ne fonctionnera que
+si votre alarme d'hypoglycémie dans l'application Accu-Chek SmartGuide est réglée
+entre 60 mg/dL (ou 3,3 mmol/L) et 100 mg/dL (ou 5,5 mmol/L). Si votre réglage est
+supérieur à cette plage, la fonction Predict (Prévision) restera inactive.
+Night Low Predict, ou prévision d'hypoglycémie nocturne, indique le risque que
+vous courrez de faire une hypoglycémie pendant la nuit. Vous pouvez recevoir une
+notification si votre risque d'hypoglycémie nocturne est élevé ou très élevé.
+Définissez votre heure de coucher habituelle pour la semaine et, tant que les
+notifications sont activées, un rappel s'affiche sur votre écran de verrouillage entre
+21 h et 2 h. Pendant cette période, l'écran d'accueil affiche votre risque
+d'hypoglycémie au cours des 7 prochaines heures de la nuit. Pour cette
+fonctionnalité, l'incidence d’hypoglycémie est définie comme une valeur inférieure à
+70 mg/dL (ou 3,9 mmol/L), quel que soit votre seuil d'hypoglycémie personnalisé.
+
+Si votre niveau de risque est différent au cours des 3,5 premières heures de la nuit
+par rapport aux 3,5 dernières heures, la prévision mettra en évidence la partie de la
+nuit présentant le plus grand risque. Les prévisions sont généralement plus fiables
+pour les premières heures de la nuit car les prévisions à court terme sont plus
+précises.
+Night Low Predict utilise trois niveaux de risque, chacun représenté par une couleur
+différente. Le vert indique un risque normal ou moyen d'hypoglycémie. A ce niveau,
+vous pouvez vous préparer à aller vous coucher comme d'habitude. Le jaune signale
+un risque supérieur à la normale, et le rouge indique un risque très élevé
+d'hypoglycémie. Lorsqu'un risque élevé ou très élevé est affiché, vous pouvez choisir
+de prendre des mesures, telles que consommer des glucides à action prolongée
+combinés à des protéines et des graisses, et/ou ajuster votre insuline basale ou
+votre débit basal avant d'aller vous coucher. Les mesures spécifiques que vous
+prenez doivent être basées sur votre plan de traitement du diabète, votre
+expérience antérieure, et selon que l'hypoglycémie survient durant la première ou la
+seconde moitié de la nuit. En cas de doute, consultez votre professionnel de santé
+pour obtenir des conseils.
+Enfin, la fonctionnalité « Tendances glycémiques » met en évidence les tendances
+récurrentes dans votre glycémie. Une tendance est définie comme un événement
+qui se produit plus d'une fois au cours d'une même journée ou d'une même semaine
+civile.
+Lorsque l'application Predict dispose de suffisamment de données pour reconnaître
+des tendances dans vos valeurs glycémiques, celles-ci s'affichent et peuvent être
+sélectionnées pour afficher des informations plus détaillées. Elles peuvent
+apparaître de manière très différente selon leur fréquence et leur cause, et sont
+représentées à l'aide de différentes icônes et couleurs.
+Les modèles des dernières 24 heures sont affichés sur l'écran d'accueil. Si aucun
+modèle n'est identifié, l'application Predict affichera un message pour vous en
+informer. Lorsqu'un nouveau modèle est détecté, vous recevrez une notification ;
+appuyez dessus pour obtenir plus de détails.
+Pour explorer les graphiques de tendances, appuyez sur l'icône Graphique dans le
+menu inférieur, sélectionnez une tendance et passez à l'affichage Semaine ou Mois.
+Les causes possibles de chaque tendance sont répertoriées sous le graphique. Vous
+
+pouvez appuyer sur ces causes pour voir les suggestions de changements que vous
+pourriez envisager. Certains schémas peuvent être améliorés
+ou résolus en ajustant votre
+
+comportement. Une fois qu'un schéma a été résolu, l'application Predict le déplace
+vers l'onglet Passé, où vous pouvez consulter tous vos schémas précédents si vous
+avez besoin de vous y référer ultérieurement.
+Les entrées de votre journal jouent un rôle important dans l'identification des
+tendances. Par exemple, les tendances liées aux repas ne peuvent être détectées
+que si vous saisissez systématiquement vos repas dans l'application SmartGuide.
+4.2 Réglage des alarmes sur les applications SmartGuide et Predict
+Pour configurer vos alarmes de glycémie, ouvrez le menu et sélectionnez Alarmes
+de glycémie. Utilisez les boutons pour activer ou désactiver des alarmes spécifiques.
+Si vous activez les alarmes de sommeil, vous pouvez également régler votre heure
+de coucher (ou l’heure de début) et votre heure de réveil (ou l’heure de fin) par
+incréments de 15 minutes. Ensuite, entrez les seuils de glycémie que vous souhaitez
+pour chaque alarme, puis appuyez sur Enregistrer pour appliquer vos paramètres.
+Pour activer ou régler les alertes critiques, les rappels d'expiration des capteurs ou
+de perte de connexion des capteurs, appuyez sur Menu et activez ou désactivez les
+paramètres correspondants.
+Dans l'application Predict, les fonctionnalités Glucose Predict, Low Glucose Predict
+et Night Low Predict sont activées par défaut. Vous pouvez les désactiver via le
+menu.
+Vous pouvez également définir des rappels, y compris des notifications push, pour
+vous aider à travailler activement sur les schémas particuliers que vous souhaitez
+améliorer. En créant un rappel pour un schéma détecté, l'application peut vous
+avertir à l'avance afin que les alarmes vous aident à éviter que le même événement
+ne se reproduise.
+Un résumé des tendances de la semaine précédente est généré automatiquement
+chaque lundi. Si vous souhaitez être averti lorsque ce résumé est prêt, retournez
+dans Tendances via le menu de navigation inférieur, appuyez sur [Activer] sur la
+carte Résumé hebdomadaire, activez le bouton de notification, puis appuyez sur
+[Suivant]. Sélectionnez ensuite [M'avertir quotidiennement à] et réglez l'heure à
+
+laquelle vous souhaitez recevoir la notification, appuyez sur [Suivant], puis
+confirmez sur l'écran final.
+4.3 Conseils
+- Pour vous assurer de recevoir les alertes CGM, familiarisez-vous avec le fonctionnement de votre smartphone
+et vérifiez régulièrement ses
+
+paramètres afin de vous assurer que :
+  - L'application CGM est ouverte et fonctionne.
+  - Les notifications de l'application sont activées.
+  - Les modes d'économie d'énergie ou d'optimisation de la batterie sont
+désactivés.
+  - Le volume est réglé suffisamment haut.
+  - La sonnerie est activée.
+  - Le mode Ne pas déranger ou Concentration est désactivé.
+  - Le mode Avion est désactivé.
+  - Le Bluetooth est activé.
+  - Votre smartphone reste près de vous.
+- L'application vous alerte principalement par le biais de sons. Elle peut
+également utiliser d'autres types de notifications, telles que des vibrations ou
+des signaux visuels. Le volume sonore des alertes dépend des paramètres de
+volume sonore de votre smartphone.
+- Lorsque le capteur fonctionne en mode Tendance, les mesures CGM peuvent
+être moins précises. Cela peut entraîner le déclenchement d'alarmes même si
+votre glycémie réelle se situe dans la plage normale, ou, inversement,
+l'absence d'alarme même si votre glycémie réelle est trop élevée ou trop
+basse.
+- Vérifiez que les alertes Basse et Très Basse sont activées dans l'application
+Accu-Chek SmartGuide pendant la nuit.
+- L'application Predict base ses prévisions sur vos lectures CGM et vos entrées
+enregistrées en matière de glucides et d'insuline. Les actions que vous
+effectuez dans les deux heures qui suivent, telles que manger, prendre de
+l'insuline, ou faire de l'exercice physique, ne sont pas prises en compte dans
+la prévision. Une prévision sur 2 heures a principalement pour but de vous
+informer lorsque le changement prévu est à plus de 45 minutes, afin que
+vous puissiez vous préparer à d'éventuelles mesures futures, telles qu’une
+vérification de glycémie plus fréquente, une planification des doses
+
+d'insuline, ou la garde des glucides à portée de main. Lorsqu'une glycémie
+élevée ou faible est prévue dans les 45 minutes à venir, vous devez réfléchir
+activement aux mesures que vous devrez prendre.
+- Une connexion Internet active est nécessaire pour utiliser la fonctionnalité «
+Prévision d’hypoglycémie». Si votre appareil est hors ligne ou en mode avion,
+vous ne recevrez pas la notification « Hypoglycémie imminente ! ».
+- Vous risquez de ne pas entendre ou remarquer les notifications pendant
+votre sommeil. Pour réduire le risque d'hypoglycémie nocturne, utilisez la
+fonctionnalité Night Low Predict (ou Prévision d'hypoglycémie nocturne) et
+prenez des mesures préventives avant d'aller vous coucher. Vous pouvez
+également activer une alarme d'hypoglycémie dans l'application Accu-Chek
+SmartGuide pour plus de sécurité.
+- Les notifications d'alarme ne peuvent être garanties dans toutes les
+situations, car tout système d'alarme comporte des limites inhérentes. Ne
+vous fiez pas uniquement aux alarmes, car cette pratique pourrait vous faire
+manquer des épisodes sévères d'hypoglycémie ou d'hyperglycémie. Ouvrez
+régulièrement l'application pour vérifier votre glycémie, conformément aux
+recommandations de votre professionnel de santé, ou dès que vous
+soupçonnez que votre glycémie est trop basse ou trop élevée. Ne négligez
+jamais les symptômes d'hypoglycémie ou d'hyperglycémie.
+Dans cette vidéo, nous avons examiné de plus près les alarmes du système CGM
+Accu-Chek SmartGuide. En adaptant ces alarmes à vos besoins, vous pouvez
+transformer les problèmes potentiels liés à la gestion de votre diabète en incitations
+claires à agir, ce qui vous aide à vous sentir plus en sécurité et à mieux prendre en
+main votre santé.

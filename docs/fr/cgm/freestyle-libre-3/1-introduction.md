@@ -4,4 +4,49 @@
 
 ## **<u>1. Introduction</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans ce module dédié au FreeStyle Libre 3 et 3 Plus ! Tout au long de
+ce parcours, nous allons découvrir les particularités du capteur le plus compact au
+monde.
+Le capteur FreeStyle Libre 3 se fixe facilement sur votre corps par un simple clic et
+mesure votre glucose toutes les minutes. Vous pouvez suivre commodément votre
+courbe de glucose en utilisant soit l'application FreeStyle Libre 3 sur votre
+smartphone, soit le lecteur FreeStyle Libre 3. Le FreeStyle Libre 3 a une durée de
+port de 14 jours, tandis que le FreeStyle Libre 3 Plus peut être porté pendant 15
+jours.
+Les autres différences entre les capteurs FreeStyle Libre 3 et FreeStyle Libre 3 Plus
+sont la tranche d'âge autorisée (4 ans et plus pour le Libre 3 et 2 ans et plus pour le
+Libre 3 Plus) et la quantité de vitamine C qui peut causer des interférences (500
+mg/jour pour le Libre 3 et 1000 mg/jour pour le Libre 3 Plus). Au-delà de ces
+distinctions, il n'y a pas d'autres différences. Pour le reste de ce module, nous
+désignerons les deux capteurs sous le nom de FreeStyle Libre 3.
+Dans le module principal sur les capteurs de glucose, nous avons abordé des
+informations générales sur les capteurs de glucose, y compris la fiabilité des
+lectures du capteur, des conseils pour gérer les déconnexions du capteur, et les
+allergies. Dans les prochaines vidéos, nous nous concentrerons sur la formation au
+démarrage du capteur FreeStyle Libre 3 et fournirons des conseils et astuces
+avancés.
+Cette formation est conçue pour permettre à la fois aux professionnels médicaux et
+aux diabétiques de maximiser l’utilisation du FreeStyle Libre 3. Avant de s’y mettre,
+rappelez-vous que ces vidéos ne constituent pas un avis médical. Consultez
+toujours votre professionnel médical avant d'apporter des modifications à votre
+traitement.
+
+Ces vidéos ont été créées par la Dr Inge Van Boxelaer, fondatrice de Diabetotech et
+endocrinologue à l'hôpital St-Lucas de Gand en Belgique. Le contenu a été revu par
+la Dr Diana Isaacs, endocrinologue au Cleveland Clinic Diabetes Center, ainsi que
+par Justin Eastzer, une personne vivant avec le diabète qui a une expérience de
+première main avec FreeStyle Libre 3 et a publié de nombreuses critiques
+techniques à ce sujet sur son Youtube et ses pages sociales appelées "Diabetech" Soyez assuré que toutes les informations
+fournies ici sont totalement
+
+indépendantes d'Abbott, le fabricant du capteur, ce qui garantit un point de vue
+authentique sur les avantages et les inconvénients du capteur FreeStyle Libre 3.
+À la fin de ce module, vous aurez une compréhension complète du système
+FreeStyle Libre 3. Nous aborderons des sujets tels que l'emplacement et le
+démarrage du capteur, le réglage des alarmes, le partage des données, la
+connexion du capteur à d'autres appareils, et quelques conseils et astuces
+supplémentaires. En tant que professionnel de santé, vous acquerrez les
+connaissances nécessaires pour guider efficacement les utilisateurs du FreeStyle
+Libre 3, tandis que les utilisateurs eux-mêmes découvriront une multitude de
+conseils et d'astuces pour améliorer leur expérience.
+Embarquons ensemble dans ce voyage qui nous rendra plus forts. Bonne réussite !

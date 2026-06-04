@@ -2,6 +2,159 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q88IzpWnOtFjKyWOSDZDnph&index=2" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Connexion des composants</u>**
+## **<u>3. Leçon 3</u>**
 
-<!-- Transcription a ajouter -->
+3.1 Connexion du capteur à l'application Trio
+Voyons comment connecter les capteurs les plus utilisés, tels que FreeStyle Libre 2,
+2 Plus, Dexcom G6, G7 et ONE Plus.
+Pour les capteurs européens FreeStyle Libre 2 ou 2 Plus, la première étape consiste
+à démarrer votre capteur via l'application LibreLink. Après une période de
+préchauffage d'une heure, vous pouvez établir la connexion entre votre capteur et
+l'application Trio. Dans Trio, accédez à Paramètres, sélectionnez Appareils, CGM,
+puis choisissez FreeStyle Libre. Appuyez sur l'option de configuration pour
+sélectionner Libre 2 Direct. Vous pouvez alors lancer le processus d'appairage et
+scanner votre capteur. Cela permet à Trio de recevoir directement les données de
+votre capteur FreeStyle Libre 2 ou 2 Plus. Une fois scanné, les informations de votre
+capteur s'affichent à l'écran et votre glycémie actuelle est visible sur l'écran
+d'accueil de Trio. Veillez à désactiver les autorisations Bluetooth dans l'application
+Libre, sinon la connexion de Trio sera instable. Après 14 jours, le capteur FreeStyle
+Libre 2 ou 2 Plus cessera de fonctionner. Vous pouvez démarrer un nouveau capteur
+via l'application LibreLink et Trio.
+Si vous utilisez le capteur FreeStyle Libre 1 avec un émetteur après-vente, vous
+pouvez sélectionner l'émetteur Bluetooth et suivre les instructions dans xDrip4iOS.
+Ce capteur nécessite une connexion Internet constante et n'est généralement pas
+recommandé.
+Pour les capteurs Dexcom G6, démarrez le capteur à l'aide de l'application Dexcom
+G6. Dans l'application Trio, sélectionnez Dexcom G6 dans le menu CGM et saisissez
+
+le numéro de série de l'émetteur. Vous recevrez vos résultats après une période de
+préchauffage de deux heures. Vous devez laisser l'application G6 fonctionner en
+arrière-plan ; les changements de capteur s'effectuent dans l'application G6.
+Pour les capteurs Dexcom G7 et Dexcom ONE Plus, démarrez le capteur à l'aide de
+l'application Dexcom G7 ou Dexcom ONE Plus, de préférence après une période de
+préchauffage d'au moins 30 minutes, afin de permettre le chevauchement des
+capteurs. Dans Trio, sélectionnez Dexcom G7/ONE+. Lorsque les lectures
+commencent dans l'application Dexcom, Trio lit automatiquement les lectures
+G7/ONE+.
+Vous pouvez choisir de recevoir les alertes du capteur soit depuis l'application
+LibreLink ou Dexcom, soit via l'application Trio dans les paramètres de notification.
+Trio propose 3 options d'alerte glycémique. L'option « Désactivé » ne vous enverra
+aucune alerte, l'option « Toujours » vous alertera à chaque mesure de glycémie et
+l'option « Seulement les limites d'alarme » vous alertera lorsque votre glycémie est
+supérieure ou inférieure aux limites que vous avez définies. Si vous avez besoin de
+plus d'options d'alerte, envisagez d'utiliser votre application native pour capteur ou
+une application open source telle que xDrip4iOS.
+3.2 Appairage de la pompe à insuline à l'application Trio
+La plupart d’utilisateurs couplent Trio avec une pompe à insuline Omnipod DASH,
+Dana ou TouchCare Nano. Si vous souhaitez utiliser Omnipod Eros ou une pompe
+Medtronic plus ancienne, vous devrez utiliser un Riley Link.
+Voici comment connecter un pod Omnipod DASH.
+-​ Allez d'abord dans Paramètres, Appareils, Pompe à insuline et sélectionnez
+Omnipod DASH.
+-​ Vous serez invité à définir votre rappel d'expiration, votre rappel de réservoir
+faible, et votre type d'insuline.
+-​ Vous pouvez ensuite appuyer sur Omnipod DASH pour accéder à l'écran de
+la pompe et sélectionner « Associer le Pod ».
+L'application vous guidera à travers les différentes étapes, comme le fait le PDM
+Omnipod DASH. Commencez par remplir votre Pod d'insuline, puis connectez-le,
+
+retirez le capuchon de l'aiguille et placez le Pod sur votre corps. Enfin, insérez la
+canule.
+Une fois votre Pod appairé, une fenêtre contextuelle DASH dédiée s'affiche dans
+l'interface de l'application. Si vous appuyez dessus, vous accédez à l'écran de la
+pompe, où vous pouvez consulter les informations relatives à votre pompe Omnipod
+DASH et contrôler ses fonctions. Les boutons sont intuitifs et remplacent les
+fonctions exécutées par le PDM Omnipod. Bien que le PDM ne soit pas nécessaire si
+vous utilisez Trio, il est recommandé de le conserver comme appareil de secours.
+Pour les utilisateurs d'autres pompes à insuline, l'interface de l'application affichera
+différentes options correspondant au type de pompe spécifique. Ces fonctionnalités
+vous permettent de gérer et de contrôler efficacement l'administration d'insuline via
+votre pompe connectée à l'aide de l'application Trio.
+3.3 Création d'un site Web Nightscout
+Nightscout n'est pas une plateforme à laquelle il faut se connecter, mais plutôt un
+site web que vous créez ou faites créer, ce dernier entraînant des coûts
+supplémentaires.
+Un compte Nightscout comprend une URL (ou nom) et un mot de passe permettant
+d'accéder au site Web.
+Les comptes Nightscout sont créés en tant que comptes utilisateurs individuels. Il
+n'existe pas de plateforme Nightscout spécifiquement destinée aux professionnels
+de santé.
+Nightscout permet un suivi en temps réel des données de votre capteur et de votre
+insuline, que vous pouvez partager avec vos proches ou votre professionnel
+médical. De plus, Nightscout est la seule méthode permettant de générer des
+rapports à partir de votre système automatisé d'administration d'insuline Trio.
+
+Nightscout est plus qu'un simple site web pour les données Trio ; il peut se
+connecter à divers appareils. Nightscout sert de plateforme centrale, recevant les
+données des capteurs et les distribuant à plusieurs appareils tels que les
+téléphones mobiles, les montres connectées, les ordinateurs et autres appareils de
+surveillance. Il offre diverses options pour accéder et afficher les informations sur le
+glucose, notamment via des montres connectées, des widgets de bureau, des
+appareils muraux et l'intégration avec des assistants vocaux comme Alexa.
+Il existe plusieurs façons de créer un site Web Nightscout.
+Nightscout est un logiciel open source. Vous trouverez toutes les informations
+nécessaires sur nightscout.github.io.
+-​ Vous pouvez l'installer vous-même à l'aide des instructions étape par étape
+disponibles en ligne.
+-​ Il existe également des entreprises qui proposent des services de
+configuration Nightscout, telles que T1Pal, NS10BE, Nightscout Pro,
+Serendipity Bio, Nightscout4u, Nightscout-easy et Opensource.clinic.
+-​ Nightscout et ses services associés ne sont pas approuvés par la FDA, à
+l'exception du service T1Pals. Il n'y a pas d'autorisation des autorités
+européennes ; son utilisation se fait donc à vos propres risques. Nightscout
+semble être conforme au RGPD et à la loi HIPAA, mais ne revendique pas de
+conformité officielle en raison de l'absence d'auditeurs.
+Il est essentiel de traiter les données de glycémie du capteur de manière sécurisée
+et de protéger votre URL Nightscout à l'aide d'un mot de passe. Si vous souhaitez
+partager votre site Web Nightscout avec un proche ou des professionnels de santé,
+il est recommandé de créer un jeton distinct pour eux.
+En suivant ces étapes, vous pouvez créer facilement et en toute sécurité un site
+Web Nightscout, qui vous permettra de suivre et de partager efficacement vos
+données relatives au diabète.
+
+3.4 Connexion de l'application Trio à Nightscout
+Pour connecter vos données Trio à votre site Web Nightscout, rendez-vous dans
+Paramètres, puis Nightscout, et saisissez l'URL et le mot de passe Nightscout.
+Une fois connecté, vos données Trio s'afficheront sur votre site Web Nightscout.
+Cela vous permettra, ainsi qu'à votre famille et à votre professionnel médical,
+d'obtenir des informations en temps réel sur la façon dont vous gérez votre diabète.
+Si vous activez la fonction « Contrôle à distance », des personnes autorisées peuvent
+vous administrer de l'insuline, saisir les glucides, ou ajuster vos paramètres
+d'insuline à l'aide de Loop Follow ou de leur identifiant Nightscout.
+3.5 Application Trio sur Apple Watch
+L'utilisation d'une Apple Watch vous permettra non seulement de suivre votre
+glycémie et votre insuline active sur votre poignet, mais aussi d'ajouter des glucides,
+des bolus et de sélectionner/définir/arrêter un profil depuis votre montre.
+Trio sera automatiquement téléchargé sur votre Apple Watch connectée. Sur votre
+Apple Watch, vous pouvez configurer une complication Trio dans un cadran
+modulaire.
+Si vous appuyez sur la complication Trio sur le cadran de votre montre, vous verrez
+s'afficher un écran Trio où vous pourrez consulter vos données de glycémie et de
+boucle fermée, votre insuline active et vos glucides actifs. Elle vous permet
+également d'ajouter des glucides, d'effectuer un bolus manuel et de définir une
+dérogation ou une plage cible temporaire. Cependant, l'application compagnon ne
+sert que de télécommande pour l'application iPhone ; la connexion au CGM et à la
+pompe se fait toujours via votre iPhone, que vous devrez emporter avec vous.
+Dans ce module, nous avons exploré les différentes connexions disponibles dans
+Trio. Des capteurs de glucose aux pompes à insuline en passant par Nightscout, ces
+liens permettent une communication fluide pour une gestion efficace du diabète. En
+établissant ces connexions, les utilisateurs peuvent exploiter pleinement les
+capacités de Trio et prendre le contrôle de leur diabète.
+
+4. Comment fonctionne Trio
+Bienvenue dans cette vidéo sur les fonctionnalités de Trio.
+Le contrôle de l'administration d'insuline à l'aide du système automatisé Trio
+s'effectue via l'application Trio installée sur votre iPhone.
+L'application propose deux modes de fonctionnement principaux : le mode boucle
+fermée, ou mode automatique, et le mode boucle ouverte ou mode manuel.
+-​ En boucle fermée, Trio ajuste automatiquement l'administration d'insuline
+toutes les 5 minutes en fonction des mesures de glycémie en temps réel
+fournies par le capteur.
+-​ Si la boucle fermée est désactivée, ou en boucle ouverte ou manuel, seul le
+débit basal programmé sera administré sans intervention manuelle.
+Dans cette vidéo, nous allons nous intéresser aux fonctionnalités générales de
+l'application Trio et
+
+explorer comment vous pouvez utiliser l'application Trio en
+
+mode boucle fermée et en mode boucle ouverte.

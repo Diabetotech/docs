@@ -4,4 +4,44 @@
 
 ## **<u>1. Introduction</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans ce module consacré au CGM Instinct ! Tout au long de cette série
+de vidéos, nous couvrirons tout ce que vous devez savoir sur ce capteur conçu
+exclusivement pour les systèmes MiniMed™. Allons-y!
+Le capteur Instinct mesure 21 x 21 x 3 millimètres et pèse 1 gramme. Il s'insère à
+l'arrière de votre bras à l'aide d'un applicateur tout-en-un. Après une heure de
+préchauffage, il mesure votre glycémie en temps réel et transmet les résultats à
+votre pompe à insuline toutes les cinq minutes. Vous pouvez ensuite consulter les
+données de votre capteur et de votre pompe à la fois sur votre pompe à insuline
+MiniMed™ 780G et sur votre smartphone via l'application MiniMed™ Mobile. Le
+capteur a une durée de vie maximale de 15 jours. Il est destiné aux personnes
+diabétiques âgées de 7 ans et plus aux États-Unis, mais l'âge indiqué peut varier
+dans d'autres régions.
+Notre « Module principal sur les capteurs de glucose » a établi les bases de
+l'utilisation du CGM, depuis le moment où les lectures du capteur sont considérées
+comme fiables jusqu'à la manière de traiter les problèmes tels que les
+déconnexions et les allergies. Nous nous concentrons désormais sur la formation
+essentielle au capteur Instinct, ainsi que sur les stratégies qui vous aideront à
+bénéficier d’un maximum de l'appareil dans votre vie quotidienne.
+Ce module permettra à la fois aux professionnels de santé et aux utilisateurs
+d'optimiser leur expérience avec le système CGM Instinct. Veuillez toutefois noter
+que ces vidéos ne constituent en aucun cas un avis médical. Consultez toujours
+votre professionnel de santé avant d’apporter toute modification à votre traitement.
+Ces vidéos ont été réalisées par la Dr Inge Van Boxelaer, fondatrice de Diabetotech
+et endocrinologue à l'hôpital St-Lucas de Gand, en Belgique. Le contenu a été
+révisé par la Dr Diana Isaacs, directrice de la formation en technologie du diabète
+au Cleveland Clinic Diabetes Center. Grâce à leur expertise et à leurs perspectives,
+vous avez la garantie d'une évaluation équilibrée de l'Instinct CGM.
+
+Vous pouvez vous assurer que le contenu de ces vidéos est totalement
+indépendant d'Abbott, le fabricant du capteur Instinct, et de Medtronic, le
+distributeur du capteur, ce qui permet un aperçu impartial des capacités et des
+limites du capteur Instinct.
+À l'issue de ce module, vous aurez acquis une compréhension approfondie du
+système Instinct CGM. Vous apprendrez à poser, retirer, et démarrer le capteur, à
+configurer des alertes, à partager vos données glycémiques, et à connecter votre
+capteur à d'autres appareils. Vous obtiendrez également des conseils avancés pour
+une utilisation sûre et appropriée du capteur. En tant que professionnel de santé,
+vous serez en mesure d'aider en toute confiance les utilisateurs d'Instinct ; en tant
+qu'utilisateur du capteur, vous disposerez d'outils pratiques pour optimiser votre
+expérience avec l'appareil. Commençons ensemble cette aventure enrichissante. Je
+vous souhaite bonne chance !

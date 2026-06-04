@@ -2,6 +2,162 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q9ZbmKl8ZEYrbvr-qeVcl-0&index=2" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>3. Demarrage du capteur</u>**
+## **<u>3. Mise en route du capteur</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette leçon sur la mise en route du capteur CareSens Air. Dans
+cette vidéo, vous apprendrez comment démarrer le capteur et naviguer dans
+l'application. De plus, nous aborderons des conseils pratiques qui vous permettront
+de tirer le meilleur parti de votre système CareSens Air. C’est parti.
+3.1 Démarrage du capteur
+Pour connecter le capteur à l'application, appuyez sur le bouton d'alimentation
+jusqu'à entendre un clic. Une fois le capteur connecté, vous pouvez configurer vos
+paramètres d'alerte. Nous aborderons plus en détail les alertes dans la prochaine
+vidéo.
+Le préchauffage du capteur démarre automatiquement et dure 30 minutes. Votre
+taux de glucose s'affichera sur l'écran d'accueil une fois que le capteur sera prêt.
+3.2 L'application CareSens Air
+Dans l'application CareSens Air, les données glycémiques instantanées et les
+flèches indiquant les tendances glycémiques s'affichent sur l'écran d'accueil. Vos
+données glycémiques dynamiques apparaîtront dans différentes couleurs en
+fonction de leur position par rapport à votre plage glycémique cible. Elles
+s'afficheront en vert si elles se situent dans la plage cible, en orange si elles sont
+élevées, et en rouge si elles sont basses.
+
+Votre glycémie sera considérée comme ÉLEVÉE si elle est supérieure à 500 mg/dL
+(ou 27,8 mmol/L) et BASSE si elle est inférieure à 40 mg/dL (ou 2,2 mmol/L). Si
+aucune donnée glycémique n'a été reçue au cours des 25 dernières minutes, un
+tiret apparaîtra.
+La flèche de tendance glycémique indique la direction et le taux de variation de la
+glycémie par rapport à la mesure précédente. Elle s'affiche sous forme de flèche à
+droite de la dernière mesure glycémique sur l'écran d'accueil.
+Il existe sept flèches de tendance indiquant des variations de glycémie : stable, en
+augmentation lente, en augmentation, en augmentation rapide, en diminution
+lente, en diminution, et en diminution rapide. Si les données sont insuffisantes pour
+déterminer la direction et le taux, la variation est considérée comme « inconnue » et
+trois points (...) s'affichent.
+Appuyez sur l'icône Statistiques de glycémie dans le coin supérieur gauche de
+l'écran d'accueil pour afficher les statistiques des taux de glycémie au cours des
+dernières 24 heures. Appuyez sur l'icône Mode d'affichage sur l'écran d'accueil pour
+voir votre tendance glycémique plus en détail. En mode paysage, vous pouvez voir
+les événements enregistrés ainsi que vos tendances glycémiques. Chaque
+événement est affiché avec une icône au-dessus de la chronologie. Appuyez sur
+l'icône de l'événement pour plus de détails. Vous pouvez voir les tendances et les
+événements glycémiques sur 24 heures. Zoomez avec vos doigts pour voir les
+tendances sur une plage de 6 ou 12 heures.
+Si vous devez réinstaller l'application en raison d'un changement d'appareil ou pour
+d'autres raisons, vous pouvez télécharger les données précédentes enregistrées sur
+le serveur cloud. Après avoir réinstallé l'application CareSens Air et vous être
+connecté avec votre ancien compte, la page Restauration des données s'affichera.
+Pour restaurer les données via l'application, appuyez sur la flèche dans le coin
+supérieur droit de Données précédentes.
+Vous pouvez ajouter divers événements liés à la gestion du glucose dans la page
+Journal. Appuyez sur Journal en bas de l'écran d'accueil. Les journaux
+d'événements enregistrés s'affichent à partir des événements les plus récents. Pour
+enregistrer un nouvel événement, appuyez sur l'icône plus dans le coin inférieur
+droit de l'écran. La page Enregistrement d'événement s'affiche. Choisissez
+l'événement que vous souhaitez enregistrer parmi Glycémie, Exercice, Insuline,
+Cétones, Repas, Médicaments, ou Notes. Renseignez les champs, y compris l'heure
+
+et la date de l'événement. Appuyez ensuite sur Enregistrer, et voilà : l'événement
+est enregistré. Vous pouvez trouver les événements enregistrés dans Journal ou
+Tendances glycémiques en mode horizontal.
+Vous pouvez choisir de calibrer vos mesures de glycémie si vous en ressentez le
+besoin ou si vous pensez qu'elles ne sont pas indicatives de votre état physique, en
+particulier lorsque la différence entre la mesure du capteur et celle obtenue par un
+prélèvement capillaire dépasse 20 %. N'oubliez pas de ne calibrer votre capteur
+que si votre glycémie est stable et dans les seuils normaux. CareSens Air prend en
+charge un widget qui vous permet de voir les informations clés sur l'écran principal
+de votre appareil. Utilisez le widget pour vérifier l'état de connexion de votre
+capteur, vos mesures de glycémie et les flèches de tendance, ou pour saisir une
+valeur de calibrage. Android propose trois dispositions de widget ; iOS en propose
+une.
+Vous pouvez saisir une valeur d'étalonnage lorsque l'icône Étalonnage est bleue.
+Appuyez sur l'icône pour ouvrir l'écran Étalonnage. En revanche, l'étalonnage n'est
+pas disponible lorsque l'icône est grise.
+Pendant ce temps, appuyez sur l'icône Plus pour ouvrir l'écran « Ajouter un nouvel
+événement ».
+3.3 Le récepteur CareSens Air
+Si vous ne pouvez ou ne voulez pas vous servir de l'application CareSens Air pour
+smartphone, vous pouvez utiliser le récepteur CareSens Air à la place. Le récepteur
+fonctionne à l'aide de quatre boutons : un bouton rond Sélectionner/Suivant, un
+bouton Précédent et des boutons Déplacer le menu vers le haut et vers le bas.
+Reportez-vous au tableau pour connaître les autres fonctions de ces boutons.
+Pour allumer le récepteur CareSens Air, appuyez sur le bouton rond. Lisez les
+conditions d'utilisation de l'appareil, puis appuyez sur Accepter. Ensuite, terminez la
+configuration initiale en sélectionnant le format de date, en entrant la date, en
+choisissant le format d'heure, en réglant l'heure et en choisissant l'unité.
+Après avoir lu la description du produit et les informations de sécurité, connectez le
+récepteur au capteur en saisissant le code PIN à six chiffres figurant sur l'étiquette
+de l'emballage. Si l'appairage est réussi, un message de confirmation s'affichera. Si
+la connexion est annulée, une fenêtre contextuelle d'annulation s'affiche à la place.
+
+Une fois le couplage terminé, vous serez invité à définir les valeurs seuils pour les
+alertes de glycémie très basse, basse, et élevée, ainsi que les paramètres d'alerte
+de changement rapide. Vous sélectionnerez également votre type d'alerte préféré.
+Une fois les 30 minutes d'échauffement terminées, le récepteur vous ramènera à
+l'écran d'accueil où vous verrez la dernière valeur CGM, la flèche de tendance,
+l'unité, le graphique de tendance CGM, la glycémie moyenne pour la période
+représentée sur le graphique et le temps restant avant l'expiration du capteur.
+Pour ouvrir le menu depuis l'écran d'accueil, appuyez sur le bouton rond. Les
+options du menu comprennent Démarrer un nouveau capteur, Calibrage,
+Événements, Rapport, Informations, Paramètres et Arrêt. Sélectionnez Événements
+pour ouvrir un sous-menu dans lequel vous pouvez saisir des enregistrements
+d'événements pour la glycémie, les cétones, l'insuline, les repas, les médicaments
+par voie orale et l'exercice physique. Vous pouvez également accéder au journal des
+événements depuis cette même section.
+3.4 À faire et à ne pas faire
+Maintenant, soulignons quelques points à respecter et à éviter lors de l'utilisation
+du système CareSens Air.
+- Pour connecter le capteur à l'application, assurez-vous que le Bluetooth est
+activé sur votre appareil.
+- Pour les utilisateurs iOS :
+  - Entrez votre code PIN et appuyez sur « Associer » pour terminer la
+connexion du capteur à l'application.
+  - Il est impératif de ne pas fermer l’application après la connexion du
+capteur, au risque d’entraîner sa déconnexion.
+  - Vous ne recevrez pas les données de glycémie en temps réel si
+l'application est fermée en arrière-plan. Veillez à rouvrir l'application
+une fois qu'elle est fermée.
+- Si le capteur ne parvient pas à se réchauffer, contactez le service clientèle
+i-SENS ou consultez son site Web.
+- Un capteur utilisé avec un compte connecté peut être reconnecté au même
+appareil tant que le capteur reste valide. Une fois que le capteur est
+connecté à l'application, il ne peut plus être connecté à une autre
+application. Lors de la reconnexion ou du changement d'appareil, le capteur
+
+ne peut être connecté qu'à l'application à laquelle il a été connecté en
+premier.
+- La valeur de glucose affichée dans le widget iOS peut différer de la dernière
+mesure. Ouvrez l'application pour vérifier la dernière valeur.
+- Il convient de maintenir le capteur et le smartphone à une distance inférieure
+à six mètres l’un de l’autre, en veillant à ce qu’aucun obstacle — tel qu’un
+mur ou un objet métallique — ne se situe entre eux. En présence d’un
+obstacle solide, cette distance devra être réduite. À défaut, la connexion
+pourrait ne pas s’établir correctement.
+- Le capteur est étanche jusqu'à 24 heures à une profondeur de 1 mètre. Vous
+pouvez le porter sous la douche, dans le bain, ou pendant la natation.
+Cependant, il est recommandé de le renforcer d’un patch adhésif étanche
+afin de garantir une utilisation sûre du capteur lorsqu'il est exposé à l'eau
+pendant de longues périodes.
+- Si un produit de soin de la peau tel qu'une crème solaire ou un insecticide
+entre en contact avec le capteur, essuyez-le immédiatement avec un chiffon
+propre. Ne lavez pas le capteur. L'utilisation d'une solution inadaptée
+pourrait endommager l'appareil.
+- Retirez le capteur avant toute radiographie, IRM ou tomodensitométrie.
+- Respectez les réglementations de votre pays en matière de manipulation et
+de gestion des déchets médicaux lorsque vous jetez le capteur.
+Nous venons d’aborder la configuration du système CareSens Air, depuis le
+préchauffage du capteur, la navigation dans l'application et l'étalonnage du
+glucose, jusqu'aux rappels importants pour une utilisation correcte. Lorsque vous
+accompagnez vos patients dans leurs premiers jours d'utilisation du CareSens Air,
+sachez que la technologie peut parfois présenter des difficultés de fonctionnement,
+telles que des erreurs de capteur ou des problèmes de connexion. Si cela se
+produit, restez patient et persévérant. Explorez toutes les étapes de dépannage
+disponibles et contactez le service clientèle CareSens si nécessaire. Grâce à vos
+connaissances et à votre détermination, vous êtes bien placé pour aider vos
+patients à tirer pleinement parti des avantages de leur CGM.
+
+4. Configuration des alertes
+Bienvenue dans cette leçon sur la configuration des alertes avec le CGM CareSens
+Air. Dans cette vidéo, vous découvrirez les types d'alertes que vous pouvez recevoir
+depuis l'application CareSens Air et comment les personnaliser. Commençons.

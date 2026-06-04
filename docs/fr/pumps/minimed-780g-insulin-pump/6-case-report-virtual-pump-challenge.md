@@ -2,6 +2,41 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-ZUgPqTHrppQqleMvq_q98&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Rapport de cas et defi de pompe virtuel</u>**
+## **<u>6. Rapport de cas et Exercice de Pompe Virtuelle</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette dernière vidéo sur la pompe à insuline MiniMed 780G, où
+nous présenterons un rapport de cas et nous nous immergeons dans un défi virtuel
+de pompe.
+Dans ce chapitre, nous vous invitons à regarder une vidéo d'Andrea, qui vit avec un
+diabète de type 1 depuis plus de 19 ans. Andrea montre comment elle dissimule sa
+pompe à insuline sous différentes tenues, en mettant en avant les différentes
+méthodes créatives qu'elle utilise pour garder sa pompe discrète. Veuillez cliquer
+sur le lien en dessous de cette vidéo pour y jeter un coup d'œil !
+https://www.youtube.com/watch?v=-csDveXqR_c&t=387s
+N'oubliez pas que la dissimulation de la pompe à insuline n'est pas seulement une
+question d'esthétique, mais aussi une question de confiance et de confort. Trouver
+la méthode qui vous convient le mieux peut faire une différence significative dans
+votre vie quotidienne. En utilisant ces techniques, vous pouvez intégrer votre pompe
+à insuline à votre style personnel et profiter de la liberté qu'elle vous procure.
+Outre les différentes façons de dissimuler la pompe, nous allons maintenant
+explorer une autre fonction : la pompe MiniMed virtuelle. La pompe virtuelle offre
+une expérience simulée où vous pouvez vous entraîner à régler l'administration
+basale et à administrer des bolus d'insuline. C'est un excellent outil pour vous aider
+à vous familiariser et à vous sentir à l'aise avec les réglages de votre pompe. Vous
+trouverez un lien vers la pompe virtuelle Minimed en dessous de la vidéo.
+- Pour les personnes résidant aux États-Unis :
+https://us.medtronicvirtualpump.com/gTl7X5011ly6IjOlU/VirtualDemoPu
+mp/MiniMed_780G_EC/5GC/MMT-1884/
+
+●​ Pour les personnes en dehors des États-Unis :
+https://eu.medtronicvirtualpump.com/fxCuA839rYX97WZH/VirtualDemoP
+ump/MiniMed_780G_OUS/gs3/mmol_l/%5B4
+A vous de jouer ! Ouvrez la pompe à insuline virtuelle sur votre bureau, administrez
+un bolus d'insuline manuel de 5 unités et faites-en une capture d'écran. Partagez
+l'image dans les commentaires de cette vidéo et montrez-nous ce que vous avez
+obtenu ! Célébrons ensemble vos progrès dans la maîtrise de la gestion de la
+pompe à insuline grâce à cette activité interactive.
+Félicitations à chacun d'entre vous pour avoir suivi ce cours et acquis des
+connaissances précieuses sur l'utilisation d'une pompe à insuline. En maîtrisant les
+compétences abordées dans ce programme, vous vous êtes donné les moyens de
+prendre en main la gestion de votre diabète.

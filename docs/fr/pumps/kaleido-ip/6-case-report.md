@@ -4,4 +4,32 @@
 
 ## **<u>6. Rapport de cas</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette dernière partie du module consacré à la pompe à insuline
+Kaleido! Vous avez acquis des connaissances précieuses sur ses caractéristiques et
+ses fonctions, démontrant ainsi votre volonté de gérer efficacement le diabète.
+Voyons maintenant un exemple concret de la pompe Kaleido.
+Dans cette vidéo, Sanne et Anne parlent de leur expérience avec la pompe Kaleido.
+Si vous comprenez le néerlandais, vous pouvez regarder la vidéo en cliquant sur le
+lien fourni. Si ce n'est pas le cas, nous pouvons la résumer pour vous.
+https://www.youtube.com/watch?v=QCxFEdR9fuI
+
+Sanne et Anne ont apprécié la taille compacte de la pompe, l'absence de tubulure,
+et son beau design par rapport à d’autres pompes à insuline. Elles l'ont trouvée
+pratique pour faire de l’activité physique et pour administrer discrètement des bolus
+à l'aide de la télécommande.
+Elles ont toutefois cité quelques inconvénients. L'appareil doit être rechargé
+quotidiennement et, occasionnellement, la pompe doit être rechargée entre séances
+d’utilisation, vraisemblablement en raison d'une charge initiale incomplète. Elles ont
+également mentionné que le patch de la pompe peut se relâcher, en particulier lors
+de fréquents retraits et rattachements, et qu'elles devaient transporter beaucoup
+d'équipement en raison des nombreux articles de la pompe.
+Encore une fois, nous vous félicitons d'avoir terminé le module ! Votre volonté
+d'apprendre et d'adopter les nouvelles technologies du diabète est admirable. Armé
+de ces connaissances, vous êtes bien préparé pour aider d’autres utilisateurs de la
+pompe à insuline Kaleido. N'oubliez pas que la formation continue et la
+communication avec les professionnels de santé sont essentielles pour optimiser le
+traitement du diabète.
+Nous vous souhaitons beaucoup de succès dans l'utilisation de la pompe Kaleido !
+Nous espérons qu'elle vous apportera plus de confort et améliorera votre qualité de
+vie. Poursuivez votre excellent travail et n'hésitez pas à partager vos expériences et
+vos questions avec la communauté !

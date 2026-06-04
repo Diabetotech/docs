@@ -4,4 +4,72 @@
 
 ## **<u>1. Introduction</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans ce module complet sur le système en boucle fermée Omnipod 5.
+Conçu pour vous apporter une meilleure compréhension du système, ce module
+vous guidera à travers ses composants, ses fonctionnalités et ses applications
+pratiques. À la fin de ce module, vous aurez acquis des connaissances précieuses
+sur la manière d'utiliser efficacement le système Omnipod 5 dans la gestion de
+votre diabète.
+Le système en boucle fermée Omnipod 5 est largement utilisé aux États-Unis et a
+récemment fait son entrée en Europe, avec l'espoir d’être disponible dans d'autres
+pays dans un avenir proche. Le système est composé de trois éléments clés :
+- Un capteur de glucose tel que le Dexcom G6, le Dexcom G7 ou le FreeStyle
+Libre 2 Plus, qui permet une surveillance précise et continue de la glycémie ;
+- La pompe à insuline Omnipod 5, qui présente des similitudes avec l'Omnipod
+DASH ; et
+- L’algorithme
+
+SmartAdjust intégré permet d'ajuster automatiquement
+l'administration d'insuline en fonction des données glycémiques.
+Les rapports du système peuvent être consultés et analysés via la plateforme
+Glooko ou la plateforme dédiée Omnipod Discover. Le contrôle de la pompe peut
+être géré par l’appareil Omnipod 5. Aux États-Unis, une application Omnipod 5 est
+également disponible pour les téléphones iOS et Android. Si vous utilisez un
+capteur Dexcom, l'application Dexcom G6 ou G7 joue un rôle crucial dans le
+système Omnipod 5, car elle permet aux membres de la famille de suivre et de
+surveiller facilement les taux de glucose de l’utilisateur grâce à l'application
+Dexcom Follow.
+
+Lorsque vous utilisez un capteur FreeStyle Libre, les données
+
+glycémiques peuvent être partagées avec les membres de votre famille via
+LibreLinkUp, disponible selon région.
+Tout au long de ce module, nous nous concentrerons sur les connaissances acquises
+dans nos vidéos générales sur les systèmes automatisés d'administration d'insuline.
+
+Nous abordant des sujets tels que la comparaison de ces systèmes en boucle
+fermée à l'aide du paradigme CARES, la sélection du système adapté à vos besoins,
+l'interprétation des rapports et la gestion de divers scénarios tels que l'hypo et
+l'hyperglycémie, l'exercice, la maladie, les repas riches en matières grasses, l'alcool
+et les voyages.
+Il faut noter que ces vidéos ne constituent pas un avis médical et qu'il est
+recommandé de consulter votre médecin avant de modifier votre traitement.
+Le contenu de ce module a été créé par la Dr Inge Van Boxelaer, fondatrice de
+Diabetotech et endocrinologue à l'hôpital St-Lucas de Gand, en Belgique. Le
+matériel a été revu par Gary Scheiner, spécialiste certifié en soins et éducation au
+diabète, utilisateur et formateur de l'OmniPod pour Integrated Diabetes Services
+aux États-Unis, et par Meg Cremin des États-Unis, une personne atteinte de diabète
+de type 1 qui utilise le système Omnipod 5. Leur expertise et leur expérience
+personnelle contribuent à l'exhaustivité et à l’impartialité des informations fournies
+dans les vidéos.
+À la fin de ce module, vous aurez acquis une compréhension complète du système
+automatisé d'administration d'insuline Omnipod 5, y compris son évaluation selon le
+paradigme CARES, la mise en route de ses composants, le fonctionnement de
+l’Omnipod 5, la création et l'interprétation des rapports à l'aide de Glooko, et les
+stratégies de gestion de l'hypo et de l'hyperglycémie, du sport, des repas riches en
+graisses, de l'alcool, et des voyages.
+En tant que soignant, vous serez mieux équipé pour soutenir les personnes utilisant
+le système Omnipod 5, tandis qu’en tant qu'utilisateur de l'Omnipod 5, vous serez
+bien préparé pour un démarrage réussi, muni d'une multitude de conseils et
+d'astuces pour simplifier la gestion de votre diabète. Nous vous souhaitons bonne
+chance dans votre aventure avec le système Omnipod 5 !
+Nous vous souhaitons une bonne réussite !
+
+2. L’Omnipod 5 selon le paradigme CARES
+Bienvenue dans cette vidéo où nous discutons du système Omnipod 5 selon le
+paradigme CARES.
+Nous découvrirons comment l’Omnipod 5 calcule et ajuste l'administration
+automatisée d'insuline, dans quelles situations il retourne en mode manuel, quels
+sont les conseils d'éducation spécifiques, les problèmes liés à la sûreté du capteur,
+et comment le suivi des soignants se fait. Ensuite, nous passerons en revue les
+indications officielles d'Omnipod 5, ainsi que les mises à jour logicielles.

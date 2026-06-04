@@ -2,6 +2,77 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_jAXMlOJE7O1SMHN3gvWtM&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Connexion d'autres appareils</u>**
+## **<u>6. Leçon 6</u>**
 
-<!-- Transcription a ajouter -->
+6.1 Smartwatchs
+En utilisant le MiniMed 780G avec l'application MiniMed Mobile, vous pouvez
+activer des alarmes contextuelles sur votre téléphone compatible et votre
+smartwatch, ce qui vous permet d'accéder rapidement à des informations cruciales.
+Ce module porte sur la connexion de votre capteur Guardian 4 avec les
+smartwatches les plus courantes telles que Garmin, Samsung Galaxy et Apple
+Watch.
+Pour l'intégration de l'Apple Watch au MiniMed 780G, une récente mise à jour de
+l'intégration a été publiée. Assurez-vous d'avoir installé la dernière version de
+l'application MiniMed Mobile pour profiter de cette fonction. Cependant, pour les
+smartwatchs Android, la connectivité nécessite l'utilisation d'une application tierce
+comme xDrip+.
+Notez que l’utilisation de xDrip+ n'est pas prise en charge par Medtronic et n'est pas
+validée par les autorités réglementaires telles que la FDA ou l'EMA, ce qui fait
+qu’elle comporte des risques inhérents qu'il convient d'aborder avec prudence.
+#1 Garmin smartwatches
+Pour les smartwatches Garmin, téléchargez l'application xDrip+ à partir de github et
+réglez la source de données sur Companion App dans les paramètres. Cela permet
+à xDrip+ de recevoir les données des capteurs de l'application MiniMed Mobile.
+Vous pouvez ensuite choisir d'installer le cadran, le widget ou le data field
+xDrip+/Spike/Nightscout à partir de la boutique Connect IQ pour visualiser les
+données de votre capteur Guardian au besoin.
+
+Si vous possédez un compteur cycliste Garmin Edge, vous pouvez utiliser la fonction
+xDrip+/Spike/Nightscout Data Field pour y afficher les données Guardian.
+#2 Samsung Galaxy smartwatch (4 ou 5)
+Pour les smartwatches Samsung Galaxy, suivez les mêmes étapes en téléchargeant
+l'application xDrip+ et en réglant la source de données sur "Companion App" dans
+les paramètres. Ajustez les paramètres de l'application xDrip+ pour envoyer les
+données à l'application G-Watch et installez l'application G-Watch Wear à la fois
+sur votre smartphone et votre smartwatch. Vous pouvez utiliser l'application
+Wearable Widgets avec G-Watch Wear pour afficher les données Guardian4 en
+tant que complication ou tuile sur votre smartwatch Samsung Galaxy.
+N'oubliez pas que l'utilisation d'applications à code source ouvert comporte des
+risques inhérents et qu'elle n'est pas soutenue par Medtronic ni approuvée par les autorités réglementaires. Nous fournissons ces informations de manière
+transparente, mais nous ne recommandons pas de s'engager dans cette pratique
+sans en comprendre pleinement les risques.
+#3 Apple Watch
+Pour l'Apple Watch, assurez-vous d'avoir la version la plus récente de l'application
+MiniMed Mobile sur votre iPhone et installez l'application MiniMed sur votre Apple
+Watch. Accédez à l'application MiniMed sur votre Apple Watch pour visionner votre
+glycémie sur l’interface SmartGuard, et glissez vers la gauche pour afficher le
+graphique de votre capteur et le temps dans l'intervalle.
+Pour accéder plus facilement à vos données de glycémie, vous pouvez intégrer votre
+capteur de glycémie et SmartGuard en tant que complication sur les cadrans de
+smartwatchs compatibles. Ces cadrans de montre comprennent Portrait, Nike
+(hybride), Breathe, Utility, Simple, Photos, Motion, Gradient, XL et Astronomy. En
+cliquant sur la complication, vous accéderez à l'application complète de la montre
+MiniMed.
+N'oubliez pas que les étapes de configuration peuvent varier en fonction de votre
+appareil et de votre smartwatch, mais vous trouverez des tutoriels détaillés dans les
+téléchargements fournis, ce qui facilitera la configuration avec les appareils que
+vous avez en main.
+
+6.2 Stylos à insuline
+Outre son intégration au système Minimed 780g, le capteur Guardian 4 peut
+également être utilisé avec l'InPen. Pour ce faire, il suffit de télécharger l'application
+Guardian Connect et l'application InPen et de suivre les étapes démontrées.
+6.3 Pompes à insuline
+Le capteur Guardian 4 est parfaitement intégré au système Minimed 780G et
+fonctionne sans problème étant donné qu’ils sont tous deux fabriqués par
+Medtronic et conçus pour être compatibles entre eux.
+Il faut noter que le capteur Guardian 4 n'est pas compatible avec les systèmes en
+boucle fermée à source ouverte.
+En conclusion, la connexion de votre capteur Guardian 4 à d'autres appareils vous
+ouvre un monde de possibilités pour la gestion personnalisée du diabète. Que ce
+soit avec des smartwatchs, des stylos à insuline, ou des pompes à insuline, ces
+connexions offrent des informations précieuses et des données en temps réel. Nous
+assurons la transparence sur l’utilisation des applications libres malgré les risques
+que celles-ci comportent. Profitez du pouvoir de l'adaptabilité et donnez-vous les
+moyens d'optimiser votre stratégie de gestion du diabète grâce à ces technologies
+innovantes.

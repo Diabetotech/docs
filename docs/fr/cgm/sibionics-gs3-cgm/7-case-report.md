@@ -4,4 +4,27 @@
 
 ## **<u>7. Rapport de cas</u>**
 
-<!-- Transcription a ajouter -->
+Félicitations pour avoir terminé ce module sur le capteur Sibionics GS3 !
+Votre engagement à comprendre ce CGM ouvre la voie à une gestion du diabète
+plus sûre et plus efficace.
+La prochaine étape consiste à mettre en pratique vos solides connaissances
+théoriques. Nous vous suggérons de regarder la vidéo YouTube ci-dessous pour
+vous faire une idée concrète du fonctionnement du capteur Sibionics GS3 dans la
+vie quotidienne.
+https://youtu.be/hEsZpfyDZuw?si=zIyELzpNDRFeY_a6
+Dans cette vidéo, Leticia partage ses commentaires honnêtes et ses conseils
+pratiques basés sur son expérience personnelle avec le capteur Sibionics GS3. La
+vidéo est en espagnol, mais si vous n’êtes pas hispanophone, ne vous inquiétez pas
+: YouTube peut automatiquement la doubler en anglais et dans d'autres langues.
+
+En réunissant des expériences authentiques comme celle de Leticia avec les
+concepts abordés dans cette formation, vous pourrez mettre vos connaissances en
+pratique et obtenir des résultats optimaux avec le GS3 CGM.
+Un dernier rappel : vous n'êtes pas seul dans cette aventure. Travaillez en étroite
+collaboration avec votre équipe soignante, entrez en contact avec d'autres
+personnes atteintes de diabète et participez à des communautés en ligne.
+Continuez à tirer parti de la technologie pour prendre des décisions éclairées
+concernant votre santé.
+Encore une fois, félicitations pour avoir terminé ce module. Nous vous
+encourageons à poursuivre dans cette voie, car vos nouvelles connaissances et
+compétences vous mèneront vers de nouveaux succès.

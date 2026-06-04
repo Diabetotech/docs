@@ -2,6 +2,171 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q88IzpWnOtFjKyWOSDZDnph&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>6. Gestion des situations particulieres</u>**
+## **<u>6. Gestion des situations particulières</u>**
 
-<!-- Transcription a ajouter -->
+Dans cette vidéo, nous vous donnerons des conseils et des recommandations
+spécifiques pour gérer les situations courantes dans le cadre du traitement du
+diabète à l'aide du système AID Trio.
+Ces conseils s'ajoutent aux directives générales abordées dans le module général
+sur les systèmes d'aide.
+Nous aborderons les stratégies pour gérer l'hypoglycémie et l'hyperglycémie,
+s’adapter aux repas riches en graisses, gérer le diabète pendant les activités
+physiques, faire face à la maladie, à l'alcool, et planifier les voyages.
+En mettant en œuvre ces conseils, vous pouvez optimiser votre contrôle glycémique
+et améliorer votre gestion globale du diabète avec Trio.
+6.1 Hypoglycémie
+Avec un système AID comme Trio, vous devez consommer un volume de glucides
+moins important pour traiter l'hypoglycémie par rapport à la gestion traditionnelle
+du diabète, en particulier lorsque vous avez peu d'insuline active.
+Trio vous permet de voir votre insuline active sur l'écran d'accueil. Si vous n'avez pas
+pris d'insuline au cours des dernières heures, une consommation plus faible de
+glucides est généralement suffisante.
+Il est recommandé de ne pas saisir les glucides que vous consommez pour traiter ou
+prévenir l'hypoglycémie. Si vous consommez trop de glucides, vous pouvez saisir
+l'excédent comme une entrée de glucides, si nécessaire.
+
+Pour éviter de nouveaux épisodes d'hypoglycémie, vous pouvez régler le système
+Trio afin de réduire l'administration d'insuline. Pour ce faire, vous pouvez utiliser une
+valeur cible temporaire plus élevée à l'aide du bouton « Temp Target » (ou cible
+temporaire) ou via une dérogation.
+Dans le cadre d'une dérogation, vous pouvez également choisir de réduire le
+pourcentage d'ajustement du débit basal, de modifier inversement votre ratio
+glucidique et votre sensibilité à l'insuline , et de désactiver les supermicrobolus, ce
+qui peut s'avérer une bonne stratégie si vous souffrez d'hypoglycémie.
+Il faut noter que dans certains cas, l'algorithme peut augmenter l'insuline basale
+même lorsque vous présentez un faible taux de glucose. Cela peut s'avérer
+nécessaire si le taux de glucose prévu est supérieur à la valeur cible. Trio est
+majoritairement précis dans ses prévisions.
+6.2 Hyperglycémie
+En cas d'hyperglycémie légère, il est généralement recommandé de se fier à Trio et
+de laisser le système fonctionner de manière autonome. Cependant, vous pouvez
+envisager d'administrer un bolus de correction manuel à l'aide du calculateur de
+bolus sans saisir les glucides.
+Pour traiter l'hyperglycémie, vous avez également la possibilité d'augmenter le
+pourcentage d'ajustement du débit basal dans votre dérogation ou de définir
+temporairement une valeur cible inférieure.
+En cas d'hyperglycémie prolongée et sévère, il est important d'envisager la
+possibilité d'un problème au niveau du kit de perfusion. En cas de doute, il est
+conseillé de changer votre kit de perfusion ou votre Pod. N'oubliez pas : En cas de
+doute, on change.
+Il est essentiel d’assurer que vous disposez de suffisamment d'équipement pour
+effectuer tous les remplacements et substitutions nécessaires. Il est crucial d'être
+préparé avec les articles requis pour gérer efficacement l'hyperglycémie et maintenir
+le bon fonctionnement de votre système Trio.
+
+6.3 Repas riches en graisses
+Lorsque vous consommez un repas riche en graisses pendant que vous utilisez Trio,
+plusieurs approches sont recommandées :
+1. Dans Trio, vous pouvez inclure les glucides, les lipides, et les protéines dans le
+calculateur de bolus. Dans les paramètres, vous pouvez voir et ajuster la manière
+dont ces lipides et protéines sont pris en compte dans le calcul de l'administration
+d'insuline. La saisie des lipides et des protéines désactivera la fonctionnalité UAM,
+ou [Repas non annoncé] jusqu'à ce que ces glucides soient absorbés.
+2. Vous pouvez également utiliser l'option « Bolus réduit » dans le calculateur de
+bolus et les supermicrobolus. Elle doit d'abord être activée dans les paramètres,
+mais une fois activée, vous pouvez sélectionner cette option dans le calculateur de
+bolus et elle réduira davantage votre recommandation initiale de bolus. Si elle est
+activée, les SMB traiteront alors l'augmentation retardée du glucose provenant des
+repas riches en graisses ou en protéines au cours des 6 heures suivant la saisie des
+glucides. Assurez-vous que l'option SMB toujours, SMB après les glucides ou SMB
+avec glucides à bord est activée dans le menu des paramètres SMB.
+3. Une autre option consiste à administrer votre bolus initial habituel, puis à laisser
+les UAM gérer toute augmentation retardée du glucose provenant des graisses et
+des protéines. Vous devrez activer les SMB et les UAM dans les paramètres. Vous
+devrez peut-être également augmenter vos minutes basales SMB ou UAM pour
+adapter cette approche.
+Il est important de noter que les réactions individuelles aux repas riches en graisses
+peuvent varier. Il peut donc être utile d'essayer différentes approches et de
+surveiller attentivement votre glycémie afin de trouver la stratégie la plus efficace
+pour gérer votre glycémie lors des repas.
+6.4 Exercice physique
+Lorsque vous participez à des activités physiques avec Trio, il est conseillé de mettre
+en œuvre les stratégies suivantes :
+1.​ La plupart des gens utilisent une dérogation spécifique dans Trio,
+spécialement conçue pour l'exercice physique. Cette dérogation doit
+
+généralement inclure une cible glycémique plus élevée et éventuellement un
+pourcentage d'administration d'insuline plus faible afin de tenir compte de
+l'impact de l'activité physique.
+2.​ Vous pouvez également simplement définir une valeur cible plus élevée
+pendant l'exercice afin de réduire le risque d'hypoglycémie.
+3.​ Dans Trio, vous avez la possibilité de désactiver les SMB lorsque vous utilisez
+une valeur cible plus élevée. Cela empêche l'augmentation de l'insuline
+active pendant l'exercice, celle-ci étant la principale cause d'hypoglycémie.
+4.​ Comme indiqué dans le module général sur les systèmes AID, il est
+également recommandé de réduire votre dose d'insuline prandiale si vous
+faites de l'exercice dans les 3 heures suivant votre repas.
+5.​ Profitez des capacités d'intégration de Trio en connectant votre application
+Trio dédiée à une Apple Watch. Cela vous permet de surveiller facilement
+votre taux de glucose et vos données de tendance pendant l'exercice.
+Il faut retenir que ces recommandations constituent un point de départ et que des
+ajustements peuvent être nécessaires en fonction des réactions individuelles à
+l'exercice physique. Une surveillance régulière, une auto-observation, et une bonne
+collaboration avec des professionnels de santé aideront à ajuster la posologie
+d'insuline et à optimiser la gestion de la glycémie pendant l'activité physique avec
+Trio.
+6.5 Maladie
+En cas de maladie, il est généralement recommandé de maintenir le Trio en mode
+boucle fermée, sauf avis contraire de votre professionnel de santé. Certains
+utilisateurs se servent d’une dérogation spécifique en cas de maladie, par exemple
+avec un pourcentage d'insuline plus élevé et une cible glycémique plus basse.
+Consultez les directives relatives à la maladie abordées dans le module général sur
+les systèmes automatisés d'administration d'insuline.
+6.6 Alcool
+Lorsque vous consommez de l'alcool pendant que vous utilisez Trio, il est important
+de prendre certaines précautions pour prévenir l'hypoglycémie. Voici quelques
+recommandations :
+
+Vous pouvez régler votre valeur cible à un niveau plus élevé que d'habitude ou
+définir un pourcentage inférieur d'administration d'insuline en cas de consommation
+d'alcool. Cela peut aider à empêcher le système d'administrer une quantité
+excessive d'insuline en réponse à une augmentation du taux de glucose.
+Il convient de noter qu’une consommation augmentée de glucides n'est pas une
+stratégie efficace pour prévenir l'hypoglycémie, car le système AID compensera
+toute hausse du taux glycémique en augmentant l'administration d'insuline.
+Surveillez toujours attentivement votre glycémie lorsque vous consommez de
+l'alcool et soyez prêt à faire d'autres ajustements si nécessaire.
+6.7 Déplacements
+Lorsque vous voyagez avec Trio, il est important de se préparer et de tenir compte
+de certains facteurs spécifiques. Voici quelques éléments à prendre en considération
+pour voyager :
+1. Assurez-vous d'avoir suffisamment d’articles pour le diabète, notamment de
+l'insuline, des kits de perfusion, des capteurs, des bandelettes réactives et des
+appareils de secours, pour toute la durée de votre voyage. Il est toujours préférable
+d'être préparé avec des articles supplémentaires en cas d'imprévu.
+2. Lorsque vous voyagez en avion, vous devrez peut-être faire quelques
+ajustements. Gardez à l'esprit les points suivants :
+-​ La fonction Bluetooth de votre smartphone, de votre pompe, et de votre
+transmetteur peut généralement rester activée pendant le vol. Si l'on vous
+demande de passer en mode Avion, ne vous inquiétez pas ; les iPhone
+conservent leur connectivité Bluetooth même lorsque le mode Avion est
+activé.
+-​ Pendant le vol, la connectivité Wi-Fi, 4G, et 5G de votre carte SIM ne sera
+pas disponible. Cela ne devrait pas affecter le fonctionnement de l'application
+Trio, car elle continuera à fonctionner parfaitement via Bluetooth. Cependant,
+les données ne seront pas transmises à Nightscout tant que vous n'aurez pas
+retrouvé une connexion Internet stable.
+
+-​ L'application Trio détecte généralement automatiquement les changements
+de fuseau horaire et ajuste l'heure en conséquence, mais selon la
+configuration de la pompe et du CGM, les sauts horaires peuvent entraîner
+des problèmes. Cependant, il est recommandé de vérifier les paramètres
+horaires dans l'application après votre arrivée à destination afin de garantir
+l'exactitude de l'enregistrement des données.
+N'oubliez pas de toujours respecter les réglementations et directives des
+compagnies aériennes concernant l'utilisation d'appareils électroniques, et informez
+le personnel de la compagnie aérienne que vous portez un appareil médical, tel
+qu'une pompe à insuline.
+En prenant les précautions nécessaires et en planifiant à l'avance, vous pouvez
+profiter pleinement de votre voyage tout en garantissant le bon fonctionnement
+continu de votre système Trio.
+Dans ce chapitre, nous avons abordé la manière de gérer des situations particulières
+telles que l'hypo/hyperglycémie, les repas riches en graisses, l'exercice physique, la
+maladie, l'alcool et les voyages avec Trio. Nous avons fourni des recommandations
+et des stratégies pour faire face efficacement à ces situations. Vous pouvez y arriver
+! N'oubliez pas que les réactions individuelles peuvent varier, c'est pourquoi il est
+essentiel d'expérimenter et de surveiller. Il est également utile de demander l'aide
+de la communauté Trio et des professionnels de santé.
+En bénéficiant du Trio et en communiquant avec leurs pairs, les personnes
+diabétiques peuvent gérer ces situations et améliorer efficacement la prise en
+charge de leur diabète.

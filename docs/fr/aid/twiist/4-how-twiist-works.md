@@ -2,6 +2,78 @@
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_gnTca_00i3QZ0FxhjjBe-&index=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **<u>4. Fonctionnement de twiist</u>**
+## **<u>4. Comment fonctionne la twiist</u>**
 
-<!-- Transcription a ajouter -->
+Bienvenue dans cette vidéo consacrée au fonctionnement du système automatisé
+d'administration d'insuline (ou AID) twiist.
+Le système twiist peut fonctionner avec la boucle fermée activée ou désactivée.
+- Lorsque la boucle est activée, le système twiist AID ajuste automatiquement
+votre débit basal en fonction de votre glycémie toutes les 5 minutes, afin de
+ramener votre glycémie dans la plage de correction.
+- Lorsque la boucle est désactivée, votre débit basal sera administré en
+fonction de vos débits basaux programmés.
+La boucle sera désactivée lorsque vous n'avez pas de CGM actif. Vous pouvez
+choisir de désactiver la boucle afin de mieux prendre en main les décisions en
+matière d'administration d'insuline.
+Dans cette vidéo, nous allons explorer les fonctionnalités de l'application twiist
+dans les modes Boucle activée et Boucle desactivée.
+4.1 Boucle activée
+Démarrage de la boucle fermée
+Une fois votre capteur et votre pompe appairés, vous pouvez activer Loop via les
+paramètres.
+Si la boucle est activée, l'icône d'état twiist forme un cercle fermé, la prévision
+glycémique est projetée sur les graphiques et l'administration d'insuline basale est
+ajustée toutes les 5 minutes.
+
+Le préréglage entraînement
+L'application twiist propose la fonctionnalité « préréglage entraînement » afin de
+prévenir l'hypoglycémie pendant l'exercice physique. Vous pouvez l'activer via une
+icône en forme de cœur située en bas de l'écran d'accueil. Une fois que vous avez
+appuyé dessus, vous pouvez choisir de garder le préréglage d'entraînement actif
+pendant 1 heure, 2 heures, ou jusqu’à désactivation manuelle. Si vous avez
+sélectionné « Jusqu'à désactivation manuelle », l'application twiist affichera un
+message « Entraînement toujours actif » 24 heures après l’activation.
+Le préréglage pré-repas
+L'application twiist propose également un préréglage pré-repas plus agressif, afin
+de prévenir l'hyperglycémie après les repas. Vous pouvez utiliser le préréglage
+pré-repas en appuyant sur la deuxième icône à gauche en bas de l'écran d'accueil
+lorsque la boucle est activée. Le préréglage pré-repas restera actif jusqu'à ce que
+vous saisissiez des glucides.
+Administration de bolus
+Lorsque la boucle est active, vous pouvez entrer les glucides dans le calculateur de bolus
+pour obtenir une recommandation de dose d'insuline. Le temps d'absorption des glucides
+par défaut est réglé sur 3 heures, mais peut être ajusté entre 30 minutes et 23,5 heures à
+l'aide des icônes correspondantes ou en entrant une durée personnalisée.
+Bien que la modification de la quantité de bolus suggérée soit faisable, elle est fortement
+déconseillée.
+Pour administrer un bolus correctif sans consommer des glucides, appuyez sur l'icône
+triangulaire dans la barre d'état pour voir si un bolus est recommandé. Si le glucose devrait
+descendre en dessous de la limite de sécurité dans les 3 prochaines heures, aucun bolus ne
+sera recommandé.
+Suspension d’insuline
+Vous pouvez temporairement interrompre l'administration d'insuline via l'application si
+votre kit de perfusion est déconnecté ou dans certaines situations particulières. Pour ce
+faire, appuyez sur l'icône d'état de la pompe sur l'écran d'accueil, puis sur « Suspendre
+l'administration ». Pour redémarrer, appuyez sur « Reprendre » dans la barre d'état
+temporaire sur l'écran d'accueil.
+
+4.2 Boucle désactivée
+Il peut arriver que vous ayez besoin de désactiver la boucle fermée. Pour ce faire,
+désactivez la boucle dans les paramètres de l'application.
+Lorsque la boucle est désactivée, l'icône twiist prend la forme d'un cercle ouvert.
+Aucune prévision de glycémie ne sera donc effectuée et l'administration d'insuline
+ne sera pas ajustée toutes les 5 minutes.
+En mode boucle désactivée, la pompe délivre votre débit basal programmé, ou vous
+pouvez choisir un débit basal temporaire. Vous pouvez toujours saisir les glucides,
+administrer un bolus pour les repas, et effectuer des corrections à l'aide du
+calculateur de bolus intégré.
+Le mode Boucle désactivée propose une solution de secours en cas de problèmes
+liés au capteur ou à la communication, ou si vous et votre professionnel de santé
+décidez de opérer temporairement sans automatisation.
+Vous comprenez désormais le fonctionnement du système twiist AID avec la boucle
+fermée activée et désactivée. L’activation de la boucle permet des ajustements
+proactifs pour vous aider à rester dans la plage cible, tandis que la boucle
+désactivée vous garantit de toujours disposer d'une option de secours sûre. Grâce à
+l'intégration du capteur Libre 3 Plus, de la pompe twiist, du partage de données
+Tidepool et de la prise en charge optionnelle de l'Apple Watch, twiist vous offre des
+outils puissants pour gérer votre diabète avec plus de confiance et d'efficacité.
