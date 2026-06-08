@@ -1,0 +1,47 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_cr2YJm-DN52e8YHmJkjzY&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bienvenue dans ce module sur les capteurs FreeStyle Libre 2 et FreeStyle Libre 2
+Plus ! Dans cette session, nous allons explorer les détails des capteurs de
+surveillance du glucose les plus utilisés au monde.
+Les capteurs FreeStyle Libre 2 combinent un capteur et un transmetteur en un seul
+appareil, qui peut être facilement placé sur votre corps par un simple clic.
+Le capteur FreeStyle Libre 2 standard fonctionne comme un glucomètre flash. Cela
+signifie que vous pouvez vérifier vos niveaux de glucose en scannant le capteur avec
+votre téléphone ou un lecteur dédié. Il offre une durée de port de 14 jours, mesure
+votre glycémie toutes les minutes, fournit des alertes de glycémie élevée et faible,
+et est approuvé pour les personnes atteintes de diabète âgées de 4 ans et plus.
+Dans certains pays, une version avancée de l'application FreeStyle LibreLink ou
+Libre est disponible. Cette version ne nécessite pas de balayage manuel pour
+afficher les mesures de glucose, ce qui en fait un véritable moniteur de glucose
+continu en temps réel.
+Le capteur FreeStyle Libre 2 Plus est une version du capteur FreeStyle Libre 2 qui
+peut se connecter à des boucles fermées comme l'Omnipod 5. Il a une durée
+d'utilisation plus longue de 15 jours et est approuvé pour une utilisation chez les
+enfants dès l'âge de 2 ans.
+Ce module est conçu pour permettre aux professionnels médicaux et aux personnes
+diabétiques de maximiser le potentiel du FreeStyle Libre 2. Or, il faut noter que les
+informations partagées dans ce module ne servent pas d'avis médical. Consultez
+votre médecin avant d'apporter toute modification à votre gestion du diabète.
+Ces vidéos ont été créées par la docteure Inge Van Boxelaer, fondatrice de
+Diabetotech et endocrinologue à l'Hôpital St Lucas de Ghent en Belgique. Tous les
+contenus ont été évalués par la docteure Sarah Siegelaar, endocrinologue à l'UMC à
+
+Amsterdam aux Pays-Bas, et par Tim Street, une personne atteinte par le diabète
+de type 1, utilisateur du FreeStyle Libre 2, et blogueur de la technologie de diabète
+sur diabettech.com. Vous trouverez ci-dessous leurs déclarations de divulgation.
+Soyez assurés que toutes les informations fournies ici sont entièrement
+indépendantes d'Abbott, le fabricant du capteur FreeStyle Libre 2, ce qui garantit
+une perspective objective sur les avantages et les inconvénients du capteur.
+À la fin de ce module, vous aurez une meilleure compréhension du système
+FreeStyle Libre 2 et FreeStyle Libre 2 Plus. Nous parlerons des sujets tels que
+l'installation du capteur, le démarrage et la lecture du capteur, le réglage des
+alarmes, le partage des données, la connexion du capteur à d'autres appareils et
+enfin, quelques retours et astuces supplémentaires. Vous acquerrez en tant que
+professionnel médical les connaissances nécessaires pour guider les utilisateurs du
+FreeStyle Libre 2, tandis que les utilisateurs eux-mêmes découvriront une multitude
+de conseils et d'astuces pour améliorer leur expérience.
+Embarquons ensemble sur cette découverte. Bonne réussite !

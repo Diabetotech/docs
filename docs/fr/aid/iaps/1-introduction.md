@@ -1,0 +1,53 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_2l50E2kufXA0mSwDbwu9r&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bienvenue dans ce module sur l’iAPS, un système automatisé d'administration
+d'insuline à code source ouvert pour les iPhones. iAPS signifie “iPhone Artificial
+Pancreas System”, ou système de pancréas artificiel pour iPhone. Dans cette série
+de vidéos, nous explorerons les composants clés de l'iAPS, y compris les options de
+pompes à insuline et de capteurs de glucose, ainsi que l'algorithme Oref. Nous
+couvrirons également des sujets importants, tels que la lecture des rapports avec
+Nightscout, et la surveillance à distance des utilisateurs en tant que soignant.
+Les systèmes automatisés d'administration d'insuline à code source libre sont aussi
+sûrs et efficaces que leurs homologues commerciaux. Ils ne sont pourtant reconnus
+par aucune autorité médicale. Par conséquent, si vous décidez d’en utiliser, vous
+devrez les composer et les utiliser à vos propres risques. Pour accéder au manuel de
+création de l'application, vous pouvez consulter le site https://iaps.readthedocs.io.
+Vous pouvez également demander de l'aide et du soutien à diverses communautés
+en ligne, telles que le groupe sur Facebook et le groupe sur Discord.
+Un nombre de développeurs s’est détourné du mainstream iAPS et s’est rebaptisé
+“TRIO”. Cela dit, le matériel pédagogique sur l’algorithme mis à disposition sur
+YouTube sous le nom de TRIO est pertinent.
+Il ne s'agit ni d’une critique de l’iAPS, ni d’une comparaison entre l’iAPS et TRIO.
+Cela
+
+n’est qu’une distinction entre les deux méthodes qui existent dans la
+
+communauté des logiciels libres.
+Avant de commencer, il faut noter que ces vidéos ne constituent pas un avis
+médical. Consultez toujours votre professionnel de santé pour obtenir des conseils
+médicaux personnalisés et des ajustements thérapeutiques.
+
+Le contenu de ces vidéos a été cré et mis à jour par Christophe Merlot, diabétique
+de type 1 et utilisateur expérimenté du système iAPS, et par la Dr Inge van
+Boxelaer, fondatrice de Diabetotech et endocrinologue à l'hôpital St-Lucas de Gand,
+en Belgique. Le matériel a été revu par le Dr Per Winterdijk, pédiatre à l'institut
+Diabeter de Rotterdam aux Pays-Bas, et par le Dr Kate Hawke, endocrinologue
+australienne effectuant un stage en technologie du diabète à BCDiabetes à
+Vancouver. Il faut noter que l'iAPS est disponible gratuitement et qu'il n’y aucun
+intérêt financier pour les contributeurs, ce qui assure une évaluation impartiale de ce
+système automatisé d'administration d'insuline à code source ouvert.
+Dans ce module, vous obtiendrez des informations précieuses sur l'iAPS,
+notamment ses performances selon le paradigme CARES, l'utilisation pratique de
+l'application iAPS, la génération et l'interprétation de rapports dans Nightscout, et
+des conseils pour gérer diverses situations, telles que l'hypo- et l'hyperglycémie, les
+repas riches en graisses, l'activité physique, la maladie, la consommation d'alcool, et
+les voyages.
+À la fin de ce module, vous aurez une meilleure connaissance de l'iAPS, et vous
+disposerez de conseils et d'astuces utiles pour améliorer votre expérience avec le
+système. Que vous soyez un soignant qui soutient ses patients utilisant l’iAPS , ou
+un utilisateur d'iAPS, nous vous souhaitons une grande réussite dans votre parcours
+avec ce système automatisé d'administration d'insuline. Bon courage !

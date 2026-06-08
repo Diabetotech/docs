@@ -1,0 +1,90 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-ZZxkdgGFXySjecnvkLsZe&index=4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>5. Partage des données</u>**
+
+Bienvenue dans ce chapitre sur le partage de données avec le CGM Accu-Chek
+SmartGuide. Dans cette vidéo, nous vous expliquerons comment partager les
+données de votre capteur avec votre professionnel de santé et générer des rapports
+à l'aide de l'application Predict. Commençons sans plus attendre.
+
+5.1 Partage des données avec votre professionnel de santé
+Le CGM Accu-Chek SmartGuide est entièrement intégré à la plateforme Accu-Chek
+Care, ce qui permet aux professionnels de santé d'accéder en continu à des données
+CGM détaillées et pertinentes pour le traitement. L'application SmartGuide
+synchronise automatiquement toutes les lectures avec le cloud Accu-Chek, ce qui
+permet une surveillance en temps réel via la plateforme Accu-Chek Care.
+En tant que professionnel de santé, vous pouvez demander l'accès à la plateforme
+Accu-Chek Care auprès de votre représentant Roche Diagnostics local. Une fois l’accès accordé, les utilisateurs internationaux peuvent se connecter à
+https://care.rochediabetes.com, tandis que les utilisateurs résidant aux États-Unis
+peuvent y accéder sur https://hcp.myrdcp.com.
+Lorsque vous vous connectez à Accu-Chek Care en tant que professionnel de santé,
+vous voyez d'abord s'afficher la vue BGM. Cette vue par défaut présente un résumé
+général des données de vos patients pour les 14 derniers jours. Chaque ligne
+affiche les informations personnelles et médicales d'un patient spécifique. Pour plus
+de détails sur les événements d'hypoglycémie et d'hyperglycémie, cliquez sur la
+flèche déroulante à la fin de la ligne du patient. Utilisez le champ de recherche pour
+trouver des patients par nom ou par identifiant. Cliquez sur le logo dans le coin
+supérieur gauche pour effacer tous les filtres et réinitialiser la recherche.
+Sélectionnez les résultats par page pour modifier le nombre de patients affichés à la
+fois. Cliquez sur « Trier par » pour modifier l'ordre par nom ou par résultats des
+patients. Cliquez sur « Filtres » pour affiner les résultats par catégorie. Utilisez les
+flèches situées en tête des colonnes pour afficher les résultats par ordre croissant
+ou décroissant. Cliquez sur le nom d'un patient pour ouvrir la vue Patient. Revenez à
+la gestion des patients en cliquant sur le logo dans le coin supérieur gauche.
+Cliquez sur CGM dans la barre de menu supérieure pour afficher la gestion des
+patients pour CGM. Cette vue affiche les données des patients utilisant un CGM,
+telles que le pourcentage de temps d'activité du CGM et l'indicateur de gestion du
+glucose. Cliquez sur le nom d’un patient pour ouvrir la vue Patient.
+Pour permettre à votre professionnel de santé d'accéder à vos données CGM, vous
+devez d'abord vous connecter à votre compte Accu-Chek. Depuis l'écran d'accueil
+de l'application SmartGuide, appuyez sur Menu, allez dans Compte et sélectionnez
+[Gérer le compte]; vous serez alors redirigé vers la page de votre compte
+Accu-Chek. Dans votre compte, ouvrez l'onglet Partage et choisissez [Gérer les
+
+données partagées], puis sélectionnez [Générer un code]. Le code qui s'affiche qui
+est sensible à la casse peut être partagé avec votre professionnel de santé. Une fois
+la connexion établie, le lien vers votre professionnel de santé s'affiche dans votre
+compte Accu-Chek.
+En tant que professionnel de santé, vous pouvez ajouter un nouveau patient en
+appuyant sur [Créer un nouveau patient] et en saisissant le code de partage. Après
+avoir confirmé le code, les informations du patient s'afficheront automatiquement et
+vous pourrez terminer la création du nouveau profil patient.
+Dans les paramètres patient, vous pouvez mettre à jour les informations du compte
+du patient, ses informations médicales et personnelles, ainsi que la configuration de
+son compte. Vous pouvez ajuster les plages horaires liées aux repas, modifier les
+plages cibles de glycémie, et consulter la liste de tous les appareils associés au
+patient. La désactivation d'utilisateur le supprimera de la liste actuelle des patients.
+5.2 Création de rapports
+Pour consulter les rapports en tant que professionnel de santé, connectez-vous à la
+plateforme. Vous accéderez automatiquement à la vue Gestion des patients. Pour
+affiner rapidement votre liste aux patients suivant un traitement CGM, sélectionnez
+CGM dans la barre de menu. Cliquez sur le nom d'un patient pour accéder à la vue
+Patient. La vue CGM affiche des graphiques et des statistiques pour les données
+CGM disponibles du patient, notamment : le temps dans la plage cible, le profil
+glycémique ambulatoire standardisé, et les profils quotidiens. Cliquez sur les icônes
+d'information pour en savoir plus sur chaque graphique. Utilisez les flèches pour
+agrandir le graphique. Cliquez sur la légende pour afficher les éléments
+représentés. Les profils glycémiques quotidiens peuvent également être agrandis
+pour afficher plus de détails. Cliquez sur la flèche de retour pour revenir à la vue
+CGM par défaut.
+Si vous n'avez pas accès à la plateforme Web Accu-Chek Care, l'application
+Accu-Chek SmartGuide Predict vous offre également la possibilité de créer et de
+partager votre profil glycémique ambulatoire et vos schémas détectés sur une
+période de 14 jours. Dans le menu de l'application, sélectionnez « Exporter le
+rapport » et choisissez l'intervalle de temps souhaité. Sélectionnez l'exportation du
+profil glycémique ambulatoire, des tendances, ou des deux. Joignez le fichier PDF à
+un e-mail et envoyez-le à votre professionnel de santé. Les tendances peuvent être
+
+consultées dans l’application. Or, le rapport complet sur le profil glycémique
+ambulatoire n'est disponible qu'au format PDF.
+5.3 Partage de données avec sa famille ou ses proches
+À ce jour, il n'existe aucun moyen de partager les données CGM Accu-Chek
+SmartGuide en temps réel avec un membre de la famille ou un soignant. Il n'existe
+aucune application de suivi disponible à cette fin.
+Dans cette vidéo, nous avons vu comment le CGM Accu-Chek SmartGuide vous
+permet de partager vos données glycémiques et de générer des rapports. Grâce à
+ces fonctionnalités, vous et votre équipe soignante pouvez renforcer votre
+collaboration et prendre rapidement des décisions fondées sur des données
+probantes qui favorisent de meilleurs résultats en matière de santé.

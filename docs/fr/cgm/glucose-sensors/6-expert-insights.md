@@ -1,0 +1,41 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q9i1N0H1TIsun_B2zllctpU&index=5" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>6. Points de vue des experts</u>**
+
+Bienvenue dans le dernier chapitre de notre module complet sur les capteurs de
+glucose! Vous avez parcouru un long chemin en acquérant des connaissances et des
+compétences précieuses qui vous permettront d'améliorer votre expertise en
+matière de soins du diabète. Nous vous félicitons d'avoir franchi cette étape!
+Dans cette dernière partie, nous vous invitons à regarder une vidéo YouTube qui
+humanise les capteurs de glucose et présente les points de vue de divers experts.
+Cette vidéo explore différentes options de CGM telles que Freestyle Libre, Dexcom,
+Eversense et Medtronic. Les experts discutent des avantages et des inconvénients
+de chaque CGM et partagent leurs préférences personnelles. Il est important de
+
+savoir qu'il n'existe pas de CGM unique et qu'il est essentiel de prendre en compte
+les avantages et les inconvénients avant de prendre une décision.
+https://www.youtube.com/watch?v=fng5McLfVUo
+YouTube est une bonne plateforme pour découvrir des trucs et astuces amusants et
+intéressants sur les CGM. Bien que ces chaînes ne soient pas réglementées, elles
+sont gérées par des personnes vivant avec le diabète. Leur contenu apporte une
+réelle valeur ajoutée à la communauté des personnes diabétiques.
+Vous êtes à la fin du module sur les capteurs de glucose. Vous avez approfondi vos
+connaissances sur les différents capteurs, appris les pièges potentiels tels que le
+moment où il faut faire une piqûre au bout du doigt et les substances qui peuvent
+perturber avec la précision du capteur. Vous avez acquis de précieux conseils sur les
+techniques de retrait des capteurs et la gestion des allergies. En outre, nous avons
+exploré la manière d'interpréter les rapports des capteurs de glucose et nous avons
+mis en évidence une chaîne YouTube intéressante pour continuer à se former et à
+s'inspirer.
+Votre expertise s'est sans aucun doute accrue, vous permettant de résoudre
+efficacement les problèmes liés à l'utilisation des capteurs de glucose. Nous
+espérons que ce module vous a éclairé et inspiré.
+N'oubliez pas que votre parcours d'apprentissage ne s'arrête pas là: continuez à
+explorer les autres modules sur les capteurs de glucose spécifiques, les pompes à
+insuline et les systèmes en boucle fermée, et adoptez l'esprit de l'apprentissage
+tout au long de la vie.
+Nous vous félicitons de nouveau d'avoir réussi à compléter ce module sur les
+capteurs de glucose. Nous vous souhaitons de continuer à réussir et à vous épanouir
+dans vos activités professionnelles. Vous faites une réelle différence !

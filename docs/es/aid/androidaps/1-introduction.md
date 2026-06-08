@@ -1,0 +1,47 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q_bNaHvdWyOfTD3H25Dg8dN -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introducción</u>**
+
+Bienvenido a esta completa serie de vídeos sobre AndroidAPS, el sistema
+automatizado de administración de insulina de código abierto ampliamente
+utilizado para teléfonos Android. En estos vídeos, exploraremos los componentes
+clave de AndroidAPS, incluidas las opciones de bombas de insulina y sensores de
+glucosa, y el algoritmo OpenAPS. Además, profundizaremos en temas importantes
+como la visualización de informes con Nightscout y la monitorización remota de
+usuarios como cuidador.
+Los sistemas automatizados de administración de insulina de código abierto son
+tan seguros y eficaces como los sistemas automatizados de administración de
+insulina comerciales, pero no han sido aprobados por ninguna autoridad médica.
+Por lo tanto, si decides utilizarlo, tendrás que crearlo y utilizarlo bajo tu propia
+responsabilidad. Para acceder al manual de construcción de la aplicación, puede
+visitar androidaps.readthedocs.io.
+Además, puedes buscar ayuda y apoyo en varias comunidades en línea, como el
+grupo "Usuarios de AndroidAPS" o "Looped" en Facebook, y el grupo "No estamos
+esperando" en Discord.
+Antes de empezar, es esencial señalar que estos vídeos no pretenden ser un
+consejo médico. Consulte siempre a su profesional sanitario para obtener
+asesoramiento médico personalizado y ajustes terapéuticos.
+El contenido de estos vídeos ha sido creado por la Dra. Inge Van Boxelaer,
+fundadora de Diabetotech y endocrinóloga del hospital St-Lucas de Gante
+(Bélgica). El material ha sido revisado por el Dr. Per Winterdijk, pediatra del
+instituto Diabeter de Rotterdam en los Países Bajos, y Theo Van Elsberg, una
+persona que vive con diabetes tipo 1 y usuario y Contribuidor del sistema
+AndroidAPS. Es importante señalar que AndroidAPS está disponible de forma
+gratuita y, por lo tanto, no hay intereses financieros de por medio, lo que garantiza
+
+una evaluación imparcial de este sistema automatizado de administración de
+insulina de código abierto.
+A lo largo de la serie, obtendrá información valiosa sobre AndroidAPS, incluido su
+rendimiento basado en el paradigma CARES, el uso práctico de la aplicación
+AndroidAPS, la creación e interpretación de informes en Nightscout y orientación
+para gestionar diversas situaciones como la hipo e hiperglucemia, las comidas ricas
+en grasas, el ejercicio, la enfermedad, el alcohol y los viajes.
+Al final de estos vídeos, tendrá una comprensión completa de AndroidAPS y estará
+equipado con consejos y trucos útiles para mejorar su experiencia con el sistema.
+Tanto si eres un cuidador que ayuda a los usuarios de AndroidAPS como si tú
+mismo eres un usuario de AndroidAPS, te deseamos mucho éxito en tu viaje con
+este potente sistema automatizado de administración de insulina. Le deseamos
+mucha suerte.

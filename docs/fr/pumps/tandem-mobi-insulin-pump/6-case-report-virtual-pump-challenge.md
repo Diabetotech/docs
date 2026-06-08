@@ -1,0 +1,29 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_U4K5uo5qKuKALywm5MuZ4&index=5" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>6. Rapport de cas et défi de la pompe virtuelle</u>**
+
+Dans cette dernière vidéo, nous aimerions mettre en avant un tutoriel vidéo de Jillian
+Boleau, une personne vivant avec un diabète de type 1, qui montre comment changer
+la cartouche d'insuline, la tubulure et le set de perfusion avec le Tandem Mobi. C'est
+idéal pour les apprenants visuels qui veulent voir toutes les étapes sur une personne
+réelle. Au cours de la vidéo, elle donne également plusieurs conseils pratiques basés
+sur son expérience personnelle, ce qui rend la vidéo encore plus précieuse.
+Veuillez cliquer sur le lien en dessous de cette vidéo pour voir son commentaire.
+En plus de l'analyse perspicace de Jillian, nous aimerions vous présenter le site Web du
+simulateur Tandem Mobi, une pompe Tandem virtuelle disponible sur votre bureau
+pour les personnes résidant aux États-Unis et dans certains autres pays. Ce simulateur
+vous permet d'expérimenter et de mieux comprendre les fonctionnalités de votre
+pompe.
+Vous trouverez le lien du site web en dessous de cette vidéo.
+https://www.tandemdiabetes.com/products/software-apps/virtual-pump-demos/tande
+m-mobi-simulator
+Vous avez appris des informations importantes sur la pompe à insuline Tandem Mobi
+et vous avez amélioré vos compétences en matière de gestion du diabète en terminant
+ce cours.
+Nous vous remercions de nous avoir accompagnés tout au long de ce parcours et nous
+vous souhaitons le meilleur pour continuer à utiliser votre pompe à insuline pour gérer
+votre diabète. Continuez à faire des choses extraordinaires et n'oubliez jamais que
+votre santé et votre bien-être valent tous les efforts que vous déployez pour en
+prendre soin ! Félicitations à tous !

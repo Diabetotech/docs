@@ -1,0 +1,33 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-vs5szNKWC3I2lQnUXE_23 -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>7. Informe del caso</u>**
+
+Enhorabuena por haber completado este curso y haber adquirido valiosos
+conocimientos sobre el sistema TouchCare Nano.
+Para terminar, nos gustaría compartir una reseña personal del sistema escrita por
+Davor Skeledžija, de Croacia, padre de una niña que utiliza el TouchCare Nano. Su
+
+historia destaca el impacto positivo que el sistema ha tenido en el control de la glucosa
+de su hija.
+El blog está escrito en croata, pero si lo abre en Google Chrome o utiliza una
+herramienta de traducción como Google Translate, podrá leerlo fácilmente en su propio
+idioma.
+La experiencia de Davor es muy positiva: describe cómo el sistema mejoró
+notablemente los niveles de glucosa de su hija. Pero también nos recuerda con
+delicadeza que la tecnología por sí sola no basta. Como él dice: "Una bomba de
+insulina por sí sola no conducirá al éxito si no hay una adecuada educación y
+motivación del usuario."
+Puede leer el blog completo debajo de este vídeo.
+https://www.nainzulinu.com/inzulinske-pumpe/novi-sad-o-maloj-heleni-i-medtrum-na
+no
+Para seguir aprendiendo y sintiéndose apoyado, considere la posibilidad de unirse a
+comunidades en línea - como los grupos de Facebook - donde usuarios y familias
+comparten consejos, hacen preguntas y se apoyan mutuamente. Formar parte de una
+comunidad puede marcar una verdadera diferencia en su camino.
+Ahora dispone de los conocimientos, las herramientas avanzadas y la confianza para
+seguir adelante. Su camino con el sistema TouchCare Nano recién empieza y le
+deseamos éxito, autonomía y una experiencia gratificante.
+¡Lo ha conseguido!

@@ -1,0 +1,233 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q9gsOPG5YU5-ra2cOGHcITT&index=2" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>4. Remplacement du réservoir d'insuline et du set de perfusion</u>**
+
+Bienvenue dans cette vidéo sur le remplacement du réservoir d'insuline, ou
+cartouche, et du set de perfusion de la pompe à insuline Kaleido.
+Nous aborderons les kits de perfusion disponibles, la procédure en 4 étapes pour
+remplacer la cartouche d'insuline et le kit de perfusion, et enfin, quelques points
+importants à faire et à ne pas faire.
+Il faut noter que si vous comptez utiliser la pompe Kaleido comme système
+automatisé d'administration d'insuline avec Diabeloop, vous ne devez pas coupler
+votre pompe avec la télécommande Kaleido, mais avec la télécommande DBLG.
+4.1 Les différents sets de perfusion
+La pompe Kaleido dispose d'un type de set de perfusion avec une canule en téflon à
+un angle de 90 degrés. Vous pouvez choisir entre une canule de 6 ou 9 mm.
+
+De plus, Kaleido fournit également deux longueurs de tubulure avec la cartouche
+d'insuline. La plupart des personnes utilisent la tubulure courte (5 cm 2 pouces)
+pour tenir la pompe près du site de perfusion sur la peau, tandis que la tubulure
+plus longue (30 cm ou 15 pouces) sert pour porter la pompe dans la poche.
+En dessous de cette vidéo, vous trouverez un aperçu et une comparaison des kits de
+perfusion disponibles pour différentes pompes à insuline, de leurs longueurs de
+tubulure et de canule, et de leurs volumes de remplissage.
+4.2 Remplacement de la cartouche d'insuline et du set de perfusion
+Pour remplacer la cartouche d'insuline et le set de perfusion, rassemblez les
+éléments suivants : votre télécommande Kaleido, une pompe chargée, une pompe
+patch, de l'insuline à température ambiante, une nouvelle cartouche d'insuline, une
+seringue et une aiguille, un set de perfusion, un inserteur du dispositif de perfusion,
+et des lingettes alcoolisées.
+Pour rappel, si vous
+souhaitez utiliser la pompe Kaleido comme système
+automatisé d'administration d'insuline avec Diabeloop, vous ne devez pas coupler
+votre pompe avec le combiné Kaleido, mais avec la télécommande DBLG.
+
+#Etape 1 : Remplissage de la cartouche d'insuline et de la tubulure
+Commencez par vous laver les mains et préparez une surface plane et propre pour
+travailler. Vérifiez la date de péremption et l’intégrité de l'emballage et la cartouche
+d'insuline. Si l'emballage est endommagé ou si la date de péremption est dépassée,
+jetez la cartouche et utilisez-en une autre. Ouvrez l'emballage de votre cartouche
+d'insuline en tirant lentement par le bas. Placez votre cartouche d'insuline de
+manière à ce que les chiffres 1 et 2 soient tournés vers vous.
+Retirez la seringue de son emballage. Sans déplacer le piston, poussez fermement
+l'extrémité de la seringue dans le trou 1. Tirez délicatement le piston jusqu'au bout.
+Vous devez sentir une certaine résistance. Cette opération permet d'éliminer l'excès
+d'air de votre cartouche d'insuline. Retirez maintenant la seringue du trou 1 et
+poussez le piston vers l’embout de la seringue.
+Ensuite, retirez l'aiguille de son emballage. Insérez l'aiguille sur l'embout de la
+seringue. Prenez votre flacon d'insuline à température ambiante, vérifiez la date de
+péremption, et stérilisez le bouchon en caoutchouc avec une lingette alcoolisée
+avant de l'utiliser. Retirez le capuchon de l'aiguille. Tirez le piston pour remplir la
+seringue avec 2,5 ml d'air. Placez le flacon d'insuline devant vous sur une surface
+plane. Poussez soigneusement l'aiguille à travers le bouchon en caoutchouc du
+flacon d'insuline. Poussez le piston à fond pour faire passer tout l'air de la seringue
+
+dans la fiole. Maintenez le piston enfoncé. Retournez le flacon avec la seringue et
+tirez lentement le piston vers le bas jusqu'à aspirer 2,5 ml d'insuline. Donnez
+quelques coups sur le fond de la seringue pour pousser les bulles d'air vers
+l'aiguille. Poussez le piston vers le haut pour repousser les bulles d'air dans la fiole
+d'insuline. Assurez-vous qu'il y a 2,5 ml d'insuline dans votre seringue. Vérifiez qu'il
+n'y a pas de bulles d'air dans la seringue ; des petites bulles ressemblant à celles
+du champagne sont acceptables. Retirez la seringue du flacon d'insuline en veillant
+à ne pas toucher l'aiguille. Tournez l’embout de la seringue vers le bas et donnez
+quelques coups fermes sur la seringue. Les bulles d'air restées dans la seringue
+remontent ainsi vers le piston.
+En tenant votre cartouche d'insuline, placez délicatement l'aiguille dans le trou 2.
+Poussez lentement le piston vers l’embout pour remplir votre cartouche d'insuline.
+Vous devez remplir complètement votre cartouche d'insuline. Arrêtez de pousser le
+piston lorsque vous voyez une goutte d'insuline sortir de l'orifice 1 (arrêtez avant
+que des bulles d'air ne soient transférées dans la cartouche d'insuline). Il est normal
+qu'un excédent d'insuline reste dans la seringue après le remplissage de la
+cartouche d'insuline. Retirez la seringue et jetez l'aiguille et la seringue dans une
+poubelle pour objets tranchants.
+Vous devez maintenant amorcer votre cartouche d'insuline et la retirer du support
+de remplissage. Tout d'abord, tenez la partie supérieure de votre cartouche
+d'insuline sur les deux bords arrondis et poussez-la plus loin dans le support de
+remplissage. La languette en plastique se décroche ainsi. Appuyez ensuite deux fois
+sur le support de remplissage, puis relâchez la cartouche d'insuline. Il est important
+d'effectuer cette opération deux fois. Vous pouvez maintenant retirer votre
+cartouche d'insuline du support de remplissage. Retournez votre cartouche
+d'insuline. Appuyez sur les languettes situées de part et d'autre du connecteur de la
+cartouche d'insuline, puis soulevez-le pour le déclipser.
+Enfin, vérifiez une dernière fois qu'il n'y a pas de grosses bulles d'air dans le
+réservoir. Si de grosses bulles d'air sont présentes, jetez-les et utilisez une autre
+cartouche d'insuline. S'il s'agit de petites bulles d'air ressemblant à celles du
+champagne, cela ne pose généralement pas de problème et n’empêche pas
+l’utilisation de la cartouche d'insuline. Consultez votre manuel d'utilisation pour
+savoir si la présence de bulles d’air dans votre cartouche est acceptable ou non.
+Votre cartouche d'insuline est maintenant entièrement remplie, amorcée, et prête à
+l'emploi ! Il est maintenant temps de préparer et de porter votre pompe.
+#Étape 2 : Placement de la tubulure de perfusion
+Vous devez réfléchir à l'emplacement de votre pompe par rapport à votre dispositif
+de perfusion. Commencez par vous laver les mains et choisissez l'endroit où vous
+
+souhaitez placer votre dispositif de perfusion. Préparez la zone en la nettoyant avec
+une lingette alcoolisée. Laissez votre peau sécher naturellement. Vérifiez la date de
+péremption et l'intégrité de l'emballage et du dispositif d'infusion. Ouvrez le
+couvercle en papier. Retirez le cercle de protection en plastique qui se trouve sur le
+dessus de votre dispositif de perfusion. Appuyez sur le bouton situé sur le dessus
+de votre inserteur pour l’apprêter à utilisation. Prenez votre inserteur et alignez-le
+avec le haut du dispositif de perfusion. Pour ce faire, vérifiez que l'espace à la base
+de l'inserteur se trouve au-dessus des languettes du capuchon en plastique du
+dispositif. Poussez fermement l'inserteur sur la partie supérieure du dispositif de
+perfusion. Poussez vers le bas jusqu'à entendre un déclic. Sortez votre inserteur de
+son emballage et vérifiez que l'aiguille est droite. Veillez à ne pas toucher l'aiguille !
+Il doit rester stérile. Décollez le papier de la partie collante. Essayez de ne pas
+toucher la partie collante. Si possible, utilisez une main pour tendre la peau à
+l'endroit où vous voulez placer votre dispositif de perfusion. Utilisez l'espace à la
+base de votre inserteur pour marquer l'endroit où le connecteur de votre cartouche
+d'insuline se connectera à votre dispositif de perfusion. Utilisez votre autre main
+pour positionner votre inserteur sur votre corps. Lorsque l'inserteur est au bon
+endroit, appuyez fermement sur le bouton sur le dessus de l'inserteur. Maintenez
+l'inserteur fermement appuyé sur votre peau pour faciliter l'insertion. Le dispositif
+de perfusion sera ainsi poussé dans votre corps. Éloignez ensuite l'inserteur
+droitement de votre corps sans le tordre. Mettez l'inserteur de côté pour l'instant.
+Veillez à ne pas toucher l'aiguille. Frottez doucement le sparadrap sur le bord de
+votre dispositif de perfusion pour assurer son adhésion à votre peau. Si le dispositif
+de perfusion se décolle de la peau à ce stade, il est peu probable qu'elle tienne trois
+jours complets. Si c'est le cas, vous devez l'enlever et réessayer avec un nouveau
+dispositif. Il ne vous reste plus qu'à vous débarrasser de votre aiguille. N'oubliez pas
+de conserver votre inserteur en lieu sûr, prêt pour la prochaine fois !
+#Étape 3 : Préparation de la pompe
+Allumez votre télécommande. Préparez votre cartouche d'insuline entièrement
+remplie. Tenez votre pompe en orientant les parties blanches vers vous. Tenez votre
+cartouche d'insuline au-dessus de l'espace et alignez-la, en la faisant basculer pour
+faire passer la tubulure dans la rainure de la cartouche. Appuyez doucement sur la
+languette de la cartouche pour la sentir s'enclencher. Il ne faut pas pousser la
+cartouche d'insuline directement à l'intérieur ni exercer une force excessive sur elle,
+ce qui peut endommager la pompe et la cartouche. Une fois la cartouche
+correctement insérée, vous entendrez deux bips pour signaler que votre pompe est
+maintenant prête à être connectée à la télécommande. Si tout va bien, l'arrière de la
+cartouche d'insuline se trouve au même niveau que l'arrière de la pompe.
+Si c'est la première fois que vous utilisez cette pompe, un message s'affichera sur
+votre télécommande, vous indiquant que votre pompe est prête à l’appairage.
+
+Vérifiez que la couleur et le numéro de série de votre pompe correspondent à ceux
+de la pompe que vous appairez. Lorsque vous êtes prêt pour l'appairage, appuyez
+sur Entrée pour sélectionner Appairer. Le processus d'appairage peut prendre
+jusqu'à une minute. Une fois associée, la télécommande affiche un message de
+confirmation. La pompe émet trois bips pour vous indiquer l'appairage réussi. Si
+vous avez déjà utilisé et apparié votre pompe, votre télécommande vous demandera
+de vous connecter à votre pompe. Appuyez sur Enter pour sélectionner Connecter et
+votre pompe y est maintenant associée.
+Votre télécommande vous demande maintenant si vous avez utilisé une nouvelle
+cartouche d'insuline entièrement remplie. Si vous venez de remplir votre cartouche
+d'insuline, appuyez sur Entrée pour sélectionner Oui.
+Il est temps d'appliquer vos patchs ! Vous aurez besoin de votre pompe et de votre
+patch pour le corps. Prenez votre patch de pompe et décollez le support papier.
+Vous découvrirez ainsi l'adhésif du patch. Collez le patch pour pompe sur le fond de
+votre pompe, de manière à ce qu'il recouvre la cartouche d'insuline et que la forme
+hexagonale floue soit orientée vers l'extérieur. Prenez maintenant votre patch et,
+sans enlever le support papier, collez-le au patch de la pompe en pressant les
+formes hexagonales l'une contre l'autre. Veillez à ce que le patch soit aligné avec
+votre pompe.
+Soutenez le poids de votre pompe et fixez le connecteur à l'extrémité de la tubulure
+de votre cartouche d'insuline dans votre dispositif de perfusion. Vous saurez qu'il
+est bien fixé lorsque vous entendrez deux clics lorsque les côtés droit et gauche
+s'emboîtent. Vérifiez que le connecteur est bien aligné avec votre dispositif de
+perfusion. Vous ne devez pas sentir de bosses ou d'espaces. En tenant votre pompe,
+décollez le papier de la partie supérieure de votre patch corporel. Il est maintenant
+temps de placer votre pompe à l'endroit où vous souhaitez la porter. Veillez à ne pas
+étirer ou plier la tubulure de la cartouche d'insuline. Lorsque vous utilisez la
+tubulure de cartouche d'insuline de 30 cm, placez votre pompe dans un endroit sûr.
+Si vous utilisez un nouveau set de perfusion, vous devez d'abord l'amorcer.
+Sélectionnez la longueur de canule que vous utilisez et appuyez sur Entrée.
+Appuyez à nouveau sur Entrée pour sélectionner Oui et commencer le pompage.
+Votre canule est maintenant amorcée. Une fois l'amorçage terminé, votre
+télécommande confirmera que la pompe a commencé. Votre pompe fonctionne
+maintenant !
+#Étape 4 : Retrait de la pompe
+Si votre réservoir d'insuline est vide ou si vous avez utilisé la pompe pendant 3
+jours, vous devrez arrêter et retirer votre pompe. Pour ce faire, aller dans la section
+État et appuyer sur Arrêt de la pompe. Vous en recevrez une confirmation.
+
+Vous pourrez alors retirer votre pompe. Commencez par vous laver les mains.
+Pressez doucement les languettes situées de part et d'autre du connecteur de votre
+cartouche d'insuline. Soulevez-le pour le déclipser de votre dispositif de perfusion.
+Soulevez la pompe pour l'éloigner de votre dispositif transdermique. Ensuite, retirez
+délicatement le dispositif transdermique de votre peau, ainsi que le dispositif
+transdermique à l'arrière de votre pompe. Retirez votre cartouche d'insuline de votre
+pompe en tirant sur la languette. Enfin, retirez votre dispositif de perfusion. Mettez
+au rebut le dispositif de perfusion, la cartouche d'insuline, le corps et les pompes
+patch conformément aux réglementations locales.
+Placez votre pompe usée sur la station d'accueil. Il faudra environ 2 à 4 heures pour
+recharger complètement votre pompe.
+4.6 Ce qu'il faut faire et ce qu'il ne faut pas faire
+Voici quelques points importants à conserver :
+- Vous devez remplacer votre cartouche d'insuline lorsqu'elle est vide ou après
+3 jours d'utilisation. C'est également le moment de passer d'une pompe à
+l'autre pour la recharger. Le dispositif de perfusion doit également être
+remplacé au moins tous les trois jours. Idéalement, vous pouvez tout faire
+ensemble, mais si besoin, vous pouvez remplacer les articles
+individuellement. Si votre cartouche d'insuline se vide avant 3 jours, ou si la
+batterie de votre pompe est vide, vous pouvez effectuer un remplacement
+individuel plus rapidement.
+- La pompe Kaleido est compatible avec Novorapid et Humalog avec une
+concentration de 100 U/ml.
+- La cartouche doit toujours être remplie avec 200 unités d'insuline.
+- Ne réutilisez pas les réservoirs d'insuline. Vous risqueriez de contaminer
+votre insuline, de provoquer une infection et de faire une administration
+d’insuline correcte ou suffisante..
+- Les dispositifs transdermiques et la pompe ne doivent pas être réutilisés ou
+portés pendant plus de trois jours. Ils risqueraient de perdre leurs propriétés
+adhésives, ce qui pourrait entraîner le détachement de votre pompe pendant
+l'utilisation.
+- Assurez-vous que l'arrière de votre pompe est propre et sec avant de fixer un
+patch. Cela garantira une meilleure adhérence entre le patch et la pompe, et
+empêchera votre pompe de se détacher.
+- N'associez pas vos pompes à votre télécommande Kaleido si vous comptez
+les utiliser le cadre du système Diabeloop.
+- Une fois la pompe installée, il ne faut ni jouer avec elle ni la mettre en contact
+avec de l'eau pendant la première heure d'utilisation. Cela permettra de
+s'assurer qu'elle est bien fixée.
+
+●​ N'oubliez pas de vérifier votre glycémie deux heures après l'insertion d'un
+nouveau dispositif de perfusion. Cela est le seul moyen de confirmer que
+l'insertion et l'administration de l'insuline se sont déroulées correctement. Il
+est préférable d'éviter de changer votre dispositif de perfusion juste avant le
+coucher.
+- Lorsque vous retirez temporairement votre pompe à insuline, il est préférable
+de fermer le couvercle de protection de votre dispositif de perfusion. Si vous
+laissez le couvercle de protection ouvert, des saletés peuvent pénétrer dans
+l'ouverture, ce qui peut provoquer des infections ou des occlusions.
+Voilà, c'est fait ! Vous êtes maintenant familiarisé avec le remplacement de votre
+pompe et de votre set de perfusion Kaleido. Nous avons personnellement trouvé
+que le port de la pompe était très confortable et que sa présence était à peine
+perceptible. Cependant, si la canule touche un muscle, elle peut provoquer une
+gêne, auquel cas il est préférable d'insérer un nouveau set de perfusion. Si vous
+n'êtes pas sûr des étapes de remplacement, des vidéos explicatives claires sont
+disponibles sur la chaîne YouTube de Kaleido. Au début surtout, il est utile de se
+servir de ces vidéos lorsque vous remplacez votre cartouche d'insuline et votre set
+de perfusion.

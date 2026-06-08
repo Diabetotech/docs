@@ -1,0 +1,48 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_PD_A2tOqTiWCx9oozwkHq&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bienvenue dans ce module sur AndroidAPS, le système en boucle fermée open
+source largement utilisé sur les smartphones Android.
+Dans cette série de vidéos, nous explorerons les composants clés de l'AndroidAPS,
+notamment les options de pompes à insuline et de capteurs de glucose, ainsi que l'algorithme OpenAPS lui-même. Nous
+aborderons également des sujets
+
+importants, tels que l'affichage des rapports avec Nightscout, et le suivi des
+utilisateurs à distance en tant que soignant.
+Les systèmes en boucle fermée open source sont aussi sûrs et efficaces que les
+systèmes en boucle fermée commerciaux. Pourtant, ils n'ont été approuvés par
+aucune autorité médicale. Par conséquent, si vous décidez de l'utiliser, vous devrez
+la configurer et l'utiliser à vos propres périls. Pour accéder au guide d’utilisation de
+l'application, vous pouvez visiter androidaps.readthedocs.io.
+En outre, vous pouvez demander de l'aide et du soutien auprès de diverses
+communautés en ligne, telles que le groupe AndroidAPS Users ou Looped sur
+Facebook, et le groupe We are not waiting sur Discord.
+Avant de commencer, il est essentiel de noter que ces ressources ne constituent pas
+un avis médical. Consultez toujours votre professionnel de santé pour obtenir des
+conseils médicaux personnalisés et des ajustements thérapeutiques.
+Le contenu de ces vidéos a été créé par la Dr Inge Van Boxelaer, fondatrice de
+Diabetotech et endocrinologue à l'hôpital St-Lucas de Gand en Belgique.
+
+Le
+
+matériel a été revu par le Dr Per Winterdijk, pédiatre à l'institut Diabeter de
+Rotterdam (Pays-Bas), ainsi que par Theo Van Elsberg, diabétique de type 1 et
+utilisateur et développeur du système AndroidAPS.
+
+Il est important de noter qu'Android APS est disponible gratuitement et qu'aucun
+intérêt financier n'est donc en jeu, ce qui garantit une évaluation impartiale de ce
+système en boucle fermée à code source ouvert.
+Tout au long de ce module, vous obtiendrez des informations précieuses sur
+AndroidAPS, notamment son évaluation selon sur le paradigme CARES, l'utilisation
+pratique de l'application AndroidAPS, la création et l'interprétation de rapports dans
+Nightscout, et des conseils pour gérer diverses situations telles que l'hypo et
+l'hyperglycémie, les repas riches en graisses, l'exercice physique, la maladie, l'alcool
+et les voyages.
+À la fin de ces vidéos, vous aurez une meilleure compréhension de l'AndroidAPS et
+serez équipé de conseils et d'astuces utiles pour améliorer votre expérience avec le
+système. Que vous soyez un soignant qui soutient les utilisateurs d'AndroidAPS, ou
+vous même utilisateur, nous vous souhaitons une grande réussite dans votre
+parcours avec ce puissant système en boucle fermée. Bonne chance !

@@ -1,0 +1,50 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_gnTca_00i3QZ0FxhjjBe-&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bienvenue dans ce module consacré au système automatisé d'administration
+d'insuline (ou AID) twiist, la première version autorisée par la FDA de l'une des
+premières versions d’une système en boucle fermée à faire soi‑même (ou DIY loop)
+Dans ce module, nous allons découvrir étape par étape le fonctionnement du
+système twiist AID et comment il contribue à simplifier et à améliorer la gestion
+quotidienne du diabète.
+Le système twiist AID réunit trois composants essentiels :
+- La pompe Twiist : une petite pompe à insuline tubulaire pouvant contenir 300
+unités d'insuline ;
+- Un capteur de glucose compatible – actuellement le capteur FreeStyle Libre
+3 Plus, qui transmet les mesures de glucose toutes les minutes ; et
+- L'algorithme twiist Loop, hébergé sur la pompe twiist et contrôlé via
+l'application twiist sur un iPhone ou une Apple Watch compatible.
+Le partage de rapports et de données est possible grâce à Tidepool, ce qui vous
+permet, à vous et à votre équipe soignante, d'examiner les tendances, de prendre
+des décisions éclairées et de personnaliser votre traitement. L'application twiist
+insiight permet à la famille et aux soignants de suivre l'utilisateur en temps réel.
+Le système twiist AID est approuvé par la FDA et soutenu par Sequel Med Tech. Il
+comprend des fonctions de sécurité robustes telles que la détection d'occlusion, les
+limites de sécurité du glucose, et des alertes personnalisables. Contrairement aux
+systèmes open source, les mises à jour et l'assistance à la clientèle sont fournies
+directement par le fabricant, ce qui vous offre une tranquillité d'esprit tout en vous
+garantissant flexibilité et personnalisation.
+Avant de commencer, veuillez noter que ce module est uniquement destiné à des
+fins éducatives et ne remplace en aucun cas un avis médical. Consultez toujours
+
+votre professionnel de santé avant d'apporter des modifications à votre traitement
+contre le diabète.
+Les vidéos ont été réalisées par la Dr Inge Van Boxelaer, fondatrice de Diabetotech
+et endocrinologue à l'hôpital AZ St-Lucas de Gand, en Belgique. Le contenu a été
+révisé par Gary Scheiner, spécialiste certifié en soins et éducation du diabète chez
+Integrated Diabetes Services aux États-Unis. Vous pouvez consulter leurs
+déclarations ici. Leur expertise et leurs expériences personnelles garantissent que
+les informations présentées dans les vidéos sont complètes et impartiales.
+À la fin de ce module, vous aurez une compréhension claire du fonctionnement du
+système twiist AID, de sa configuration, de la navigation dans l'application et de la
+gestion de situations réelles telles que l'exercice physique, les repas, les jours de
+maladie et les voyages.
+Que vous soyez une personne diabétique qui commence son parcours avec
+l'administration automatisée d'insuline, un soignant qui souhaite aider un proche ou
+un professionnel de santé qui accompagne des patients, ce module vous apportera
+les connaissances et la confiance nécessaires pour utiliser efficacement le système
+twiist AID.
+Bonne chance, et profitez bien de votre voyage avec twiist !

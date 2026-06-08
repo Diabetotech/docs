@@ -1,0 +1,218 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_0DSaDRxJ4Wb99wBO4nprD&index=3" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>4. Le remplacement du réservoir et de la tubulure de perfusion</u>**
+
+Bienvenue dans cette vidéo sur le remplacement du réservoir et du set de perfusion
+sur le dispositif iLet.
+
+Dans cette vidéo, nous aborderons les différentes options de set de perfusion, les
+instructions étape par étape pour remplacer la cartouche d'insuline et le set de
+perfusion, ainsi que des conseils utiles pour réussir.
+4.1 Différents kits de perfusion
+Le dispositif de perfusion Inset 1 est le dispositif de perfusion le plus utilisé pour le
+dispositif iLet. Il est équipé d'une canule en téflon de 6 mm à angle droit.
+Si vous préférez une canule en acier, vous pouvez opter pour le set de perfusion
+Contact Detach. Une présentation détaillée de ces sets de perfusion, y compris les
+longueurs de tubulure et de canule et les volumes de remplissage, est disponible
+dans le téléchargement en dessous de cette vidéo.
+Nous montrerons comment changer le réservoir d'insuline et le dispositif de
+perfusion en utilisant le dispositif de perfusion Inset 1. Pour les vidéos de
+démonstration des sets de perfusion Contact Detach, veuillez consulter le lien
+ci-dessous.
+Contact Detach => https://www.youtube.com/watch?v=8xtQm11BeKk
+4.2 Le remplacement de la cartouche d'insuline et du set de perfusion
+Commencez par vous laver les mains et assurez-vous que votre espace de travail
+est propre, puis rassemblez les articles suivants : votre dispositif iLet, un set de
+perfusion avec tubulure, un luer lock iLet Connect, quelques lingettes alcoolisées et
+votre insuline à température ambiante. Il peut s'agir d'une cartouche d'insuline
+préremplie, par exemple de 160 U de Fiasp, ou de votre flacon d'insuline avec une
+cartouche iLet de 180 U, une seringue et une aiguille.
+#1 Remplacer le réservoir
+Pour remplir la cartouche iLet d'insuline, rassemblez les suivants : une cartouche
+Islet, une seringue et une aiguille, un flacon d'insuline Humalog, Novolog, ou Fiasp,
+et une lingette alcoolisée. Vous pouvez sauter cett étape si vous utilisez des
+cartouches Fiasp préremplies.
+Commencez par essuyer le dessus du flacon d'insuline avec une lingette alcoolisée
+et laissez-le sécher. Ensuite, ouvrez l'emballage de la cartouche iLet et retirez la
+cartouche iLet vide de l'emballage. Ouvrez l'emballage de la seringue et retirez la
+
+seringue de l'emballage. Enfin, ouvrez l'emballage de l'aiguille et retirez l'aiguille de
+l'emballage.
+Fixez la seringue à l'aiguille en tournant l'une dans l'autre. Retirez la protection de
+l'aiguille sans toucher l'aiguille. Tirez le piston de la seringue vers l'arrière. Vérifiez
+que le piston se trouve au niveau du repère de 1,8 millilitre, qui se situe à peu près à
+mi-chemin entre les repères de 1,5 et 2 millilitres. Insérez la seringue dans le flacon
+d'insuline en la plaçant verticalement sur une table ou un comptoir. Poussez le
+piston de la seringue vers le bas pour remplir la fiole avec l'air de la seringue. Sans
+lâcher le piston, inversez le flacon d'insuline et la seringue.
+Avec précaution et lentement, tirez le piston de la seringue vers l'arrière pour
+remplir la seringue avec la quantité d'insuline dont vous aurez besoin en 2 à 3 jours,
+mais pas plus de 1,8 millilitre. Éliminez l'air restant dans la seringue. Tirez à
+nouveau la seringue jusqu'à ce qu'elle atteigne environ 1,8 millilitre.
+Pour remplir la cartouche iLet, placez la base de la cartouche vide à la verticale sur
+une surface plane. Tenez la cartouche d'une main. De l'autre main, insérez l'aiguille
+de la seringue dans le septum vide de la cartouche. Appuyez lentement sur le
+piston de la seringue pour transférer l'insuline de la seringue dans la cartouche. Il
+est important de ne pas trop charger la cartouche. Le piston en caoutchouc situé à
+l'arrière peut être expulsé si une trop grande quantité d'insuline est transférée. Dans
+ce cas, jetez la cartouche et utilisez-en une nouvelle. La cartouche ne contient pas
+plus de 1,8 millilitre d'insuline.
+Éliminez autant d'air que possible de la cartouche en tirant légèrement sur la tige
+du piston de la seringue. Lorsqu'il ne reste plus de bulles d'air à l'intérieur de la
+cartouche, retirez la seringue et jetez l'aiguille de la seringue dans un conteneur
+pour objets tranchants.
+Lorsque vous remplissez la cartouche d'insuline, n'oubliez pas de garder l'aiguille
+droite et ne l'inclinez pas pour essayer d'éliminer les bulles sur les côtés de la
+cartouche. Cela peut déchirer le septum de la cartouche, ce qui peut entraîner une
+fuite d'insuline. Si le septum se déchire, jetez la cartouche et recommencez le
+processus. Si une bulle est toujours présente près du haut de la cartouche, retirez
+lentement l'aiguille de la seringue de la cartouche tout en maintenant la pression
+sur le piston. La pointe de l'aiguille doit maintenant être entourée par la bulle d'air.
+Tirez sur le piston jusqu'à ce que la bulle d'air soit éliminée.
+
+N’oubliez pas qu'il faut être délicat lors du remplissage de la cartouche d'insuline.
+N'insérez pas l'aiguille trop souvent et ne la remuez pas trop lorsqu'elle est insérée
+dans la cartouche. Ces gestes peuvent déchirer le septum, ce qui entraînera une
+fuite d'insuline dans l'iLet. Veillez à éliminer les grosses bulles de votre cartouche,
+mais les petites bulles sont acceptables et seront éliminées une fois la tubulure
+amorcée.
+Ne fixez pas encore votre cartouche d'insuline remplie à votre iLet Connect ou à
+votre tubulure d'insuline. Ceux-ci ne doivent jamais être fixés à l'extérieur de l'iLet.
+Vous devez d'abord préparer votre iLet pour votre cartouche et préparer votre
+tubulure d'insuline. N'oubliez pas de ne pas insérer votre cartouche remplie dans
+l'iLet avant qu'il ne soit complètement rembobiné.
+Pour préparer votre tubulure d'insuline, tirez sur le ruban rouge pour retirer le sceau
+d'inviolabilité du dispositif de perfusion Inset. Retirez le papier stérile. Pour retirer le
+couvercle, appuyez fermement sur les trois points surélevés de chaque côté tout en
+soulevant le couvercle. Veillez à ne pas plier ou toucher l'aiguille d'introduction lors
+de la préparation du dispositif d'infusion. L'aiguille doit être bien placée dans le
+dispositif d'insertion, être bien droite, ne pas former d'angle et ne pas être lâche. Si
+elle n'est pas droite ou si elle est lâche et que l'on tente de l'insérer, une douleur ou
+une blessure mineure peut survenir. Pour éviter cela, veillez à effectuer les étapes
+suivantes en douceur afin de ne pas desserrer ou retirer la tubulure de perfusion par
+accident. Déroulez la tubulure en la déverrouillant avec précaution de la fente.
+Déroulez ensuite la tubulure de l'inserteur en la tirant soigneusement vers le haut.
+Veillez à ne pas toucher l'aiguille d'introduction en déroulant la tubulure et à ne pas
+tirer trop fort lorsque la tubulure est complètement libérée, ce qui pourrait
+accidentellement retirer le dispositif de perfusion de l'inserteur. Connectez
+l'adaptateur Luer iLet Connect et la tubulure flexible du dispositif de perfusion
+d'insuline en tournant l'un dans l'autre jusqu'à ce qu'ils soient bien serrés. Veillez à
+ce que la connexion soit droite et étanche.
+Une fois la tubulure d'insuline prête, préparez le dispositif iLet pour la nouvelle
+cartouche d'insuline. Dans l'écran d'accueil, sélectionnez l'icône Cartouche
+d'insuline. Sélectionnez Changer la cartouche et la tubulure. Déconnectez de votre
+corps toute tubulure de perfusion d'insuline en cours. Laissez le dispositif iLet
+terminer le processus de rembobinage. Retirez ensuite l'ancienne cartouche
+
+d'insuline et la tubulure correspondante. N'insérez la cartouche d'insuline qu'une
+fois le rembobinage terminé.
+Insérez la nouvelle cartouche d'insuline dans la chambre à insuline du dispositif iLet.
+Une fois la cartouche insérée, insérez l'iLet Connect dans la chambre du dispositif
+iLet pour verrouiller la cartouche d'insuline remplie en place. Tout en continuant à
+pousser l'iLet Connect dans la chambre, tournez le connecteur d'un quart de tour
+vers la droite jusqu'à ce que l'iLet Connect soit bien en place.
+#2 Le remplissage de la tubulure
+Une fois la nouvelle cartouche d'insuline en place, appuyez sur [Go to Fill Tubing]
+ou (remplir la tubulure) sur l'écran du dispositif iLet. Appuyez sur le bouton [Press &
+Hold] et maintenez-le enfoncé jusqu'à ce que la tubulure soit remplie, qu'il n'y ait
+plus de bulles d'air et que des gouttes apparaissent à l'embout de la tubulure de
+perfusion d'insuline. Assurez-vous qu'il ne reste plus de bulles d'air dans la
+tubulure. Lorsque vous remplissez la tubulure du dispositif de perfusion, tenez-le
+avec l'aiguille dirigée vers le bas afin que l'insuline n'entre pas en contact avec le
+papier adhésif. Une fois que la tubulure d'insuline est remplie et que vous voyez
+des gouttes à l'embout, appuyez sur [Oui] à l'écran pour terminer le processus.
+La pompe vous demande alors si vous devez également remplacer votre set de
+perfusion.
+-​ Si vous n'avez pas besoin d'insérer une nouvelle base de perfusion d'insuline,
+sélectionnez [Non] et connectez la nouvelle tubulure de perfusion d'insuline
+à la base de perfusion d'insuline déjà présente sur votre corps.
+-​ Si vous devez insérer une nouvelle base de perfusion d'insuline, sélectionnez
+[Oui].
+#3 La mise en place de la tubulure de perfusion
+Nous sommes maintenant prêts à mettre en place le dispositif de perfusion. Tirez
+doucement sur la languette blanche pour retirer le papier adhésif. Placez vos doigts
+sur les indentations alignées de chaque côté. Tirez fermement le ressort vers
+l'arrière jusqu'à entendre un déclic. Retirez avec précaution la protection de l'aiguille
+en la tournant doucement puis en la tirant vers le haut, en veillant à ne pas toucher
+l'aiguille elle-même. Vérifier que la canule souple ne dépasse pas l'aiguille
+d'introduction. Avant de positionner le dispositif de perfusion sur un site d'insertion
+propre, placez la tubulure dans la fente pour vous assurer que la tubulure n'est pas
+
+coincée sous le dispositif de perfusion pendant l'insertion. Insérez le dispositif de
+perfusion en le positionnant sur le site d'insertion propre. Appuyer simultanément
+sur les indentations rondes de chaque côté de l'inserteur pour insérer le dispositif
+de perfusion. Appuyez doucement sur le centre de l'inserteur pour fixer l'adhésif sur
+la peau. Retirez l'inserteur et introduisez une aiguille en saisissant le centre et en le
+tirant doucement vers l'arrière. Massez doucement la bande adhésive sur la peau.
+#4 Le remplissage de la canule
+Si une nouvelle base de set de perfusion d'insuline est insérée, et que la tubulure
+d'insuline est connectée, faites glisser [Next] ou “Ensuite” pour accéder à l'écran
+“Fill Cannula” (Remplir la canule).
+Faites glisser [Remplir] vers la droite pour commencer à remplir la canule.
+L'utilisateur doit sélectionner le type de set d'insuline qu'il utilise. Si un set de
+perfusion en téflon a été sélectionné, [Remplir la canule] délivrera le volume
+d'insuline approprié pour remplir la canule et réinitialisera le rappel de
+remplacement du set de perfusion à un compte à rebours de trois jours. Dans le cas
+d'un dispositif de perfusion en acier, la fonction [Remplir la canule] n'administrera
+pas d'insuline (la canule en acier est remplie lors de l'amorçage) mais réinitialisera
+le rappel de remplacement du dispositif de perfusion à un compte à rebours de
+deux jours.
+Lorsque la canule est remplie, un écran s'affiche pour confirmer que le processus est
+terminé ! Bravo ! Vous avez maintenant remplacé avec succès le réservoir d'insuline
+et le dispositif de perfusion !
+4.3 Ce qu'il faut faire et ce qu'il ne faut pas faire
+- Les insulines autorisées dans le dispositif iLet sont Novolog, Humalog et
+Fiasp.
+- Le réservoir d'insuline ou la cartouche d'insuline doit être remplacé lorsqu'il
+n'y a plus d'insuline ou tous les 3 jours pour les kits de perfusion en téflon,
+ou tous les 2 jours pour les kits de perfusion en acier, selon ce qui se produit
+le plus tôt. Il n'y a pas d'arrêt de votre dispositif iLet, mais vous en recevrez
+une notification. L'iLet Connect et la tubulure du set de perfusion doivent être
+remplacés à chaque remplacement de votre cartouche d'insuline iLet. La
+cartouche d'insuline iLet, l'iLet Connect, et la tubulure doivent toujours être
+
+remplacés simultanément. Aucun de ces articles ne doit être réutilisé, et ils
+ne doivent pas être séparés une fois connectés.
+- Votre dispositif de perfusion doit être remplacé tous les 3 jours pour les
+canules en téflon ou tous les 2 jours pour les canules en acier, même si le
+réservoir n'est pas vide. Remplacez toujours votre dispositif de perfusion iLet
+(ainsi que la cartouche, la tubulure et le connecteur) si vous avez le moindre
+doute quant à son fonctionnement !
+- S'il y a une grosse bulle dans l'iLet Connect ou dans la tubulure, vous pouvez
+utiliser l'option [Remplir la tubulure uniquement] via l'icône [Cartouche] pour
+amorcer la bulle et assurer une administration régulière d'insuline.
+Assurez-vous que l'utilisateur se déconnecte de son site de perfusion avant
+d'amorcer la tubulure.
+- Le dispositif de perfusion doit être placé à au moins 7,5 cm (ou 3 pouces)
+d'un SCG Dexcom et à 2,5 cm (ou 1 pouce) d'un SCG Abbott.
+- Évitez de placer la tubulure dans l'encoche de l'inserteur avant de tirer sur
+l'inserteur à ressort; cela crée une tension et peut entraîner une flexion de la
+canule. N'insérez la tubulure dans l'encoche qu'après avoir chargé l'inserteur.
+- Avant de jeter le dispositif d'insertion, remettez le couvercle en place jusqu'à
+ce qu'il s'enclenche.
+- N'oubliez pas que deux heures après l'insertion d'une nouvelle tubulure, vous
+devez vérifier votre taux de glucose. La vérification de votre glycémie est le
+seul moyen de confirmer que votre dispositif de perfusion est correctement
+inséré et que vous recevez de l'insuline.
+- Le set de perfusion Inset vous permet de déconnecter temporairement votre
+pompe sans avoir à changer le set de perfusion. Maintenez la bande adhésive
+en place en plaçant un doigt juste devant le boîtier canulaire et en pressant
+doucement les côtés du connecteur. Tirez l'aiguille du connecteur tout droit
+hors du boîtier canulaire. Si vous le souhaitez, insérez le couvercle de
+déconnexion dans le boîtier canulaire jusqu'à entendre un clic. Pour
+reconnecter la tubulure au dispositif de perfusion, retirez le couvercle de
+déconnexion du boîtier canulaire. Assurez l'écoulement en remplissant la
+tubulure jusqu'à ce que l'insuline sorte de l'aiguille. Lors du remplissage de la
+tubulure, tenez l'aiguille du connecteur vers le bas. Placez un doigt sur la
+bande adhésive juste devant le boîtier canulaire et poussez l'aiguille du
+connecteur tout droit jusqu'à entendre un déclic. Vous êtes maintenant prêt à
+reprendre l'administration d'insuline.
+
+Vous savez maintenant comment remplacer le réservoir d'insuline et le dispositif de
+perfusion du dispositif iLet. Si vous trébuchez, ne vous inquiétez pas, c'est tout à fait
+normal. Gardez votre calme, suivez les étapes et n'oubliez pas qu'en cas d'échec,
+vous pouvez toujours faire appel au service clientèle gratuit de Beta Bionics.
+N'oubliez pas non plus que vous pouvez contacter votre équipe de diabétologie, qui
+dispose également d'un service de garde pour l'assistance médicale. Bon courage !

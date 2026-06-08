@@ -1,0 +1,17 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Ef0GG-spkEE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introducción</u>**
+
+<span class="mark">¡Bienvenido a este módulo sobre el CGM Accu-Chek SmartGuide! En los siguientes vídeos, exploraremos las características principales de este sensor y cómo funciona con un algoritmo predictivo basado en inteligencia artificial para facilitar el control proactivo de la diabetes.</span>
+
+<span class="mark">La solución Accu-Chek SmartGuide consta de tres elementos: el sensor, la aplicación SmartGuide y la aplicación Predict. El sensor, que tiene un diámetro de 3 cm y pesa unos 5 gramos, se coloca en la parte posterior del brazo con un aplicador todo en uno y dura hasta 14 días. Tras una hora de calentamiento, envía lecturas de glucosa en tiempo real cada cinco minutos a la aplicación SmartGuide de su smartphone a través de Bluetooth. La aplicación Predict, con su algoritmo basado en inteligencia artificial, utiliza estos valores de glucosa y otra información disponible para detectar sus patrones de glucosa y estimar sus niveles durante los siguientes 30 minutos, 2 horas y durante la noche, lo que le ayuda a adelantarse a posibles cambios. La solución Accu-Chek SmartGuide CGM está destinada a personas mayores de 18 años.</span>
+
+<span class="mark">En nuestro «Módulo maestro sobre sensores de glucosa», hemos abordado los principios esenciales del uso de los MCG, desde la confianza adecuada en las lecturas del sensor hasta la gestión de problemas como las desconexiones y las reacciones alérgicas. Ahora pasamos a una formación en profundidad sobre el MCG Accu-Chek SmartGuide y compartimos estrategias prácticas para sacar el máximo partido al dispositivo en la vida diaria.</span>
+
+<span class="mark">Hemos creado este módulo para ayudar a los profesionales sanitarios y a las personas con diabetes a utilizar el medidor continuo de glucosa Accu-Chek SmartGuide de la forma más eficaz posible. Sin embargo, recuerde que estos vídeos no deben considerarse como asesoramiento médico. Consulte siempre a su profesional sanitario antes de ajustar su plan de tratamiento. Este módulo ha sido elaborado por la Dra. Inge Van Boxelaer, fundadora de Diabetotech y endocrinóloga del Hospital St-Lucas de Gante, Bélgica. El contenido ha sido revisado por la Dra. Liesbeth Van Huffel, endocrinóloga del Hospital AZORG de Aalst, Bélgica. Gracias a su experiencia y conocimientos, puede esperar una evaluación completa del Accu-Chek SmartGuide CGM.</span>
+
+<span class="mark">Este material se ha elaborado independientemente de Roche, el fabricante del sensor. Por lo tanto, puede estar seguro de que se trata de un análisis imparcial y exhaustivo de las ventajas y limitaciones del sensor SmartGuide.</span>
+
+<span class="mark">Al completar este módulo, dispondrá de los conocimientos y habilidades necesarios para utilizar con confianza el CGM Accu-Chek SmartGuide. Aprenderá a colocar y poner en marcha el sensor, configurar alarmas, compartir datos de glucosa y conectar el sensor con otros dispositivos. También recibirá consejos de expertos para un uso seguro y óptimo del MCG. Si es usted profesional sanitario, reforzará su capacidad para ayudar a los usuarios del sensor SmartGuide. Si es usted usuario del sensor, se beneficiará de consejos concretos y fáciles de seguir para integrar el MCG en su vida diaria. Emprendamos juntos este significativo viaje. ¡Le deseamos lo mejor!</span>

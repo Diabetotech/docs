@@ -1,0 +1,38 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-ZUgPqTHrppQqleMvq_q98&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bienvenue dans notre module sur la pompe MiniMed 780G !
+Cette pompe à insuline est un dispositif de perfusion à tubulure, élément clé du
+système en boucle fermée MiniMed 780G, où elle fonctionne en tandem avec un
+capteur Guardian, Simplera Sync, ou capteur Instinc.
+Vous avez maintenant acquis une solide compréhension des fonctionnalités de la
+pompe à insuline grâce à la vidéo précédente. Vous avez appris à réguler l'insuline
+basale et l'insuline de bolus, à gérer les sites de perfusion et les alarmes.
+Nous nous concentrons maintenant sur le MiniMed 780G. Vous allez suivre un
+tutoriel complet sur l'installation de cette pompe à tubulure très répandue. Il s'agit
+d'un guide accessible aux professionnels de la santé qui aident les utilisateurs du
+MiniMed 780G, et de ressources de soutien pour les nouveaux et futurs utilisateurs
+de cette pompe.
+Il est important de noter que ces ressources ne peuvent en aucun cas substituer à
+un avis médical. Consultez toujours votre professionnel de santé avant de modifier
+votre traitement.
+Ce module a été développé par la Dr. Inge Van Boxelaer, fondatrice de Diabetotech
+et endocrinologue à l'hôpital AZ St-Lucas de Gand en Belgique. Le contenu a été
+revu par le Dr. Henk-Jan Aanstoot, fondateur de Diabeter, un centre de traitement
+du diabète aux Pays-Bas, et par Sjoerd Aerts, utilisateur du système MiniMed 780G
+et administrateur de la page Facebook néerlandaise sur le MiniMed 780G. Vous
+pouvez consulter leurs déclarations ici. Leur expertise et leurs perspectives vous
+garantissent des avis honnêtes sur les avantages et les inconvénients de la pompe
+à insuline MiniMed 780G.
+À la fin de cette série de capsules vidéos, vous comprendrez parfaitement le
+fonctionnement du MiniMed 780G, le réglage de l'insuline basale et du bolus, le
+remplacement du réservoir d'insuline et du dispositif de perfusion, ainsi que les
+alarmes de la pompe. Ces connaissances vous permettront, en tant que soignant,
+
+d'aider les utilisateurs du MiniMed 780G ou, en tant qu'utilisateur, de vous préparer
+à un démarrage réussi. Nous vous partagerons également des conseils et des
+astuces pratiques qui vous faciliteront la vie avec le MiniMed 780G.
+Bonne réussite pour votre découverte de la pompe MiniMed 780G !

@@ -516,3 +516,7 @@ extra:
     - name: Español
       link: https://diabetotech.github.io/docs/es/
       lang: es
+    - name: Français
+      link: https://diabetotech.github.io/docs/fr/
+      lang: fr
+

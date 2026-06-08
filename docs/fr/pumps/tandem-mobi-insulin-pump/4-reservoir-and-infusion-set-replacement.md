@@ -1,0 +1,167 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_U4K5uo5qKuKALywm5MuZ4&index=3" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>4. Le remplacement du réservoir et du set de perfusion</u>**
+
+Bienvenue dans cette leçon sur le remplacement du réservoir et du set de perfusion de
+la pompe à insuline Tandem Mobi !
+Dans cette vidéo, nous parlerons des différentes options de set de perfusion, les
+instructions étape par étape pour remplacer le réservoir et le set de perfusion, ainsi
+que des conseils utiles pour réussir.
+4.1 Les différents dispositifs de perfusion
+Le dispositif de perfusion Autosoft 90 est le plus utilisé pour la pompe Tandem. Il
+existe d'autres solutions, notamment l'Autosoft 30, le Varisoft avec une canule coudée,
+et le TruSteel avec une canule en acier.
+
+Par ailleurs, le Tandem propose différentes longueurs de tubulure. La plupart des
+utilisateurs optent pour la tubulure courte (12 cm ou 5 pouces) pour garder la pompe
+près du site de perfusion sur la peau, mais vous pouvez également opter pour les
+options de tubulure plus longue (60 à 110 cm ou 23 à 43 pouces) pour porter la
+pompe dans votre poche.
+Une présentation détaillée de ces kits de perfusion, y compris les longueurs de
+tubulure et de canule et les volumes de remplissage, est disponible dans le fichier à
+télécharger sous cette vidéo.
+4.2 Le remplacement du réservoir et de la tubulure de perfusion
+Commencez par vous laver les mains et assurez-vous que votre espace de travail est
+propre. Rassemblez les éléments suivants : un réservoir, une cartouche, votre insuline
+(à température ambiante), un set de perfusion, des lingettes alcoolisées, et votre
+pompe.
+#1 Le changement du réservoir
+Vérifiez que vos mains sont propres et que vous avez d'abord tamponné le dessus du
+flacon avec de l'alcool. Préparez la nouvelle cartouche. Pour ce faire, tirez la tige de
+remplissage vers le bas, puis remontez-la pour chasser l'air de la cartouche. Ensuite,
+tirez la tige de remplissage vers le bas jusqu'au volume désiré. Vous pouvez mesurer
+ce volume en utilisant l'anneau supérieur du piston pour l'aligner sur la quantité
+d'insuline souhaitée. Il est maintenant temps de remplir la cartouche. Commencez par
+placer le flacon d'insuline verticalement sur une surface plane. Poussez l'adaptateur de
+flacon vers le bas sur le flacon. Poussez ensuite la tige de remplissage vers le bas pour
+forcer l'air de la cartouche dans la fiole. Veillez à maintenir la pression sur la tige de
+remplissage. Retournez ensuite l'ensemble avec le flacon toujours fixé à l'envers et
+relâchez lentement la tige de remplissage. L'insuline commence à s'écouler du flacon
+dans la cartouche. A partir de là, vous pouvez lentement tirer la tige de remplissage
+jusqu'à la quantité d'insuline souhaitée. N’oubliez pas qu'il doit rester au moins 30
+unités d'insuline dans la cartouche une fois la tubulure remplie. Ensuite, tapotez et
+tournez la cartouche pour libérer les éventuelles bulles d'air. Si vous voyez des bulles
+d'air, poussez la tige de remplissage vers le haut pour les faire sortir. Sachez que
+l'expulsion des bulles d'air peut également entraîner l'expulsion d'une partie de
+
+l'insuline. Vérifiez qu'il y a suffisamment d'insuline dans la cartouche. Terminez le
+remplissage en retirant la fiole de l'adaptateur de fiole.
+Ensuite, il est temps de retirer la cartouche de l'ensemble. Commencez par dévisser la
+tige de remplissage en sens antihoraire , puis dégagez doucement la cartouche de
+l'ensemble. Dévissez ensuite l'adaptateur en sens antihoraire
+
+pour le retirer du
+
+connecteur en t-lock.
+Vous serez invité à retirer la cartouche vide de la pompe en la tournant en sens
+antihoraire. Assurez-vous que le piston de votre pompe est en position basse. Il doit
+ressembler à ceci et non à cela. Placez maintenant la cartouche nouvellement remplie
+sur la pompe et tournez-la dans en sens horaire jusqu'à l'enclencher, puis tapez pour
+continuer.
+Veillez à respecter toutes les méthodes d'élimination des aiguilles, des cartouches, des
+composants et des dispositifs de perfusion.
+#2 Le remplissage de la tubulure
+Vous allez ensuite remplir la tubulure. Assurez-vous que le dispositif de perfusion est
+déconnecté de votre corps. Fixez la tubulure d'une nouvelle tubulure de perfusion au
+connecteur en T:lock de la cartouche. Poursuivez en tapotant. Tenez la pompe avec le
+connecteur en T:lock orienté vers le haut. Cela permet de s'assurer que l'air contenu
+dans la cartouche est d'abord poussé à travers la tubulure. Appuyez ensuite sur [Oui]
+dans l'application mobile. Vérifiez que votre dispositif de perfusion est déconnecté de
+votre corps. Appuyez ensuite sur le bouton de la pompe et maintenez-le enfoncé pour
+remplir d'insuline la tubulure de la tubulure de perfusion. Tenez la pompe en position
+verticale et maintenez le bouton de la pompe enfoncé jusqu'à ce que vous voyiez des
+gouttes d'insuline à l'extrémité de la tubulure de perfusion. Une fois les gouttes
+d'insuline visibles, relâchez le bouton de la pompe. Ce processus est beaucoup plus
+rapide avec le tandem Mobi qu'avec la pompe t-slim X2. Soyez donc très attentif.
+N'oubliez pas que la pompe peut s'arrêter à intervalles réguliers au cours du processus.
+Cela est normal et vous permet de vérifier la présence des gouttes d'insuline. Tapez oui
+si vous voyez des gouttes d'insuline à l'extrémité de votre tubulure.
+
+#3 L’installation de la tubulure de perfusion
+Nous sommes maintenant prêts à mettre en place la tubulure de perfusion. Nous
+allons faire une démonstration avec le dispositif de perfusion Autosoft 90. Commencez
+par désinfecter votre peau et décollez le support papier du dispositif de perfusion.
+Veillez à maintenir le dispositif de perfusion fermement en place sur l'aiguille. Ensuite,
+préparez l’inserteur en tirant sur le plastique blanc jusqu'à entendre un déclic. Vous
+pouvez maintenant retirer la protection de l'aiguille en toute sécurité. Repérez l'une des
+deux dépressions de l’inserteur et insérez le tube. Positionnez le dispositif préparé sur
+votre peau nettoyée et mettez l'aiguille en place en exerçant une légère pression sur
+les deux dépressions circulaires. Appuyez encore une fois sur le plastique blanc. Enfin,
+veillez à retirer délicatement le dispositif d'insertion.
+N'oubliez pas de cliquer sur "Terminer" lorsque vous êtes invité à poursuivre
+l'administration d'insuline. En cas d'oubli, une alarme retentit pour vous le rappeler.
+Vous avez maintenant remplacé avec succès la cartouche d'insuline et le kit de
+perfusion ! N'oubliez pas de le faire au moins une fois tous les trois jours sans attendre
+que la cartouche soit entièrement vide.
+#4 Le remplissage de la canule
+Lorsque vous remplissez le tube du kit de perfusion Autosoft, la canule se remplit
+automatiquement. Si vous remplacez uniquement le kit de perfusion tout en
+conservant le tube existant, vous devez remplir la canule manuellement. Cette
+opération peut être effectuée à partir du même menu de la pompe. Remplir la canule
+du dispositif de perfusion Autosoft 90 avec 0,3 unité pour les aiguilles de 6 mm ou 0,5
+unité pour les aiguilles de 9 mm. Les canules coudées nécessitent un volume de
+remplissage de 0,7 unité, tandis que les canules en acier n'ont pas besoin d'être
+remplies.
+4.3 A faire et à ne pas faire
+- L'insuline approuvée dans la pompe à insuline Tandem Mobi est NovoLog ou
+NovoRapid et Humalog avec une concentration de 100 U/ml.
+
+●​ N'oubliez pas que deux heures après l'insertion d'un nouveau set, vous devez
+vérifier votre glycémie, ce qui est le seul moyen de confirmer que votre dispositif
+de perfusion est correctement inséré et que vous recevez de l'insuline.
+- Avant de jeter le dispositif d'insertion, remettez le couvercle en place jusqu'à
+l’enclencher.
+- Lorsque vous retirez temporairement votre pompe à insuline, il est préférable de
+couvrir le raccord de votre dispositif de perfusion. Si vous laissez le couvercle de
+protection ouvert, des saletés peuvent pénétrer dans l'ouverture, ce qui peut
+provoquer des infections ou des occlusions.
+- Confirmez l'absence de bulles d'air dans la tubulure. L'air et la tubulure
+occupent l'espace où l'insuline devrait se trouver, ce qui peut affecter
+l'administration de l'insuline. N'oubliez pas que les changements de température
+ou de temps peuvent provoquer la formation de bulles. Si vous trouvez des
+bulles dans votre cartouche, pensez à porter la pompe avec la tubulure inclinée
+vers le bas ou sur le côté pour empêcher l'air de pénétrer dans la tubulure. Si
+vous voyez des bulles d'air dans la tubulure, déconnectez le site de perfusion de
+votre corps. Ensuite, dans le menu de chargement de la cartouche, sélectionnez
+remplir la tubulure et amorcez la tubulure jusqu'à ce que l'air soit complètement
+purgé. L'air est ainsi expulsé de la tubulure.
+- Sachez que certains produits de soin de la peau tels que les lotions, les crèmes
+solaires, et les répulsifs peuvent provoquer des fissures dans le plastique de la
+cartouche ou de la pompe. Ne laissez pas ces produits entrer en contact avec la
+pompe ou la cartouche. N'oubliez pas de toujours vous laver les mains avant de
+manipuler votre pompe ou votre cartouche après avoir utilisé ces types de
+produits.
+Vous disposez maintenant des connaissances nécessaires pour remplacer la cartouche
+d'insuline et le set de perfusion de la pompe à insuline Tandem Mobi. Si vous faites une
+erreur, ne vous inquiétez pas, c'est tout à fait normal. Gardez votre calme et suivez les
+conseils. N'oubliez pas qu'en cas d'échec, vous pouvez toujours vous adresser au
+Service clientèle et consulter de nombreuses vidéos utiles sur YouTube. N'oubliez pas
+non plus que vous pouvez contacter votre équipe de diabétologie, qui dispose
+également d'un service de garde, pour obtenir une assistance médicale. Continuez à
+faire du bon travail ! Bon courage !
+
+5. Les alarmes de la pompe
+Dans cette vidéo, nous nous intéressons au système d'alarme de la pompe à insuline
+Tandem Mobi. Nous discuterons des différents types d'alarmes, d'alertes et de rappels,
+et nous partagerons quelques bonnes pratiques.
+L'écran Notifications vous informe lorsque des informations relatives à votre pompe ou
+à votre SCG requièrent votre attention. La couleur de la notification indique
+l'importance de l'information.
+-​ Le rouge correspond aux alarmes et indique qu'un dysfonctionnement s'est
+produit sur la pompe et que l'administration d'insuline a été interrompue.
+-​ Le jaune correspond aux alertes de la pompe ou du SCG.
+-​ Le bleu indique un rappel ou un message d'information. L'administration
+d’insuline n'en est pas affectée.
+[Rejeter] apparaît si vous faites glisser une notification d'alerte avec votre doigt vers la
+gauche. Touchez cette icône pour supprimer l'alerte.
+[Supprimer] apparaît si vous faites glisser un rappel ou une notification d'information
+avec votre doigt vers la gauche. Touchez cette icône pour supprimer le rappel ou le
+message d'information
+Si plusieurs rappels, alertes et alarmes surviennent en même temps, les alarmes
+s'affichent en premier, les alertes en second et les rappels en troisième. Chacun doit
+être acquitté séparément jusqu'à ce que tous aient été acquittés.
+Si les notifications sont activées sur votre smartphone et que l'application mobile
+Tandem Mobi est ouverte, vous recevrez la notification d'alerte sur l'écran de
+verrouillage de votre smartphone.

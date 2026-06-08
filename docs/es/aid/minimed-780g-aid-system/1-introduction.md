@@ -1,0 +1,52 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q_0Lb6aWFa7wjTpgNWO8JPV -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introducción</u>**
+
+Bienvenido a este módulo sobre el sistema automático de administración de
+insulina MiniMed 780G. Como uno de los sistemas automáticos de administración
+de insulina más utilizados en muchos países europeos, el MiniMed 780G ofrece una
+solución integral para el control de la diabetes.
+Este sistema de ayuda integra a la perfección tres componentes clave:
+- ​ el sensor Guardian 4, Simplera Sync o Instinct,
+- ​ la bomba de insulina MiniMed 780G,
+- ​ y el algoritmo SmartGuard integrado.
+El sistema le permite controlar y gestionar eficazmente sus niveles de glucosa.
+Utilizando la plataforma CareLink, puede acceder a informes detallados y analizar
+sus datos. Además, la aplicación MiniMed Mobile le permite acceder cómodamente
+a la información sobre su glucosa desde su teléfono móvil. Para los cuidadores, la
+aplicación CareLink Connect ofrece la posibilidad de seguir el progreso del usuario. En los vídeos generales anteriores sobre los sistemas automáticos de
+administración de insulina, aprendió información valiosa, incluyendo cómo comparar
+los sistemas automáticos de administración de insulina utilizando el marco de
+referencia CARES, cómo elegir el sistema adecuado para sus necesidades, cómo
+interpretar los informes y cómo manejar diversos escenarios como la hipo y la
+hiperglucemia, las comidas ricas en grasas, el ejercicio, la enfermedad, la natación y
+los viajes.
+En los próximos vídeos, profundizaremos en los detalles específicos del MiniMed
+780G, proporcionándole una comprensión paso a paso de sus características y funcionalidades. Este enfoque educativo estructurado le dotará de los
+conocimientos necesarios para navegar con éxito por el sistema.
+
+Es importante tener en cuenta que estos vídeos no pretenden ser un consejo
+médico. Consulte siempre a su profesional sanitario antes de realizar cualquier
+ajuste en su tratamiento de la diabetes.
+El contenido de estos vídeos ha sido desarrollado por el Dr. Inge van Boxelaer,
+fundador de Diabetotech y endocrinólogo experimentado del Hospital St-Lucas de
+Gante en Bélgica. El material ha sido revisado por el Dr. Henk-Jan Aanstoot,
+pediatra endocrinólogo y fundador de Diabeter en los Países Bajos, y Sjoerd Aerts,
+usuario del sistema MiniMed 780G y administrador de la página holandesa de
+FaceBook sobre el MiniMed 780G. Estas personas han aportado su experiencia y
+conocimientos para garantizar la exactitud y fiabilidad de la información
+proporcionada en estos vídeos.
+Al final de esta serie de vídeos, tendrá un conocimiento exhaustivo del sistema
+MiniMed 780G, incluido su rendimiento según el paradigma CARES, el uso práctico
+de la bomba MiniMed 780G y la aplicación MiniMed Mobile, la generación e
+interpretación de informes en CareLink, así como estrategias eficaces para gestionar
+situaciones especiales.
+Tanto si es usted un profesional sanitario que desea ampliar sus conocimientos
+como si está pensando en utilizar o ya está utilizando MiniMed 780G, estos vídeos
+le proporcionarán información valiosa, consejos y trucos para facilitar un uso óptimo
+y mejorar su experiencia general en el control de la diabetes.
+Le deseamos mucha suerte en su viaje con el sistema automático de administración
+de insulina MiniMed 780G.

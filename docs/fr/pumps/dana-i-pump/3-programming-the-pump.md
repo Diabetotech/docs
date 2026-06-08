@@ -1,0 +1,269 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_cMvJn4RoqaeLFeSSOKsTt&index=2" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>3. Réglage de la pompe</u>**
+
+Bienvenue à ce cours sur le réglage de la pompe DANA-i.
+Dans cette vidéo, nous vous expliquerons comment régler les débits de base et les
+débits de base temporaires, administrer un bolus, suspendre l'administration et
+configurer les paramètres via l'application anyDANA. Nous aborderons également
+quelques bonnes pratiques pour ajuster les paramètres d'insuline de la pompe.
+C'est parti.
+3.1 Réglage du débit basal
+La pompe DANA-i vous permet d'enregistrer des débits basaux ajustés dans
+quatre profils : A, B, C et D. Ces profils sont utiles pour l'exercice physique, les jours
+de maladie ou d'autres situations susceptibles d'influencer votre sensibilité à
+l'insuline.
+
+Pour modifier les débits basaux, accédez au MENU PRINCIPAL, sélectionnez «
+BASAL », choisissez « MODIFIER LE DÉBIT BASAL », puis appuyez sur OK. Le profil
+de débit de base actuel s'affiche ; le profil par défaut est « A ». Confirmez en
+appuyant sur OK. Vous accédez alors à l'écran « Modifier A ».
+Commençons par identifier les différentes parties de l'écran. Le graphique à barres
+représentant le débit basal horaire comporte 24 barres, chacune correspondant à
+une heure comprise entre 00 et 24 (minuit). Lorsque vous sélectionnez une plage
+horaire spécifique, la barre correspondante devient noire.
+La lettre correspondant au profil de base actif apparaît dans la ligne de titre. Dans
+l'exemple, le profil A est sélectionné.
+Le total quotidien de base (TDB) correspond à la quantité totale d'insuline basale à
+administrer sur 24 heures. Dans l'exemple, le TDB est de 5,2 unités.
+Les heures de début et de fin sont indiquées pour chaque tranche horaire. Le
+premier chiffre correspond au début de l'heure, tandis que le second correspond à
+la fin.
+Enfin, il y a le débit basal. Dans l'exemple, le débit de base entre 18 h et 19 h (de
+18 h à 19 h) est de 0,3 u/h.
+Pour revenir au réglage des débits basaux, l'écran « Modifier le débit de base »
+s'ouvre avec l'heure par défaut 00 à 01. Utilisez les boutons « + » et « - » pour
+régler l'heure de début, puis appuyez sur « Droite » pour passer à l'heure de fin.
+Utilisez les boutons « + » et « - » pour régler l'heure de fin, puis appuyez à nouveau
+sur « Droite » pour passer au débit de base. Utilisez les boutons « + » et « - » pour
+définir le débit de base pour l'heure sélectionnée. Appuyez sur « OK » pour
+enregistrer le débit. L'écran « RÉGLAGE ENREGISTRÉ » s'affiche. Appuyez sur OK
+pour terminer ou sur la touche Droite pour revenir à l'heure de début et définir le
+débit horaire suivant. Lorsque vous enregistrez les modifications, un message de
+confirmation indique que le débit basal a été mis à jour ; appuyez sur OK pour
+confirmer.
+Pour afficher les débits basaux, accédez à « Basal », sélectionnez « View Basal Rate
+» (Afficher le débit de base), puis appuyez sur OK. La lettre correspondant au profil
+basal actuel s'affiche ; confirmez en appuyant sur OK. Le curseur se trouve sur
+
+l'heure actuelle. Appuyez sur la touche « Right » (Droite) pour passer à la valeur
+d'heure suivante, ou sur la touche « Minus » (Moins) pour quitter.
+3.2 Réglage d'un débit basal temporaire
+La fonction « Débit basal temporaire » permet de gérer la glycémie lors de
+situations imprévues et de courte durée, telles que l'exercice physique, une maladie
+ou le stress. Elle vous permet d'effectuer des modifications temporaires qui
+reviennent automatiquement à vos débits basaux habituels à la fin de la période
+définie.
+Pour définir un débit basal temporaire, accédez au menu principal, sélectionnez «
+DÉBIT BASAL TEMPORAIRE », puis appuyez sur OK. Appuyez sur la touche Droite
+pour basculer entre HR (la durée en heures) et % (le pourcentage de votre débit
+basal habituel). Utilisez les touches Plus ou Moins pour ajuster le débit sélectionné.
+Par exemple, choisir 150 % pendant 1 heure augmente le débit basal à une fois et
+demie le débit habituel pour l'heure suivante. Appuyez sur OK pour confirmer.
+N'oubliez pas qu'un « T » clignotant sur l'écran d'accueil indique qu'un débit basal
+temporaire est actif. Pour consulter les détails, ouvrez le menu principal et
+sélectionnez « DÉBIT BASAL TEMPORAIRE ». L'écran « DÉBIT BASAL
+TEMPORAIRE » indique depuis combien de temps le débit temporaire est en cours,
+le temps restant et le pourcentage sélectionné. Dans l'exemple, le débit basal
+temporaire est de 150 % pour une durée totale d'une heure, et il reste 25 minutes
+pour ce débit.
+Lorsqu'un débit basal temporaire prend fin, la pompe n'envoie pas de notification.
+Elle revient automatiquement au profil basal standard programmé.
+Pour interrompre un débit basal temporaire, sélectionnez « DÉBIT BASAL
+TEMPORAIRE » dans le menu principal. Lorsque l'écran « TEMP. BASAL » s'affiche,
+appuyez sur OK. Confirmez l'interruption du débit basal temporaire en appuyant
+sur OK.
+3.3 Administration d'un bolus
+La pompe DANA-i peut administrer un bolus sous forme de « Quick Bolus » ou à
+l'aide du calculateur de bolus intégré. Les principaux paramètres du calculateur de
+bolus sont définis dans « BOLUS SETTING », où vous pouvez également activer les
+bolus doubles et prolongés et définir le fonctionnement de la fonction « Quick
+
+Bolus ». Le « Quick Bolus » peut administrer de l'insuline en fonction des glucides
+saisis ou d'unités fixes, ou laisser l'utilisateur choisir entre ces deux options. La
+glycémie cible (Ideal BG) est réglée séparément dans USER OPTION, tandis que la
+durée d'action de l'insuline est configurée en mode [Médecin], dont il sera question
+plus loin.
+Pour utiliser le calculateur de bolus intégré, accédez au menu principal,
+sélectionnez « Bolus », puis « BG BOLUS CALCULATOR », et appuyez sur OK. Dans
+l'écran « BOLUS CALCULATOR », définissez les paramètres de ce bolus. BG
+correspond à la glycémie actuelle, CARBO aux grammes de glucides contenus
+dans un repas, IDEAL à la glycémie cible, CIR au ratio glucidique et CF au facteur
+de correction ou à la sensibilité à l'insuline. Appuyez sur le bouton Droit pour
+parcourir les champs et sur Plus ou Moins pour ajuster les valeurs ; appuyez sur OK
+pour confirmer. L'écran Récapitulatif affiche la dose de bolus suggérée. En haut de
+l'écran, G indique le glucose, C indique les glucides et A indique l'insuline active.
+Appuyez sur OK pour démarrer l'administration du bolus.
+Une fois que vous avez choisi entre un bolus rapide et un bolus calculé à l'aide du
+calculateur de bolus intégré, la pompe DANA-i peut administrer trois types de
+bolus : le bolus par paliers, le bolus prolongé et le bolus à double profil.
+Pour utiliser l'option « Bolus par paliers » ou « Bolus rapide », ouvrez le menu
+principal, sélectionnez « Bolus », puis sélectionnez « BOLUS » dans le sous-menu «
+BOLUS ». Appuyez sur OK. Réglez la quantité de glucides à l'aide des touches Plus
+ou Moins. Descendez dans le menu à l'aide de la touche Droite pour régler le ratio
+de glucides, puis appuyez sur OK pour passer à l'étape suivante. N'oubliez pas que
+si le paramètre CALCUL DU BOLUS est réglé sur « UNITÉ », cette étape relative
+aux glucides est ignorée. Utilisez les touches Plus ou Moins pour augmenter ou
+diminuer le volume du bolus ou la vitesse d'administration. Appuyez sur OK pour
+confirmer et lancer l'administration du bolus.
+Pendant l'administration, l'écran « INSULIN INJECT » s'affiche et vous entendez le
+moteur ; la pompe émet un bip ou vibre à chaque administration d'une unité. Une
+fois le bolus terminé, le message « BOLUS DÉLIVRÉ » s'affiche et indique la
+quantité administrée. Appuyez sur OK pour revenir à l'écran initial.
+Pour interrompre l'administration en cours de bolus, appuyez sur le bouton Moins,
+puis confirmez l'arrêt en appuyant sur OK. Le message « BOLUS ADMINISTRÉ »
+affiche alors la quantité administrée avant l'arrêt.
+
+3.4 Suspension de la livraison
+La fonction « Suspend » interrompt toute administration d'insuline, qu'il s'agisse de
+l'insuline basale ou de l'insuline bolus. Pour l'activer, sélectionnez « SUSPEND »
+dans le MENU PRINCIPAL. L'écran d'accueil affichera alors en alternance les
+messages « SUSPEND » et « NO DELIVERY ». Pendant la suspension, la pompe
+émet une alarme toutes les 4 minutes pour vous rappeler qu'aucune insuline n'est
+administrée.
+Pour relancer l'administration, sélectionnez « SUSPEND OFF » dans le MENU
+PRINCIPAL et confirmez en appuyant sur OK. La pompe émettra une alarme et
+l'état « basal-active » réapparaîtra sur l'écran d'accueil.
+3.5 Configuration des paramètres via l'application AnyDANA
+Maintenant que vous savez comment configurer les paramètres directement sur la
+pompe, passons à l'application AnyDANA, qui permet à votre smartphone de servir
+de télécommande.
+Dans les paramètres de la pompe, ouvrez les paramètres de bolus pour régler vos
+ratios. Appuyez sur un ratio pour modifier sa valeur ; une fois que vous avez
+terminé, appuyez sur la coche dans le coin supérieur droit pour enregistrer. Vous
+pouvez également activer ou désactiver le bolus prolongé et activer les alertes de
+bolus manqué, que vous pouvez personnaliser en fonction de votre emploi du
+temps et de vos préférences. N'oubliez pas d'appuyer sur la coche pour enregistrer
+vos modifications.
+Dans ce même menu, ouvrez « Paramètres de débit basal » pour consulter, modifier
+et adapter vos profils de débit basal. Vous pouvez examiner les débits heure par
+heure, appuyer sur « Modifier » pour modifier des heures individuelles, ou
+sélectionner plusieurs plages horaires afin d'effectuer des ajustements plus
+importants en une seule fois. Une fois que vous avez terminé, appuyez sur la coche
+en haut à droite, puis sur « Oui » pour enregistrer.
+De retour sur l'écran d'accueil, sélectionnez « Bolus » pour accéder aux deux
+calculateurs et à un raccourci vers les paramètres de bolus. Le calculateur de
+glucides est idéal pour les collations ou les apports supplémentaires en glucides,
+et vous pouvez choisir entre les modes d'administration « Par Paliers », « Prolongé »
+ou « Combiné ». Avec un bolus par paliers, vous pouvez régler à la fois la vitesse
+
+d'administration et la quantité d'insuline, et vous pouvez démarrer l'administration
+depuis la pompe et l'arrêter instantanément à tout moment. Une fois
+l'administration terminée, l'écran d'accueil s'actualise pour afficher votre pré-bolus
+et votre insuline active.
+Pour les corrections, utilisez le calculateur de bolus BG afin de calculer
+simultanément une dose de correction et une dose de glucides. Vous pouvez définir
+des cibles personnalisées et modifier les ratios directement dans le calculateur si
+nécessaire. En bas de l'écran, vous verrez la répartition de la dose calculée et la
+suggestion de l'application ; appuyez sur Continuer et choisissez votre mode
+d'administration préféré. Avec un bolus à double profil, décidez de la quantité à
+administrer immédiatement et de celle à répartir sur une durée pouvant aller
+jusqu'à huit heures. Vous pouvez interrompre l'administration à tout moment, et
+l'écran d'accueil indiquera qu'un bolus à double profil est en cours.
+Le débit basal temporaire s'active rapidement : choisissez un pourcentage compris
+entre 0 et 200 % et une durée maximale de 24 heures. L'écran d'accueil affichera à
+la fois le pourcentage et une icône de débit basal temporaire. Pour annuler,
+retournez dans le menu « Débit basal temporaire » et sélectionnez « Annuler ».
+Vous pouvez également mettre la pompe en veille depuis l'application ; l'écran
+d'accueil vous indiquera lorsque la pompe est en mode veille.
+3.6 À faire et à ne pas faire
+Les consignes et mises en garde suivantes s'appliquent au réglage des débits
+d'insuline avec la pompe DANA-i.
+- Les paramètres du mode « Médecin » ou du mode « Professionnel » de la
+pompe à insuline DANA-i doivent être configurés lors de la mise en service
+d'une nouvelle pompe, car l'appareil est livré avec des valeurs par défaut
+définies en usine pour tous les paramètres de sécurité, y compris les limites
+de débit basal et de bolus. Ces paramètres avancés sont généralement
+ajustés par un professionnel de santé ou un formateur certifié avant que la
+pompe ne soit remise au patient, afin de personnaliser l'appareil en fonction
+des besoins individuels en insuline et des exigences de sécurité. Voici
+comment procéder :
+Tout d'abord, il faut connaître le mot de passe. Pour le trouver, il faut appuyer
+sur OK pour accéder au menu principal, puis sur OK, sur « Review », ensuite
+
+sur « Shipping Information » et enfin sur OK à nouveau. Ici, le chiffre trois
+indique la date de fabrication, qui correspond au mot de passe du mode
+[Médecin]. Dans cet exemple, il s'agit du 16 octobre 2020. Appuyez sur OK
+pour quitter, puis sur Moins, et encore sur Moins pour revenir à l'écran
+d'accueil. Pour faire apparaître la boîte de sélection du mot de passe, vous
+devez appuyer simultanément sur la flèche droite, Plus et Moins tout en
+regardant l'écran d'accueil. Une boîte de mot de passe devrait s'afficher. Le
+mot de passe sera 3-0 suivi du jour de fabrication, dans notre cas 16.
+En appuyant sur OK, vous devriez accéder au mode [Médecin]. Tout comme
+les options utilisateur, le [Mode Médecin] se présente sous la forme d'une
+liste de contrôle. La flèche droite vous permet de descendre dans la liste, les
+boutons plus et moins servent à modifier les paramètres, et OK vous
+permettra de quitter le menu une fois que vous aurez atteint l'option 15.
+L'option n° 1 est « Bolus prédéfini ». Il est recommandé de laisser cette option
+désactivée la plupart du temps. Cela désactive le calculateur de bolus et
+vous propose à la place des options permettant de définir l'heure et la
+quantité des bolus.
+Melody est votre alarme « Vérifier la glycémie ». Vous pouvez définir un
+intervalle de 10 minutes ; à l'issue de cet intervalle après l'administration
+d'un bolus, une alarme retentira pour vous inviter à vérifier votre glycémie. Si
+vous ne souhaitez pas recevoir d'alarmes « Vérifier la glycémie »,
+assurez-vous que votre sonorité est réglée sur 0.
+Le numéro 3 est le « Bolus Block ». Cette fonction vous permet de définir une
+limite, là encore par tranches de 10 minutes, quant à la fréquence à laquelle
+vous pouvez administrer des bolus. Elle est destinée aux personnes
+susceptibles d'administrer accidentellement deux bolus à la suite, en
+oubliant qu'elles viennent juste d'en avoir pris un.
+Le numéro 4 correspond aux incréments de bolus, c'est-à-dire les incréments
+par lesquels on peut ajuster le bolus lors du calcul. En général, on règle ce
+paramètre sur la valeur minimale, qui est de 0,05.
+
+Le point n° 5 concerne les incréments de base. Là encore, dans la plupart des
+cas, nous le réglons au minimum, soit 0,01.
+
+Le chiffre 6 correspond à votre glycémie idéale. Vous pouvez le modifier dans
+les « Options utilisateur », mais aussi dans le « Mode médecin ».
+Le chiffre 7 indique votre insuline active. Il s'agit simplement d'une valeur
+indicative qui vous permet de voir quel effet a la modification du chiffre 8,
+votre taux de diminution, sur votre insuline active.
+Le numéro 8 correspond au taux de diminution. C'est ainsi que l'on exprime
+la durée d'action, qui est indiquée en pourcentage. Un taux de diminution de
+20 % signifie que 20 % de votre bolus d'insuline sont utilisés chaque heure
+après l'injection, ce qui confère à votre bolus une durée d'action de 5 heures.
+Un taux de diminution de 25 % correspondrait à une durée d'action de 4
+heures.
+Le numéro 9 correspond au « Basal Max ». Il s'agit de la quantité maximale
+d'insuline basale que la pompe vous permettra d'administrer en l'espace
+d'une heure. Cela inclut les ajustements temporaires du débit basal.
+Le numéro 10 correspond au « Bolus Max ». Il s'agit du bolus le plus
+important que la pompe vous permet d'administrer en une seule fois.
+Le numéro 11 correspond au « Daily Max ». Il s'agit de la dose maximale
+totale d'insuline (bolus et basal) que la pompe vous permettra d'administrer
+chaque jour.
+Le paramètre n° 12, « Safety Ratio » (coefficient de sécurité), est une
+fonctionnalité de sécurité nuancée qui prend en compte la moyenne sur trois
+jours de la taille des bolus. Vous pouvez définir un coefficient : si vous
+choisissez d'administrer un bolus, le système vérifiera si celui-ci est égal ou
+supérieur à cette moyenne. S'il est supérieur à la moyenne, le système
+empêchera l'administration du bolus. La plupart du temps, nous désactivons
+cette fonction.
+
+Le paramètre n° 13 correspond à la sensibilité de blocage, c'est-à-dire la
+sensibilité de l'alarme d'occlusion. Les réglages disponibles sont faible (L),
+moyen (M) et élevé (H). Dans la plupart des cas, nous recommandons de
+régler ce paramètre sur M, bien que certains systèmes en boucle fermée
+puissent avoir des exigences différentes.
+Le numéro 14 vous permet de modifier vos paramètres de fuseau horaire
+UTC.
+Le numéro 15 correspond à « Quitter ». Appuyez sur OK pour quitter, puis sur
+OK pour enregistrer vos paramètres : le mode [Médecin] est désormais
+configuré.
+- Il est essentiel de régler correctement la date et l'heure pour garantir un
+débit d'insuline basale précis et tenir un registre exact de toutes les doses
+d'insuline. La date et l'heure ne peuvent être modifiées qu'en [Mode Médecin]
+où il faut saisir l'heure de Greenwich (GMT) ou l'heure UTC. Dans le menu
+principal, sous « Options », puis « Réglages de l'horloge », vous pouvez
+modifier le fuseau horaire, par exemple le fuseau horaire 1 ou 2 pour l'heure
+d'hiver et l'heure d'été.
+- Si vous souhaitez connaître votre taux d'insuline actuel, rendez-vous dans le
+menu principal, sélectionnez « Récapitulatif », puis choisissez « Plus
+d'informations ».
+Bravo ! Vous savez désormais programmer les paramètres d'administration
+d'insuline sur la pompe DANA-i. Dans la prochaine leçon, nous verrons comment
+remplacer le réservoir et le kit de perfusion. À bientôt.

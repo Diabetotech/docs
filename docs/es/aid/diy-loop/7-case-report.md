@@ -1,0 +1,36 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q93F0-a0Bzi2TF7wLbcPSLX -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>7. Caso clínico</u>**
+
+En este capítulo final, nos gustaría hacer referencia a un valioso seminario web
+gratuito sobre DIY Loop. En este vídeo, Nabeel Khan, un tecnólogo en diabetes de
+BCDiabetes en Canadá, comparte una visión general de cómo ajustar la
+configuración de la terapia en Loop basándose en los datos en tiempo real de
+Nightscout.
+Haga clic en el enlace que aparece debajo de este vídeo, ya que la experiencia y los
+ejemplos de Nabeel Khan mejorarán aún más nuestra comprensión del bucle DIY,
+permitiéndonos optimizar nuestro control glucémico.
+https://youtu.be/c7EeS5scVN8?t=513 (8:33-18:35)
+Además de la valiosa información proporcionada en este capítulo, le animamos a
+ver un vídeo de YouTube del bloguero de tecnología para la diabetes Justin, donde
+demuestra cómo utiliza personalmente DIY Loop con Dexcom G7 y destaca
+específicamente cómo analiza sus entradas de carbohidratos, cómo utiliza las
+
+anulaciones y por qué le encanta la conexión con su Apple Watch. Este vídeo ofrece
+una perspectiva práctica y real sobre el uso de DIY Loop y puede mejorar su
+comprensión de su funcionalidad.
+https://www.youtube.com/watch?v=Z__ebveEUYQ&t=16s
+¡Enhorabuena por haber completado este módulo sobre DIY Loop! Ha adquirido un
+conocimiento exhaustivo de las características, funcionalidades y mejores prácticas
+asociadas a este innovador sistema automatizado de administración de insulina. Con
+estos conocimientos, ya está preparado para aprovechar el poder del DIY Loop y
+embarcarse en un viaje hacia un mejor control de la diabetes.
+Recuerde que el control de la diabetes es un proceso continuo, y que el aprendizaje
+y la adaptación constantes son fundamentales. Mantente conectado con la
+comunidad Loop, busca apoyo cuando lo necesites y prioriza siempre tu salud y
+bienestar. Con DIY Loop y los consejos de Nabeel y Justin, dispones de las
+herramientas y los conocimientos necesarios para controlar tu diabetes y vivir la
+vida al máximo.

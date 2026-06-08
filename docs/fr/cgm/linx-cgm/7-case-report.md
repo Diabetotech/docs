@@ -1,0 +1,25 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-BWkQUGebcATI9FxXnrM4J&index=6" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>7. Rapport de cas</u>**
+
+Félicitations pour avoir terminé ce module sur le CGM LinX !
+En prenant le temps de comprendre ce capteur, vous vous donnez les moyens de
+gérer votre diabète avec plus d'assurance et d'efficacité.
+Une fois la théorie acquise, l'étape suivante consiste à observer ces concepts en action. Les vidéos YouTube ci-dessous offrent un aperçu pratique du
+fonctionnement du LinX dans des situations réelles.
+https://www.youtube.com/watch?v=JvRMktp1TGk
+https://youtu.be/I_vVnvSp97g?si=NUaCjLpNyh5_MavJ
+Dans ces vidéos, Snehal partage son expérience avec le capteur et l'application
+LinX. En combinant les commentaires d'utilisateurs comme Snehal avec ce que vous
+
+avez appris dans ce module, vous pouvez affiner votre approche et tirer le meilleur
+parti du CGM LinX.
+Au fur et à mesure que vous avancez, n'oubliez pas que vous n'êtes pas seul. Restez
+en contact avec votre équipe soignante, échangez avec d'autres personnes atteintes
+de diabète et participez à des forums de soutien en ligne. Utilisez les technologies
+actuelles pour rester sur la bonne voie et gérer votre santé en toute confiance.
+Une fois encore, félicitations pour avoir terminé ce module. Que votre expertise
+grandissante et votre motivation constante vous permettent de continuer à atteindre
+vos objectifs.

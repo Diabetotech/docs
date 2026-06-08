@@ -17,6 +17,7 @@ jobs:
       - run: mkdocs build --site-dir site/en/
       - run: mkdocs build --config-file mkdocs-nl.yml --site-dir site/nl/
       - run: mkdocs build --config-file mkdocs-es.yml --site-dir site/es/
+      - run: mkdocs build --config-file mkdocs-fr.yml --site-dir site/fr/
       - run: mkdocs build --config-file mkdocs-de.yml --site-dir site/de/
       - run: mkdir -p site && echo '<meta http-equiv="refresh" content="0; url=/docs/en/">' > site/index.html
       - run: ghp-import -n -p -f site

@@ -1,0 +1,44 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q9frmoAIbaK57zol_ah-7Z9 -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introducción</u>**
+
+Bienvenido a nuestro análisis de la bomba MiniMed 780G.
+Esta bomba con tubo de insulina es un componente clave del sistema automatizado
+de administración de insulina MiniMed 780G, en el que trabaja en colaboración con
+un sensor Guardian, Simplera Sync o Instinct.
+A estas alturas, ya has adquirido una sólida comprensión de la funcionalidad de la
+bomba de insulina a través de nuestros vídeos generales. Ha profundizado en la
+configuración de la insulina basal y en bolo, el manejo de los puntos de infusión y la
+gestión de alarmas.
+Ahora nos centraremos en la bomba de insulina MiniMed 780G. Se trata de un
+completo tutorial de configuración de esta bomba con tubo de uso generalizado,
+que ofrece una guía accesible para los profesionales sanitarios que ayudan a los
+usuarios de MiniMed 780G, así como recursos de apoyo para quienes se inician en
+el uso de esta bomba. Es importante tener en cuenta que estos vídeos no pretenden
+ser un consejo médico. Consulte siempre a su profesional sanitario antes de ajustar
+su terapia.
+Este módulo ha sido desarrollado por la Dra. Inge Van Boxelaer, fundadora de
+Diabetotech y endocrinóloga del hospital general St-Lucas de Gante (Bélgica). El
+contenido fue revisado por el Dr. Henk-Jan Aanstoot, fundador de Diabeter, que son
+centros de tratamiento de la diabetes en los Países Bajos, y Sjoerd Aerts, usuario
+del sistema MiniMed 780G y administrador de la página holandesa de FaceBook
+sobre el MiniMed 780G. Aquí puede ver sus declaraciones. Su experiencia y sus
+puntos de vista garantizan que recibas opiniones sinceras sobre los pros y los
+contras de la bomba de insulina MiniMed 780G.
+Al final de esta serie, conocerá a fondo el funcionamiento de MiniMed 780G, el
+ajuste de la insulina basal y en bolo, el cambio del depósito de insulina y del equipo
+de infusión, y el manejo de las alarmas de la bomba. Esto mejorará su capacidad
+como profesional sanitario para ayudar a los usuarios del MiniMed 780G, o como
+usuario, para prepararse para una configuración satisfactoria. También le
+proporcionaremos consejos y trucos prácticos para facilitarle la vida con el MiniMed
+780G.
+¡Mucha suerte en su viaje con el MiniMed 780G!
+
+2. Cómo funciona la bomba de insulina MiniMed 780G
+Bienvenido a este vídeo informativo sobre el funcionamiento de la bomba MiniMed
+780G. Hoy exploraremos sus diversas características, incluidos los componentes de
+la bomba, la sustitución de la pila, el proceso de desbloqueo y las pantallas y
+opciones de menú que encontrará.

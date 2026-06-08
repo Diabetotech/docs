@@ -1,0 +1,279 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q8FMccjxZjnqQZb5LVKsTQS&index=4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>5. Création et interprétation des rapports</u>**
+
+Bienvenue dans cette capsule vidéo sur la création et l'interprétation des rapports à
+l'aide du mylife Loop. Pour accéder à ces rapports et les analyser, nous nous
+servirons du logiciel Glooko.
+
+Avant d'entrer dans les détails, assurez-vous d'avoir suivi les instructions des vidéos
+précédentes pour créer un compte Glooko et le connecter à votre application mylife
+CamAPS FX. Ceci permet de s'assurer que vos informations sont régulièrement
+transmises à Glooko toutes les 5 à 10 minutes.
+Dans cette vidéo, nous parlerons de deux points principaux :
+- L’aperçu des différents types de rapports disponibles dans Glooko ; et
+- Les conseils étape par étape sur la manière d'interpréter efficacement ces
+rapports.
+À la fin de cette vidéo, vous comprendrez parfaitement comment générer et
+maximiser les rapports émis par Glooko. Explorons ensemble cet aspect essentiel
+de l’utilisation du mylife Loop.
+5.1 Types de rapports
+Dans Glooko, vous pouvez trouver les rapports clés sous les onglets Résumé,
+Graphiques, Historique, et Dispositifs.
+L'onglet [Résumé] est le premier onglet du profil d'un patient sur Glooko. Vous y
+trouverez le nom du patient, sa date de naissance et son type de diabète. Vous
+pouvez également en créer des rapports au format pdf.
+En dessous se trouve le sélecteur de plage. Ici, à l'aide du menu déroulant, vous
+pouvez choisir parmi une variété de périodes de temps, allant d'un jour à 90 jours, et
+des plages de temps personnalisées. Vous pouvez choisir entre les données de
+glycémie et les données CGM à l'aide du sélecteur situé à droite. Les flèches
+ci-dessous vous permettent de naviguer entre les différentes plages en fonction des
+incréments sélectionnés dans le menu déroulant ci-dessus.
+En continuant à défiler, vous pouvez voir que les données sur le glucose sont
+divisées en trois catégories : temps dans, en dessous, et au-dessus de la cible. Nous
+pouvons également voir d'autres mesures telles que l'indicateur de gestion du
+glucose, les moyennes, ainsi que les valeurs de glycémie les plus élevées et les plus
+basses au cours d’une certaine période.
+En continuant à faire défiler l'écran, vous verrez qu'un graphique AGP s'affiche.
+
+Vous pouvez voir ici la ligne sombre indiquant la médiane et les différentes zones
+ombragées indiquant la distribution statistique.
+En regardant vers la droite de l'onglet résumé, vous pouvez voir les données
+relatives à l'insuline. Nous avons ici la dose basale totale quotidienne moyenne et la
+dose de bolus, ainsi que le pourcentage de répartition entre les deux. Nous pouvons
+voir la dose quotidienne totale moyenne, ainsi que le pourcentage de dérogations
+que ce patient effectue en utilisant, dans ce cas, sa pompe à insuline. Les
+dérogations ne seront pas toujours disponibles, de même que d'autres mesures qui
+seront affichées en fonction de la disponibilité des données dans les appareils
+utilisés par le patient.
+Par exemple, pour les utilisateurs de CamAPS FX, le rapport récapitulatif Glooko
+affichera également ces détails du système, indiquant le temps passé en mode
+automatique activé et désactivé, le temps passé en mode automatique en tentative,
+et l'utilisation des fonctions Boost et Ease-Off.
+En continuant à faire défiler l'écran, vous trouverez des informations diététiques
+concernant la quantité moyenne de glucides par jour et le nombre d'entrées. En
+dessous, vous trouverez enfin la section [Historique] où sont répertoriés tous les
+événements de la plage sélectionnée, y compris les aliments, les résultats
+glycémiques et l'utilisation éventuelle d'insuline.
+L'onglet [Aperçu] de la section [Graphiques] du profil d'un patient est
+particulièrement flexible et permet d'obtenir des informations approfondies sur les
+données qui ont été téléchargées. Tout d'abord, nous pouvons sélectionner la plage
+que nous souhaitons examiner depuis la liste déroulante, y compris les périodes
+personnalisées. Nous pouvons ensuite consulter le graphique ci-dessous, où les
+résultats de glycémie sont codés en couleur pour les valeurs qui se situent
+au-dessus et en dessous de la plage cible, avec une ligne de tendance noire.
+En dessous, vous trouverez les glucides qui sont représentés par des barres de
+taille proportionnelle sur le graphique représentant la quantité de glucides
+enregistrée pour chaque jour. De même, les barres proportionnelles pour l'insuline
+indiquent la quantité d'insuline administrée au quotidien.
+
+L’avantage des graphiques de Glooko est leur interactivité. Ainsi, lorsque nous
+mettons en évidence un jour particulier, nous pouvons voir la glycémie médiane
+pour ce jour, le nombre total de glucides ainsi que le nombre total d'unités
+d'insuline au cours de cette journée. Si vous souhaitez obtenir des informations plus
+détaillées, vous pouvez cliquer sur le jour en question. Vous obtiendrez alors un
+graphique avec davantage de détails qui montrera les résultats du capteur, mais
+d’une manière qui les présente avec les valeurs de glycémie individuelles qui ont
+été enregistrées.
+En dessous, nous avons les valeurs de glucides qui ont été enregistrées et, lorsque
+nous passons la souris dessus, nous obtenons l'heure exacte à laquelle elles ont été
+saisies. Le bolus d'insuline est présenté sous forme de barres proportionnelles et,
+lorsque l'on passe la souris dessus, on obtient davantage d'informations, comme
+ceci.
+En dessous, nous avons le rayon basal où vous voyez que la ligne pointillée
+représente un basal temporaire, la ligne continue représentant un basal
+programmé. Nous pouvons avoir des lacunes dans cette ligne, comme nous le
+voyons ici sur le côté droit, ce qui est signifié par les points rouges qui montrent que
+le basal a été suspendu lors de cette période.
+Pour les utilisateurs de systèmes en boucle fermée, vous pouvez également voir
+l'administration automatisée d'insuline basale et les détails du système.
+Pour les patients qui utilisent des pompes à insuline, l'onglet [Historique] peut être
+particulièrement utile car elle permet à la fois aux soignants et aux patients de voir
+comment les événements et les caractéristiques propres à une pompe à insuline ont
+un impact sur la gestion du diabète.
+Nous commençons par l'onglet [Remplacement du kit de Perfusion et Changement
+de Site] qui permet de voir à quelle fréquence un patient change le dispositif et le
+site d’installation de la pompe. Vous pouvez voir par exemple que ce patient a
+changé de pompe au bout de deux jours, qu'il l'a changée cinq fois au bout de trois
+jours et qu'il l'a changée trois fois au bout de quatre jours.
+
+Cela permet au soignant et au patient de voir si le patient respecte les consignes et
+que, dans le cas présent, le patient a changé de pompe après deux jours. Ceci
+indique qu’il y avait potentiellement un problème avec la pompe, ce qui devrait être
+discuté avec son médecin.
+En défilant vers le bas, vous pouvez voir la date et l'heure de chacun de ces
+événements, ainsi que le temps écoulé depuis le dernier réglage ou changement de
+site. Vous verrez que, sur le côté droit, chaque événement est aligné sur la ligne
+noire. Nous pouvons voir le contrôle du glucose pendant les 12 heures précédant
+l'événement et pendant les six heures qui le suivent. Cela nous permet de voir si la
+façon dont l'événement a été géré a eu un impact sur la gestion du glucose.
+Par exemple, l'insertion d'une canule dans un amas graisseux dur peut avoir un
+impact sur la façon dont l'insuline est absorbée par le corps et pourrait être un sujet
+que le clinicien pourrait explorer en profondeur avec l’utilisateur, offrant au patient
+une opportunité d'éducation.
+L'onglet [Dispositifs] dans le profil d'un patient montre tous les appareils qui
+contribuent aux données du rapport vu dans le profil. Sur le côté gauche, vous
+pouvez trouver tous les appareils listés, ainsi que le numéro de série et la date de la
+dernière synchronisation de chaque appareil avec Glooko.
+Si nous sélectionnons un appareil, tel qu'une pompe à insuline, vous verrez que
+nous disposons d'informations spécifiques à l'appareil, y compris les profils basaux.
+Ceux-ci sont représentés sous forme de texte et de graphique, montrant les unités
+d'insuline par heure et leur variation sur une période de 24 heures.
+En continuant à faire défiler l'écran, vous trouverez d'autres informations—telles
+que le ratio de glucides, la sensibilité à l'insuline, et les plages cibles—dont
+l'appareil se sert pour fournir des indications sur les doses de correction et de bolus.
+En remontant en haut de l'écran, vous pouvez accéder aux paramètres de l'appareil.
+Vous y trouverez des informations générales, telles que la durée d'insuline active,
+les unités de mesure utilisées par l'appareil, et les paramètres tels que les bolus et
+les débits de base maximaux.
+
+Veuillez noter que vous ne pouvez pas modifier les paramètres à partir de cet écran,
+mais qu'ils seront enregistrés. Ceci s’avère utile puisque si vous décidez de modifier
+les paramètres afin d'améliorer les résultats pour le patient, mais que cela n'a pas l'effet escompté et que vous
+souhaitez revenir aux paramètres utilisés
+
+précédemment, vous pouvez simplement utiliser la liste déroulante sur le côté droit
+pour afficher les paramètres des téléchargements précédents. Vous verrez à gauche
+l'icône d'une horloge qui s'affiche en haut de l'écran. Celle-ci indique que l'heure et
+la date de cet appareil ne correspondent pas à l'heure et à la date du serveur de
+glucose. Dans ce cas, vous pouvez voir dans le texte sur le côté droit que cet
+appareil a un écart de trois minutes. Il est important que tous les appareils utilisés
+par un patient soient synchronisés afin que les rapports soient de la plus haute
+qualité et que vous puissiez en tirer les meilleures informations cliniques pour aider
+le patient et éclairer la prise de décision médicale.
+Lorsque vous générez un rapport PDF dans Glooko, vous avez également accès à
+l'aperçu hebdomadaire ainsi qu'à d'autres rapports.
+Ce rapport vous permet de comparer plusieurs rapports quotidiens en détail, ce qui
+constitue un moyen plus rapide et plus efficace d'analyser les données que de les
+visualiser individuellement à l'aide de l'onglet [Graphiques].
+5.2 Interprétation des rapports
+Avec le mylife Loop, la possibilité d'ajuster les paramètres est limitée et se
+concentre principalement sur la valeur cible et le ratio de glucides. Cependant, il
+faut comprendre et utiliser efficacement les fonctions supplémentaires du système,
+telles que l’ajout d’un repas, ainsi que les modes Ease-Off et Boost, pour maximiser
+son potentiel.
+Il est également important de tenir compte du temps passé en mode automatique,
+car l'algorithme fonctionne à partir de votre smartphone, qui ne se trouve pas
+forcément à proximité de votre capteur et de votre pompe à tout moment.
+Enfin, il est fortement recommandé de laisser au système un délai d'environ deux
+semaines pour s'adapter à l'utilisateur avant de procéder à des ajustements
+significatifs manuels. Après cette période, il est courant d'affiner le système en
+
+définissant un ratio de glucides plus agressif et en réduisant la valeur cible
+personnelle du glucose.
+Lors de l'analyse des rapports, il est utile de suivre une approche structurée, comme
+le souligne le module général sur les systèmes automatisés d'administration
+d'insuline. Voici une feuille de route pour guider votre interprétation :
+1.​ Évaluer l'information glycémique. Commencer par évaluer le TIR (temps dans
+la cible) et le TBR (temps en dessous de la cible) au cours des 2 à 4 dernières
+semaines sur l'écran [Résumé].
+- Vérifier que les objectifs du traitement sont atteints, avec un temps dans
+l'intervalle supérieur à 70 % et un temps en dessous de l'intervalle
+inférieur à 4 %.
+- Il faut surtout faire attention à la fréquence des bolus de repas, qui est
+également indiquée dans l'onglet Résumé de Glooko. En moyenne, il
+devrait y avoir environ 3 bolus par jour. Si vous remarquez un nombre
+anormalement élevé de bolus, par exemple 20 bolus par jour, cela peut
+indiquer que l'utilisateur ne fait pas confiance au système et qu'il interfère
+constamment avec les bolus de correction manuelle.
+2.​ Optimiser les réglages du système en boucle fermée. Analyser le profil
+glycémique ambulatoire (AGP) dans l'onglet Résumé pour identifier les
+tendances d'hypo- ou d'hyperglycémie, et vérifier si ces tendances sont liées
+aux bolus à l’aide des rapports hebdomadaires.
+-​ Si vous observez des tendances après les bolus de repas, il est important
+d'évaluer différents facteurs tels que le moment de la prise et la précision
+du comptage des glucides, avant d'ajuster le ratio de glucides.
+-​ Des hypos persistants après les repas indiquent un rapport glucidique
+trop élevé.
+-​ Inversement, l'administration persistante d'insuline basale après les
+repas, avec une éventuelle hypo en fin de repas, indique un rapport
+glucidique trop faible.
+-​ Pour les tendances en dehors des bolus repas, envisager d'ajuster la
+valeur cible. Noter que l’on peut ajuster la valeur cible en fonction de
+différents blocs horaires. Envisagez d'abaisser davantage la valeur cible
+
+pendant les périodes de nuit afin d'optimiser la durée de l'intervalle et
+d'améliorer le contrôle glycémique global.
+-​ En outre, étudier les corrélations possibles entre des facteurs tels que
+l'activité physique, la consommation d'alcool, ou l'hypoglycémie.
+Si vous trouvez des impulsions de perméabilité dans les rapports Glooko, il
+n'y a pas lieu de s'inquiéter.
+-​ Ces impulsions représentent les petits bolus d'insuline de 0,04 unités
+administrés toutes les 90 minutes lorsque l'insuline basale est désactivée.
+Leur but est d'éviter le blocage du cathéter ou du dispositif de perfusion.
+Bien qu'elles s’affichent comme 0,2 unités sur le graphique, elles ne
+représentent en réalité que 0,04 unités. Cette dose minimale d'insuline n'a
+pas d'effet clinique significatif et ne provoque pas d'hypoglycémie.
+-​ Si vous remarquez des pulsations de perméabilités fréquentes tout au
+long de la journée, il est conseillé de rechercher les raisons possibles de
+ce faible besoin temporaire en insuline. Chez les très jeunes enfants, les
+impulsions de perméabilité sont souvent observées en fin de nuit où leurs
+besoins en insuline sont moindres.
+3.​ Rédiger des consignes comportementaux. Pour garantir l'utilisation correcte
+du
+
+système
+
+automatisé d'administration d'insuline, il est important
+
+d'examiner divers aspects dans les rapports disponibles. Voici quelques
+éléments clés à prendre en compte :
+-​ Depuis l’écran Résumé : Vérifier la durée d'usure du capteur et le temps
+passé en mode automatique.
+A.​ Si le temps passé en mode automatique est inférieur à 85 %, insistez
+sur le fait que le téléphone portable, qui héberge l'algorithme, doit
+rester à proximité en permanence.
+B.​ Évaluez si les dérogations du calculateur de bolus sont faibles
+(idéalement 0 %). Vérifiez également la quantité de glucides saisie
+pour les repas.
+-​ A l’aide du rapport hebdomadaire : Évaluer l'adhésion au bolus
+préprandial, la surcorrection de l'hypoglycémie et de l'hyperglycémie, et
+l'utilisation appropriée des fonctions Ease-Off et Boost.
+A.​ Dans cet exemple, vous pouvez observer une situation où un bolus a
+été omis, ce qui a entraîné une élévation de la glycémie.
+
+B.​ Ici, vous pouvez voir un cas où un utilisateur a administré un double
+bolus d'hydrates de carbone, mais malheureusement, il l'a fait après
+l'augmentation de la glycémie, ce qui a entraîné une hypoglycémie
+retardée.
+-​ Pendant la phase initiale, il est conseillé de limiter l'utilisation des
+fonctions Boost et Ease-Off. Ce faisant, vous donnez à l'algorithme la
+possibilité d'établir un équilibre optimal et de s'adapter aux besoins de
+votre corps. Il est fréquent que les individus soient trop agressifs dans la
+correction de l'hypoglycémie et de l'hyperglycémie, comme l'illustre cet
+exemple.
+-​ Dans l'onglet Aperçu, vous pouvez vérifier si le remplacement du
+dispositif de perfusion est effectué tous les 3 jours.
+-​ Onglet Dispositifs : Évaluez la pertinence des paramètres d'alarme et des
+rappels dans l'application mylife CamAPS FX. Vérifiez que les paramètres
+correspondent aux besoins et aux préférences de l'utilisateur.
+4.​ Examiner le réglage des pompes et les plans d'urgence :
+-​ Il est important de mettre à jour votre poids lors de chaque contrôle si
+nécessaire, en particulier pendant la grossesse, car le poids corporel joue
+un rôle crucial dans le calcul de la dose d'insuline. Toutefois, en dehors de
+la grossesse, lorsque les objectifs post-prandiaux sont moins stricts, les
+mises à jour du poids sont moins cruciales.
+-​ Vérifier que le taux d'insuline basale préréglé sur votre pompe mylife
+YpsoPump correspond approximativement à l'insuline basale du mode
+Auto. Vous pouvez le vérifier dans l'onglet Dispositifs du rapport Glooko.
+-​ Conservez un registre détaillé de tous les réglages de la pompe et
+élaborez un plan d'urgence comprenant des instructions pour l'utilisation
+des stylos à insuline en cas de dysfonctionnement de la pompe. Veillez à
+ce que les stylos à insuline soient facilement accessibles dans de telles
+situations.
+Vous avez ainsi appris à obtenir et à interpréter les rapports du système en boucle
+fermée mylife Loop. Vous avez acquis des connaissances précieuses pour optimiser
+vos réglages et effectuer des ajustements afin d'améliorer votre expérience.
+Grâce aux connaissances et à la compréhension que vous avez acquises, vous
+pouvez gérer efficacement votre diabète en toute confiance à l'aide du système en
+
+boucle fermée mylife Loop. N'oubliez pas qu'il est normal de prendre un peu de
+temps pour affiner les paramètres et trouver le bon équilibre en fonction de vos
+besoins particuliers. Faites-vous confiance et faites confiance au système, et
+n'hésitez pas à demander de l'aide aux professionnels de la santé ou à la
+communauté en ligne si nécessaire.
+Avec le myLife Loop, vous pouvez prendre en main la gestion de votre diabète et
+obtenir de meilleurs résultats. Poursuivez votre travail et profitez des avantages de
+cette technologie de pointe !

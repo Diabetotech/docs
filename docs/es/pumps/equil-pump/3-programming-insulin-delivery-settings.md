@@ -1,0 +1,299 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q90xAaiPX7sPVIVlgsUinry -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>3. Programación de los ajustes de administración de insulina</u>**
+
+Bienvenido a esta lección sobre cómo programar la configuración de administración
+de insulina con la bomba Equil.
+En este video, aprenderás a configurar y editar los programas basales, aplicar una
+tasa basal temporal cuando sea necesario y administrar bolos usando las opciones
+manual, preestablecida, extendida y de bolo rápido. También te mostraremos cómo
+usar la Calculadora de Bolos para apoyar las decisiones de dosificación y cómo
+suspender y reanudar la administración de insulina de forma segura. Por último,
+repasaremos recomendaciones prácticas sobre lo que debes y no debes hacer para
+ayudarte a ajustar la configuración correctamente y evitar errores comunes. Vamos
+a ello.
+
+3.1 Configuración de una tasa basal
+Desde la pantalla de inicio, pulsa el botón de la función Basal. Verás tres pestañas
+de programas basales, de los siete programas que la bomba puede ejecutar. Puedes
+desplazarte entre ellas usando la pantalla táctil. Aquí estás viendo los datos de un
+programa basal más ligero. La fila superior muestra la cantidad basal total, el
+estado del programa —es decir, si está activo o no— y una lista de periodos del
+programa basal con sus valores y horas correspondientes. Desliza hacia abajo en
+esta zona para desplazarte y ver entradas adicionales. Todos los valores de esta
+lista siempre serán inferiores a la Tasa Basal Máxima. En la parte inferior de la
+pantalla encontrarás los botones de acción del programa basal, que te permiten
+activar un programa o cambiar su configuración.
+Si giras el PDA a la orientación horizontal, se activa el modo de gráfico del
+programa basal. En esta vista, el eje vertical representa la tasa basal, mientras que
+el eje horizontal muestra el tiempo a lo largo de un período de 24 horas. Como la
+tasa basal actualmente está configurada en un valor fijo y no se han definido
+períodos del programa, aparece como una línea recta. Una vez que se configure un
+
+programa, los diferentes períodos basales se mostrarán tanto como una lista como
+en una visualización gráfica. Las tasas basales suelen variar a lo largo del día según
+las actividades diarias. Dado que los patrones de actividad pueden variar de un día
+a otro (por ejemplo, días laborales frente a fines de semana, o días de ayuno frente
+a días normales), es posible que tengas que crear y activar distintos programas
+basales, cambiando entre ellos según sea necesario.
+La bomba Equil también ofrece una opción de configuración rápida del programa
+basal, lo que hace que sea más fácil y rápido editar los programas basales. Para
+comenzar, entra en el Modo de edición seleccionando la fila superior debajo del
+nombre del programa y tocando el ícono de Editar. Aparecerá la ventana de
+Configuración inicial de basal. Usa los botones de más y menos para ajustar la
+cantidad basal total diaria, luego elige cuántos segmentos de tiempo quieres —ya
+sea 24 o 6—. Con base en estos ajustes, el sistema asignará automáticamente los
+periodos de tiempo basales al programa. Para modificar cualquier periodo de
+tiempo, toca su ícono de Editar y, en la ventana emergente, establece la hora de
+inicio, la hora de fin y la tasa basal. Ten en cuenta que cambiar periodos de tiempo
+individuales puede afectar ligeramente la cantidad basal total diaria. También
+puedes eliminar un periodo de tiempo seleccionando el ícono de Cancelar; en este
+caso, el periodo volverá a la tasa basal base. Ten en cuenta que el PDA puede
+fusionar automáticamente los periodos de tiempo adyacentes que tengan la misma
+tasa basal.
+Los programas basales también se pueden editar en modo gráfico. Mantén pulsada
+una sección del gráfico para seleccionar un período de tiempo. El área seleccionada
+se verá más oscura. Puedes moverte entre periodos usando las flechas izquierda y
+derecha, o usando la pantalla táctil. Al igual que en modo vertical, este ícono abre
+la ventana de Configuración de la tasa basal. Al seleccionar el ícono Cancelar, se
+elimina el período de tiempo seleccionado y se devuelve al valor basal base, lo cual
+verás reflejado de inmediato en la gráfica. Este icono sale del modo de edición y
+cancela cualquier cambio, mientras que al seleccionar la opción Guardar se sale del
+modo de edición y se guardan tus ajustes.
+Cuando no estás en el Modo Edición, puedes usar la pantalla táctil para moverte
+entre distintos programas basales. Para cambiar el nombre de un programa basal,
+hazlo en modo vertical. Entra en el Modo Edición, toca Cambiar nombre del
+programa basal e introduce un nuevo nombre en el cuadro de diálogo. Después de
+
+cambiar el nombre, toca Guardar ajustes. Luego, el programa se puede activar
+seleccionando Activar y confirmando tocando OK. El nombre del programa basal
+activo aparecerá en la pantalla de inicio. Si editas un programa que ya está activo,
+después de guardar aparecerá un cuadro de diálogo de Actualizar bomba.
+Selecciona Cancelar para descartar los cambios, u OK para aplicar las
+actualizaciones al programa basal actual de la bomba.
+
+3.2 Configurar una tasa basal temporal
+Antes de poder usar una tasa basal temporal, la función debe estar habilitada.
+Puedes activarla desde la página 2 del Asistente de configuración o yendo a
+Configuración, Configuración de administración de insulina y Tasa basal temporal.
+La opción de basal temporal solo se puede usar dentro del programa basal que esté
+activo en ese momento. Una vez activado el programa, el mismo botón de activación
+cambia a Tasa basal temporal. El botón aparece en verde cuando la opción de basal
+temporal está habilitada.
+Si no está habilitada, el botón aparecerá en gris. Pulsa el botón de tasa basal
+temporal para abrir el cuadro de diálogo de configuración. Introduce el valor de la
+tasa basal temporal en unidades por hora, según la configuración que seleccionaste
+anteriormente. Luego establece la duración y toca OK. El PDA enviará el comando a
+la bomba para comenzar a administrar la tasa actualizada, y la pantalla de inicio
+mostrará el estado de la basal temporal.
+
+3.3,Administrar un bolo
+Hay varios métodos para administrar un bolo. El primero es un bolo manual. Desde
+la pantalla de inicio, toque el botón Bolo para abrir la pantalla de Bolo. En la
+esquina superior izquierda, verá un botón Bolo verde. Al principio, la cantidad del
+bolo es cero y el botón Iniciar aparece atenuado en gris. Toque el botón Bolo para
+abrir un cuadro de diálogo e introduzca la cantidad de bolo deseada; luego, pulse
+Aceptar. La cantidad de insulina aparecerá en el recuadro y el botón Iniciar se
+pondrá verde. Toque Iniciar para comenzar la administración. Aparecerá una
+animación de «Conectando con la bomba», seguida de una ventana de confirmación
+que muestra la cantidad y la hora de su último bolo. Toque Aceptar para continuar.
+
+El PDA volverá a la pantalla de inicio y mostrará el estado de administración del
+bolo a la velocidad configurada previamente. El botón Bolo permanecerá inactivo
+hasta que el bolo se haya administrado por completo.
+La pantalla de Bolo también incluye tres botones de bolo preestablecido
+programables. Toque el icono Editar para abrir el cuadro de diálogo Preestablecido.
+Ajuste la dosis con los botones más y menos, asigne un nombre y toque Aceptar.
+Cuando toca el lado izquierdo de un botón de preajuste, su valor preestablecido
+aparece en el recuadro de cantidad de bolo a la izquierda, junto con una pequeña
+flecha que vincula el preajuste con la dosis seleccionada. El botón Iniciar se pone
+verde y puede continuar como antes. Los bolos preestablecidos son especialmente
+útiles para alimentos de digestión rápida, ya que la dosis completa se administra de
+inmediato.
+Para las comidas que se digieren más despacio, puedes usar la opción de Bolo
+extendido.. Los bolos extendidos se administran en dos partes: Cantidad ahora, que
+se administra de inmediato, y la cantidad restante, que se administra durante un
+período de tiempo establecido. Primero, introduce la cantidad total del bolo como
+de costumbre. Antes de empezar, toca Extender bolo para abrir la ventana de bolo
+extendido. En Cantidad ahora, introduce la parte que se administrará de inmediato,
+usando unidades absolutas según lo definido en tu configuración. Luego, establece
+la duración durante la cual se administrará la insulina restante. Toca Aceptar y, a
+continuación, Iniciar, y sigue los mismos pasos de confirmación que antes.
+Mientras la administración está en curso, el PDA vuelve a la pantalla de inicio y
+muestra el estado del bolo extendido, incluido cuánto se ha administrado de cada
+parte. Un temporizador de cuenta regresiva muestra cuánto tiempo queda para la
+parte extendida. Para comidas con alto contenido de grasa, puede ser apropiado un
+bolo extendido sin una dosis inmediata. En este caso, establece Cantidad ahora en
+cero. No se administrará insulina de inmediato y la dosis completa se repartirá
+durante un período que va de 30 minutos a 8 horas.
+La bomba Equil también incluye una función de bolo rápido. Esto le permite
+administrar un bolo directamente usando el botón de bolo en la bomba de parche,
+sin usar la PDA. Esto puede ser útil si está lejos de su PDA o prefiere más
+privacidad. Mantén presionado el botón de Bolo en la bomba de parche. Una alerta
+audible indica que el modo de Bolo Rápido está activo. Cada pulsación adicional
+
+aumenta el bolo en un incremento fijo. El bolo total equivale al número de
+pulsaciones del botón multiplicado por el Incremento de Bolo Rápido. Por ejemplo,
+si el incremento es de 2 unidades y necesitas un bolo de 10 unidades, pulsa el
+botón cinco veces. Cada pulsación se confirma con un pitido, y el tono va subiendo
+de tono hasta cinco tonos para ayudarte a contar las pulsaciones. La dosis total de
+Bolo Rápido no puede superar el valor preestablecido de Bolo Máximo. Después de
+introducir la dosis deseada, espera tres segundos. La bomba repetirá los tonos para
+confirmar la dosis. Si es correcta, pulsa el botón una vez más para iniciar la
+administración. Si los tonos son incorrectos, espera más de 10 segundos y el Bolo
+Rápido se cancelará automáticamente. También puedes administrar un Bolo Rápido
+usando el botón Enter en la PDA en lugar del botón de la bomba.
+En algunas situaciones, puede que necesite cancelar un bolo después de que haya
+comenzado; por ejemplo, si ingresó una dosis incorrecta, calculó mal los
+carbohidratos o ingresó un valor de glucosa en sangre equivocado. Mientras un bolo
+está en curso, toque Cancelar en la pantalla de inicio. Aparecerá una ventana de
+confirmación. Toque OK para confirmar, y un cuadro de diálogo mostrará la cantidad
+y el tiempo de insulina ya administrada. Un bolo también se puede cancelar
+directamente desde la bomba manteniendo presionado el botón de Bolo rápido.
+Escuchará una confirmación audible, y el bolo se detendrá de inmediato. Luego, un
+cuadro de diálogo mostrará los detalles de la dosis administrada.
+Ten en cuenta que cancelar un bolo detiene el Bolo total, la Cantidad ahora y la
+Cantidad extendida. Si estás recalculando manualmente una nueva dosis, debes
+tener en cuenta la insulina ya administrada y restarla de la siguiente dosis. Si estás
+usando la Calculadora de bolos, la dosis cancelada se incluye automáticamente
+como Insulina activa y se descuenta del nuevo bolo.
+3.4 Uso del calculador de bolo
+La Calculadora de Bolo puede sugerir una dosis de bolo después de que te midas la
+glucosa en sangre e ingreses la cantidad de carbohidratos que vas a comer, lo que
+ayuda a mantener tu glucosa en sangre dentro del rango objetivo. Esta función
+determina la cantidad de insulina necesaria para cubrir el aumento de la glucosa en
+sangre asociado con la ingesta de carbohidratos como el Bolo de Comida. Además,
+se agrega un Bolo de Corrección para ayudar a que tu nivel actual de glucosa en
+sangre vuelva al rango objetivo. Y si recientemente te aplicaste un bolo, es posible
+
+que todavía haya insulina activa en tu cuerpo, por lo que la Calculadora de Bolo
+restará automáticamente la insulina activa de la dosis total sugerida de bol.
+El Calculador de Bolos está desactivado de forma predeterminada. Para activarlo
+desde la pantalla de inicio, pulsa Ajustes, luego Ajustes de glucosa en sangre y,
+después, actívalo. Verás cinco ajustes; estos valores deben ajustarse en consulta
+con tu profesional sanitario. El primero es el Rango objetivo de glucosa en sangre,
+que establece el rango objetivo predeterminado. Es un ajuste del usuario que debe
+ser confirmado por el profesional sanitario. La bomba Equil también te permite
+configurar distintos rangos objetivo para diferentes franjas horarias, y el calculador
+tiene en cuenta el valor medio ajustado. El siguiente es la Relación de carbohidratos
+o ICR, que se refiere a cuántos carbohidratos cubre cada unidad de insulina y se
+utiliza para calcular el bolo de comida. Como el metabolismo varía de una persona a
+otra, ajusta este valor bajo la orientación de tu profesional sanitario. Ten en cuenta
+que también se pueden configurar distintas relaciones de carbohidratos para
+diferentes franjas horarias. El Factor de sensibilidad a la insulina o ISF indica cuánto
+puede bajar tu glucosa en sangre después de administrar una unidad de insulina.
+Dado que este valor también varía entre personas, consulta con tu profesional
+sanitario y recuerda que el ISF también puede configurarse para diferentes franjas
+horarias. Incluso si te has administrado un bolo recientemente, es posible que aún
+tengas insulina activa en el cuerpo, ya que la insulina suele permanecer activa entre
+cuatro y seis horas, y este valor debe determinarlo tu médico. Por último, la
+Corrección inversa afecta a cómo se calculan los bolos de corrección. Si está
+desactivada, el Calculador de Bolos solo tendrá en cuenta un bolo de corrección
+cuando tu glucosa en sangre actual sea superior al rango objetivo. Si está activada,
+siempre se calcula un bolo de corrección. El ajuste predeterminado es activado, pero
+tu médico puede cambiarlo si es necesario. Una vez que hayas ajustado los valores
+y comprendido los datos de entrada, podrás usar el Calculador de Bolos de forma
+rápida y sencilla.
+Solo se necesitan dos datos para generar una sugerencia de bolo... tu nivel actual
+de glucosa en sangre, y la cantidad de carbohidratos que vas a comer. En la pantalla
+de inicio, selecciona Acciones y luego haz clic en Ingresar lectura de glucosa para
+abrir la pantalla de ingreso manual. Con los botones de más y menos, ingresa tu
+lectura de glucosa en sangre, selecciona la etiqueta adecuada — Antes o Después
+de hacer ejercicio o Antes o Después de comer — y pulsa Guardar. Cuando aparezca
+el cuadro de diálogo, elige Aceptar para guardar el resultado. Notarás que el botón
+
+Calculadora de bolo cambia de gris a verde, lo que indica que se ha activado. El
+medidor interno de glucosa en sangre del PDA también puede activar la
+Calculadora de bolo. Si la pantalla está encendida, inserta una tira reactiva Exactive
+EQ y aparecerá la pantalla del medidor de glucosa en sangre. Aplica suficiente
+muestra de sangre y luego la pantalla hará una cuenta regresiva de cinco segundos.
+Se mostrará el resultado de la prueba y el botón Calculadora de bolo se pondrá
+verde una vez que se haya registrado una lectura de glucosa en sangre. Ten en
+cuenta que tu lectura de glucosa en sangre solo es válida durante diez minutos. Si
+no administras un bolo dentro de los 10 minutos de tu prueba, hazte otra prueba.
+Ahora, pulse el botón de la Calculadora de bolo. Le preguntará: «¿Va a comer
+ahora?». Si elige Sí, aparecerá un cuadro de diálogo pidiéndole que introduzca la
+cantidad de carbohidratos. Puede estimar los carbohidratos de su comida leyendo
+las etiquetas del envase, usando libros de conteo de carbohidratos o apps del
+teléfono, o consultando la Biblioteca de alimentos del PDA. Introduzca la cantidad
+total de carbohidratos que piensa comer y pulse Aceptar. La siguiente página es la
+pantalla de Bolo sugerido. En la parte superior verá la dosis de bolo sugerida. La
+sección central muestra los parámetros del cálculo y la parte inferior contiene los
+botones de acción. La cantidad de bolo sugerida aparece automáticamente en el
+área Cantidad de bolo. Al tocar el número se abre un cuadro de diálogo que le
+permite cambiar el valor si su médico le ha indicado ajustes, o puede dejarlo tal
+cual. El botón Detalles abre una ventana que explica cómo se calculó el bolo
+sugerido. Al pulsar Iniciar, puede administrar la dosis de bolo. Como alternativa,
+puede usar la opción de Bolo extendido, como se explicó antes. Sin embargo, si
+elige No en el cuadro de diálogo «¿Va a comer ahora?», no se incluirá el bolo de
+comida.
+
+3.5 Suspender la entrega
+Ocasionalmente, puede que necesite pausar temporalmente la administración de
+insulina usando la función Suspender — por ejemplo, si no necesita una infusión de
+insulina durante un periodo corto o si necesita retirar la bomba del equipo de
+infusión. En la pantalla de inicio, toque Suspender para detener la administración de
+insulina.. Aparecerá un cuadro de diálogo de confirmación. Seleccione Aceptar para
+suspender,, o Cancelar para salir.. También puede elegir detener la administración y
+
+permitir que la bomba rebobine. Tenga en cuenta que, si la bomba rebobina, deberá
+cebar el depósito de nuevo antes de reanudar el uso.
+Una vez que el modo Suspender se activa, el PDA vuelve a la pantalla de inicio y el
+área de información mostrará cuánto tiempo se ha pausado la administración de
+insulina. El botón de suspender/detener cambiará a un botón de Reanudar.
+Para reiniciar la administración de insulina, toque Reanudar. Cuando aparezca el
+cuadro de diálogo de confirmación, seleccione Aceptar para reanudar la
+administración de insulina.
+3.6 Lo que se debe y lo que no se debe
+- Al iniciar la bomba, los ajustes de bolo más importantes se configuran
+usando el Asistente de configuración, en consulta con tu profesional de la
+salud. Estos ajustes se pueden modificar más adelante desde la Pantalla de
+inicio, Ajustes, Ajustes de administración de insulina y Velocidad de bolo.
+  - La velocidad normal de administración del bolo es de 3 unidades por
+minuto. Tu profesional de la salud puede reducir esta velocidad a 1
+punto 5 unidades por minuto, si es necesario.
+  - El ajuste de Incremento de bolo determina cuánto cambia el bolo
+solicitado cada vez que presionas el botón de más o de menos.
+  - El ajuste de Bolo máximo define la dosis máxima de un solo bolo que
+la bomba puede administrar. Esta función de seguridad ayuda a
+reducir el riesgo de sobredosis por error del usuario. Se recomienda
+configurar este valor con el bolo más grande que normalmente te
+administrarías. Configurarlo demasiado alto aumenta el riesgo de
+sobredosis. También puedes configurar la opción de Bolo extendido.
+De forma predeterminada, esta función está desactivada y el botón
+correspondiente aparece atenuado. Una vez activada, puedes elegir
+cuánta insulina se administra de inmediato, ya sea en unidades de
+insulina o como un porcentaje de la dosis total del bolo.
+  - El último ajuste es Bolo rápido, que está inactivo de forma
+predeterminada. Selecciona la casilla junto a Bolo rápido para
+activarlo. El Incremento de bolo rápido determina cuánto aumenta el
+bolo con cada pulsación del botón de Bolo rápido.
+
+●​ Cuando abras la pantalla Basal por primera vez, no habrá ningún programa
+basal activo. Si activas uno de los tres programas basales, la tasa basal que
+estaba en funcionamiento se detendrá automáticamente.
+- La Configuración Basal Inicial solo proporciona una estimación de las
+necesidades basales diarias. Para una dosificación individualizada, consulte a
+su profesional de salud.
+- No puedes alternar entre programas basales en el modo de visualización de
+gráficos. Vuelve a la visualización de lista para seleccionar un programa basal
+diferente.
+- Si editas un programa basal que se está ejecutando en ese momento en la
+bomba, un cuadro de diálogo te preguntará si quieres enviar el programa
+actualizado a la bomba. Selecciona Aceptar para actualizar y guardar, o
+Cancelar para volver a la pantalla de Edición basal.
+- El número máximo de incrementos para un bolo rápido es 20..
+- Para cancelar un bolo rápido usando el PDA, presiona el botón Atrás o
+espera 10 segundos para que el sistema vuelva a la pantalla de bloqueo.
+- Si no hay actividad durante 10 segundos, la bomba saldrá del modo de bolo
+rápido automáticamente.
+- Para cancelar un bolo rápido usando la bomba, simplemente espera 10
+segundos para que el sistema salga del modo de bolo rápido.
+Buen trabajo. Ahora ya sabes cómo gestionar las funciones clave de administración
+de insulina de la bomba Equil, incluidas las tasas basal y basal temporal, las
+opciones de bolo, la Calculadora de Bolo y la suspensión de la administración. A
+continuación, veremos cómo reemplazar el reservorio de insulina y el set de
+infusión. Nos vemos en la próxima lección.

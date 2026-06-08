@@ -1,0 +1,43 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-TE_G09MYAj2UQu-gs_3Rq&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bienvenue dans ce modulesur le surveillant continu de glucose Simplera. Que vous soyez
+un professionnel de la santé ou une personne vivant avec le diabète, ce cours vous fournira
+des informations précieuses et des conseils pratiques pour bénéficier du système Simplera.
+Allons-y !
+Le capteur Simplera intègre un capteur de glucose et un transmetteur en un seul appareil. Il
+a une durée de vie maximale de 7 jours. Il mesure votre glucose toutes les 5 minutes. Il
+existe deux types de capteurs Simplera : le capteur CGM Simplera peut s’associer à
+l'application Simplera, le InPen et l'application InPen, tandis que le capteur Simplera Sync
+peut être intégré à la pompe à insuline MiniMed 780G et à l'application MiniMed Mobile. Il
+faut noter que le capteur Simplera Sync n'est pas compatible avec l'application Simplera, et
+que le CGM Simplera n'est pas compatible avec la pompe MiniMed 780G.
+Dans les modules précédents, vous avez découvert la fiabilité des capteurs de glucose, des
+conseils sur la déconnexion des capteurs, et la gestion des allergies. Dans ce module, nous
+nous concentrerons sur la formation au démarrage du capteur Simplera et partagerons des
+conseils et astuces avancés pour les soignants. Ce cours se concentre sur les capteurs CGM
+Simplera et Simplera Sync, mais nous n'utilisons que le nom Simplera pour simplicité.
+Veuillez noter que ces vidéos ne constituent pas un avis médical. Consultez toujours votre
+médecin avant de modifier votre traitement.
+Les vidéos de ce cours ont été créées par la Dr Inge van Boxelaer, fondatrice de
+Diabetotech et endocrinologue à l'hôpital St-Lucas de Gand, en Belgique. Le contenu a été
+revu par le Dr Henk-Jan Aanstoot, fondateur de Diabeter, un centre de traitement du
+diabète aux Pays-Bas, et par Sjoerd Aerts, utilisateur du système MiniMed 780G et
+administrateur de la page FaceBook néerlandaise sur le MiniMed 780G. Leur expertise et
+leurs perspectives garantissent que vous recevrez des opinions transparentes sur les
+avantages et les inconvénients des différents capteurs.
+À la fin de ce cours, vous aurez une compréhension complète des différents aspects liés au
+capteur Simplera. Vous apprendrez à insérer et à retirer le capteur correctement, à
+démarrer le capteur avec l'application Simplera et la pompe à insuline MiniMed 780G, à
+régler efficacement les alarmes, à permettre le suivi des données en temps réel pour les
+
+soignants, et même à explorer les possibilités de connecter le capteur Simplera à d'autres
+appareils.
+En tant que professionnel de santé, ces connaissances vous permettront de mieux suivre
+vos patients à l'aide du capteur Simplera. Autrement, si vous êtes un utilisateur du capteur
+Simplera, ce cours vous fournira une multitude de conseils et d'astuces pour améliorer
+votre expérience. Préparez-vous à vous lancer dans cette découverte passionnante et à
+simplifier votre vie avec le Simplera! Bon courage !

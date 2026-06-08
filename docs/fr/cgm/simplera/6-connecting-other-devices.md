@@ -1,0 +1,89 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-TE_G09MYAj2UQu-gs_3Rq&index=5" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>6. Connexion à d'autres appareils</u>**
+
+Bienvenue dans cette vidéo sur la connexion de votre capteur Simplera à d'autres appareils.
+Dans ce module, nous explorons les possibilités de connecter votre capteur Simplera à
+différents dispositifs, tels que les smartwatches, les stylos connectés et les pompes à
+insuline.
+6.1 Smartwatch
+Si vous utilisez l'application Simplera ou l'application MiniMed Mobile connectée à votre
+pompe à insuline MiniMed 780G, vous pouvez activer des alarmes contextuelles sur votre
+smartphone et votre smartwatch, ce qui vous permet d'accéder rapidement à des
+informations cruciales.
+Ce chapitre explique comment connecter votre capteur Simplera aux smartwatches les plus
+communes, telles que Garmin, Samsung Galaxy et Apple Watch.
+L'intégration native avec une l'Apple Watch est possible en téléchargeant l'application
+MiniMed Mobile ou l'application Simplera sur votre iPhone. Or, la connexion aux
+smartwatch Android nécessite l'utilisation d'une application tierce, comme xDrip+. Sachez
+que xDrip+ n'est pas pris préconisé Medtronic et n'est pas validé par les autorités
+réglementaires, telles que la FDA ou l'EMA; son utilisation comporte ainsi des risques
+inhérents, et il convient de l’utiliser avec prudence.
+#1 Smartwatches Garmin
+
+Pour les smartwatches Garmin, téléchargez l'application xDrip+ sur
+github.com/nightscoutfoundation/xdrip. Allez dans les paramètres de l'application
+xDrip+ et réglez la source de données sur Companion app. Cela permet à xDrip+ de
+recevoir les lectures des capteurs de l'application Simplera et de l'application MiniMed
+Mobile. Toujours dans les paramètres, réglez les paramètres inter-applications, comme
+indiqué ici, pour envoyer les données du xDrip à votre smartwatch Wear OS connectée.
+Allez ensuite sur l'application Connect IQ Store de votre smartphone, téléchargez le
+cadran xDrip+/Spike/Nightscout, et définissez xDrip comme application compagnon. Sur
+
+votre smartwatch, vous pouvez maintenant choisir le cadran xDrip+/Spike/Nightscout
+pour voir vos données Simplera en temps réel sur votre smartwatch Garmin.
+Si vous avez également un compteur cycliste Garmin Edge, vous pouvez utiliser la fonction
+xDrip+/Spike/Nightscout Data Field pour afficher les données Simplera sur ce compteur.
+#2 Samsung Galaxy smartwatch
+
+Pour les smartwatches Samsung Galaxy, suivez les mêmes étapes en téléchargeant
+l'application xDrip+ et en réglant la source de données sur "Companion App" dans les
+paramètres. Réglez les paramètres de l'application xDrip+ pour envoyer les données à
+l'application G-Watch en vérifiant les paramètres Smartwatch et Inter-app. Par la suite,
+installez l'application G-Watch Wear sur votre smartphone et définissez xDrip comme
+votre application compagnon. Enfin, choisissez le cadran de montre approprié sur votre
+montre Galaxy et personnalisez le cadran de montre et les alertes sur votre smartwatch
+selon vos préférences.
+N'oubliez pas que l'utilisation d'applications libre, dites open-source, comporte des risques
+inhérents et n'est pas préconisée ni par Medtronic, ni par les autorités réglementaires. Nous
+mettons à disposition ces informations en toute transparence, mais déconseillons de s'y
+engager sans en comprendre pleinement les risques.
+#3 Apple Watch
+Enfin, pour l'Apple Watch, vérifiez d'avoir la version la plus récente de l'application
+Simplera et MiniMed Mobile sur votre iPhone et installez l'application Simplera ou MiniMed
+sur votre Apple Watch. Accédez à l'application MiniMed sur votre Apple Watch pour
+visualiser votre glucose dans votre bouclier SmartGuard, et glissez vers la gauche pour
+afficher le graphique de votre capteur et le temps dans l'intervalle.
+Pour accéder plus facilement à vos données de glucose, vous pouvez intégrer la glycémie
+de votre capteur et le bouclier SmartGuard en tant que complication sur les cadrans de
+montre compatibles. Ces cadrans de montre comprennent Portrait, Nike (hybride), Breathe,
+Utility, Simple, Photos, Motion, Gradient, XL et Astronomy. En appuyant sur la complication,
+vous accéderez à l'application principale de la montre MiniMed.
+N'oubliez pas que les étapes de configuration peuvent varier en fonction de votre
+smartphone et de votre smartwatch. Vous trouverez tout de même des tutoriels détaillés
+dans les téléchargements fournis, ce qui facilitera la configuration avec les appareils que
+vous detenez.
+
+6.2 Stylos connectés
+Outre son intégration au système Minimed 780g, le capteur Simplera peut également être
+utilisé avec le stylo InPen. Pour ce faire, il suffit de télécharger l'application Simplera et
+l'application InPen et d’en suivre les instructions.
+6.3 Pompes à insuline connectées
+Le capteur Simplera Sync fonctionne et s'intègre parfaitement au système Minimed 780G,
+vu que tous les deux appareils sont développés par Medtronic et bénéficient ainsi d’une
+compatibilité.
+Le capteur Simplera n'est pas compatible avec les systèmes en boucle fermée open source
+basés sur iPhone. Il semble être compatible avec AndroidAPS via xDrip+ lorsqu'il est utilisé
+en mode compagnon. L'utilisation d'applications open source comporte des risques
+inhérents, n'est pas prise en charge par Medtronic et n'est pas approuvée par les autorités
+réglementaires. Ces informations sont fournies à titre de transparence uniquement et ne
+constituent pas une recommandation d'utiliser de tels systèmes.
+En conclusion, la connexion de votre capteur Simplera à d'autres dispositifs ouvre un monde
+de possibilités pour la gestion personnalisée du diabète. Qu’il soit des smartwatches, des
+stylos connectés, ou des pompes à insuline, ces connexions offrent des informations
+précieuses et en temps réel. Même si l'utilisation d'applications open-source comporte des
+risques inhérents, nous assurons la transparence de toutes les options disponibles. Adoptez
+le pouvoir de l'adaptabilité et donnez-vous les moyens d'optimiser votre stratégie de
+gestion du diabète grâce à ces connexions innovantes.

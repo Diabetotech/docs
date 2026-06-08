@@ -1,0 +1,38 @@
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-hQtpJQRItq75zG80PepcA -->
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>6. Historia de un caso</u>**
+
+Bienvenidos a nuestro último capítulo, en el que les ofrecemos un vídeo especial. En
+este segmento, escuchamos a Andrea, una usuaria de bomba de insulina con más
+de 19 años de experiencia en el control de la diabetes tipo 1. Andrea comparte su
+historia personal de transición de usar bolígrafos de insulina a adoptar una bomba
+de insulina. Andrea comparte su historia personal de transición del uso de
+bolígrafos de insulina a la bomba de insulina, proporcionando información valiosa
+sobre este cambio significativo.
+En el vídeo, Andrea habla de su decisión de cambiar a una bomba de insulina
+debido a sus frecuentes bajadas de azúcar, de sus primeras impresiones
+emocionales y abrumadoras sobre la bomba, y de los retos a los que se enfrentó al
+principio, como lidiar con una cánula doblada tras sólo dos horas de entrenamiento.
+Destaca que adaptarse a la bomba puede suponer un gran esfuerzo y que es
+normal sentirse abrumada. A pesar de las dificultades iniciales, Andrea habla muy
+bien de la bomba y destaca cómo ha mejorado significativamente su vida.
+Para ver el inspirador viaje de Andrea, haga clic en el enlace que aparece debajo de
+este vídeo.
+https://www.youtube.com/watch?v=wVr89eDEKqc - 17 min
+Enhorabuena por haber completado esta exhaustiva introducción al tratamiento con
+bomba de insulina. Su dedicación a la comprensión de este aspecto esencial del
+control de la diabetes es encomiable y, sin duda, le capacitará para ayudar a las
+personas que se enfrentan a la diabetes.
+
+Al adquirir conocimientos vitales, se ha equipado para orientar y ayudar eficazmente
+a quienes viven con diabetes. Se trata de un logro extraordinario.
+Tómese un momento para reflexionar sobre lo que ha aprendido. Cuando esté
+preparado, considere la posibilidad de explorar más sobre bombas de insulina
+específicas a través de nuestros módulos adicionales.
+Gracias por acompañarnos en este esclarecedor viaje. Su compromiso está
+marcando una diferencia positiva en la transformación de la diabetes de una
+enfermedad que limita la vida a un aspecto manejable de la vida cotidiana. ¡Buen
+trabajo!

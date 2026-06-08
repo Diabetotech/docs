@@ -1,0 +1,13 @@
+# Windows Zone.Identifier metadata files
+*:Zone.Identifier
+
+# MkDocs build output
+site/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,55 @@
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-ydrokOPq-xcDvXnjQft7-&index=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## **<u>1. Introduction</u>**
+
+Bonjour et bienvenue ! Dans ce module, nous allons vous présenter le système
+automatisé d'administration d'insuline Medtrum TouchCare Nano. - Il s'agit d'une
+pompe à insuline super pratique, sans tubulure, appairée à un moniteur de glucose en
+continu. Le système TouchCare Nano est conçu pour aider les personnes atteintes de
+diabète à gérer leur glycémie facilement, sans avoir à se soucier des tubes ou des
+installations compliquées.
+Le système TouchCare Nano de Medtrum se compose de trois éléments simples qui
+fonctionnent ensemble :
+- La TouchCare Nano Patch Pump,
+- La boucle fermée TouchCare Nano CGM, et
+- l'algorithme APGO sur votre pompe et votre capteur, manipulable via un
+smartphone ou bien un PDM, ou un appareil gestionnaire de diabète personnel.
+Le système vous permet de gérer l'administration d'insuline et de surveiller les niveaux
+de glucose avec facilité et flexibilité. Grâce à l'application EasyPatch, à l'application
+EasyTouch et au portail web EasyView, vous pouvez accéder à des rapports détaillés,
+analyser les tendances et ajuster la gestion de votre diabète en collaboration avec
+votre team de santé. La famille et les soignants peuvent suivre les données relatives au
+glucose et à l'insuline grâce à l'application EasyFollow.
+Dans les vidéos générales précédentes sur les systèmes automatisés d'administration
+d'insuline, vous avez appris des informations précieuses, notamment comment évaluer
+les systèmes automatisés d'administration d'insuline à l'aide du cadre de référence
+CARES, comment choisir le système adapté à vos besoins, comment interpréter les
+rapports et comment gérer divers scénarios tels que l'hypo et l'hyperglycémie, les
+repas riches en graisses, le sport, la maladie, l'alcool, la natation et les voyages.
+
+Nous allons maintenant vous expliquer le fonctionnement du système Medtrum
+TouchCare Nano, étape par étape. Nous vous montrerons comment l'installer, l'utiliser
+et bénéficier de ses fonctions. Notre objectif est de faire en sorte que vous vous sentiez
+en confiance et à l'aise dans l'utilisation de cette technologie dans votre vie
+quotidienne.
+Il faut noter que ces vidéos ne constituent pas un avis médical. Consultez toujours
+votre professionnel de santé avant de modifier votre traitement antidiabétique.
+Le contenu de ces vidéos a été développé par la Dr. Inge van Boxelaer, fondatrice de
+Diabetotech et endocrinologue expérimenté à l'hôpital St-Lucas de Gand en Belgique.
+Le matériel a été revu par la Dr Sarah Siegelaar, endocrinologue à l'UMC d'Amsterdam
+aux Pays-Bas, ainsi que par Davor Skeledzija de Croatie, père d’une fille atteinte de
+diabète de type 1 et utilisatrice du système TouchCare Nano. Ces personnes ont
+apporté leur expertise et leurs idées pour garantir l'exactitude et la fiabilité des
+informations fournies dans ces vidéos.
+À la fin de cette série de vidéos, vous aurez une compréhension approfondie du
+système TouchCare Nano, y compris de ses performances, de son utilisation pratique
+quotidienne, de l'interprétation des rapports et des stratégies de gestion de scénarios
+spécifiques.
+Que vous soyez un professionnel de la santé cherchant à élargir ses compétences ou
+un utilisateur futur ou actuel du système TouchCare Nano de Medtrum, ces vidéos
+vous offriront des connaissances, des idées et des conseils pratiques précieux pour
+vous aider à optimiser la gestion de votre diabète.
+Nous vous souhaitons de la réussite dans votre parcours avec le système Medtrum
+TouchCare Nano !
