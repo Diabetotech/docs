@@ -1,97 +1,23 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-0dqseAMMeNzmkLsJ1O868&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>6. Intégration avec d'autres appareils</u>**
 
-Bienvenue dans cette vidéo sur l’interconnection de votre capteur Eversense 365 à
-d'autres appareils.
-Dans ce cours, vous apprendrez comment intégrer votre capteur à des montres
-connectées, et explorer les possibilités offertes par les stylos connectés et les
-pompes à insuline.
-6.1 Montres connectées
-Dans l'application Eversense 365, la fonction Partager mes données vous permet
-de partager vos données Eversense avec Apple Health. Dans les options du menu,
-appuyez sur Partager mes données, puis sur Partage d'applications, et Apple
-Health. Activez Partager les données. Vous devrez peut-être également autoriser
-le partage via l'application Santé.
-Vous pouvez consulter un aperçu de vos données CGM sur votre Apple Watch. Une
-fois que vous avez téléchargé et installé l'application Eversense 365 sur votre
-appareil mobile, suivez les instructions de l'appareil pour ajouter l'application à
-votre montre.
-Appuyez sur l'icône Eversense 365 sur l'écran d'accueil de votre montre pour ouvrir
-l'application. L'écran « My Glucose » (Mon glucose) affiche votre glycémie actuelle
-avec une flèche indiquant la tendance et un graphique représentant la tendance
-des trois dernières heures de données CGM.
-Vous pouvez également accéder à l'écran MY GLUCOSE si vous activez les
-notifications de l'application Eversense 365 dans les paramètres de votre Apple
-Watch. Lorsque vous recevez une notification, vous pouvez également appuyer sur
-le message pour afficher l'écran MY GLUCOSE.
+Bienvenue dans cette vidéo sur l’interconnection de votre capteur Eversense 365 à d'autres appareils. Dans ce cours, vous apprendrez comment intégrer votre capteur à des montres connectées, et explorer les possibilités offertes par les stylos connectés et les pompes à insuline.
 
-Balayez vers la gauche pour passer à l'écran suivant qui affiche un graphique
-circulaire représentant le temps total passé dans et en dehors de votre plage cible
-au cours des dernières 24 heures. Balayez vers le haut pour afficher les mêmes
-données sous forme de pourcentages. Enfin, balayez vers la gauche pour passer à
-l'écran suivant qui affiche votre glycémie actuelle avec une flèche indiquant la
-tendance, votre prochaine heure d'étalonnage, la phase d'étalonnage actuelle du
-système et le niveau de batterie de votre transmetteur intelligent.
-Notez que l'Apple Watch sert d’écran secondaire pour les données Eversense et ne
-doit pas être utilisée à la place de l'application Eversense 365. Toutes les alertes et
-notifications qui apparaissent sur votre Apple Watch doivent être confirmées dans
-l'application. Tout problème lié aux appareils mobiles, à la connexion Internet sans
-fil, à la connexion de données, au DMS Eversense, à l’émetteur hors de portée de
-l'appareil mobile, ou au chargement de l’émetteur connecté peut entraîner un
-retard dans le transfert des données ou empêcher leur affichage.
-En revanche, la connectivité des montres Android nécessite l'utilisation d'une
-application tierce, comme xDrip+. Veuillez noter que xDrip+ n'est pas pris en
-charge par Sensionics et n'a pas été approuvé par les autorités réglementaires
-telles que la FDA ou l'EMA. Son utilisation comporte donc des risques inhérents
-qui doivent être abordés avec prudence.
-#1 Montre connectée Garmin
-Pour les montres connectées Garmin, téléchargez l'application xDrip+ depuis
-github.com/nightscoutfoundation/xdrip. Accédez aux paramètres de l'application
-xDrip+ et définissez la source de données sur Eversense. Cela permet à xDrip+ de
-recevoir les données du capteur depuis l'application Eversense 365. Dans les
-paramètres, réglez également les paramètres inter-applications pour envoyer les
-données xDrip+ à votre montre connectée Wear OS. Accédez ensuite à l'application Connect IQ Store sur votre téléphone, téléchargez le cadran
-xDrip+/Spike/Nightscout et définissez xDrip+ comme application compagnon. Sur
-votre montre, vous pouvez désormais choisir le cadran xDrip+/Spike/Nightscout
-pour afficher vos données Eversense en temps réel sur votre montre connectée
-Garmin.
-#2 Montre connectée Samsung Galaxy
+### 6.1 Montres connectées
 
-Pour les montres connectées Samsung Galaxy, procédez de manière similaire en
-téléchargeant l'application xDrip+ et en configurant la source de données sur
-Eversense dans les paramètres. Réglez les paramètres de l'application xDrip+ pour
-envoyer les données à l'application G-Watch en cochant les paramètres
-Smartwatch et Inter-app. Ensuite, installez l'application G-Watch Wear sur votre
-téléphone et votre montre connectée, puis configurez xDrip+ comme application
-compagnon. Enfin, choisissez le cadran de montre correspondant sur votre montre
-Galaxy et personnalisez le cadran et les alertes de votre montre selon vos
-préférences.
-L’utilisation d’applications open source comporte des risques inhérents et n’est ni
-prise en charge par Sensionics ni approuvée par les autorités réglementaires. Ces
-informations sont communiquées à titre de transparence, mais cette pratique n’est
-pas recommandée à moins de bien comprendre les risques associés.
-N'oubliez pas que les étapes de configuration peuvent varier en fonction de votre
-smartphone et de votre montre connectée, mais vous trouverez des tutoriels
-détaillés dans les téléchargements fournis, ce qui vous permettra d'effectuer plus
-facilement la configuration avec les appareils dont vous disposez.
-6.2 Stylos connectés
-Le système Eversense 365 n'offre actuellement pas d'intégration directe avec les
-stylos à insuline connectés, mais il existe une solution de contournement.
-Au-delà d'Apple Health, le système Eversense 365 s'intègre à Glooko . Étant
-donné que les stylos à insuline intelligents, tels que le Novopen 6, le NovoPen
-Echo Plus, l’inPen, le Tempo Smart, et le SoloSmart peuvent également se
-connecter à Glooko, vous pouvez regrouper vos données de glycémie et d'insuline
-sur un seul écran en faisant une configuration manuelle.
-6.3 Pompes à insuline connectées
-L'Eversense 365 sera prochainement intégré aux systèmes AID commerciaux, à
-commencer par le système twiist AID. Pour connaître les dernières mises à jour, vous pouvez consulter la page https://www.eversensecgm.com/partners/ des partenaires d'Eversense :
-Le CGM Eversense est également compatible avec les systèmes AID open source
-tels que AndroidAPS. Les systèmes open source basés sur iPhone ne prennent pas
-encore en charge Eversense.
-Dans ce cours, vous avez appris à connecter le CGM Eversense 365 à des appareils
-connectés et des plateformes de gestion du diabète compatibles. Utilisez ces
-intégrations pour créer une configuration fluide qui favorise des décisions plus
-éclairées et des soins du diabète plus personnalisés.
+Dans l'application Eversense 365, la fonction Partager mes données vous permet de partager vos données Eversense avec Apple Health. Dans les options du menu, appuyez sur Partager mes données, puis sur Partage d'applications, et Apple Health. Activez Partager les données. Vous devrez peut-être également autoriser le partage via l'application Santé. Vous pouvez consulter un aperçu de vos données CGM sur votre Apple Watch. Une fois que vous avez téléchargé et installé l'application Eversense 365 sur votre appareil mobile, suivez les instructions de l'appareil pour ajouter l'application à votre montre. Appuyez sur l'icône Eversense 365 sur l'écran d'accueil de votre montre pour ouvrir l'application. L'écran « My Glucose » (Mon glucose) affiche votre glycémie actuelle avec une flèche indiquant la tendance et un graphique représentant la tendance des trois dernières heures de données CGM. Vous pouvez également accéder à l'écran MY GLUCOSE si vous activez les notifications de l'application Eversense 365 dans les paramètres de votre Apple Watch. Lorsque vous recevez une notification, vous pouvez également appuyer sur le message pour afficher l'écran MY GLUCOSE. Balayez vers la gauche pour passer à l'écran suivant qui affiche un graphique circulaire représentant le temps total passé dans et en dehors de votre plage cible au cours des dernières 24 heures. Balayez vers le haut pour afficher les mêmes données sous forme de pourcentages. Enfin, balayez vers la gauche pour passer à l'écran suivant qui affiche votre glycémie actuelle avec une flèche indiquant la tendance, votre prochaine heure d'étalonnage, la phase d'étalonnage actuelle du système et le niveau de batterie de votre transmetteur intelligent. Notez que l'Apple Watch sert d’écran secondaire pour les données Eversense et ne doit pas être utilisée à la place de l'application Eversense 365. Toutes les alertes et notifications qui apparaissent sur votre Apple Watch doivent être confirmées dans l'application. Tout problème lié aux appareils mobiles, à la connexion Internet sans fil, à la connexion de données, au DMS Eversense, à l’émetteur hors de portée de l'appareil mobile, ou au chargement de l’émetteur connecté peut entraîner un retard dans le transfert des données ou empêcher leur affichage. En revanche, la connectivité des montres Android nécessite l'utilisation d'une application tierce, comme xDrip+. Veuillez noter que xDrip+ n'est pas pris en charge par Sensionics et n'a pas été approuvé par les autorités réglementaires telles que la FDA ou l'EMA. Son utilisation comporte donc des risques inhérents qui doivent être abordés avec prudence.
+
+#1 Montre connectée Garmin Pour les montres connectées Garmin, téléchargez l'application xDrip+ depuis github.com/nightscoutfoundation/xdrip. Accédez aux paramètres de l'application xDrip+ et définissez la source de données sur Eversense. Cela permet à xDrip+ de recevoir les données du capteur depuis l'application Eversense 365. Dans les paramètres, réglez également les paramètres inter-applications pour envoyer les données xDrip+ à votre montre connectée Wear OS. Accédez ensuite à l'application Connect IQ Store sur votre téléphone, téléchargez le cadran xDrip+/Spike/Nightscout et définissez xDrip+ comme application compagnon. Sur votre montre, vous pouvez désormais choisir le cadran xDrip+/Spike/Nightscout pour afficher vos données Eversense en temps réel sur votre montre connectée Garmin.
+
+#2 Montre connectée Samsung Galaxy Pour les montres connectées Samsung Galaxy, procédez de manière similaire en téléchargeant l'application xDrip+ et en configurant la source de données sur Eversense dans les paramètres. Réglez les paramètres de l'application xDrip+ pour envoyer les données à l'application G-Watch en cochant les paramètres Smartwatch et Inter-app. Ensuite, installez l'application G-Watch Wear sur votre téléphone et votre montre connectée, puis configurez xDrip+ comme application compagnon. Enfin, choisissez le cadran de montre correspondant sur votre montre Galaxy et personnalisez le cadran et les alertes de votre montre selon vos préférences. L’utilisation d’applications open source comporte des risques inhérents et n’est ni prise en charge par Sensionics ni approuvée par les autorités réglementaires. Ces informations sont communiquées à titre de transparence, mais cette pratique n’est pas recommandée à moins de bien comprendre les risques associés. N'oubliez pas que les étapes de configuration peuvent varier en fonction de votre smartphone et de votre montre connectée, mais vous trouverez des tutoriels détaillés dans les téléchargements fournis, ce qui vous permettra d'effectuer plus facilement la configuration avec les appareils dont vous disposez.
+
+### 6.2 Stylos connectés
+
+Le système Eversense 365 n'offre actuellement pas d'intégration directe avec les stylos à insuline connectés, mais il existe une solution de contournement. Au-delà d'Apple Health, le système Eversense 365 s'intègre à Glooko . Étant donné que les stylos à insuline intelligents, tels que le Novopen 6, le NovoPen Echo Plus, l’inPen, le Tempo Smart, et le SoloSmart peuvent également se connecter à Glooko, vous pouvez regrouper vos données de glycémie et d'insuline sur un seul écran en faisant une configuration manuelle.
+
+### 6.3 Pompes à insuline connectées
+
+L'Eversense 365 sera prochainement intégré aux systèmes AID commerciaux, à commencer par le système twiist AID. Pour connaître les dernières mises à jour, vous pouvez consulter la page https://www.eversensecgm.com/partners/ des partenaires d'Eversense : Le CGM Eversense est également compatible avec les systèmes AID open source tels que AndroidAPS. Les systèmes open source basés sur iPhone ne prennent pas encore en charge Eversense. Dans ce cours, vous avez appris à connecter le CGM Eversense 365 à des appareils connectés et des plateformes de gestion du diabète compatibles. Utilisez ces intégrations pour créer une configuration fluide qui favorise des décisions plus éclairées et des soins du diabète plus personnalisés.

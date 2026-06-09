@@ -1,122 +1,31 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_UdmBwkijA9l529iYSE5F6&index=2" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>4. Fonctionnement du MiniMed 780G</u>**
 
-Bienvenue dans cette capsule vidéo sur les fonctionnalités de la pompe à insuline
-MiniMed 780G.
-Dans cette vidéo, nous allons explorer l'utilisation de la pompe à insuline MiniMed
-780G en mode automatiqueet en mode manuel. De plus, nous aborderons
-l'utilisation de l'application MiniMed Mobile, qui fonctionne comme une application
-de visualisation.
-4.1 Mode automatique
-Démarrage du mode Auto de SmartGuard
-Pour activer le mode automatique ou la fonction SmartGuard du MiniMed 780G,
-sélectionnez à l'icône du bouclier dans le menu et activez la fonction SmartGuard.
-Avant d'utiliser la fonction SmartGuard, la pompe doit être en mode manuel
-pendant au moins 48 heures à partir de minuit, ce qui lui permet de prendre en
-compte la dose d'insuline quotidienne totale des 2 à 6 derniers jours.
-Une fois la fonction SmartGuard activée, un bouclier bleu s'affiche à l'écran,
-indiquant les mesures de glucose du capteur et l'insuline active en bas à droite. En
-cas de problème lors de l'activation de la fonction SmartGuard, vous pouvez vous
-référer à la liste de contrôle SmartGuard pour le dépannage.
-Dans le graphique du capteur, vous trouverez une représentation sur 3 heures avec
-des barres violettes indiquant l'auto-base et des barres bleu clair représentant les
-bolus de correction automatique. Appuyez sur la touche de retour pour revenir à
-l'écran précédent.
+Bienvenue dans cette capsule vidéo sur les fonctionnalités de la pompe à insuline MiniMed 780G. Dans cette vidéo, nous allons explorer l'utilisation de la pompe à insuline MiniMed 780G en mode automatiqueet en mode manuel. De plus, nous aborderons l'utilisation de l'application MiniMed Mobile, qui fonctionne comme une application de visualisation.
 
-Sachez que vous ne pouvez pas voir la quantité exacte d'insuline basale, mais que
-vous pouvez en avoir une idée grâce aux barres violettes du graphique du capteur et
-à l'insuline embarquée affichée sur votre écran d'accueil.
-Objectif temporaire
-Dans le menu SmartGuard, vous pouvez sélectionner l'objectif temporaire de 150
-mg/dl ou 8,3 mmol/l si vous prévoyez de faire de l'activité physique. Vous pouvez
-l'activer après en avoir sélectionné la durée. L'écran d'accueil affichera une barre
-verte indiquant la durée pendant laquelle l'objectif temporaire sera actif.
-Réglage des paramètres
-Dans les paramètres SmartGuard, vous pouvez augmenter l’objectif de 100, 110 ou
-120 mg/dl ou de 5,6, 6,1 ou 6,7 mmol/l. Vous pouvez également choisir d'activer ou
-de désactiver les bolus de correction automatiques.
-Pour modifier le ratio de glucides et la durée de l'action de l'insuline, procédez
-comme suit :
-- Accédez aux paramètres d'administration de votre pompe MiniMed 780G via
-les menus [Insuline] ou [Réglages].
-- Dans la configuration de l'assistant Bolus, vous pourrez cliquer sur le ratio de
-glucides et la durée de l'insuline active pour les modifier.
-- N'oubliez pas de modifier les paramètres si vous changez quelque chose.
-Administration de bolus
-En mode automatique, le bolus est effectué de la même manière qu'en mode
-manuel.
-Il n'est cependant pas possible d'administrer un bolus manuel, de dépasser le
-volume de bolus recommandé, ou d'administrer un bolus prolongé.
-Vous pouvez accéder à l'écran bolus via le menu [Insuline] ou via la touche de bas
-comme raccourci vers l'écran bolus.
-Pour administrer un bolus, vous devez entrer le volume en grammes de glucides
-que vous prévoyez de consommer.
+### 4.1 Mode automatique
 
-Si une fonction sur SmartGuard vous empêche d'administrer de l'insuline pour les
-glucides que vous avez saisis en raison d'un faible taux de glucose, il vous
-appartient de surveiller la tendance de votre glycémie. Dès qu'une tendance à la
-hausse est détectée, essayez de nouveau de saisir les glucides pour recevoir un
-bolus d'insuline suggéré.
-Pour administrer un bolus de correction, vous pouvez entrer 0 gramme de glucides.
-Arrêt de l’administration d'insuline
-Pour arrêter temporairement l'administration de l’insuline, comme lors de la
-déconnexion pour vous doucher ou nager, suit la même procédure qu'en mode
-manuel. Sélectionnez "Suspend all delivery" dans le menu Insulin ou dans l'écran
-Status qui apparaîtra si vous cliquez sur la flèche vers le haut.
-Pour relancer l'administration d'insuline basale, vous pouvez suivre la même
-procédure.
-4.2 Mode manuel et Arrêt avant hypo
-En mode manuel, vous pouvez régler les débits d'insuline basale et configurer des
-débits de base temporaires si nécessaire. La pompe permet également
-l'administration manuelle de bolus et du bolus à l'aide du calculateur de bolus, y
-compris les bolus réguliers et les bolus prolongés. Pour des instructions détaillées
-sur l'utilisation optimale du mode manuel, veuillez consulter le module de la pompe
-à insuline MiniMed 780G.
-Outre le mode automatique, la pompe MiniMed 780G dispose également d'un
-mode [Arrêt avant hypo].
-- Cette fonction interrompt l'administration d'insuline basale si la glycémie du
-capteur est inférieure à 70 mg/dl ou 3,9 mmol/l au-dessus de la limite
-inférieure et que l'algorithme prévoit qu'elle descendra en dessous de 20
-mg/dl ou 1,1 mmol/l au-dessus de la limite inférieure dans les 30 prochaines
-minutes.
-- Après 30 minutes, l'insuline reprend si la glycémie du capteur est 20 mg/dl
-ou 1,1 mmol/l supérieure à la limite inférieure et si l'algorithme prévoit
-qu'elle augmentera de plus de 40 mg/dl ou 2,2 mmol/l au-dessus de la limite
-inférieure dans les 30 minutes suivantes.
+Démarrage du mode Auto de SmartGuard Pour activer le mode automatique ou la fonction SmartGuard du MiniMed 780G, sélectionnez à l'icône du bouclier dans le menu et activez la fonction SmartGuard. Avant d'utiliser la fonction SmartGuard, la pompe doit être en mode manuel pendant au moins 48 heures à partir de minuit, ce qui lui permet de prendre en compte la dose d'insuline quotidienne totale des 2 à 6 derniers jours. Une fois la fonction SmartGuard activée, un bouclier bleu s'affiche à l'écran, indiquant les mesures de glucose du capteur et l'insuline active en bas à droite. En cas de problème lors de l'activation de la fonction SmartGuard, vous pouvez vous référer à la liste de contrôle SmartGuard pour le dépannage. Dans le graphique du capteur, vous trouverez une représentation sur 3 heures avec des barres violettes indiquant l'auto-base et des barres bleu clair représentant les bolus de correction automatique. Appuyez sur la touche de retour pour revenir à l'écran précédent. Sachez que vous ne pouvez pas voir la quantité exacte d'insuline basale, mais que vous pouvez en avoir une idée grâce aux barres violettes du graphique du capteur et à l'insuline embarquée affichée sur votre écran d'accueil. Objectif temporaire Dans le menu SmartGuard, vous pouvez sélectionner l'objectif temporaire de 150 mg/dl ou 8.3 mmol/l si vous prévoyez de faire de l'activité physique. Vous pouvez l'activer après en avoir sélectionné la durée. L'écran d'accueil affichera une barre verte indiquant la durée pendant laquelle l'objectif temporaire sera actif. Réglage des paramètres Dans les paramètres SmartGuard, vous pouvez augmenter l’objectif de 100, 110 ou 120 mg/dl ou de 5,6, 6.1 ou 6.7 mmol/l.
 
-●​ L'administration d'insuline reprend toujours après deux heures et peut
-toujours être reprise manuellement. Après un arrêt avant hypo, la fonction
-devient indisponible pendant 30 minutes afin d'éviter des périodes
-prolongées sans insuline.
-Pour activer le mode Suspension avant baisse, allez dans les paramètres d'alerte et
-choisissez Alerte basse. Réglez la limite basse souhaitée, activez "Suspend before
-low" et enregistrez les modifications que vous avez apportées.
-Il faut noter que la fonction [Arrêt avant hypo] ne peut être utilisée qu'en mode
-manuel et qu'il est recommandé de l'activer comme moyen plus sûr d'administrer
-l'insuline lorsque l'on est hors mode automatique.
-4.3 Application MiniMed Mobile
-L'application MiniMed Mobile permet aux utilisateurs de suivre les données du
-capteur et de l'insuline, mais ne permet pas d'ajuster les doses d'insuline.
-L'écran d'accueil de l'application comporte un menu principal dans le coin supérieur
-gauche.
-La zone d’état en bas affiche les mesures de glucose du capteur et l'insuline active à
-bord. Le graphique du capteur et l'administration d'insuline, tels qu'ils apparaissent
-sur la pompe, sont également affichés. En glissant vers la gauche, vous verrez
-apparaître votre temps d'autonomie des dernières 24 heures.
-Vous pouvez activer les notifications depuis le menu. Ceci est nécessaire pour
-recevoir des notifications de votre pompe. Les notifications s'affichent sur votre
-smartphone sous la forme d'une bannière codée par couleur. Le rouge correspond
-aux alarmes, l'orange aux alertes, le gris aux rappels et le bleu aux messages.
-Le menu vous permet également de vérifier votre synchronisation avec CareLink et
-de gérer vos partenaires de soins.
-En vous familiarisant avec les différents modes et fonctions du système MiniMed
-780G, vous serez en mesure de naviguer efficacement et d'optimiser son utilisation.
+Vous pouvez également choisir d'activer ou de désactiver les bolus de correction automatiques. Pour modifier le ratio de glucides et la durée de l'action de l'insuline, procédez comme suit :
 
-N'oubliez pas que si quelque chose n'est pas clair, il n'y a pas lieu de s'inquiéter.
-Consultez le manuel pour obtenir des éclaircissements sur l'utilisation du système
-MiniMed 780G. Ce manuel est facilement accessible en ligne et peut également être
-téléchargé via le lien en dessous de cette vidéo pour des conseils complets et des
-informations détaillées sur l'utilisation efficace du système.
+- Accédez aux paramètres d'administration de votre pompe MiniMed 780G via les menus [Insuline] ou [Réglages].
+
+- Dans la configuration de l'assistant Bolus, vous pourrez cliquer sur le ratio de glucides et la durée de l'insuline active pour les modifier.
+
+- N'oubliez pas de modifier les paramètres si vous changez quelque chose. Administration de bolus En mode automatique, le bolus est effectué de la même manière qu'en mode manuel. Il n'est cependant pas possible d'administrer un bolus manuel, de dépasser le volume de bolus recommandé, ou d'administrer un bolus prolongé. Vous pouvez accéder à l'écran bolus via le menu [Insuline] ou via la touche de bas comme raccourci vers l'écran bolus. Pour administrer un bolus, vous devez entrer le volume en grammes de glucides que vous prévoyez de consommer. Si une fonction sur SmartGuard vous empêche d'administrer de l'insuline pour les glucides que vous avez saisis en raison d'un faible taux de glucose, il vous appartient de surveiller la tendance de votre glycémie. Dès qu'une tendance à la hausse est détectée, essayez de nouveau de saisir les glucides pour recevoir un bolus d'insuline suggéré. Pour administrer un bolus de correction, vous pouvez entrer 0 gramme de glucides. Arrêt de l’administration d'insuline Pour arrêter temporairement l'administration de l’insuline, comme lors de la déconnexion pour vous doucher ou nager, suit la même procédure qu'en mode manuel. Sélectionnez "Suspend all delivery" dans le menu Insulin ou dans l'écran Status qui apparaîtra si vous cliquez sur la flèche vers le haut. Pour relancer l'administration d'insuline basale, vous pouvez suivre la même procédure.
+
+### 4.2 Mode manuel et Arrêt avant hypo
+
+En mode manuel, vous pouvez régler les débits d'insuline basale et configurer des débits de base temporaires si nécessaire. La pompe permet également l'administration manuelle de bolus et du bolus à l'aide du calculateur de bolus, y compris les bolus réguliers et les bolus prolongés. Pour des instructions détaillées sur l'utilisation optimale du mode manuel, veuillez consulter le module de la pompe à insuline MiniMed 780G. Outre le mode automatique, la pompe MiniMed 780G dispose également d'un mode [Arrêt avant hypo].
+
+- Cette fonction interrompt l'administration d'insuline basale si la glycémie du capteur est inférieure à 70 mg/dl ou 3.9 mmol/l au-dessus de la limite inférieure et que l'algorithme prévoit qu'elle descendra en dessous de 20 mg/dl ou 1.1 mmol/l au-dessus de la limite inférieure dans les 30 prochaines minutes.
+- Après 30 minutes, l'insuline reprend si la glycémie du capteur est 20 mg/dl ou 1.1 mmol/l supérieure à la limite inférieure et si l'algorithme prévoit qu'elle augmentera de plus de 40 mg/dl ou 2.2 mmol/l au-dessus de la limite inférieure dans les 30 minutes suivantes.
+- L'administration d'insuline reprend toujours après deux heures et peut toujours être reprise manuellement. Après un arrêt avant hypo, la fonction devient indisponible pendant 30 minutes afin d'éviter des périodes prolongées sans insuline. Pour activer le mode Suspension avant baisse, allez dans les paramètres d'alerte et choisissez Alerte basse. Réglez la limite basse souhaitée, activez "Suspend before low" et enregistrez les modifications que vous avez apportées. Il faut noter que la fonction [Arrêt avant hypo] ne peut être utilisée qu'en mode manuel et qu'il est recommandé de l'activer comme moyen plus sûr d'administrer l'insuline lorsque l'on est hors mode automatique.
+
+### 4.3 Application MiniMed Mobile
+
+L'application MiniMed Mobile permet aux utilisateurs de suivre les données du capteur et de l'insuline, mais ne permet pas d'ajuster les doses d'insuline. L'écran d'accueil de l'application comporte un menu principal dans le coin supérieur gauche. La zone d’état en bas affiche les mesures de glucose du capteur et l'insuline active à bord. Le graphique du capteur et l'administration d'insuline, tels qu'ils apparaissent sur la pompe, sont également affichés. En glissant vers la gauche, vous verrez apparaître votre temps d'autonomie des dernières 24 heures. Vous pouvez activer les notifications depuis le menu. Ceci est nécessaire pour recevoir des notifications de votre pompe. Les notifications s'affichent sur votre smartphone sous la forme d'une bannière codée par couleur. Le rouge correspond aux alarmes, l'orange aux alertes, le gris aux rappels et le bleu aux messages. Le menu vous permet également de vérifier votre synchronisation avec CareLink et de gérer vos partenaires de soins. En vous familiarisant avec les différents modes et fonctions du système MiniMed 780G, vous serez en mesure de naviguer efficacement et d'optimiser son utilisation. N'oubliez pas que si quelque chose n'est pas clair, il n'y a pas lieu de s'inquiéter. Consultez le manuel pour obtenir des éclaircissements sur l'utilisation du système MiniMed 780G. Ce manuel est facilement accessible en ligne et peut également être téléchargé via le lien en dessous de cette vidéo pour des conseils complets et des informations détaillées sur l'utilisation efficace du système.

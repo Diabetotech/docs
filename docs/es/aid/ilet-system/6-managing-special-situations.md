@@ -1,135 +1,44 @@
-<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-AAmebC1PJ-Rdq6oEdsEah -->
+﻿<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-AAmebC1PJ-Rdq6oEdsEah -->
 <div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>6. Gestión de situaciones especiales</u>**
 
-Bienvenido a este vídeo sobre la gestión de situaciones especiales con el sistema
-iLet.
-En este vídeo, proporcionaremos consejos específicos para gestionar la hipo e
-hiperglucemia, las comidas ricas en grasas, el ejercicio, las enfermedades, el alcohol
-y los viajes mientras se utiliza el Sistema iLet. Estas pautas complementan las
-recomendaciones generales para gestionar estas situaciones mientras se lleva un
-sistema automático de administración de insulina, que se pueden encontrar en el
-módulo general sobre sistemas automáticos de administración de insulina.
-6.1 Hipoglucemia
-Con el sistema iLet, es posible que necesite menos hidratos de carbono para tratar o
-prevenir la hipoglucemia en comparación con cuando no utiliza un sistema de
-circuito cerrado, especialmente si lleva poca insulina.
-Puede hacerse una idea de la cantidad de insulina que ha recibido recientemente
-comprobando la curva de insulina en la pantalla de gráficos. La insulina exacta a
-bordo se puede encontrar en la sección Historial bajo Pasos del Algoritmo.
-Nunca anuncie una comida por hidratos de carbono utilizados para tratar un nivel
-bajo de glucosa en sangre.
+Bienvenido a este vídeo sobre la gestión de situaciones especiales con el sistema iLet. En este vídeo, proporcionaremos consejos específicos para gestionar la hipo e hiperglucemia, las comidas ricas en grasas, el ejercicio, las enfermedades, el alcohol y los viajes mientras se utiliza el Sistema iLet. Estas pautas complementan las recomendaciones generales para gestionar estas situaciones mientras se lleva un sistema automático de administración de insulina, que se pueden encontrar en el módulo general sobre sistemas automáticos de administración de insulina.
 
-Para prevenir la hipoglucemia, tiene la opción de pausar temporalmente la
-administración de insulina. Aunque puede pausar la administración de insulina o
-incluso desconectar el tubo iLet del equipo de infusión, esto no suele recomendarse,
-ya que el sistema reducirá o detendrá la administración de insulina cuando se
-detecte una hipoglucemia inminente.
-6.2 Hiperglucemia
-Tu iLet administrará insulina automáticamente en respuesta a los niveles de glucosa
-elevados y altos del sensor, para que tu nivel de glucosa vuelva a estar dentro de
-los límites de forma segura. Esto puede llevar más tiempo del esperado. No utilice
-correcciones de las comidas para intentar corregir la hiperglucemia. Esto
-interrumpirá la adaptación del sistema y aumentará la posibilidad de hipoglucemia.
-Compruebe siempre que su iLet funciona correctamente. Cambia el punto de
-infusión de insulina si sospechas que no funciona. En caso de duda, ¡cámbialo!
-Se recomienda hacer una prueba de glucosa en sangre por punción en el dedo,
-comprobar si hay cetonas y administrar una inyección de insulina de acuerdo con su
-plan de hiperglucemia. Beta Bionics recomienda el siguiente plan de acción para
-cetonas:
--​ Compruebe su glucemia y cetonas cuando tenga náuseas, vómitos o diarrea,
-cuando crea que su equipo de infusión no funciona, cuando su glucosa del
-sensor haya estado por encima de 300 mg/dl o 19,7 mmol/l durante 90
-minutos y cuando su glucosa del sensor esté por encima de 400 mg/dl o 22,2
-mmol/l.
--​ Si tiene un aumento moderado de cetonas, cambie su equipo de infusión,
-beba líquidos adicionales y vuelva a comprobar su glucosa en sangre y
-cetonas después de 90 minutos.
--​ Si tiene cetonas elevadas, desconecte el equipo de perfusión y aplíquese una
-inyección de insulina siguiendo las instrucciones de su profesional sanitario.
-Beba también líquidos adicionales y vuelva a comprobar la glucosa en sangre
-y las cetonasdespués de 90 minutos.
-Si se prescribe una inyección de insulina para cetonas elevadas, el iLet debe
-desconectarse durante 90 minutos porque no hay forma de informar al algoritmo de
-control del iLet sobre la insulina que no administró. Si el iLet no se desconecta
+### 6.1 Hipoglucemia
 
-durante el tiempo suficiente después de la inyección de insulina, se producirá un
-apilamiento de insulina que puede causar una hipoglucemia grave.
-El tamaño recomendado de la dosis de corrección de insulina para el plan de acción
-cetona durante el ensayo pivotal wse basó en un factor de corrección derivado de
-1800 dividido por la dosis total diaria de insulina y multiplicado después por 1,25.
-Para evitar problemas con el equipo de infusión, es aconsejable sustituirlo
-rápidamente. Su dispositivo iLet le avisará cuando haya llegado el momento, es
-decir, a los 3 días en el caso de las cánulas de teflón y a los 2 días en el caso de las
-cánulas de acero.
-6.3 Comidas ricas en grasas
-En el sistema iLet, no existe una forma específica de administrar bolos para comidas
-ricas en grasas. Simplemente anuncia el tamaño de su comidae basa en el
-contenido de carbohidratos de esa comida.
-Los anuncios de comidas siempre administran por adelantado sólo el 75% de la
-dosis adaptada y, a continuación, el sistema evaluará si se necesita insulina después
-de la dosis inicial y la administrará mediante el algoritmo de correcciones. Para las
-comidas ricas en grasas con una excursión glucémica retardada, el sistema ya ha
-administrado una dosis conservadora y no administrará insulina de corrección hasta
-que la tendencia de la glucosa indique la necesidad. Por lo tanto, no es necesaria
-una función de bolo prolongado, ya que el sistema ya está haciendo este trabajo.
-Es importante elegir el tamaño de la comida basándose en la cantidad de
-carbohidratos que contiene, y no en el tamaño total de la comida o en la cantidad de
-proteínas, fibra o grasa.
-6.4 Ejercicio
-Para el ejercicio planificado con una disminución de glucosa esperada, se
-recomienda cambiar su objetivo de glucosa a "Mayor" 1 ó 2 horas antes del ejercicio
-planificado. Si el ejercicio está planificado dentro de las 2 horas siguientes a una
-comida, introduzca una cantidad de comida inferior a la que vaya a ingerir, por
-ejemplo "Menos" en lugar de "Habitual para mí". Si es necesario, paute la
-administración de insulina al menos 30 minutos antes del ejercicio.
+Con el sistema iLet, es posible que necesite menos hidratos de carbono para tratar o prevenir la hipoglucemia en comparación con cuando no utiliza un sistema de circuito cerrado, especialmente si lleva poca insulina. Puede hacerse una idea de la cantidad de insulina que ha recibido recientemente comprobando la curva de insulina en la pantalla de gráficos. La insulina exacta a bordo se puede encontrar en la sección Historial bajo Pasos del Algoritmo. Nunca anuncie una comida por hidratos de carbono utilizados para tratar un nivel bajo de glucosa en sangre. Para prevenir la hipoglucemia, tiene la opción de pausar temporalmente la administración de insulina. Aunque puede pausar la administración de insulina o incluso desconectar el tubo iLet del equipo de infusión, esto no suele recomendarse, ya que el sistema reducirá o detendrá la administración de insulina cuando se detecte una hipoglucemia inminente.
 
-En caso de ejercicio no planificado, se recomienda suspender la administración de
-insulina al inicio del ejercicio e ingerir de 10 a 20 gramos de carbohidratos antes del
-ejercicio si su glucosa en el sensor está por debajo de 126 mg/dl o 7,0 mmol/l.
-Durante el ejercicio se recomienda comer de 3 a 20 gramos de carbohidratos si su
-glucosa está por debajo de 126 mg/dl o 7 mmol/l, dependiendo de su flecha de
-tendencia y de la insulina a bordo. Puede controlar su insulina a bordo a través de
-los Pasos del algoritmo en la sección Historial. Podría ser necesario reducir la
-administración de insulina o reducir su objetivo de glucosa durante el ejercicio.
-Asegúrese de que puede seguir monitorizando la glucosa de su sensor y escuchar
-las alertas de su sensor utilizando la aplicación del sensor en su smartphone.
-Mantenga su dispositivo iLet cerca para escuchar las alertas si no dispone de un
-smartphone.
-Si desea desconectar su Dispositivo iLet durante el ejercicio, por ejemplo durante la
-natación o los deportes de contacto, es importante pausar la administración de
-insulina. Recuerde volver a conectarse al Dispositivo iLet y reanudar la
-administración de insulina una vez que haya terminado de hacer ejercicio.
-6.5 Enfermedad
-El iLet se ajusta de forma autónoma y continua a las necesidades de insulina del
-usuario. Por lo tanto, en la mayoría de los casos de enfermedad, no suele ser
-necesario realizar ningún ajuste en el iLet.
-Durante una enfermedad, a menudo se observa hiperglucemia. Siga las directrices
-para controlar la hiperglucemia en estas circunstancias.
-Si encuentra más hipoglucemia durante una enfermedad, considere aumentar
-temporalmente el objetivo de glucosa durante el período de enfermedad. Si se hace
-esto, el objetivo de glucosa debe volver al ajuste previo a la enfermedad después de
-que el usuario se recupere.
-6.6 Alcohol
-Consulte las directrices específicas para la gestión de su administración automática
-de insulina en relación con el consumo de alcohol.
+### 6.2 Hiperglucemia
 
-6.7 Viajes
-Cuando viaje con el Sistema iLet, es importante tener en cuenta que solicitar una
-"bomba de préstamo" de insulina adicional para sus vacaciones no es una opción
-disponible.
-Asegúrese de llevar en la maleta una cantidad suficiente de los artículos necesarios,
-incluidos los suministros para su Dispositivo iLet, la medición de glucosa en sangre
-mediante sensores y pinchazos en los dedos, las herramientas de medición del nivel
-de cetonas y la insulina de acción corta y larga en plumas de insulina.
-Cuando viaje por zonas horarias diferentes, tendrá que ajustar manualmente la hora
-de su Dispositivo iLet para que coincida con la hora local.
-Durante un vuelo, puede permanecer conectado a su iLet ya que continuará
-funcionando incluso si su teléfono está en modo avión.
-Siguiendo estos consejos, podrá gestionar eficazmente diversas situaciones
-mientras utiliza el sistema iLet y mantener un control óptimo de su diabetes.
-Recuerde consultar con su proveedor de atención médica para obtener orientación
-personalizada y apoyo en el manejo de situaciones específicas.
+Tu iLet administrará insulina automáticamente en respuesta a los niveles de glucosa elevados y altos del sensor, para que tu nivel de glucosa vuelva a estar dentro de los límites de forma segura. Esto puede llevar más tiempo del esperado. No utilice correcciones de las comidas para intentar corregir la hiperglucemia. Esto interrumpirá la adaptación del sistema y aumentará la posibilidad de hipoglucemia. Compruebe siempre que su iLet funciona correctamente. Cambia el punto de infusión de insulina si sospechas que no funciona. En caso de duda, ¡cámbialo! Se recomienda hacer una prueba de glucosa en sangre por punción en el dedo, comprobar si hay cetonas y administrar una inyección de insulina de acuerdo con su plan de hiperglucemia. Beta Bionics recomienda el siguiente plan de acción para cetonas:
+
+- Compruebe su glucemia y cetonas cuando tenga náuseas, vómitos o diarrea, cuando crea que su equipo de infusión no funciona, cuando su glucosa del sensor haya estado por encima de 300 mg/dl o 19.7 mmol/l durante 90 minutos y cuando su glucosa del sensor esté por encima de 400 mg/dl o 22.2 mmol/l.
+
+- Si tiene un aumento moderado de cetonas, cambie su equipo de infusión, beba líquidos adicionales y vuelva a comprobar su glucosa en sangre y cetonas después de 90 minutos.
+
+- Si tiene cetonas elevadas, desconecte el equipo de perfusión y aplíquese una inyección de insulina siguiendo las instrucciones de su profesional sanitario. Beba también líquidos adicionales y vuelva a comprobar la glucosa en sangre y las cetonasdespués de 90 minutos. Si se prescribe una inyección de insulina para cetonas elevadas, el iLet debe desconectarse durante 90 minutos porque no hay forma de informar al algoritmo de control del iLet sobre la insulina que no administró. Si el iLet no se desconecta durante el tiempo suficiente después de la inyección de insulina, se producirá un apilamiento de insulina que puede causar una hipoglucemia grave. El tamaño recomendado de la dosis de corrección de insulina para el plan de acción cetona durante el ensayo pivotal wse basó en un factor de corrección derivado de 1800 dividido por la dosis total diaria de insulina y multiplicado después por 1,25. Para evitar problemas con el equipo de infusión, es aconsejable sustituirlo rápidamente. Su dispositivo iLet le avisará cuando haya llegado el momento, es decir, a los 3 días en el caso de las cánulas de teflón y a los 2 días en el caso de las cánulas de acero.
+
+### 6.3 Comidas ricas en grasas
+
+En el sistema iLet, no existe una forma específica de administrar bolos para comidas ricas en grasas. Simplemente anuncia el tamaño de su comidae basa en el contenido de carbohidratos de esa comida. Los anuncios de comidas siempre administran por adelantado sólo el 75% de la dosis adaptada y, a continuación, el sistema evaluará si se necesita insulina después de la dosis inicial y la administrará mediante el algoritmo de correcciones. Para las comidas ricas en grasas con una excursión glucémica retardada, el sistema ya ha administrado una dosis conservadora y no administrará insulina de corrección hasta que la tendencia de la glucosa indique la necesidad. Por lo tanto, no es necesaria una función de bolo prolongado, ya que el sistema ya está haciendo este trabajo. Es importante elegir el tamaño de la comida basándose en la cantidad de carbohidratos que contiene, y no en el tamaño total de la comida o en la cantidad de proteínas, fibra o grasa.
+
+### 6.4 Ejercicio
+
+Para el ejercicio planificado con una disminución de glucosa esperada, se recomienda cambiar su objetivo de glucosa a "Mayor" 1 ó 2 horas antes del ejercicio planificado. Si el ejercicio está planificado dentro de las 2 horas siguientes a una comida, introduzca una cantidad de comida inferior a la que vaya a ingerir, por ejemplo "Menos" en lugar de "Habitual para mí". Si es necesario, paute la administración de insulina al menos 30 minutos antes del ejercicio. En caso de ejercicio no planificado, se recomienda suspender la administración de insulina al inicio del ejercicio e ingerir de 10 a 20 gramos de carbohidratos antes del ejercicio si su glucosa en el sensor está por debajo de 126 mg/dl o 7.0 mmol/l.
+
+Durante el ejercicio se recomienda comer de 3 a 20 gramos de carbohidratos si su glucosa está por debajo de 126 mg/dl o 7 mmol/l, dependiendo de su flecha de tendencia y de la insulina a bordo. Puede controlar su insulina a bordo a través de los Pasos del algoritmo en la sección Historial. Podría ser necesario reducir la administración de insulina o reducir su objetivo de glucosa durante el ejercicio. Asegúrese de que puede seguir monitorizando la glucosa de su sensor y escuchar las alertas de su sensor utilizando la aplicación del sensor en su smartphone. Mantenga su dispositivo iLet cerca para escuchar las alertas si no dispone de un smartphone. Si desea desconectar su Dispositivo iLet durante el ejercicio, por ejemplo durante la natación o los deportes de contacto, es importante pausar la administración de insulina. Recuerde volver a conectarse al Dispositivo iLet y reanudar la administración de insulina una vez que haya terminado de hacer ejercicio.
+
+### 6.5 Enfermedad
+
+El iLet se ajusta de forma autónoma y continua a las necesidades de insulina del usuario. Por lo tanto, en la mayoría de los casos de enfermedad, no suele ser necesario realizar ningún ajuste en el iLet. Durante una enfermedad, a menudo se observa hiperglucemia. Siga las directrices para controlar la hiperglucemia en estas circunstancias. Si encuentra más hipoglucemia durante una enfermedad, considere aumentar temporalmente el objetivo de glucosa durante el período de enfermedad. Si se hace esto, el objetivo de glucosa debe volver al ajuste previo a la enfermedad después de que el usuario se recupere.
+
+### 6.6 Alcohol
+
+Consulte las directrices específicas para la gestión de su administración automática de insulina en relación con el consumo de alcohol.
+
+### 6.7 Viajes
+
+Cuando viaje con el Sistema iLet, es importante tener en cuenta que solicitar una "bomba de préstamo" de insulina adicional para sus vacaciones no es una opción disponible. Asegúrese de llevar en la maleta una cantidad suficiente de los artículos necesarios, incluidos los suministros para su Dispositivo iLet, la medición de glucosa en sangre mediante sensores y pinchazos en los dedos, las herramientas de medición del nivel de cetonas y la insulina de acción corta y larga en plumas de insulina. Cuando viaje por zonas horarias diferentes, tendrá que ajustar manualmente la hora de su Dispositivo iLet para que coincida con la hora local. Durante un vuelo, puede permanecer conectado a su iLet ya que continuará funcionando incluso si su teléfono está en modo avión. Siguiendo estos consejos, podrá gestionar eficazmente diversas situaciones mientras utiliza el sistema iLet y mantener un control óptimo de su diabetes. Recuerde consultar con su proveedor de atención médica para obtener orientación personalizada y apoyo en el manejo de situaciones específicas.

@@ -1,206 +1,60 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q--4Y1CNyVvd-liaxjINOyX&index=2" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>3. Démarrage du capteur</u>**
 
-Bienvenue dans cette capsule vidéo sur le démarrage et l'utilisation du capteur
-Dexcom G7.
-Dès que vous installez le capteur Dexcom G7, il s'active automatiquement et la
-période d'échauffement de 30 minutes commence. Vous pouvez appliquer un
+Bienvenue dans cette capsule vidéo sur le démarrage et l'utilisation du capteur Dexcom G7. Dès que vous installez le capteur Dexcom G7, il s'active automatiquement et la période d'échauffement de 30 minutes commence. Vous pouvez appliquer un nouveau capteur pendant que l'ancien fonctionne et activer le nouveau quand vous le souhaitez. N'oubliez pas que la période de port de 10 jours commence dès que le capteur sort de l'applicateur. Pour accéder aux données de votre capteur Dexcom G7, vous devez établir une connexion entre le capteur et votre smartphone ou un récepteur Dexcom G7, en utilisant le code d'appairage fourni. Vous pouvez utiliser simultanément l'application Dexcom G7 et le récepteur. Si vous utilisez le capteur Dexcom G7 avec un système automatisé d'administration d'insuline, la connexion du capteur peut être intégré au système, ce qui élimine le besoin de l'application ou du récepteur Dexcom G7. Pour que votre smartphone ou votre récepteur reçoive les données du capteur, ils doivent toujours se trouver dans un rayon de 6 mètres ou 20 pieds du capteur. Dans cette vidéo, nous vous détaillerons les étapes pour connecter votre capteur Dexcom G7 à votre récepteur Dexcom G7 et à l'application Dexcom G7, ainsi que quelques conseils pour utiliser le récepteur et l'application Dexcom G7.
 
-nouveau capteur pendant que l'ancien fonctionne et activer le nouveau quand vous
-le souhaitez. N'oubliez pas que la période de port de 10 jours commence dès que le
-capteur sort de l'applicateur.
-Pour accéder aux données de votre capteur Dexcom G7, vous devez établir une
-connexion entre le capteur et votre smartphone ou un récepteur Dexcom G7, en
-utilisant le code d'appairage fourni. Vous pouvez utiliser simultanément
-l'application Dexcom G7 et le récepteur.
-Si vous utilisez le capteur Dexcom G7 avec un système automatisé d'administration
-d'insuline, la connexion du capteur peut être intégré au système, ce qui élimine le
-besoin de l'application ou du récepteur Dexcom G7.
-Pour que votre smartphone ou votre récepteur reçoive les données du capteur, ils
-doivent toujours se trouver dans un rayon de 6 mètres ou 20 pieds du capteur.
-Dans cette vidéo, nous vous détaillerons les étapes pour connecter votre capteur
-Dexcom G7 à votre récepteur Dexcom G7 et à l'application Dexcom G7, ainsi que
-quelques conseils pour utiliser le récepteur et l'application Dexcom G7.
-3.1 Récepteur Dexcom G7
-Le récepteur Dexcom G7 est doté d'un écran coloré et de quatre boutons de
-navigation sur la face avant. Sélectionner, Défiler vers le bas, Revenir en arrière et
-Défiler vers le haut.
-Sur la partie antérieure, vous trouverez un port microUSB pour le chargement et le
-transfert de données. Il est recommandé de charger le récepteur à l'aide du câble
-fourni. La charge complète peut prendre jusqu'à 3 heures, mais la batterie peut
-durer jusqu'à 7 jours d'utilisation avec une seule charge.
-Pour allumer votre récepteur, appuyez longuement sur la touche de sélection
-pendant trois secondes.
-Le récepteur vous guide pas à pas tout au long de la procédure d'installation.
-Sélectionnez [Suivant] pour continuer. Vous devez d'abord accepter les conditions
-d'utilisation et la politique de confidentialité de Dexcom, puis régler la date et
-l'heure. Le récepteur affiche ensuite une série d'écrans informatifs pour vous
+### 3.1 Récepteur Dexcom G7
 
-permettre d'apprendre tout ce que vous devez savoir sur votre récepteur G7. Ce
-mini-tutoriel vous apprendra tout sur la sécurité, les décisions de traitement, les
-flèches de tendance, les alertes et les relevés sur votre écran d'accueil.
-Après avoir appris tout ce qu'il faut savoir sur votre nouveau récepteur G7, vous
-devrez confirmer que votre capteur est inséré avant de saisir le code d'appairage.
-Vous trouverez le code d'appairage à quatre chiffres sur l'applicateur que vous
-utilisez pour insérer le capteur. Attendez que votre capteur soit apparié. Une fois
-l'appairage terminé, sélectionnez [Terminer], et vous passerez au préchauffage de
-30 minutes du capteur. La minuterie de préchauffage du capteur vous permet de
-savoir quand vous commencerez à recevoir des relevés et des alertes.
-Après l'échauffement, vous commencerez à recevoir des relevés et des alertes.
-L'écran d'accueil du récepteur affiche :
+Le récepteur Dexcom G7 est doté d'un écran coloré et de quatre boutons de navigation sur la face avant. Sélectionner, Défiler vers le bas, Revenir en arrière et Défiler vers le haut. Sur la partie antérieure, vous trouverez un port microUSB pour le chargement et le transfert de données. Il est recommandé de charger le récepteur à l'aide du câble fourni. La charge complète peut prendre jusqu'à 3 heures, mais la batterie peut durer jusqu'à 7 jours d'utilisation avec une seule charge. Pour allumer votre récepteur, appuyez longuement sur la touche de sélection pendant trois secondes. Le récepteur vous guide pas à pas tout au long de la procédure d'installation. Sélectionnez [Suivant] pour continuer. Vous devez d'abord accepter les conditions d'utilisation et la politique de confidentialité de Dexcom, puis régler la date et l'heure. Le récepteur affiche ensuite une série d'écrans informatifs pour vous permettre d'apprendre tout ce que vous devez savoir sur votre récepteur G7. Ce mini-tutoriel vous apprendra tout sur la sécurité, les décisions de traitement, les flèches de tendance, les alertes et les relevés sur votre écran d'accueil. Après avoir appris tout ce qu'il faut savoir sur votre nouveau récepteur G7, vous devrez confirmer que votre capteur est inséré avant de saisir le code d'appairage. Vous trouverez le code d'appairage à quatre chiffres sur l'applicateur que vous utilisez pour insérer le capteur. Attendez que votre capteur soit apparié. Une fois l'appairage terminé, sélectionnez [Terminer], et vous passerez au préchauffage de 30 minutes du capteur. La minuterie de préchauffage du capteur vous permet de savoir quand vous commencerez à recevoir des relevés et des alertes. Après l'échauffement, vous commencerez à recevoir des relevés et des alertes. L'écran d'accueil du récepteur affiche :
+
 - La dernière mesure de la glycémie du capteur et la flèche de tendance.
-  - Si votre taux de glucose est inférieur à 40 mg/dl ou 2,2 mmol/L,
-l’écran affichera [BASSE]. S'il dépasse 400 mg/dl ou 22,2 mmol/L,
-[HAUTE] s'affiche, dans quel cas il est recommandé de confirmer
-votre taux de glucose par une glycémie capillaire et de prendre les
-mesures appropriées en cas d'hypoglycémie ou d'hyperglycémie.
+
+- Si votre taux de glucose est inférieur à 40 mg/dl ou 2.2 mmol/L, l’écran affichera [BASSE]. S'il dépasse 400 mg/dl ou 22.2 mmol/L, [HAUTE] s'affiche, dans quel cas il est recommandé de confirmer votre taux de glucose par une glycémie capillaire et de prendre les mesures appropriées en cas d'hypoglycémie ou d'hyperglycémie.
 - Le graphique de la glycémie du capteur s'affiche sous la lecture.
-  - Vous pouvez régler la plage couverte par le graphique et accéder au
-menu à l'aide des boutons de l'appareil.
-Dans le menu, vous pouvez explorer des options, telles que les options de
-[Rapport], les [Événements], les [Réglages], les [Informations], l'[Aide], les options
-pour [Remplacer le capteur] et [Arrêter la session du capteur], et enfin pour
-[Éteindre] le capteur. Il est conseillé de laisser le récepteur allumé pour recevoir les
-alertes importantes.
-Pour une meilleure compréhension des sous-menus, nous vous suggérons de
-télécharger l'aperçu du menu fourni via le lien en dessous de cette vidéo et de
-passer en revue toutes les options disponibles.
-3.2 L'Application Dexcom G7
-L'application Dexcom G7 peut être téléchargée sur la plupart des smartphones
-avec des versions distinctes disponibles pour les appareils Android et iPhone. Vous
 
-trouverez une liste de tous les appareils compatibles et des versions logicielles sur
-le site web dexcom.com/compatibility
-L'application Dexcom G7 a un impact minime sur la durée de vie de la batterie lors
-d'une utilisation régulière. Toutefois, il est recommandé de ne pas activer le mode
-d'économie de la batterie, vu que cela peut retarder les alertes du Dexcom G7. Il
-est également recommandé de ne pas activer les paramètres [Batterie adaptative] ,
-[Optimisation de la batterie], et [Chargement optimisé de la batterie], car ceux-là
-peuvent empêcher l'application Dexcom G7 de fonctionner en arrière-plan, ce qui
-empêche par conséquent la réception des alertes.
-L'application Dexcom G7 utilise le Bluetooth pour se connecter à votre capteur.
-Vous devez garder le Bluetooth de votre appareil activé pour obtenir les relevés et
-les alertes du capteur. Il est également conseillé de supprimer les anciens capteurs
-Dexcom G7 de la liste Bluetooth de votre appareil. Les capteurs Dexcom G7 se
-connectent, envoient des données et se déconnectent toutes les 5 minutes.
-L'appariement dans Bluetooth pour votre capteur Dexcom G7 actuel indiquera
-possiblement le statut [Non connecté], ce qui est tout à fait normal.
-Lorsque vous ouvrez l'application Dexcom G7 pour la première fois, vous devez
-créer un compte Dexcom, ou vous connecter avec votre compte Dexcom existant.
-Une fois connecté, l'application vous guide pas à pas dans le processus
-d'installation. Tout d'abord, la section de présentation vous fournira des vidéos et
-des écrans informatifs afin que vous puissiez apprendre tout ce que vous devez
-savoir sur votre Dexcom G7. Ensuite, vous connecterez votre Dexcom G7 à votre
-smartphone. Vous activez le Bluetooth et définirez les autres paramètres requis
-pour le smartphone. L'application vous fournira ensuite des instructions sur la
-manière d'insérer votre capteur.
-Saisissez le code d'appariement à quatre chiffres que vous pourrez trouver sur
-l'applicateur du capteur que vous utilisez. Conservez une photo du code QR ou
-saisissez le code manuellement pour procéder à l'appairage. Attendez que le
-capteur soit apparié. Une fois l'appairage terminé, vous passez au préchauffage du
-capteur qui dure 30 minutes. La minuterie de préchauffage du capteur vous permet
-de savoir quand vous commencerez à recevoir des relevés et des alertes. Après
-l'échauffement, vous commencerez à recevoir des relevés et des alertes.
+- Vous pouvez régler la plage couverte par le graphique et accéder au menu à l'aide des boutons de l'appareil. Dans le menu, vous pouvez explorer des options, telles que les options de [Rapport], les [Événements], les [Réglages], les [Informations], l'[Aide], les options pour [Remplacer le capteur] et [Arrêter la session du capteur], et enfin pour [Éteindre] le capteur. Il est conseillé de laisser le récepteur allumé pour recevoir les alertes importantes. Pour une meilleure compréhension des sous-menus, nous vous suggérons de télécharger l'aperçu du menu fourni via le lien en dessous de cette vidéo et de passer en revue toutes les options disponibles.
 
-Conseil : Nous vous conseillons de prendre une photo séparée du code de
-l'applicateur en dehors de l'application Dexcom G7. Cette photo peut être utilisée
-dans le cas rare où l'application Dexcom G7 tombe en panne et doit être
-retéléchargée et reconnectée à votre capteur activé.
-L'écran d'accueil s'ouvre sur l'onglet glucose, où vous trouverez la dernière mesure
-du capteur de glucose ainsi qu'une flèche de tendance.
--​ Si votre taux de glucose est inférieur à 40 mg/dL (ou 2,2 mmol/L), il
-s'affichera comme [BASSE], tandis que les relevés dépassant 400 mg/dL (ou
-22,2 mmol/L) s'afficheront comme [HAUTE].
--​ Dans ce cas, il est important d'effectuer une glycémie capillaire pour
-confirmer votre taux de glucose et prendre les mesures appropriées en cas
-d'hypoglycémie ou d'hyperglycémie.
-Sous la valeur de la glycémie, vous pouvez accéder à votre graphique de glycémie
-et choisir la plage de temps souhaité pour les données. La ligne jaune représente
-votre niveau d'alerte élevé, et la ligne rouge votre niveau d'alerte faible.
-Plus bas, vous trouverez un onglet Clarity affichant votre glycémie moyenne, votre
-GMI (indicateur de gestion de glucose) et la durée dans la plage. Vous pouvez
-personnaliser la plage couverte pour ces rapports.
-En bas de l'écran, quatre icônes permettent de naviguer entre les différents onglets
-: Glucose, Historique, Connexions, et Profil.
--​ Dans l'onglet [Historique], vous pouvez enregistrer des événements, tels que
-les relevés de glycémie, les doses d'insuline, les repas, l'activité ou d'autres
-informations pertinentes.
--​ L'onglet [Connexions] vous permet de voir les détails du capteur, ainsi que
-de remplacer ou d'arrêter le capteur actuel. Un lien permet d'accéder à la
-fonction de partage et d'ajouter des suiveurs. Sur les iPhones, vous
-trouverez également une option de liaison avec Apple Health. Lorsqu'elle
-est activée, l'application G7 transmet les données à l'application de santé
-avec un délai de 3 heures.
--​ L'onglet profil propose des paramètres permettant de configurer les alertes,
-de personnaliser l'onglet Glucose, d'activer ou de désactiver les notifications
-G7, d'optimiser les performances de l'application grâce aux paramètres du
-smartphone, et d'accéder aux informations d'assistance.
--​ Vous pouvez télécharger une vue d'ensemble des options du menu dans les
-téléchargements situés en dessous de cette vidéo.
+### 3.2 L'Application Dexcom G7
 
-Sur l'écran d'accueil de l'application Dexcom G7, lorsque vous tournez votre
-smartphone horizontalement en mode paysage, vous pouvez accéder à un
-graphique de glucose agrandi avec vos mesures de glucose des 3 à 24 dernières
-heures, ainsi que les événements que vous avez enregistrés. En faisant glisser votre
-doigt sur le graphique, vous pourrez voir la valeur précise du glucose du capteur à
-ce moment précis.
-Dans le coin supérieur droit de l'écran d'accueil le signe plus peut être utilisé pour
-saisir des événements. Dans le coin supérieur droit du graphique, les 3 points
-peuvent être utilisés pour ajuster les plages, activer et désactiver les alertes de
-niveau haut et bas, ainsi que pour activer les "modes silencieux" que nous
-aborderons prochainement.
-3.3 Ce qu'il faut faire et ne pas faire
+L'application Dexcom G7 peut être téléchargée sur la plupart des smartphones avec des versions distinctes disponibles pour les appareils Android et iPhone. Vous trouverez une liste de tous les appareils compatibles et des versions logicielles sur le site web dexcom.com/compatibility L'application Dexcom G7 a un impact minime sur la durée de vie de la batterie lors d'une utilisation régulière. Toutefois, il est recommandé de ne pas activer le mode d'économie de la batterie, vu que cela peut retarder les alertes du Dexcom G7. Il est également recommandé de ne pas activer les paramètres [Batterie adaptative] , [Optimisation de la batterie], et [Chargement optimisé de la batterie], car ceux-là peuvent empêcher l'application Dexcom G7 de fonctionner en arrière-plan, ce qui empêche par conséquent la réception des alertes. L'application Dexcom G7 utilise le Bluetooth pour se connecter à votre capteur. Vous devez garder le Bluetooth de votre appareil activé pour obtenir les relevés et les alertes du capteur. Il est également conseillé de supprimer les anciens capteurs Dexcom G7 de la liste Bluetooth de votre appareil. Les capteurs Dexcom G7 se connectent, envoient des données et se déconnectent toutes les 5 minutes. L'appariement dans Bluetooth pour votre capteur Dexcom G7 actuel indiquera possiblement le statut [Non connecté], ce qui est tout à fait normal. Lorsque vous ouvrez l'application Dexcom G7 pour la première fois, vous devez créer un compte Dexcom, ou vous connecter avec votre compte Dexcom existant. Une fois connecté, l'application vous guide pas à pas dans le processus d'installation. Tout d'abord, la section de présentation vous fournira des vidéos et des écrans informatifs afin que vous puissiez apprendre tout ce que vous devez savoir sur votre Dexcom G7. Ensuite, vous connecterez votre Dexcom G7 à votre smartphone. Vous activez le Bluetooth et définirez les autres paramètres requis pour le smartphone. L'application vous fournira ensuite des instructions sur la manière d'insérer votre capteur. Saisissez le code d'appariement à quatre chiffres que vous pourrez trouver sur l'applicateur du capteur que vous utilisez. Conservez une photo du code QR ou saisissez le code manuellement pour procéder à l'appairage. Attendez que le capteur soit apparié. Une fois l'appairage terminé, vous passez au préchauffage du capteur qui dure 30 minutes. La minuterie de préchauffage du capteur vous permet de savoir quand vous commencerez à recevoir des relevés et des alertes. Après l'échauffement, vous commencerez à recevoir des relevés et des alertes. Conseil : Nous vous conseillons de prendre une photo séparée du code de l'applicateur en dehors de l'application Dexcom G7. Cette photo peut être utilisée dans le cas rare où l'application Dexcom G7 tombe en panne et doit être retéléchargée et reconnectée à votre capteur activé. L'écran d'accueil s'ouvre sur l'onglet glucose, où vous trouverez la dernière mesure du capteur de glucose ainsi qu'une flèche de tendance.
+
+- Si votre taux de glucose est inférieur à 40 mg/dL (ou 2.2 mmol/L), il s'affichera comme [BASSE], tandis que les relevés dépassant 400 mg/dL (ou 22.2 mmol/L) s'afficheront comme [HAUTE].
+
+- Dans ce cas, il est important d'effectuer une glycémie capillaire pour confirmer votre taux de glucose et prendre les mesures appropriées en cas d'hypoglycémie ou d'hyperglycémie. Sous la valeur de la glycémie, vous pouvez accéder à votre graphique de glycémie et choisir la plage de temps souhaité pour les données. La ligne jaune représente votre niveau d'alerte élevé, et la ligne rouge votre niveau d'alerte faible. Plus bas, vous trouverez un onglet Clarity affichant votre glycémie moyenne, votre GMI (indicateur de gestion de glucose) et la durée dans la plage. Vous pouvez personnaliser la plage couverte pour ces rapports. En bas de l'écran, quatre icônes permettent de naviguer entre les différents onglets : Glucose, Historique, Connexions, et Profil.
+
+- Dans l'onglet [Historique], vous pouvez enregistrer des événements, tels que les relevés de glycémie, les doses d'insuline, les repas, l'activité ou d'autres informations pertinentes.
+
+- L'onglet [Connexions] vous permet de voir les détails du capteur, ainsi que de remplacer ou d'arrêter le capteur actuel. Un lien permet d'accéder à la fonction de partage et d'ajouter des suiveurs. Sur les iPhones, vous trouverez également une option de liaison avec Apple Health. Lorsqu'elle est activée, l'application G7 transmet les données à l'application de santé avec un délai de 3 heures.
+
+- L'onglet profil propose des paramètres permettant de configurer les alertes, de personnaliser l'onglet Glucose, d'activer ou de désactiver les notifications G7, d'optimiser les performances de l'application grâce aux paramètres du smartphone, et d'accéder aux informations d'assistance.
+
+- Vous pouvez télécharger une vue d'ensemble des options du menu dans les téléchargements situés en dessous de cette vidéo. Sur l'écran d'accueil de l'application Dexcom G7, lorsque vous tournez votre smartphone horizontalement en mode paysage, vous pouvez accéder à un graphique de glucose agrandi avec vos mesures de glucose des 3 à 24 dernières heures, ainsi que les événements que vous avez enregistrés. En faisant glisser votre doigt sur le graphique, vous pourrez voir la valeur précise du glucose du capteur à ce moment précis. Dans le coin supérieur droit de l'écran d'accueil le signe plus peut être utilisé pour saisir des événements. Dans le coin supérieur droit du graphique, les 3 points peuvent être utilisés pour ajuster les plages, activer et désactiver les alertes de niveau haut et bas, ainsi que pour activer les "modes silencieux" que nous aborderons prochainement.
+
+### 3.3 Ce qu'il faut faire et ne pas faire
+
 Voici quelques considérations importantes :
-- Le capteur Dexcom G7 est étanche jusqu'à 2,4 mètres (8 pieds) pendant 24
-heures. Vous pouvez vous doucher et nager tout en portant votre capteur
-Dexcom G7.
+
+- Le capteur Dexcom G7 est étanche jusqu'à
+
+### 2.4 mètres (8 pieds) pendant 24 heures.
+
+Vous pouvez vous doucher et nager tout en portant votre capteur Dexcom G7.
+
 - L'heure
 
 et
 
 la date de l'application Dexcom G7 se synchronisent
 
-automatiquement avec les paramètres de votre smartphone, tandis que vous
-devez les ajuster manuellement sur le récepteur Dexcom G7. Pour ce faire,
-naviguez dans le menu des paramètres, puis sélectionnez [Date / Heure]
-avant de les ajuster.
-- Lors du déclenchement de l'applicateur Dexcom G7, le capteur se met
-automatiquement en marche, déclenchant une phase de réchauffement de
-30 minutes. Cette fonction vous permet de combler le manque de données
-habituel causé par la période d'échauffement. A l’insertion du nouveau
-capteur et en attendant 30 minutes avant de remplacer le capteur précédent
-dans votre récepteur ou application Dexcom G7, votre application acquiert
-de manière transparente les données du nouveau capteur, assurant ainsi une
-transmission ininterrompue des données entre les capteurs.
-- Le capteur Dexcom G7 peut être calibré à l'aide d'une valeur obtenue par
-prélèvement capillaire. Pour ce faire, appuyez sur l'icône + sur l'écran
-d'accueil ou sélectionnez l'icône Historique, puis Glucose sanguin, puis
-l'option « Utiliser comme calibration ».
-- Les relevés du capteur Dexcom G7 peuvent sembler un peu plus élevés que
-ceux du Dexcom G6, ce qui est dû au fait que le système G7 ne lisse pas les
+automatiquement avec les paramètres de votre smartphone, tandis que vous devez les ajuster manuellement sur le récepteur Dexcom G7. Pour ce faire, naviguez dans le menu des paramètres, puis sélectionnez [Date / Heure] avant de les ajuster.
 
-chiffres autant que le système G6. Ne vous inquiétez pas, le capteur Dexcom
-G7 reste très précis avec un taux de précision global de 8,2 %.
-- Le capteur Dexcom G7 peut rencontrer des problèmes de connectivité
-occasionnels. Si votre dispositif d'affichage ne parvient pas à recevoir les
-relevés du capteur pendant deux tentatives consécutives, une alerte de
-[Perte de signal] s'affiche. Votre dispositif d'affichage vous alertera de
-nouveau après environ 20 minutes sans lecture du capteur. Une fois la
-connectivité rétablie, les données manquantes seront complétées sur le
-graphique de tendance jusqu'à 24 heures. Pour minimiser le risque de perte
-de signal, Dexcom suggère de porter votre smartphone ou récepteur plus
-près du capteur et en ligne de mire. En outre, veillez également à ce que
-votre smartphone soit suffisamment chargé, étant donné qu’un niveau de
-batterie inférieur à 20 % peut déclencher le mode basse consommation et
-désactiver le Bluetooth. Si vous rencontrez des problèmes, envisagez
-d'arrêter et de redémarrer la connexion Bluetooth sur votre smartphone, ou
-bien d'éteindre et de redémarrer le smartphone lui-même. Dexcom travaille
-activement à l'amélioration de la connexion Bluetooth pour les prochaines
-mises à jour.
-En respectant ces directives et en faisant preuve de résilience tout au long de votre
-parcours de surveillance du glucose, vous pouvez maximiser votre utilisation du
-système Dexcom G7 pour obtenir des données précises et précieuses en vue d'une
-gestion efficace du diabète.
+- Lors du déclenchement de l'applicateur Dexcom G7, le capteur se met automatiquement en marche, déclenchant une phase de réchauffement de 30 minutes. Cette fonction vous permet de combler le manque de données habituel causé par la période d'échauffement. A l’insertion du nouveau capteur et en attendant 30 minutes avant de remplacer le capteur précédent dans votre récepteur ou application Dexcom G7, votre application acquiert de manière transparente les données du nouveau capteur, assurant ainsi une transmission ininterrompue des données entre les capteurs.
+
+- Le capteur Dexcom G7 peut être calibré à l'aide d'une valeur obtenue par prélèvement capillaire. Pour ce faire, appuyez sur l'icône + sur l'écran d'accueil ou sélectionnez l'icône Historique, puis Glucose sanguin, puis l'option « Utiliser comme calibration ».
+
+- Les relevés du capteur Dexcom G7 peuvent sembler un peu plus élevés que ceux du Dexcom G6, ce qui est dû au fait que le système G7 ne lisse pas les chiffres autant que le système G6. Ne vous inquiétez pas, le capteur Dexcom G7 reste très précis avec un taux de précision global de 8.2 %.
+
+- Le capteur Dexcom G7 peut rencontrer des problèmes de connectivité occasionnels. Si votre dispositif d'affichage ne parvient pas à recevoir les relevés du capteur pendant deux tentatives consécutives, une alerte de [Perte de signal] s'affiche. Votre dispositif d'affichage vous alertera de nouveau après environ 20 minutes sans lecture du capteur. Une fois la connectivité rétablie, les données manquantes seront complétées sur le graphique de tendance jusqu'à 24 heures. Pour minimiser le risque de perte de signal, Dexcom suggère de porter votre smartphone ou récepteur plus près du capteur et en ligne de mire. En outre, veillez également à ce que votre smartphone soit suffisamment chargé, étant donné qu’un niveau de batterie inférieur à 20 % peut déclencher le mode basse consommation et désactiver le Bluetooth. Si vous rencontrez des problèmes, envisagez d'arrêter et de redémarrer la connexion Bluetooth sur votre smartphone, ou bien d'éteindre et de redémarrer le smartphone lui-même. Dexcom travaille activement à l'amélioration de la connexion Bluetooth pour les prochaines mises à jour. En respectant ces directives et en faisant preuve de résilience tout au long de votre parcours de surveillance du glucose, vous pouvez maximiser votre utilisation du système Dexcom G7 pour obtenir des données précises et précieuses en vue d'une gestion efficace du diabète.

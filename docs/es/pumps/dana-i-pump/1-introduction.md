@@ -1,52 +1,16 @@
-<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q8Pkpd9pU5Glj3u1HlVUdb6 -->
+﻿<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q8Pkpd9pU5Glj3u1HlVUdb6 -->
 <div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>1. Introducción</u>**
 
-¡Bienvenido a este módulo sobre la bomba DANA-i! En esta serie de vídeos,
-exploraremos el funcionamiento de una de las bombas de insulina más pequeñas y
-ligeras del mundo.
-Lanzada en 2020, la bomba de insulina DANA-i es la sucesora de la DANA RS, la
-primera bomba de insulina del mundo que utiliza el propio smartphone del
-paciente como un mando a distancia completo. Con unas dimensiones de 97 × 47 ×
-22 mm y un peso de 86 g (batería incluida), la DANA-i pesa aproximadamente la
-mitad que una bomba de insulina estándar. Este dispositivo compacto cuenta con
-un depósito de 300 unidades y está indicado para la administración subcutánea de
-insulina de acción rápida de 100 unidades por mililitro en personas con diabetes a
-partir de 1 año de edad. La DANA-i utiliza conectividad Bluetooth Low Energy
-segura para un control total y discreto a través de la aplicación AnyDANA. Como
-bomba de infusión compatible con controladores alternativos (ACE), puede
-utilizarse de forma independiente o con dispositivos médicos conectados
-digitalmente para la terapia de circuito cerrado. Es compatible con Diabeloop y
-CamAPS FX, dependiendo de su región, y con varios sistemas AID de código
-abierto.
-En nuestro módulo avanzado sobre bombas de insulina, hemos abordado
-información general sobre estos dispositivos, incluyendo cómo ajustar las tasas
-basales y de bolo, cambiar el depósito y los sets de infusión, y configurar las
-alarmas del sistema.
-Este módulo ofrece una formación completa sobre la puesta en marcha de la
-bomba DANA-i, además de consejos y trucos avanzados tanto para profesionales
-sanitarios como para pacientes con diabetes. No obstante, ten en cuenta que estos
-vídeos no pretenden constituir un consejo médico. Asegúrate de consultar con tu
-profesional sanitario antes de realizar cualquier cambio en tu tratamiento.
+¡Bienvenido a este módulo sobre la bomba DANA-i! En esta serie de vídeos, exploraremos el funcionamiento de una de las bombas de insulina más pequeñas y ligeras del mundo. Lanzada en 2020, la bomba de insulina DANA-i es la sucesora de la DANA RS, la primera bomba de insulina del mundo que utiliza el propio smartphone del paciente como un mando a distancia completo. Con unas dimensiones de 97 × 47 × 22 mm y un peso de 86 g (batería incluida), la DANA-i pesa aproximadamente la mitad que una bomba de insulina estándar. Este dispositivo compacto cuenta con un depósito de 300 unidades y está indicado para la administración subcutánea de insulina de acción rápida de 100 unidades por mililitro en personas con diabetes a partir de 1 año de edad. La DANA-i utiliza conectividad Bluetooth Low Energy segura para un control total y discreto a través de la aplicación AnyDANA. Como bomba de infusión compatible con controladores alternativos (ACE), puede utilizarse de forma independiente o con dispositivos médicos conectados digitalmente para la terapia de circuito cerrado. Es compatible con Diabeloop y CamAPS FX, dependiendo de su región, y con varios sistemas AID de código abierto. En nuestro módulo avanzado sobre bombas de insulina, hemos abordado información general sobre estos dispositivos, incluyendo cómo ajustar las tasas basales y de bolo, cambiar el depósito y los sets de infusión, y configurar las alarmas del sistema. Este módulo ofrece una formación completa sobre la puesta en marcha de la bomba DANA-i, además de consejos y trucos avanzados tanto para profesionales sanitarios como para pacientes con diabetes. No obstante, ten en cuenta que estos vídeos no pretenden constituir un consejo médico. Asegúrate de consultar con tu profesional sanitario antes de realizar cualquier cambio en tu tratamiento. Estos vídeos han sido elaborados por la Dra. Inge Van Boxelaer, fundadora de Diabetotech y endocrinóloga del Hospital St-Lucas de Gante, en Bélgica. El contenido ha sido revisado por la Dra. Liesbeth Van Huffel, endocrinóloga del Hospital AZORG de Aalst, en Bélgica. Su experiencia y sus puntos de vista garantizan que usted reciba opiniones sinceras sobre la bomba DANA-i. Tenga la seguridad de que toda la información de este módulo es totalmente independiente del fabricante de la bomba de insulina DANA-i, lo que garantiza una visión objetiva de las ventajas y los inconvenientes del dispositivo. Al terminar de ver estos vídeos, serás capaz de:
 
-Estos vídeos han sido elaborados por la Dra. Inge Van Boxelaer, fundadora de
-Diabetotech y endocrinóloga del Hospital St-Lucas de Gante, en Bélgica. El
-contenido ha sido revisado por la Dra. Liesbeth Van Huffel, endocrinóloga del
-Hospital AZORG de Aalst, en Bélgica. Su experiencia y sus puntos de vista
-garantizan que usted reciba opiniones sinceras sobre la bomba DANA-i.
-Tenga la seguridad de que toda la información de este módulo es totalmente
-independiente del fabricante de la bomba de insulina DANA-i, lo que garantiza una
-visión objetiva de las ventajas y los inconvenientes del dispositivo.
-Al terminar de ver estos vídeos, serás capaz de:
-- ​ identificar las partes de la bomba de insulina DANA-i y manejar el
-dispositivo;
-- ​ programar los ajustes de insulina de la bomba;
-- ​ sustituir el depósito y los equipos de infusión del DANA-i; y
-- ​ responder a las alarmas del sistema DANA-i.
-Como profesional sanitario, adquirirá los conocimientos necesarios para ayudar con
-confianza a los usuarios de DANA-i; como usuario, obtendrá información clave para
-optimizar su experiencia con el dispositivo. ¡Le deseamos lo mejor en sus primeros
-pasos con la bomba DANA-i!
+- identificar las partes de la bomba de insulina DANA-i y manejar el dispositivo;
+
+- programar los ajustes de insulina de la bomba;
+
+- sustituir el depósito y los equipos de infusión del DANA-i; y
+
+- responder a las alarmas del sistema DANA-i. Como profesional sanitario, adquirirá los conocimientos necesarios para ayudar con confianza a los usuarios de DANA-i; como usuario, obtendrá información clave para optimizar su experiencia con el dispositivo. ¡Le deseamos lo mejor en sus primeros pasos con la bomba DANA-i!

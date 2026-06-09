@@ -1,31 +1,7 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q8SItIjZcbaX9Q-pKW2MlzZ&index=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>4. Bolus avant les repas</u>**
 
-Si vous utilisez de l'insuline à action rapide comme NovoRapid (Novolog) ou
-Humalog, administrez le bolus pré-repas environ 15 minutes avant de manger, sauf
-si vous traitez une hypoglycémie, une gastroparésie ou si vous consommez un repas
-riche en graisses, dans quel cas il convient d'administrer le bolus directement avant
-le repas.
-Si vous utilisez de l'insuline ultra-rapide comme Fiasp ou Lyumjev, il suffit
-d'administrer le bolus 5 à 10 minutes avant le repas.
-Si vous n'êtes pas sûr de l'apport exact en glucides, indiquez uniquement la
-quantité de glucides que vous êtes certain d'avoir consommée.
-Il est important d'administrer l'insuline au moment du repas avant la prise de
-glucides. L'administration de bolus après les repas peut entraîner une accumulation
-d'insuline et une hypoglycémie potentielle causée par l'augmentation automatique
-de l'administration d'insuline modulée par l'algorithme après une augmentation
-initiale de la glycémie due au repas lui-même.
-En cas d'oubli ou de retard d'un bolus repas, considérez d'administrer la moitié du
-bolus dans les 30 à 60 minutes qui suivent le début du repas. Si plus de 60 minutes
-se sont écoulées, n'administrez qu'un bolus de correction initié par l'utilisateur en
-fonction de l'augmentation de la glycémie.
-En outre, les adultes qui utilisent des systèmes en boucle fermée peuvent bénéficier
-d'un régime pauvre en glucides afin d'améliorer encore le contrôle de la glycémie.
-Pour les repas pauvres en glucides, pensez à compter également les protéines et
-les graisses. Nous recommandons de ne pas manger moins de 60 grammes de
-
-glucides par jour, car les vrais régimes cétogènes présentent un risque
-d'acidocétose.
+Si vous utilisez de l'insuline à action rapide comme NovoRapid (Novolog) ou Humalog, administrez le bolus pré-repas environ 15 minutes avant de manger, sauf si vous traitez une hypoglycémie, une gastroparésie ou si vous consommez un repas riche en graisses, dans quel cas il convient d'administrer le bolus directement avant le repas. Si vous utilisez de l'insuline ultra-rapide comme Fiasp ou Lyumjev, il suffit d'administrer le bolus 5 à 10 minutes avant le repas. Si vous n'êtes pas sûr de l'apport exact en glucides, indiquez uniquement la quantité de glucides que vous êtes certain d'avoir consommée. Il est important d'administrer l'insuline au moment du repas avant la prise de glucides. L'administration de bolus après les repas peut entraîner une accumulation d'insuline et une hypoglycémie potentielle causée par l'augmentation automatique de l'administration d'insuline modulée par l'algorithme après une augmentation initiale de la glycémie due au repas lui-même. En cas d'oubli ou de retard d'un bolus repas, considérez d'administrer la moitié du bolus dans les 30 à 60 minutes qui suivent le début du repas. Si plus de 60 minutes se sont écoulées, n'administrez qu'un bolus de correction initié par l'utilisateur en fonction de l'augmentation de la glycémie. En outre, les adultes qui utilisent des systèmes en boucle fermée peuvent bénéficier d'un régime pauvre en glucides afin d'améliorer encore le contrôle de la glycémie. Pour les repas pauvres en glucides, pensez à compter également les protéines et les graisses. Nous recommandons de ne pas manger moins de 60 grammes de glucides par jour, car les vrais régimes cétogènes présentent un risque d'acidocétose.

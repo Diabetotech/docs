@@ -1,28 +1,8 @@
-<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-R2LVpddHmljs2FVuL0UrG -->
+﻿<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-R2LVpddHmljs2FVuL0UrG -->
 <div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>7. Informe de caso</u>**
 
-En este último capítulo, nos gustaría compartir un valioso recurso en vídeo que
-destaca el uso práctico del sistema twiist AID.
-
-En esta descripción general oficial, el equipo de twiist muestra cómo funcionan la
-bomba y la aplicación twiist. La guía incluye ejemplos de cómo twiist gestiona las
-rutinas diarias, responde a los cambios de glucosa y ayuda a controlar la diabetes
-de forma segura.
-https://www.youtube.com/watch?v=FXaK77aFcV8&t=99s
-Además, le animamos a que explore las perspectivas reales de personas que
-utilizan twiist, como en este vídeo de Justin, de Diabetech. Estas opiniones ofrecen
-una visión práctica de cómo twiist se adapta a la vida cotidiana y pueden ayudarle a
-ganar confianza en el uso del sistema.
-¡Enhorabuena por completar este módulo sobre el sistema twiist AID! Ahora ya
-conoce a la perfección sus características, funciones y mejores prácticas. Con estos
-conocimientos, está perfectamente preparado para sacar el máximo partido a twiist
-y dar pasos significativos hacia una mejor gestión de la glucosa.
-Recuerda que el control de la diabetes es un proceso continuo. Mantente conectado
-con la comunidad twiist, utiliza los recursos de aprendizaje disponibles y no dudes
-en pedir ayuda a tu equipo de atención médica. Con twiist y el apoyo de tu entorno,
-podrás afrontar la vida con más libertad, tranquilidad y confianza en el control de tu
-diabetes.
+En este último capítulo, nos gustaría compartir un valioso recurso en vídeo que destaca el uso práctico del sistema twiist AID. En esta descripción general oficial, el equipo de twiist muestra cómo funcionan la bomba y la aplicación twiist. La guía incluye ejemplos de cómo twiist gestiona las rutinas diarias, responde a los cambios de glucosa y ayuda a controlar la diabetes de forma segura. https://www.youtube.com/watch?v=FXaK77aFcV8&t=99s Además, le animamos a que explore las perspectivas reales de personas que utilizan twiist, como en este vídeo de Justin, de Diabetech. Estas opiniones ofrecen una visión práctica de cómo twiist se adapta a la vida cotidiana y pueden ayudarle a ganar confianza en el uso del sistema. ¡Enhorabuena por completar este módulo sobre el sistema twiist AID! Ahora ya conoce a la perfección sus características, funciones y mejores prácticas. Con estos conocimientos, está perfectamente preparado para sacar el máximo partido a twiist y dar pasos significativos hacia una mejor gestión de la glucosa. Recuerda que el control de la diabetes es un proceso continuo. Mantente conectado con la comunidad twiist, utiliza los recursos de aprendizaje disponibles y no dudes en pedir ayuda a tu equipo de atención médica. Con twiist y el apoyo de tu entorno, podrás afrontar la vida con más libertad, tranquilidad y confianza en el control de tu diabetes.

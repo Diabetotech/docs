@@ -1,177 +1,45 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q8FMccjxZjnqQZb5LVKsTQS&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>6. Gestion des situations particulières</u>**
 
-Bienvenue dans cette vidéo portant sur la gestion des situations particulières avec
-le système en boucle fermée mylife Loop !
-Nous vous donnerons dans cette vidéo des conseils spécifiques sur la gestion de
-l'hypoglycémie et de l'hyperglycémie, les repas riches en graisses, la pratique
-d'activités sportives, les maladies, la consommation d'alcool et les voyages pendant
-l'utilisation de mylife Loop.
-Ces conseils sont destinés à compléter les directives générales relatives aux
-systèmes en boucle fermée. Si vous souhaitez en savoir plus sur la gestion de ces
-situations dans le contexte des systèmes en boucle fermée, reportez-vous au
-module général sur les systèmes en boucle fermée.
-En suivant ces conseils, vous disposerez des stratégies pratiques pour faire face à
-différents scénarios et assurer un contrôle optimal de la glycémie avec mylife Loop.
-Allons dans ce parcours et explorons ensemble ces différents scénarios !
-6.1 Hypoglycémie
-En cas d'hypoglycémie, vous aurez besoin de consommer moins de glucides par
-rapport à des méthodes traditionnelles, surtout si vous avez peu d'insuline à bord.
-Vous pouvez utiliser le mode paysage pour vérifier votre insuline à bord. Lorsque
-vous consommez des glucides pour traiter ou prévenir une hypoglycémie, il est
+Bienvenue dans cette vidéo portant sur la gestion des situations particulières avec le système en boucle fermée mylife Loop ! Nous vous donnerons dans cette vidéo des conseils spécifiques sur la gestion de l'hypoglycémie et de l'hyperglycémie, les repas riches en graisses, la pratique d'activités sportives, les maladies, la consommation d'alcool et les voyages pendant l'utilisation de mylife Loop. Ces conseils sont destinés à compléter les directives générales relatives aux systèmes en boucle fermée. Si vous souhaitez en savoir plus sur la gestion de ces situations dans le contexte des systèmes en boucle fermée, reportez-vous au module général sur les systèmes en boucle fermée. En suivant ces conseils, vous disposerez des stratégies pratiques pour faire face à différents scénarios et assurer un contrôle optimal de la glycémie avec mylife Loop. Allons dans ce parcours et explorons ensemble ces différents scénarios !
 
-recommandé d'entrer cette information dans la fonction [Ajouter un repas] du
-système.
-Pour éviter les épisodes d'hypoglycémie récurrents, vous pouvez utiliser le mode
-Ease-Off. Cette fonction peut également être utilisée pour prévenir l'hypoglycémie
-pendant le sport, après consommer de l'alcool, par temps chaud, et dans d'autres
-situations pertinentes.
-Le mylife Loop vous permet de fixer temporairement une valeur cible plus élevée.
-Cet ajustement peut s'avérer utile dans des scénarios, tels que :
+### 6.1 Hypoglycémie
+
+En cas d'hypoglycémie, vous aurez besoin de consommer moins de glucides par rapport à des méthodes traditionnelles, surtout si vous avez peu d'insuline à bord. Vous pouvez utiliser le mode paysage pour vérifier votre insuline à bord. Lorsque vous consommez des glucides pour traiter ou prévenir une hypoglycémie, il est recommandé d'entrer cette information dans la fonction [Ajouter un repas] du système. Pour éviter les épisodes d'hypoglycémie récurrents, vous pouvez utiliser le mode Ease-Off. Cette fonction peut également être utilisée pour prévenir l'hypoglycémie pendant le sport, après consommer de l'alcool, par temps chaud, et dans d'autres situations pertinentes. Le mylife Loop vous permet de fixer temporairement une valeur cible plus élevée. Cet ajustement peut s'avérer utile dans des scénarios, tels que :
+
 - Lors des périodes d'hypoglycémie fréquente
+
 - Pendant des vacances actives ou des séjours dans des climats plus chauds
-- Lors du démarrage d'un nouvel emploi, du retour à l'école, ou à la formation après
-une interruption.
-6.2 Hyperglycémie
-En cas d'hyperglycémie légère, il est important de faire confiance au système en
-boucle fermée mylife Loop et de le laisser fonctionner de manière autonome. Évitez
-d'administrer des bolus de correction manuelle excessifs ; ceux-ci peuvent souvent
-entraîner une hypoglycémie 1 à 3 heures plus tard.
-Dans l'exemple présenté, l’utilisateur a administré un bolus de correction pour une
-hyperglycémie à la suite d'un repas, ce qui a entraîné un épisode d'hypoglycémie
-ultérieur.
-Étant donné que l'algorithme donne déjà de l'insuline supplémentaire en cas
-d'hyperglycémie, il est plus sûr d'utiliser la fonction [Boost] pour traiter
-l'hyperglycémie, en particulier après un repas. Il est préférable d'utiliser le mode
-Boost pour aider le système à corriger rapidement les niveaux de glucose, plutôt
-que d'ajuster le ratio de glucides ou l'objectif personnel de glucose.
-Pourtant, il est conseillé de ne pas trop utiliser les modes Boost et Ease-off,
-particulièrement au début d’utilisation. Le système nécessite du temps pour prendre
-en compte les habitudes et préférences de l’utilisateur. Lorsque l’on utilise trop
-Boost ou Ease-Off, le processus d'apprentissage du système est entravé. Une
 
-analogie pour mieux visualiser cela est de le comparer à la conduite d'une voiture
-avec un pied sur l'accélérateur et l'autre sur le frein simultanément.
-En cas d'hyperglycémie sévère prolongée, il faut considérer la possibilité d'un
-problème du dispositif de perfusion. "En cas de doute, changez-le.” Il est
-recommandé d'avoir suffisamment d’articles sur soi, y compris un inserteur
-supplémentaire pour la tubulure de perfusion. Pour éviter les problèmes liés au
-dispositif de perfusion, il est conseillé de le remplacer tous les 2 ou 3 jours et de
-programmer une alarme dans l'application mylife CamAPS FX rappelant de le
-changer.
-6.3 Repas riches en graisses
-Pour les repas importants contenant plus de 60 grammes de glucides, vous pouvez
-essayer de fractionner le bolus.
--​ Administrer 50 à 75% 15 minutes avant le repas à l'aide du calculateur de
-bolus, et le reste de la dose d'insuline pendant ou après le repas à l'aide du
-calculateur de bolus ou de l'option [Ajouter un repas] avec le réglage Repas
-ou collation.
-Pour les repas qui sont lentement absorbés en raison de facteurs tels qu'un faible
-indice glycémique, une teneur élevée en graisses et en protéines ou une
-gastroparésie, vous pouvez envisager d'entrer la deuxième partie du bolus en tant
-que repas à digestion lente dans la fonction d'ajout de repas. L'algorithme fournira
-alors de petits bolus d'insuline supplémentaires toutes les 30 minutes pendant les
-3 à 4 heures suivantes, en fonction du niveau de glucose.
-Si vous avez une consommation réduite ou des habitudes alimentaires irrégulières,
-vous pouvez entrer la quantité minimale de glucides que vous consommez de
-manière fiable dans le calculateur de bolus.
-Si vous consommez finalement plus de glucides que prévu, vous pouvez ajouter la
-quantité restante ultérieurement par le biais d'un deuxième bolus ou en utilisant
-l'option [Ajouter un repas], puis Repas ou Collation.
+- Lors du démarrage d'un nouvel emploi, du retour à l'école, ou à la formation après une interruption.
 
-6.4 Exercice
-Utiliser le mode Ease-Off et réduire le bolus repas si un exercice prolongé est prévu
-dans les 2 heures suivant un repas, comme recommandé dans le module général
-sur les systèmes automatisés d'administration d'insuline.
-Si vous réduisez le bolus du repas pour éviter l'hypoglycémie, il est recommandé
-d'entrer le volume total de glucides, mais d'ajuster la recommandation de bolus en
-conséquence. Pour ce faire, appuyez sur le bolus d'insuline suggéré et ajustez la
-dose à l'aide de la molette de défilement. De cette manière, l'algorithme note que
-davantage de glucides ont été consommés.
-En plus d'utiliser Ease-Off, les directives récentes recommandent d'augmenter la
-plage cible en fonction des tendances glycémiques avant et pendant l'exercice. Si la
-glycémie mesurée par le capteur a tendance à baisser, augmentez la plage cible à
-120 à 150 mg/dL (ou 6,7 à 8,3 mmol/L) ou plus.
-N’oubliez pas que ces recommandations constituent une stratégie de départ et que
-le dosage de l'insuline doit être ajusté en fonction de vos observations individuelles
-et de vos habitudes pendant l'activité physique.
-6.5 Maladie
-L'hyperglycémie est fréquente en cas de maladie. Suivez les consignes détaillées
-dans le module principal pour gérer l'hyperglycémie dans de telles situations.
-6.6 Alcool
-Si vous buvez de l'alcool, vous pouvez essayer de prévenir l'hypoglycémie en
-augmentant temporairement votre valeur cible et/ou en utilisant la fonction Ease-off
-pour réduire l'administration d'insuline.
-Il n'est PAS du tout utile de consommer plus de glucides, étant donné que le
-système compensera toute augmentation du taux de glucose en augmentant
-l'administration d'insuline.
-6.7 Voyages
-Lorsque vous voyagez avec mylife Loop, n'oubliez pas d'emporter suffisamment de
-fournitures. N'oubliez pas le chargeur de votre smartphone et, si nécessaire, un
+### 6.2 Hyperglycémie
 
-adaptateur de prise adapté au pays dans lequel vous vous rendez. Si vous utilisez le
-capteur Dexcom G6, il est préférable d'emporter un émetteur Dexcom G6 de
-rechange.
-Prévoyez d’activer la fonction Ease-off ou de fixer un objectif glycémique personnel
-plus élevé pour les premiers jours de vos vacances. Cela peut aider à prévenir le
-risque d'hypoglycémie, en particulier si vous prévoyez d'être plus actif que
-d'habitude ou de voyager vers une destination où le temps est plus chaud.
-L'application mylife CamAPS FX ajuste automatiquement l'heure lorsque vous
-traversez des fuseaux horaires différents. Cela permet à votre système de continuer
-à fonctionner sans problème et sans intervention manuelle.
-Certaines compagnies aériennes demandent aux passagers de mettre leur
-téléphone portable en mode avion pendant le décollage et l'atterrissage, ce qui
-peut interrompre temporairement la communication Bluetooth avec mylife Loop. Si
-cela se produit, ne vous inquiétez pas. Après 30 minutes, le système passe à
-l'administration d'insuline basale préréglée jusqu'à ce que la connectivité Bluetooth
-soit rétablie. Une fois que vous êtes à nouveau autorisé à utiliser votre téléphone,
-n'oubliez pas de désactiver rapidement le mode Avion pour que le mode
-automatique reprenne.
-Dans cette vidéo informative, nous avons parlé des conseils spécifiques sur la façon
-de gérer diverses situations avec mylife Loop. De la gestion de l'hypoglycémie et de
-l'hyperglycémie aux repas riches en graisses, en passant par le sport, la maladie,
-l'alcool et les voyages, vous disposez désormais des connaissances et des
-stratégies nécessaires pour relever ces défis de manière efficace.
-N'oubliez pas que vous contrôlez la gestion de votre diabète avec mylife Loop.
-Profitez de la flexibilité, faites confiance au système et ayez confiance en votre
-capacité à gérer toutes les situations qui se présentent à vous. Vous avez tout
-compris !
+En cas d'hyperglycémie légère, il est important de faire confiance au système en boucle fermée mylife Loop et de le laisser fonctionner de manière autonome. Évitez d'administrer des bolus de correction manuelle excessifs ; ceux-ci peuvent souvent entraîner une hypoglycémie 1 à 3 heures plus tard. Dans l'exemple présenté, l’utilisateur a administré un bolus de correction pour une hyperglycémie à la suite d'un repas, ce qui a entraîné un épisode d'hypoglycémie ultérieur. Étant donné que l'algorithme donne déjà de l'insuline supplémentaire en cas d'hyperglycémie, il est plus sûr d'utiliser la fonction [Boost] pour traiter l'hyperglycémie, en particulier après un repas. Il est préférable d'utiliser le mode Boost pour aider le système à corriger rapidement les niveaux de glucose, plutôt que d'ajuster le ratio de glucides ou l'objectif personnel de glucose. Pourtant, il est conseillé de ne pas trop utiliser les modes Boost et Ease-off, particulièrement au début d’utilisation. Le système nécessite du temps pour prendre en compte les habitudes et préférences de l’utilisateur. Lorsque l’on utilise trop Boost ou Ease-Off, le processus d'apprentissage du système est entravé. Une analogie pour mieux visualiser cela est de le comparer à la conduite d'une voiture avec un pied sur l'accélérateur et l'autre sur le frein simultanément. En cas d'hyperglycémie sévère prolongée, il faut considérer la possibilité d'un problème du dispositif de perfusion. "En cas de doute, changez-le.” Il est recommandé d'avoir suffisamment d’articles sur soi, y compris un inserteur supplémentaire pour la tubulure de perfusion. Pour éviter les problèmes liés au dispositif de perfusion, il est conseillé de le remplacer tous les 2 ou 3 jours et de programmer une alarme dans l'application mylife CamAPS FX rappelant de le changer.
 
-7. Rapport de cas
-Dans cette dernière vidéo, nous présentons une vidéo YouTube passionnante de
-Tom de Type One Talks, qui a fait une excellente critique du système mylife Loop.
-Dans sa vidéo très intéressante, Tom passe en revue toutes les caractéristiques
-principales et sa propre expérience du système, tout en comparant mylife Loop à
-d'autres systèmes automatisés d'administration d'insuline, tels que Tandem
-Control-IQ. Il a testé mylife Loop avec le capteur Dexcom G6, et le capteur FreeStyle
-Libre 3, et décrit ses préférences.
-Pour visionner cette vidéo, cliquez sur le lien ci-dessous. Ce récapitulatif rapide vous
-aidera à consolider toutes les connaissances acquises dans ce module, en veillant à
-ce que vous reteniez les informations essentielles sur mylife Loop !
-https://www.youtube.com/watch?v=r4nVdTaUfSo - 22 min
-En terminant ce cours, vous avez acquis de précieuses connaissances et un aperçu
-du mylife Loop. Ces connaissances vous permettent de prendre des décisions
-réfléchies et de contrôler efficacement la gestion de votre diabète. Félicitations pour
-avoir terminé ce module !
-Voici la partie la plus ludique : Êtes-vous prêt à relever un défi dans le cadre du
-module ? Saviez-vous que vous pouvez tester l'application mylife CamAPS FX dès
-maintenant? Nous vous mettons au défi de l’essayer ! Téléchargez l'application sur
-votre smartphone, sélectionnez la pompe virtuelle et associez-la au capteur virtuel.
-Il est temps de faire l'expérience de la boucle mylife ! Et maintenant, voici le défi.
-Administrez un bolus, puis prenez une photo de cette réussite. Téléchargez cette
-photo lors de la prochaine leçon et partagez votre expérience dans la section des
-commentaires ci-dessous afin d'inspirer et de motiver d'autres personnes dans leur
-parcours de gestion du diabète. Soutenons-nous les uns les autres et faisons
-ensemble de cette leçon une expérience d'apprentissage fantastique ! N'oubliez pas que mylife Loop offre une approche révolutionnaire de
-l'administration d'insuline, vous permettant de mener une vie active et épanouie
-tout en maintenant un contrôle glycémique optimal. Saisissez les possibilités, restez
+### 6.3 Repas riches en graisses
 
-en contact avec la communauté et continuez à apprendre et à progresser dans votre
-parcours de gestion du diabète.
-Nous vous remercions de vous être joint à nous pour ce cours éducatif et nous vous
-souhaitons beaucoup de succès dans l'utilisation de mylife Loop. Ensemble, nous
-pouvons avoir un impact positif sur le diabète et améliorer la qualité de vie des
-individus dans le monde entier.
+Pour les repas importants contenant plus de 60 grammes de glucides, vous pouvez essayer de fractionner le bolus.
+
+- Administrer 50 à 75% 15 minutes avant le repas à l'aide du calculateur de bolus, et le reste de la dose d'insuline pendant ou après le repas à l'aide du calculateur de bolus ou de l'option [Ajouter un repas] avec le réglage Repas ou collation. Pour les repas qui sont lentement absorbés en raison de facteurs tels qu'un faible indice glycémique, une teneur élevée en graisses et en protéines ou une gastroparésie, vous pouvez envisager d'entrer la deuxième partie du bolus en tant que repas à digestion lente dans la fonction d'ajout de repas. L'algorithme fournira alors de petits bolus d'insuline supplémentaires toutes les 30 minutes pendant les 3 à 4 heures suivantes, en fonction du niveau de glucose. Si vous avez une consommation réduite ou des habitudes alimentaires irrégulières, vous pouvez entrer la quantité minimale de glucides que vous consommez de manière fiable dans le calculateur de bolus. Si vous consommez finalement plus de glucides que prévu, vous pouvez ajouter la quantité restante ultérieurement par le biais d'un deuxième bolus ou en utilisant l'option [Ajouter un repas], puis Repas ou Collation.
+
+### 6.4 Exercice
+
+Utiliser le mode Ease-Off et réduire le bolus repas si un exercice prolongé est prévu dans les 2 heures suivant un repas, comme recommandé dans le module général sur les systèmes automatisés d'administration d'insuline. Si vous réduisez le bolus du repas pour éviter l'hypoglycémie, il est recommandé d'entrer le volume total de glucides, mais d'ajuster la recommandation de bolus en conséquence. Pour ce faire, appuyez sur le bolus d'insuline suggéré et ajustez la dose à l'aide de la molette de défilement. De cette manière, l'algorithme note que davantage de glucides ont été consommés. En plus d'utiliser Ease-Off, les directives récentes recommandent d'augmenter la plage cible en fonction des tendances glycémiques avant et pendant l'exercice. Si la glycémie mesurée par le capteur a tendance à baisser, augmentez la plage cible à 120 à 150 mg/dL (ou 6.7 à 8.3 mmol/L) ou plus.
+
+N’oubliez pas que ces recommandations constituent une stratégie de départ et que le dosage de l'insuline doit être ajusté en fonction de vos observations individuelles et de vos habitudes pendant l'activité physique.
+
+### 6.5 Maladie
+
+L'hyperglycémie est fréquente en cas de maladie. Suivez les consignes détaillées dans le module principal pour gérer l'hyperglycémie dans de telles situations.
+
+### 6.6 Alcool
+
+Si vous buvez de l'alcool, vous pouvez essayer de prévenir l'hypoglycémie en augmentant temporairement votre valeur cible et/ou en utilisant la fonction Ease-off pour réduire l'administration d'insuline. Il n'est PAS du tout utile de consommer plus de glucides, étant donné que le système compensera toute augmentation du taux de glucose en augmentant l'administration d'insuline.
+
+### 6.7 Voyages
+
+Lorsque vous voyagez avec mylife Loop, n'oubliez pas d'emporter suffisamment de fournitures. N'oubliez pas le chargeur de votre smartphone et, si nécessaire, un adaptateur de prise adapté au pays dans lequel vous vous rendez. Si vous utilisez le capteur Dexcom G6, il est préférable d'emporter un émetteur Dexcom G6 de rechange. Prévoyez d’activer la fonction Ease-off ou de fixer un objectif glycémique personnel plus élevé pour les premiers jours de vos vacances. Cela peut aider à prévenir le risque d'hypoglycémie, en particulier si vous prévoyez d'être plus actif que d'habitude ou de voyager vers une destination où le temps est plus chaud. L'application mylife CamAPS FX ajuste automatiquement l'heure lorsque vous traversez des fuseaux horaires différents. Cela permet à votre système de continuer à fonctionner sans problème et sans intervention manuelle. Certaines compagnies aériennes demandent aux passagers de mettre leur téléphone portable en mode avion pendant le décollage et l'atterrissage, ce qui peut interrompre temporairement la communication Bluetooth avec mylife Loop. Si cela se produit, ne vous inquiétez pas. Après 30 minutes, le système passe à l'administration d'insuline basale préréglée jusqu'à ce que la connectivité Bluetooth soit rétablie. Une fois que vous êtes à nouveau autorisé à utiliser votre téléphone, n'oubliez pas de désactiver rapidement le mode Avion pour que le mode automatique reprenne. Dans cette vidéo informative, nous avons parlé des conseils spécifiques sur la façon de gérer diverses situations avec mylife Loop. De la gestion de l'hypoglycémie et de l'hyperglycémie aux repas riches en graisses, en passant par le sport, la maladie, l'alcool et les voyages, vous disposez désormais des connaissances et des stratégies nécessaires pour relever ces défis de manière efficace. N'oubliez pas que vous contrôlez la gestion de votre diabète avec mylife Loop. Profitez de la flexibilité, faites confiance au système et ayez confiance en votre capacité à gérer toutes les situations qui se présentent à vous. Vous avez tout compris ! 7. Rapport de cas Dans cette dernière vidéo, nous présentons une vidéo YouTube passionnante de Tom de Type One Talks, qui a fait une excellente critique du système mylife Loop. Dans sa vidéo très intéressante, Tom passe en revue toutes les caractéristiques principales et sa propre expérience du système, tout en comparant mylife Loop à d'autres systèmes automatisés d'administration d'insuline, tels que Tandem Control-IQ. Il a testé mylife Loop avec le capteur Dexcom G6, et le capteur FreeStyle Libre 3, et décrit ses préférences. Pour visionner cette vidéo, cliquez sur le lien ci-dessous. Ce récapitulatif rapide vous aidera à consolider toutes les connaissances acquises dans ce module, en veillant à ce que vous reteniez les informations essentielles sur mylife Loop ! https://www.youtube.com/watch?v=r4nVdTaUfSo - 22 min En terminant ce cours, vous avez acquis de précieuses connaissances et un aperçu du mylife Loop. Ces connaissances vous permettent de prendre des décisions réfléchies et de contrôler efficacement la gestion de votre diabète. Félicitations pour avoir terminé ce module ! Voici la partie la plus ludique : Êtes-vous prêt à relever un défi dans le cadre du module ? Saviez-vous que vous pouvez tester l'application mylife CamAPS FX dès maintenant? Nous vous mettons au défi de l’essayer ! Téléchargez l'application sur votre smartphone, sélectionnez la pompe virtuelle et associez-la au capteur virtuel. Il est temps de faire l'expérience de la boucle mylife ! Et maintenant, voici le défi. Administrez un bolus, puis prenez une photo de cette réussite. Téléchargez cette photo lors de la prochaine leçon et partagez votre expérience dans la section des commentaires ci-dessous afin d'inspirer et de motiver d'autres personnes dans leur parcours de gestion du diabète. Soutenons-nous les uns les autres et faisons ensemble de cette leçon une expérience d'apprentissage fantastique ! N'oubliez pas que mylife Loop offre une approche révolutionnaire de l'administration d'insuline, vous permettant de mener une vie active et épanouie tout en maintenant un contrôle glycémique optimal. Saisissez les possibilités, restez en contact avec la communauté et continuez à apprendre et à progresser dans votre parcours de gestion du diabète. Nous vous remercions de vous être joint à nous pour ce cours éducatif et nous vous souhaitons beaucoup de succès dans l'utilisation de mylife Loop. Ensemble, nous pouvons avoir un impact positif sur le diabète et améliorer la qualité de vie des individus dans le monde entier.

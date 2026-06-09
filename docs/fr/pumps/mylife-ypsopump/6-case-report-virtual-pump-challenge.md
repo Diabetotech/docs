@@ -1,36 +1,7 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q8Mn3eWIhCxIbZY60AAJnkZ&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>6. Rapport de cas et l’exercice de la pompe virtuelle</u>**
 
-Dans ce dernier chapitre, nous aimerions présenter Tom de TypeOneTalks, une
-personne inspirante vivant avec un diabète de type 1, qui partage son expérience
-avec la pompe mylife YpsoPump.
-Grâce à son expérience personnelle sur une longue période, Tom nous éclairera sur
-les points forts et les limites de la pompe, ainsi que sur les stratégies pratiques qu'il
-a développées pour gérer efficacement son diabète.
-Ne manquez pas cet aperçu de l'YpsoPump mylife et de la façon dont il peut faire la
-différence dans votre vie. Cliquez sur le lien en dessous de cette vidéo pour voir
-l'avis de Tom.
-https://www.youtube.com/watch?v=NyVc4u1XPiA - 12 min
-En plus de la vidéo de Tom, nous aimerions vous présenter l'application YpsoPump
-Explorer, une simulation virtuelle de la pompe mylife YpsoPump disponible sur
-
-votre smartphone. Cette application vous permet de vous familiariser avec les
-caractéristiques de la pompe, de simuler l'administration basale et d'administrer des
-bolus d'insuline. Elle offre un environnement sûr et éducatif pour mieux comprendre
-le fonctionnement de la pompe.
-Maintenant, injectons un peu de fun dans cette aventure de la pompe à insuline !
-Essayez l'application YpsoPump Explorer et montrez vos compétences en matière
-de simulation de bolus. Partagez une capture d'écran de votre pompe dans la
-section des commentaires et rejoignez notre communauté de soutien des maîtres de
-la pompe. Il est temps de célébrer ensemble vos prouesses en matière de pompe à
-insuline ! Faites le plein d'énergie et que la fête de la simulation commence !
-Félicitations encore une fois pour avoir terminé ce module ! En terminant ce cours,
-vous avez acquis des connaissances cruciales sur la pompe mylife YpsoPump et fait
-un grand pas en avant dans la gestion du diabète.
-Nous vous remercions sincèrement de vous être embarqués dans ce voyage avec
-nous ! Nous sommes vraiment reconnaissants de votre participation et de votre
-dévouement. Nous vous souhaitons beaucoup de succès dans la gestion de votre
-diabète grâce à la pompe mylife YpsoPump. Poursuivez votre travail fantastique !
+Dans ce dernier chapitre, nous aimerions présenter Tom de TypeOneTalks, une personne inspirante vivant avec un diabète de type 1, qui partage son expérience avec la pompe mylife YpsoPump. Grâce à son expérience personnelle sur une longue période, Tom nous éclairera sur les points forts et les limites de la pompe, ainsi que sur les stratégies pratiques qu'il a développées pour gérer efficacement son diabète. Ne manquez pas cet aperçu de l'YpsoPump mylife et de la façon dont il peut faire la différence dans votre vie. Cliquez sur le lien en dessous de cette vidéo pour voir l'avis de Tom. https://www.youtube.com/watch?v=NyVc4u1XPiA - 12 min En plus de la vidéo de Tom, nous aimerions vous présenter l'application YpsoPump Explorer, une simulation virtuelle de la pompe mylife YpsoPump disponible sur votre smartphone. Cette application vous permet de vous familiariser avec les caractéristiques de la pompe, de simuler l'administration basale et d'administrer des bolus d'insuline. Elle offre un environnement sûr et éducatif pour mieux comprendre le fonctionnement de la pompe. Maintenant, injectons un peu de fun dans cette aventure de la pompe à insuline ! Essayez l'application YpsoPump Explorer et montrez vos compétences en matière de simulation de bolus. Partagez une capture d'écran de votre pompe dans la section des commentaires et rejoignez notre communauté de soutien des maîtres de la pompe. Il est temps de célébrer ensemble vos prouesses en matière de pompe à insuline ! Faites le plein d'énergie et que la fête de la simulation commence ! Félicitations encore une fois pour avoir terminé ce module ! En terminant ce cours, vous avez acquis des connaissances cruciales sur la pompe mylife YpsoPump et fait un grand pas en avant dans la gestion du diabète. Nous vous remercions sincèrement de vous être embarqués dans ce voyage avec nous ! Nous sommes vraiment reconnaissants de votre participation et de votre dévouement. Nous vous souhaitons beaucoup de succès dans la gestion de votre diabète grâce à la pompe mylife YpsoPump. Poursuivez votre travail fantastique !

@@ -1,56 +1,7 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_PD_A2tOqTiWCx9oozwkHq&index=6" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>7. Rapport de cas</u>**
 
-Dans ce dernier chapitre du cours AndroidAPS, nous explorerons l'utilisation
-pratique de Nightscout, un outil puissant pour le suivi et l'analyse des données sur
-le diabète.
-
-Nous présenterons des exemples réels de Nightscout en action, en soulignant les
-avantages d'AndroidAPS et son impact sur le contrôle de la glycémie. En
-comprenant ces exemples, vous comprendrez comment AndroidAPS et Nightscout
-travaillent ensemble pour optimiser l'administration d'insuline et améliorer la
-qualité de vie des personnes atteintes de diabète.
-https://www.youtube.com/watch?v=Rapie09b61M - 1 min
-Vous pouvez voir ici une vidéo timelapse d'un compte Nightscout pour démontrer la
-nature dynamique d'AndroidAPS et de Nightscout. Au départ, le système
-fonctionne avec des bases temporaires, comme dans le mode AMA d'OpenAPS. Au
-fil du temps, le système passe à l'utilisation de supermicroboles. Ce timelapse
-montre de manière frappante les prédictions en constante évolution et les
-ajustements effectués par l'algorithme pour maintenir les taux de glucose dans la
-plage cible.
-Dans cet exemple de Nightscout, vous pouvez observer une personne souffrant
-régulièrement d'hypoglycémie après des bolus de repas. Ce schéma peut indiquer
-un rapport glucidique trop faible. L'augmentation du rapport glucidique peut aider à
-prévenir l'hypoglycémie post-prandiale et à assurer un meilleur contrôle de la
-glycémie.
-En examinant un autre exemple de Nightscout, vous pouvez remarquer qu'une
-hypoglycémie se produit à midi, bien que l'algorithme réduise régulièrement
-l'insuline basale entre 8 heures et 12 heures. Si ce schéma se répète régulièrement,
-cela suggère que le débit d'insuline de base du matin est peut-être trop élevé.
-L'ajustement du débit de base du matin peut aider à prévenir l'administration
-excessive d'insuline pendant cette période et à réduire le risque d'hypoglycémie.
-Dans cet exemple de Nightscout, vous pouvez observer un taux de glucose à la
-limite de l'hypoglycémie le matin, accompagné d'un taux d'insuline négatif à bord.
-Ces indications suggèrent que le taux d'insuline de base pendant la nuit pourrait
-être trop élevé. Diminuer le débit de base pendant la nuit peut aider à maintenir des
-taux de glucose stables au réveil et à éviter l'hypoglycémie.
-Si vous constatez des fluctuations importantes de la glycémie après des ajustements temporaires basaux, cela peut indiquer que l'administration
-automatique d'insuline réagit de manière trop agressive. Cela peut être dû à un
-réglage de la sensibilité à l'insuline trop agressif ou trop faible. La modification des
-paramètres de sensibilité peut contribuer à atténuer les fluctuations de la glycémie
-et à optimiser le contrôle de la glycémie.
-Félicitations pour avoir terminé le module sur l’AndroidAPS ! En intégrant
-AndroidAPS à Nightscout, vous pouvez surveiller et gérer efficacement votre
-diabète en utilisant des données en temps réel. Nightscout vous permet de
-visualiser l'impact d'AndroidAPS sur votre contrôle glycémique et d'identifier les
-points à améliorer. Les exemples présentés soulignent l'importance d'affiner les
-paramètres d'AndroidAPS, tels que les ratios de glucides, les débits d'insuline
-basaux, et la réactivité à l'insuline, pour parvenir à une gestion optimale du glucose
-et améliorer votre qualité de vie.
-N'oubliez pas de toujours consulter votre professionnel de santé avant d'apporter
-des modifications à votre régime de gestion du diabète. AndroidAPS, en
-combinaison avec Nightscout, vous permet de prendre le contrôle de votre diabète
-et de prendre des décisions éclairées pour atteindre vos objectifs de traitement.
+Dans ce dernier chapitre du cours AndroidAPS, nous explorerons l'utilisation pratique de Nightscout, un outil puissant pour le suivi et l'analyse des données sur le diabète. Nous présenterons des exemples réels de Nightscout en action, en soulignant les avantages d'AndroidAPS et son impact sur le contrôle de la glycémie. En comprenant ces exemples, vous comprendrez comment AndroidAPS et Nightscout travaillent ensemble pour optimiser l'administration d'insuline et améliorer la qualité de vie des personnes atteintes de diabète. https://www.youtube.com/watch?v=Rapie09b61M - 1 min Vous pouvez voir ici une vidéo timelapse d'un compte Nightscout pour démontrer la nature dynamique d'AndroidAPS et de Nightscout. Au départ, le système fonctionne avec des bases temporaires, comme dans le mode AMA d'OpenAPS. Au fil du temps, le système passe à l'utilisation de supermicroboles. Ce timelapse montre de manière frappante les prédictions en constante évolution et les ajustements effectués par l'algorithme pour maintenir les taux de glucose dans la plage cible. Dans cet exemple de Nightscout, vous pouvez observer une personne souffrant régulièrement d'hypoglycémie après des bolus de repas. Ce schéma peut indiquer un rapport glucidique trop faible. L'augmentation du rapport glucidique peut aider à prévenir l'hypoglycémie post-prandiale et à assurer un meilleur contrôle de la glycémie. En examinant un autre exemple de Nightscout, vous pouvez remarquer qu'une hypoglycémie se produit à midi, bien que l'algorithme réduise régulièrement l'insuline basale entre 8 heures et 12 heures. Si ce schéma se répète régulièrement, cela suggère que le débit d'insuline de base du matin est peut-être trop élevé. L'ajustement du débit de base du matin peut aider à prévenir l'administration excessive d'insuline pendant cette période et à réduire le risque d'hypoglycémie. Dans cet exemple de Nightscout, vous pouvez observer un taux de glucose à la limite de l'hypoglycémie le matin, accompagné d'un taux d'insuline négatif à bord. Ces indications suggèrent que le taux d'insuline de base pendant la nuit pourrait être trop élevé. Diminuer le débit de base pendant la nuit peut aider à maintenir des taux de glucose stables au réveil et à éviter l'hypoglycémie. Si vous constatez des fluctuations importantes de la glycémie après des ajustements temporaires basaux, cela peut indiquer que l'administration automatique d'insuline réagit de manière trop agressive. Cela peut être dû à un réglage de la sensibilité à l'insuline trop agressif ou trop faible. La modification des paramètres de sensibilité peut contribuer à atténuer les fluctuations de la glycémie et à optimiser le contrôle de la glycémie. Félicitations pour avoir terminé le module sur l’AndroidAPS ! En intégrant AndroidAPS à Nightscout, vous pouvez surveiller et gérer efficacement votre diabète en utilisant des données en temps réel. Nightscout vous permet de visualiser l'impact d'AndroidAPS sur votre contrôle glycémique et d'identifier les points à améliorer. Les exemples présentés soulignent l'importance d'affiner les paramètres d'AndroidAPS, tels que les ratios de glucides, les débits d'insuline basaux, et la réactivité à l'insuline, pour parvenir à une gestion optimale du glucose et améliorer votre qualité de vie. N'oubliez pas de toujours consulter votre professionnel de santé avant d'apporter des modifications à votre régime de gestion du diabète. AndroidAPS, en combinaison avec Nightscout, vous permet de prendre le contrôle de votre diabète et de prendre des décisions éclairées pour atteindre vos objectifs de traitement.

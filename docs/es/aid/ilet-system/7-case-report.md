@@ -1,40 +1,8 @@
-<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-AAmebC1PJ-Rdq6oEdsEah -->
+﻿<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-AAmebC1PJ-Rdq6oEdsEah -->
 <div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>7. Informe del caso</u>**
 
-Bienvenido a la conclusión de este módulo y enhorabuena por haber completado su
-exploración del sistema iLet. A lo largo de este viaje, has adquirido valiosos
-conocimientos sobre las características, funcionalidades y mejores prácticas de este
-innovador sistema híbrido de administración automática de insulina.
-Para profundizar en el impacto y la eficacia del sistema iLet, te recomendamos que
-veas una interesante reseña en vídeo de YouTube realizada por Justin de Diabetech
-y el Dr. Mike Natter, que padece diabetes de tipo 1 y ha utilizado personalmente el
-sistema.
-Aunque el vídeo dura casi una hora, ofrece una visión completa de los puntos
-fuertes y las limitaciones del sistema. El Dr. Natter destaca la sencillez del sistema,
-
-al tiempo que señala su incapacidad para ajustar manualmente la administración de
-insulina en función de las actividades previstas. Si bien el sistema es excelente para
-las personas con rutinas constantes, su eficacia puede variar para aquellos con
-horarios fluctuantes.
-Para acceder a esta reseña, basta con hacer clic en el enlace que aparece debajo del
-vídeo:
-https://www.youtube.com/watch?v=6ebLrH0CVq0
-Agradecemos sinceramente su dedicación al aprendizaje del sistema iLet. Al
-adquirir conocimientos y comprensión, está participando activamente en el control
-eficaz de la diabetes. El sistema iLet tiene el potencial de mejorar significativamente
-su calidad de vida, ofreciéndole un mayor control y tranquilidad en su control diario
-de la diabetes.
-Recuerde consultar siempre a su profesional sanitario para obtener orientación y
-apoyo personalizados en el uso del sistema iLet. Si se mantiene informado, se
-relaciona con sus compañeros y utiliza los recursos disponibles, podrá enfrentarse
-con confianza a las complejidades del control de la diabetes y aprovechar las
-funciones avanzadas del sistema iLet.
-Aproveche las posibilidades que le ofrece el sistema iLet y permítase llevar una vida
-plena mientras controla eficazmente su diabetes. Juntos podemos influir
-positivamente en la vida de las personas con diabetes.
-Sigan con su excelente trabajo y les deseamos mucho éxito en su viaje por la
-diabetes.
+Bienvenido a la conclusión de este módulo y enhorabuena por haber completado su exploración del sistema iLet. A lo largo de este viaje, has adquirido valiosos conocimientos sobre las características, funcionalidades y mejores prácticas de este innovador sistema híbrido de administración automática de insulina. Para profundizar en el impacto y la eficacia del sistema iLet, te recomendamos que veas una interesante reseña en vídeo de YouTube realizada por Justin de Diabetech y el Dr. Mike Natter, que padece diabetes de tipo 1 y ha utilizado personalmente el sistema. Aunque el vídeo dura casi una hora, ofrece una visión completa de los puntos fuertes y las limitaciones del sistema. El Dr. Natter destaca la sencillez del sistema, al tiempo que señala su incapacidad para ajustar manualmente la administración de insulina en función de las actividades previstas. Si bien el sistema es excelente para las personas con rutinas constantes, su eficacia puede variar para aquellos con horarios fluctuantes. Para acceder a esta reseña, basta con hacer clic en el enlace que aparece debajo del vídeo: https://www.youtube.com/watch?v=6ebLrH0CVq0 Agradecemos sinceramente su dedicación al aprendizaje del sistema iLet. Al adquirir conocimientos y comprensión, está participando activamente en el control eficaz de la diabetes. El sistema iLet tiene el potencial de mejorar significativamente su calidad de vida, ofreciéndole un mayor control y tranquilidad en su control diario de la diabetes. Recuerde consultar siempre a su profesional sanitario para obtener orientación y apoyo personalizados en el uso del sistema iLet. Si se mantiene informado, se relaciona con sus compañeros y utiliza los recursos disponibles, podrá enfrentarse con confianza a las complejidades del control de la diabetes y aprovechar las funciones avanzadas del sistema iLet. Aproveche las posibilidades que le ofrece el sistema iLet y permítase llevar una vida plena mientras controla eficazmente su diabetes. Juntos podemos influir positivamente en la vida de las personas con diabetes. Sigan con su excelente trabajo y les deseamos mucho éxito en su viaje por la diabetes.

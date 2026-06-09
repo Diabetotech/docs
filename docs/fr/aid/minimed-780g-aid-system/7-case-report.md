@@ -1,31 +1,7 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q_UdmBwkijA9l529iYSE5F6&index=4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>7. Rapport de cas</u>**
 
-Pour conclure ce module sur le système MiniMed 780G, nous souhaitons vous faire
-part d'une expertise personnelle et détaillée qui met en lumière les aspects
-pratiques de l'utilisation de cette technologie avancée de gestion du diabète. Nous
-vous invitons à regarder une vidéo de Diabetic Danica, dans laquelle elle partage
-son expérience après avoir utilisé le système MiniMed 780G avec le CGM Guardian
-4 en mode SmartGuard pendant un mois.
-Vous pouvez visionner son commentaire en cliquant sur le lien ci-dessous :
-Mes opinions : Pompe à insuline Medtronic MiniMed 780G avec CGM Guardian 4
-dans SmartGuard !
-Nous vous félicitons d'avoir suivi ce cours et d'avoir acquis de précieuses
-connaissances sur le système MiniMed 780G. L'analyse franche de Danica offre un
-point de vue intéressant sur les avantages et les inconvénients du système, et vous
-aide à comprendre comment cette technologie pourrait s'intégrer à votre propre
-parcours de gestion du diabète.
-https://www.youtube.com/watch?v=Ji2wsUnXmFw - 2 min
-
-Pour bénéficier d'un soutien supplémentaire et entrer en contact avec une
-communauté dynamique, nous vous encourageons à rejoindre des groupes
-Facebook pertinents où vous pourrez échanger des expériences, demander des
-conseils, et trouver des encouragements auprès d'autres personnes qui
-comprennent les défis et les réussites de la gestion du diabète de type 1.
-Profitez des possibilités qui s'offrent à vous, muni de connaissances, d'une
-technologie de pointe et du soutien d'une communauté qui se tient à vos côtés.
-Votre parcours avec le système MiniMed 780G ne fait que commencer, et nous vous
-souhaitons de la réussite, de l'autonomie et une vie remplie de liberté et de joie.
+Pour conclure ce module sur le système MiniMed 780G, nous souhaitons vous faire part d'une expertise personnelle et détaillée qui met en lumière les aspects pratiques de l'utilisation de cette technologie avancée de gestion du diabète. Nous vous invitons à regarder une vidéo de Diabetic Danica, dans laquelle elle partage son expérience après avoir utilisé le système MiniMed 780G avec le CGM Guardian 4 en mode SmartGuard pendant un mois. Vous pouvez visionner son commentaire en cliquant sur le lien ci-dessous : Mes opinions : Pompe à insuline Medtronic MiniMed 780G avec CGM Guardian 4 dans SmartGuard ! Nous vous félicitons d'avoir suivi ce cours et d'avoir acquis de précieuses connaissances sur le système MiniMed 780G. L'analyse franche de Danica offre un point de vue intéressant sur les avantages et les inconvénients du système, et vous aide à comprendre comment cette technologie pourrait s'intégrer à votre propre parcours de gestion du diabète. https://www.youtube.com/watch?v=Ji2wsUnXmFw - 2 min Pour bénéficier d'un soutien supplémentaire et entrer en contact avec une communauté dynamique, nous vous encourageons à rejoindre des groupes Facebook pertinents où vous pourrez échanger des expériences, demander des conseils, et trouver des encouragements auprès d'autres personnes qui comprennent les défis et les réussites de la gestion du diabète de type 1. Profitez des possibilités qui s'offrent à vous, muni de connaissances, d'une technologie de pointe et du soutien d'une communauté qui se tient à vos côtés. Votre parcours avec le système MiniMed 780G ne fait que commencer, et nous vous souhaitons de la réussite, de l'autonomie et une vie remplie de liberté et de joie.

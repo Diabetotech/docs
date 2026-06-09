@@ -1,36 +1,9 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-3nzUEY0HVkzR2fXV9bhLj&index=6" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>7. Rapport de cas</u>**
 
-Bienvenue dans cette dernière vidéo sur le système Tandem Mobi!
-Tout d'abord, nous vous félicitons d'avoir terminé ce module sur le système Tandem Mobi! Vous avez maintenant acquis des
-connaissances précieuses sur les
+Bienvenue dans cette dernière vidéo sur le système Tandem Mobi! Tout d'abord, nous vous félicitons d'avoir terminé ce module sur le système Tandem Mobi! Vous avez maintenant acquis des connaissances précieuses sur les
 
-caractéristiques, les fonctionnalités et les meilleures pratiques de ce système innovant
-d'administration automatisée d'insuline.
-Pour bien saisir l'impact et l'efficacité du système Tandem Mobi, nous vous
-recommandons vivement de regarder une interview perspicace réalisée sur YouTube
-par Justin de Diabetech.
-Cette vidéo contient des discussions avec Lissy Poyner, a Diabetes Health Coach vivant
-avec un diabète de type 1 qui a utilisé le système Tandem Mobi pendant 3 mois. C'est
-
-une longue vidéo, mais elle en vaut la peine! Pour accéder à cette analyse, il suffit de
-cliquer sur le lien situé sous la vidéo.
-https://www.youtube.com/watch?v=nYrLFBAMvbk&t=12s 40 minutes
-Nous tenons à vous remercier de votre engagement à vous informer sur le système
-Tandem Mobi. En vous dotant de connaissances et de compréhension, vous jouez un
-rôle actif dans la gestion efficace de votre diabète. Le système Tandem Mobi a le
-potentiel d'améliorer considérablement votre qualité de vie, en vous offrant un meilleur
-contrôle et une plus grande tranquillité d'esprit dans votre parcours quotidien.
-N'oubliez pas de toujours consulter votre prestataire de soins de santé pour obtenir des
-conseils et un soutien personnalisés sur l'utilisation du système Tandem Mobi. En
-restant informé, en vous connectant avec vos pairs et en utilisant les ressources
-disponibles, vous pouvez naviguer en toute confiance dans les méandres de la gestion
-du diabète et bénéficier des fonctions avancées offertes par le système Tandem Mobi.
-Continuez à profiter des possibilités offertes par le Tandem Mobi et donnez-vous les
-moyens de mener une vie épanouie tout en gérant efficacement votre diabète.
-Ensemble, nous pouvons faire une différence positive dans la vie des personnes vivant
-avec le diabète.
-Vous avez été formidable! Tous mes vœux de réussite dans ton parcours de diabétique!
+caractéristiques, les fonctionnalités et les meilleures pratiques de ce système innovant d'administration automatisée d'insuline. Pour bien saisir l'impact et l'efficacité du système Tandem Mobi, nous vous recommandons vivement de regarder une interview perspicace réalisée sur YouTube par Justin de Diabetech. Cette vidéo contient des discussions avec Lissy Poyner, a Diabetes Health Coach vivant avec un diabète de type 1 qui a utilisé le système Tandem Mobi pendant 3 mois. C'est une longue vidéo, mais elle en vaut la peine! Pour accéder à cette analyse, il suffit de cliquer sur le lien situé sous la vidéo. https://www.youtube.com/watch?v=nYrLFBAMvbk&t=12s 40 minutes Nous tenons à vous remercier de votre engagement à vous informer sur le système Tandem Mobi. En vous dotant de connaissances et de compréhension, vous jouez un rôle actif dans la gestion efficace de votre diabète. Le système Tandem Mobi a le potentiel d'améliorer considérablement votre qualité de vie, en vous offrant un meilleur contrôle et une plus grande tranquillité d'esprit dans votre parcours quotidien. N'oubliez pas de toujours consulter votre prestataire de soins de santé pour obtenir des conseils et un soutien personnalisés sur l'utilisation du système Tandem Mobi. En restant informé, en vous connectant avec vos pairs et en utilisant les ressources disponibles, vous pouvez naviguer en toute confiance dans les méandres de la gestion du diabète et bénéficier des fonctions avancées offertes par le système Tandem Mobi. Continuez à profiter des possibilités offertes par le Tandem Mobi et donnez-vous les moyens de mener une vie épanouie tout en gérant efficacement votre diabète. Ensemble, nous pouvons faire une différence positive dans la vie des personnes vivant avec le diabète. Vous avez été formidable! Tous mes vœux de réussite dans ton parcours de diabétique!

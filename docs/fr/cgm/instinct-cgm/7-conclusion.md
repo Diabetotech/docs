@@ -1,30 +1,7 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q9zFUaZE9vnhGQllF1hmcIt&index=6" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>7. Conclusion</u>**
 
-Félicitations pour avoir terminé ce module sur le capteur Instinct !
-
-En apprenant comment fonctionne ce CGM, vous avez franchi une étape décisive
-vers une gestion plus confiante et plus efficace de votre diabète.
-Maintenant que vous maîtrisez bien la théorie, nous vous suggérons de regarder la
-vidéo YouTube ci-dessous pour obtenir un avis d'expert supplémentaire sur le
-système de surveillance continue du glucose Instinct.
-https://youtu.be/ai-E5Ch7Y1c?si=eXhECUYwaoXMjP92
-Dans cette vidéo, Justin, de Diabetech, s'entretient avec Laura Endres, de Medtronic,
-qui explique les principales fonctionnalités du capteur, en fait une démonstration en
-direct et explique comment il s'intègre au système 780G et à l'InPen. Ils comparent
-également Instinct à Simplera et discutent de l'avenir de la technologie de
-Medtronic dans le domaine du diabète.
-En combinant ces commentaires d'experts avec ce que vous avez appris dans ce
-module, vous pourrez mieux comprendre les atouts techniques du capteur Instinct
-et mettre ces capacités en pratique au quotidien.
-Une dernière remarque : n’oubliez pas que vous n'êtes pas seul dans cette aventure.
-Votre équipe soignante, d'autres personnes diabétiques, et des communautés en
-ligne sont là pour vous soutenir. Continuez à tirer le meilleur parti des solutions
-innovantes d'aujourd'hui pour garder une longueur d'avance et orienter votre santé
-dans la bonne direction.
-Une fois encore, félicitations pour avoir terminé ce module. Que vos connaissances
-grandissantes et votre engagement constant continuent à vous propulser vers
-l'avenir auquel vous aspirez.
+Félicitations pour avoir terminé ce module sur le capteur Instinct ! En apprenant comment fonctionne ce CGM, vous avez franchi une étape décisive vers une gestion plus confiante et plus efficace de votre diabète. Maintenant que vous maîtrisez bien la théorie, nous vous suggérons de regarder la vidéo YouTube ci-dessous pour obtenir un avis d'expert supplémentaire sur le système de surveillance continue du glucose Instinct. https://youtu.be/ai-E5Ch7Y1c?si=eXhECUYwaoXMjP92 Dans cette vidéo, Justin, de Diabetech, s'entretient avec Laura Endres, de Medtronic, qui explique les principales fonctionnalités du capteur, en fait une démonstration en direct et explique comment il s'intègre au système 780G et à l'InPen. Ils comparent également Instinct à Simplera et discutent de l'avenir de la technologie de Medtronic dans le domaine du diabète. En combinant ces commentaires d'experts avec ce que vous avez appris dans ce module, vous pourrez mieux comprendre les atouts techniques du capteur Instinct et mettre ces capacités en pratique au quotidien. Une dernière remarque : n’oubliez pas que vous n'êtes pas seul dans cette aventure. Votre équipe soignante, d'autres personnes diabétiques, et des communautés en ligne sont là pour vous soutenir. Continuez à tirer le meilleur parti des solutions innovantes d'aujourd'hui pour garder une longueur d'avance et orienter votre santé dans la bonne direction. Une fois encore, félicitations pour avoir terminé ce module. Que vos connaissances grandissantes et votre engagement constant continuent à vous propulser vers l'avenir auquel vous aspirez.

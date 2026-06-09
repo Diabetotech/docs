@@ -1,25 +1,53 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6l1_h6_ltSc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>2. Colocación del sensor</u>**
 
-<span class="mark">Bienvenido a esta lección sobre cómo colocar el sensor Simplera.</span>
+Bienvenido a esta lección sobre cómo colocar el sensor Simplera.
 
-<span class="mark">En este capítulo, le guiaremos a través del proceso de colocación y extracción del sensor Simplera.</span>
+En este capítulo, le guiaremos a través del proceso de colocación y extracción del sensor Simplera.
 
-<span class="mark">2.1 Suministros Para colocar correctamente el sensor, reúna los siguientes suministros: un aplicador de sensor con un sensor Simplera precargado y toallitas con alcohol para una higiene adecuada.</span>
+### 2.1 Suministros Para colocar
 
-<span class="mark">2.2 Colocación del sensor Para insertar el sensor, elija primero el lugar de colocación. El sensor Simplera está aprobado para su colocación en la parte posterior de la parte superior del brazo. Los niños de 2 a 17 años pueden colocar el sensor en los tercios superiores de las nalgas.</span>
+correctamente el sensor, reúna los siguientes suministros: un aplicador de sensor con un sensor Simplera precargado y toallitas con alcohol para una higiene adecuada.
 
-<span class="mark">Al insertar el sensor, es fundamental seguir cuidadosamente algunos pasos. ●​ Empiece por lavarse las manos y desinfectar la zona de inserción con una toallita con alcohol. Deje que su piel se seque completamente al aire antes de proceder. ●​ Retire el capuchón e introduzca inmediatamente el sensor en su cuerpo. No utilice el sensor si se ha contaminado. Por ejemplo, si se le ha caído al suelo el sensor sin tapar. Coloque el insertador en la parte posterior de la parte superior del brazo. Puede alcanzar esta zona levantando el brazo o rodeándolo con la otra mano. Asegúrese de que todos los bordes del insertador estén en contacto con su piel. Para insertar el sensor, presione el insertador contra su piel con un movimiento fluido hasta que oiga un clic. Luego, retire suavemente el insertador alejándolo de su cuerpo en línea recta. ●​ Guarde el número de serie, Serial Number, y el código para utilizarlos más tarde, para emparejar el sensor Simplera con su dispositivo de visualización compatible. El</span>
+### 2.2 Colocación del sensor
 
-<span class="mark">Serial Number y la etiqueta del código también se encuentran en el interior de la tapa de la caja del sensor Simplera. Alise el adhesivo del sensor con el dedo para asegurarse de que el sensor permanece en el cuerpo durante todo el tiempo de uso. ●​ Puede utilizar cinta adhesiva de venta libre si es necesario para ayudar a que el sensor se adhiera mejor. ●​ El insertador es de un solo uso y contiene una aguja que ha estado en contacto con sangre y otros fluidos corporales. Deseche el sensor de acuerdo con las leyes y normativas locales.</span>
+Para insertar el sensor, elija primero el lugar de colocación. El sensor Simplera está aprobado para su colocación en la parte posterior de la parte superior del brazo. Los niños de 2 a 17 años pueden colocar el sensor en los tercios superiores de las nalgas.
 
-<span class="mark">2.3 Retirada del sensor Cuando llegue el momento de retirar el sensor, despegue con cuidado el parche como si fuera una venda.</span>
+Al insertar el sensor, es fundamental seguir cuidadosamente algunos pasos.
 
-<span class="mark">2.4 Qué hacer y qué no hacer ●​ Antes de la inserción, compruebe la fecha de caducidad del sensor Simplera y anote el número de serie (SN) y el CÓDIGO. Ambos números se utilizarán más adelante para emparejar el sensor con la aplicación Simplera. Conserve también el número de LOTE, que encontrará en la caja en la que venían los sensores. ●​ Compruebe que el precinto y la etiqueta del tapón no estén dañados antes de insertarlos. No utilice el sensor Simplera si el precinto o la etiqueta del tapón están dañados o faltan. En tales casos, póngase en contacto con la línea de asistencia de Medtronic para notificar el problema y tenga a mano el número de serie y el número de LOTE. ●​ Evite volver a colocar el capuchón en el dispositivo después de retirarlo, ya que podría dañar la aguja y dificultar una inserción correcta. Algunos productos para el cuidado de la piel, como los protectores solares y los repelentes de insectos, pueden dañar el sensor de Simplera. No permita que los productos para el cuidado de la piel toquen el sensor. Lávese las manos después de utilizar productos para el cuidado de la piel antes de tocar el sensor. Si algún producto para el cuidado de la piel toca el sensor, límpielo inmediatamente con un paño limpio. ●​ Si encuentra dificultades durante la inserción del sensor, asegúrese de que todos los bordes del insertador tocan su piel. Presione la parte superior del insertor con la palma de la mano o con los dedos para dispararlo y realice un movimiento suave, firme y continuo al insertarlo. ●​ Si nota que sangra después de la inserción, no suele ser un problema y el sensor debería seguir funcionando. Aplicar hielo en la piel antes de la inserción puede ayudar a prevenir el sangrado. ●​ Después de retirar el sensor, puede aparecer un pequeño círculo rojo en la piel donde se encontraba el cable del sensor. Esta marca debería desaparecer en unos días.</span>
+- Empiece por lavarse las manos y desinfectar la zona de inserción con una toallita con alcohol. Deje que su piel se seque completamente al aire antes de proceder.
 
-<span class="mark">●​ Si su sensor falla antes de la duración prevista de 7 días debido a un problema técnico, puede ponerse en contacto con el servicio de atención al cliente de Medtronic para solicitar un nuevo sensor. Asegúrese de tener siempre a mano el número de serie y el número LOT cuando llame a la línea de ayuda.</span>
+- Retire el capuchón e introduzca inmediatamente el sensor en su cuerpo. No utilice el sensor si se ha contaminado. Por ejemplo, si se le ha caído al suelo el sensor sin tapar. Coloque el insertador en la parte posterior de la parte superior del brazo. Puede alcanzar esta zona levantando el brazo o rodeándolo con la otra mano. Asegúrese de que todos los bordes del insertador estén en contacto con su piel. Para insertar el sensor, presione el insertador contra su piel con un movimiento fluido hasta que oiga un clic. Luego, retire suavemente el insertador alejándolo de su cuerpo en línea recta.
 
-<span class="mark">Para los usuarios de la bomba MiniMed 780G, Medtronic también ofrece un portal y una aplicación WeCare. Mediante el registro, los usuarios obtienen acceso al servicio de atención al cliente 24 horas al día, 7 días a la semana, y a los servicios en línea de Medtronic, incluida la posibilidad de solicitar la sustitución de sensores defectuosos. Aplicando estos consejos y trucos adicionales, ganará la confianza necesaria para tener un viaje exitoso con los sensores Simplera. Adopte estos consejos útiles para maximizar el potencial de sus sensores Simplera y garantizar una experiencia positiva.</span>
+- Guarde el número de serie, Serial Number, y el código para utilizarlos más tarde, para emparejar el sensor Simplera con su dispositivo de visualización compatible. El
+
+Serial Number y la etiqueta del código también se encuentran en el interior de la tapa de la caja del sensor Simplera. Alise el adhesivo del sensor con el dedo para asegurarse de que el sensor permanece en el cuerpo durante todo el tiempo de uso.
+
+- Puede utilizar cinta adhesiva de venta libre si es necesario para ayudar a que el sensor se adhiera mejor.
+
+- El insertador es de un solo uso y contiene una aguja que ha estado en contacto con sangre y otros fluidos corporales. Deseche el sensor de acuerdo con las leyes y normativas locales.
+
+### 2.3 Retirada del sensor
+
+Cuando llegue el momento de retirar el sensor, despegue con cuidado el parche como si fuera una venda.
+
+### 2.4 Qué hacer y qué no hacer
+
+- Antes de la inserción, compruebe la fecha de caducidad del sensor Simplera y anote el número de serie (SN) y el CÓDIGO. Ambos números se utilizarán más adelante para emparejar el sensor con la aplicación Simplera. Conserve también el número de LOTE, que encontrará en la caja en la que venían los sensores.
+
+- Compruebe que el precinto y la etiqueta del tapón no estén dañados antes de insertarlos. No utilice el sensor Simplera si el precinto o la etiqueta del tapón están dañados o faltan. En tales casos, póngase en contacto con la línea de asistencia de Medtronic para notificar el problema y tenga a mano el número de serie y el número de LOTE.
+
+- Evite volver a colocar el capuchón en el dispositivo después de retirarlo, ya que podría dañar la aguja y dificultar una inserción correcta. Algunos productos para el cuidado de la piel, como los protectores solares y los repelentes de insectos, pueden dañar el sensor de Simplera. No permita que los productos para el cuidado de la piel toquen el sensor. Lávese las manos después de utilizar productos para el cuidado de la piel antes de tocar el sensor. Si algún producto para el cuidado de la piel toca el sensor, límpielo inmediatamente con un paño limpio.
+
+- Si encuentra dificultades durante la inserción del sensor, asegúrese de que todos los bordes del insertador tocan su piel. Presione la parte superior del insertor con la palma de la mano o con los dedos para dispararlo y realice un movimiento suave, firme y continuo al insertarlo.
+
+- Si nota que sangra después de la inserción, no suele ser un problema y el sensor debería seguir funcionando. Aplicar hielo en la piel antes de la inserción puede ayudar a prevenir el sangrado.
+
+- Después de retirar el sensor, puede aparecer un pequeño círculo rojo en la piel donde se encontraba el cable del sensor. Esta marca debería desaparecer en unos días.
+
+- Si su sensor falla antes de la duración prevista de 7 días debido a un problema técnico, puede ponerse en contacto con el servicio de atención al cliente de Medtronic para solicitar un nuevo sensor. Asegúrese de tener siempre a mano el número de serie y el número LOT cuando llame a la línea de ayuda.
+
+Para los usuarios de la bomba MiniMed 780G, Medtronic también ofrece un portal y una aplicación WeCare. Mediante el registro, los usuarios obtienen acceso al servicio de atención al cliente 24 horas al día, 7 días a la semana, y a los servicios en línea de Medtronic, incluida la posibilidad de solicitar la sustitución de sensores defectuosos. Aplicando estos consejos y trucos adicionales, ganará la confianza necesaria para tener un viaje exitoso con los sensores Simplera. Adopte estos consejos útiles para maximizar el potencial de sus sensores Simplera y garantizar una experiencia positiva.

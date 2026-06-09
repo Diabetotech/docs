@@ -1,78 +1,17 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-BWkQUGebcATI9FxXnrM4J&index=4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>5. Partage des données</u>**
 
-Bienvenue dans cette leçon sur le partage de données avec LinX CGM. Dans cette
-vidéo, nous allons voir comment partager les données de votre capteur avec votre
-professionnel de santé et vos proches, et comment créer des rapports avec
-l'application LinX. C'est parti !
-5.1 Partage de données avec son professionnel médical et ses proches
-Pour partager vos données glycémiques avec un professionnel de santé ou un
-soignant, celui-ci doit d'abord créer un compte distinct sur l'application LinX, en
-suivant les mêmes étapes que pour l'application du capteur. Notez que les
-soignants ne peuvent pas utiliser eux-mêmes un capteur, mais peuvent utiliser
-l'application LinX CGM pour accéder à distance à vos données glycémiques et être
-avertis en cas d'alarme. Dans votre application LinX, appuyez sur l'icône Compte
-personnel. Sélectionnez Partager/Suivre. Par défaut, Mes partages est sélectionné.
-Cliquez sur + Autorisation de compte. Entrez ici l'adresse e-mail du professionnel de
-santé ou du soignant avec qui vous souhaitez partager vos données. Vous pouvez
-également attribuer un surnom pour distinguer vos abonnés. Du côté du soignant, il
+Bienvenue dans cette leçon sur le partage de données avec LinX CGM. Dans cette vidéo, nous allons voir comment partager les données de votre capteur avec votre professionnel de santé et vos proches, et comment créer des rapports avec l'application LinX. C'est parti !
 
-doit sélectionner le Centre personnel, puis Suivre/Partager. Il choisira alors Mes
-abonnés et trouvera votre compte dans la liste de ses abonnés. Il peut vous
-attribuer un surnom et sélectionner les alarmes qu'il souhaite recevoir. Sur l'écran
-d'accueil du soignant, une icône supplémentaire apparaîtra à côté du Centre
-personnel, lui permettant de passer au suivi à distance des tendances de sa liste
-d'abonnés.
-Pancares est une autre option. Pancares est une plateforme de gestion des données
-sur le diabète qui s'intègre au LinX CGM et qui est accessible depuis tout appareil
-via un navigateur web. Les utilisateurs du capteur peuvent créer un compte
-personnel pour partager les données CGM avec leur famille et leurs proches, et ils
-peuvent également autoriser leur professionnel de santé à consulter les données à
-distance. Parallèlement, les professionnels médicaux peuvent créer un compte
-clinicien pour leur cabinet.
-Si vous êtes un professionnel de santé, rendez-vous dans l'onglet Patients du
-tableau de bord Pancares, puis cliquez sur Ajouter un nouveau patient. Remplissez
-tous les champs obligatoires marqués d'un astérisque rouge, puis cliquez sur Créer.
-Actualisez la page pour vous assurer que le nouveau patient apparaît dans votre
-liste. Après avoir sélectionné le patient, cliquez sur Surveillance CGM, puis sur
-Compte CGM App pour associer le compte Pancares du patient à ses données CGM
-LinX. Il existe deux méthodes pour effectuer cette liaison. Si le patient n'est pas
-physiquement présent dans votre clinique, sélectionnez « Entrer le compte de
-l'application » et saisissez son adresse e-mail. Le patient doit ensuite ouvrir le menu
-Paramètres dans son application LinX CGM, naviguer vers Gestion des autorisations
-et sélectionner Partager avec le compte Pancares pour accepter la demande en
-attente. Si le patient se trouve dans la clinique, sélectionnez Scanner le code OR. Il
-doit ensuite ouvrir le même écran Partager avec le compte Pancares dans son
-application, appuyer sur Scanner le code QR Pancares et scanner le code QR sur
-votre écran Pancares pour établir une connexion.
-5.2 Création de rapports
-Pour exporter un rapport AGP directement depuis l'application LinX, accédez à l'écran
-Tendances. À partir de cet écran, vous pouvez faire défiler un aperçu général de vos
-données ou sélectionner une plage de dates spécifique. Une fois les dates appropriées
-définies, appuyez sur le bouton Exporter situé dans le coin supérieur droit de l'écran, puis
-appuyez sur Confirmer pour générer un rapport.
+### 5.1 Partage de données avec son professionnel médical et ses proches
 
-Après quelques secondes, un rapport PDF s'affichera sur l'écran du smartphone. Appuyez
-sur le bouton Partager dans le coin supérieur droit pour envoyer le PDF directement à
-l'adresse e-mail de votre prestataire de soins de santé ou d'un proche.
+Pour partager vos données glycémiques avec un professionnel de santé ou un soignant, celui-ci doit d'abord créer un compte distinct sur l'application LinX, en suivant les mêmes étapes que pour l'application du capteur. Notez que les soignants ne peuvent pas utiliser eux-mêmes un capteur, mais peuvent utiliser l'application LinX CGM pour accéder à distance à vos données glycémiques et être avertis en cas d'alarme. Dans votre application LinX, appuyez sur l'icône Compte personnel. Sélectionnez Partager/Suivre. Par défaut, Mes partages est sélectionné. Cliquez sur + Autorisation de compte. Entrez ici l'adresse e-mail du professionnel de santé ou du soignant avec qui vous souhaitez partager vos données. Vous pouvez également attribuer un surnom pour distinguer vos abonnés. Du côté du soignant, il doit sélectionner le Centre personnel, puis Suivre/Partager. Il choisira alors Mes abonnés et trouvera votre compte dans la liste de ses abonnés. Il peut vous attribuer un surnom et sélectionner les alarmes qu'il souhaite recevoir. Sur l'écran d'accueil du soignant, une icône supplémentaire apparaîtra à côté du Centre personnel, lui permettant de passer au suivi à distance des tendances de sa liste d'abonnés. Pancares est une autre option. Pancares est une plateforme de gestion des données sur le diabète qui s'intègre au LinX CGM et qui est accessible depuis tout appareil via un navigateur web. Les utilisateurs du capteur peuvent créer un compte personnel pour partager les données CGM avec leur famille et leurs proches, et ils peuvent également autoriser leur professionnel de santé à consulter les données à distance. Parallèlement, les professionnels médicaux peuvent créer un compte clinicien pour leur cabinet. Si vous êtes un professionnel de santé, rendez-vous dans l'onglet Patients du tableau de bord Pancares, puis cliquez sur Ajouter un nouveau patient. Remplissez tous les champs obligatoires marqués d'un astérisque rouge, puis cliquez sur Créer. Actualisez la page pour vous assurer que le nouveau patient apparaît dans votre liste. Après avoir sélectionné le patient, cliquez sur Surveillance CGM, puis sur Compte CGM App pour associer le compte Pancares du patient à ses données CGM LinX. Il existe deux méthodes pour effectuer cette liaison. Si le patient n'est pas physiquement présent dans votre clinique, sélectionnez « Entrer le compte de l'application » et saisissez son adresse e-mail. Le patient doit ensuite ouvrir le menu Paramètres dans son application LinX CGM, naviguer vers Gestion des autorisations et sélectionner Partager avec le compte Pancares pour accepter la demande en attente. Si le patient se trouve dans la clinique, sélectionnez Scanner le code OR. Il doit ensuite ouvrir le même écran Partager avec le compte Pancares dans son application, appuyer sur Scanner le code QR Pancares et scanner le code QR sur votre écran Pancares pour établir une connexion.
 
-En tant que professionnel de santé, vous pouvez choisir d'utiliser la plateforme
-PanCares pour consulter et générer des rapports. Une fois que vous avez associé le
-compte CGM d'un patient à PanCares, vous actualisez la page Web pour vous
-assurer que les données les plus récentes sont synchronisées et visibles sur le
-tableau de bord. Après l'actualisation, vous pourrez consulter le numéro de série
-LinX CGM du patient, les statistiques Time in Range et les données glycémiques en
-temps réel si le patient porte actuellement son capteur.
-Pour générer un rapport, sélectionnez le patient dans votre liste, puis cliquez sur
-AGP. Choisissez une plage de dates à inclure dans le rapport ; recherchez les dates
-marquées d'un petit point, qui indiquent que des données sont disponibles pour un
-jour spécifique. Après avoir sélectionné la période souhaitée, cliquez sur Générer un
-rapport pour produire une version PDF du rapport AGP.
-Dans cette vidéo, nous avons abordé les fonctionnalités de partage et de rapport
-des données du CGM LinX. Utilisées régulièrement, ces options permettent à vous
-et à votre professionnel de santé d'examiner plus facilement les tendances, de vous
-mettre d'accord sur les prochaines étapes et de prendre des décisions
-thérapeutiques opportunes et informées.
+### 5.2 Création de rapports
+
+Pour exporter un rapport AGP directement depuis l'application LinX, accédez à l'écran Tendances. À partir de cet écran, vous pouvez faire défiler un aperçu général de vos données ou sélectionner une plage de dates spécifique. Une fois les dates appropriées définies, appuyez sur le bouton Exporter situé dans le coin supérieur droit de l'écran, puis appuyez sur Confirmer pour générer un rapport. Après quelques secondes, un rapport PDF s'affichera sur l'écran du smartphone. Appuyez sur le bouton Partager dans le coin supérieur droit pour envoyer le PDF directement à l'adresse e-mail de votre prestataire de soins de santé ou d'un proche.
+
+En tant que professionnel de santé, vous pouvez choisir d'utiliser la plateforme PanCares pour consulter et générer des rapports. Une fois que vous avez associé le compte CGM d'un patient à PanCares, vous actualisez la page Web pour vous assurer que les données les plus récentes sont synchronisées et visibles sur le tableau de bord. Après l'actualisation, vous pourrez consulter le numéro de série LinX CGM du patient, les statistiques Time in Range et les données glycémiques en temps réel si le patient porte actuellement son capteur. Pour générer un rapport, sélectionnez le patient dans votre liste, puis cliquez sur AGP. Choisissez une plage de dates à inclure dans le rapport ; recherchez les dates marquées d'un petit point, qui indiquent que des données sont disponibles pour un jour spécifique. Après avoir sélectionné la période souhaitée, cliquez sur Générer un rapport pour produire une version PDF du rapport AGP. Dans cette vidéo, nous avons abordé les fonctionnalités de partage et de rapport des données du CGM LinX. Utilisées régulièrement, ces options permettent à vous et à votre professionnel de santé d'examiner plus facilement les tendances, de vous mettre d'accord sur les prochaines étapes et de prendre des décisions thérapeutiques opportunes et informées.

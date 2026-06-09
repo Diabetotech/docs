@@ -1,77 +1,24 @@
-<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q90xAaiPX7sPVIVlgsUinry -->
+﻿<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q90xAaiPX7sPVIVlgsUinry -->
 <div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_AQUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>5. Alarmas de la bomba</u>**
 
-Bienvenido a esta lección sobre las alarmas de la bomba de insulina Equil.
-En este video, desglosaremos cómo la Bomba Equil y el PDA trabajan juntos para
-avisarte cuando se requiere atención. Revisaremos los tipos de alarma con los que
-te puedes encontrar y terminaremos con consejos prácticos para responder a las
-alarmas. Vamos directo al grano.
-5.1 Alarmas disponibles
-Cuando se identifica un problema, el sistema puede generar notificaciones de
-alarma mediante sonidos, indicadores LED o vibraciones. También proporciona
-detalles en pantalla en el PDA. El sistema funciona como una configuración de dos
-partes: la bomba detecta eventos y activa las alarmas, mientras que el PDA recibe
-esas alarmas y entrega las notificaciones al usuario.
+Bienvenido a esta lección sobre las alarmas de la bomba de insulina Equil. En este video, desglosaremos cómo la Bomba Equil y el PDA trabajan juntos para avisarte cuando se requiere atención. Revisaremos los tipos de alarma con los que te puedes encontrar y terminaremos con consejos prácticos para responder a las alarmas. Vamos directo al grano.
 
-Las alarmas de prioridad media se producen cuando la administración de insulina
-se ha detenido por un problema técnico, lo que significa que debes intervenir —por
-ejemplo, solucionando el problema, sustituyendo la bomba o, si es necesario,
-administrando insulina manualmente para controlar la glucosa en sangre. Mientras
-tanto, las alarmas de prioridad baja indican que es probable que ocurra un evento
-pronto, pero la administración de insulina continúa con normalidad; estas alertas
-están pensadas para mantenerte informado/a para que puedas planificar con
-antelación y mantener una terapia fiable.
-Aquí tienes una descripción general de los niveles de prioridad de las alarmas de la
-PDA y de la bomba, junto con sus señales visuales, sonoras y de vibración. Ten en
-cuenta que la bomba no genera alertas sonoras, mientras que la PDA sí, con un
-nivel de presión sonora de 60 a 90 decibelios.
-En cuanto a las alarmas de la bomba, puede recibir alertas de prioridad media
-cuando no queda insulina, se detecta un bloqueo, la administración de insulina se
-detiene inesperadamente, o la batería de la bomba se agota. En estas situaciones,
-deberá tomar la medida correctiva adecuada antes de que pueda reanudarse la
-administración de insulina. Las alarmas de prioridad baja, en cambio, ocurren
-cuando no queda suficiente insulina para administrar un bolo completo, o cuando el
-nivel de la batería de la bomba está bajo: Estas alertas le dan tiempo para preparar
-un nuevo reservorio o una batería completamente cargada para que la terapia
-pueda continuar sin interrupciones.
-Tu PDA emitirá alarmas por los mismos problemas de la bomba, usando señales
-tanto de LED como de vibración. Además, es posible que recibas una alarma de
-baja prioridad por un fallo de la PDA. En ese caso, deberías reiniciar el dispositivo y,
-si el problema persiste, ponerte en contacto con tu proveedor para que te lo
-cambie.
-Como el sistema de alarma está dividido entre la bomba y el PDA, hay un retraso
-incorporado entre la detección y la notificación. Primero, un sensor de seguridad
-dentro de la bomba detecta un problema en menos de una décima de segundo.
-Luego, la bomba genera su propia señal de alarma casi de inmediato, por lo que la
-bomba puede avisarte en aproximadamente dos décimas de segundo. Después, la
-bomba envía de forma inalámbrica la información de la alarma al PDA. Esta
-transferencia puede tardar hasta cuatro segundos. En cuanto el PDA recibe la
+### 5.1 Alarmas disponibles
 
-información, activa su propia alarma, de nuevo en menos de una décima de
-segundo. En resumen, la bomba responde casi al instante, mientras que el PDA
-normalmente lo hace en un máximo de cuatro segundos.
-Como nota final, la configuración de alarmas de la bomba Equil —incluido el
-volumen de la alarma— es fija y no se puede ajustar.
-5.2 Consejos
-- El sistema no proporciona alarmas para insulina caducada o antigua ni para
-fugas de insulina. Debe mantenerse atento a estas situaciones y responder
-adecuadamente si se presentan.
-- Si la bomba y la PDA se encienden con normalidad y no se activan alarmas,
-esto indica que el sistema de alarmas funciona correctamente.
-- Si la función Auto-Off está habilitada, la infusión de insulina puede
-detenerse automáticamente según la configuración preestablecida.
-- Cuando se produce una alarma de prioridad media, la bomba rebobinará
-automáticamente y detendrá toda la administración de insulina. Aparecerá
-un mensaje emergente en la PDA con detalles y acciones sugeridas. Toque
-Aceptar para cerrar el mensaje emergente. Sustituya el reservorio para
-reinicializar el sistema y reanudar la administración.
-- Las alarmas de baja prioridad aparecen solo una vez y no se repiten.
-¡Bien hecho! Ahora ya sabes cómo funcionan las alarmas de la bomba Equil y qué
-pretenden comunicar las distintas alertas. Si se produce una alarma, mantén la
-calma y sigue las instrucciones que aparecen en la pantalla. Si necesitas más
-orientación, consulta el manual de usuario o ponte en contacto con atención al
-cliente. ¡Estás muy bien preparado para seguir adelante!
+Cuando se identifica un problema, el sistema puede generar notificaciones de alarma mediante sonidos, indicadores LED o vibraciones. También proporciona detalles en pantalla en el PDA. El sistema funciona como una configuración de dos partes: la bomba detecta eventos y activa las alarmas, mientras que el PDA recibe esas alarmas y entrega las notificaciones al usuario. Las alarmas de prioridad media se producen cuando la administración de insulina se ha detenido por un problema técnico, lo que significa que debes intervenir —por ejemplo, solucionando el problema, sustituyendo la bomba o, si es necesario, administrando insulina manualmente para controlar la glucosa en sangre. Mientras tanto, las alarmas de prioridad baja indican que es probable que ocurra un evento pronto, pero la administración de insulina continúa con normalidad; estas alertas están pensadas para mantenerte informado/a para que puedas planificar con antelación y mantener una terapia fiable. Aquí tienes una descripción general de los niveles de prioridad de las alarmas de la PDA y de la bomba, junto con sus señales visuales, sonoras y de vibración. Ten en cuenta que la bomba no genera alertas sonoras, mientras que la PDA sí, con un nivel de presión sonora de 60 a 90 decibelios. En cuanto a las alarmas de la bomba, puede recibir alertas de prioridad media cuando no queda insulina, se detecta un bloqueo, la administración de insulina se detiene inesperadamente, o la batería de la bomba se agota. En estas situaciones, deberá tomar la medida correctiva adecuada antes de que pueda reanudarse la administración de insulina. Las alarmas de prioridad baja, en cambio, ocurren cuando no queda suficiente insulina para administrar un bolo completo, o cuando el nivel de la batería de la bomba está bajo: Estas alertas le dan tiempo para preparar un nuevo reservorio o una batería completamente cargada para que la terapia pueda continuar sin interrupciones. Tu PDA emitirá alarmas por los mismos problemas de la bomba, usando señales tanto de LED como de vibración. Además, es posible que recibas una alarma de baja prioridad por un fallo de la PDA. En ese caso, deberías reiniciar el dispositivo y, si el problema persiste, ponerte en contacto con tu proveedor para que te lo cambie. Como el sistema de alarma está dividido entre la bomba y el PDA, hay un retraso incorporado entre la detección y la notificación. Primero, un sensor de seguridad dentro de la bomba detecta un problema en menos de una décima de segundo. Luego, la bomba genera su propia señal de alarma casi de inmediato, por lo que la bomba puede avisarte en aproximadamente dos décimas de segundo. Después, la bomba envía de forma inalámbrica la información de la alarma al PDA. Esta transferencia puede tardar hasta cuatro segundos. En cuanto el PDA recibe la información, activa su propia alarma, de nuevo en menos de una décima de segundo. En resumen, la bomba responde casi al instante, mientras que el PDA normalmente lo hace en un máximo de cuatro segundos. Como nota final, la configuración de alarmas de la bomba Equil —incluido el volumen de la alarma— es fija y no se puede ajustar.
+
+### 5.2 Consejos
+
+- El sistema no proporciona alarmas para insulina caducada o antigua ni para fugas de insulina. Debe mantenerse atento a estas situaciones y responder adecuadamente si se presentan.
+
+- Si la bomba y la PDA se encienden con normalidad y no se activan alarmas, esto indica que el sistema de alarmas funciona correctamente.
+
+- Si la función Auto-Off está habilitada, la infusión de insulina puede detenerse automáticamente según la configuración preestablecida.
+
+- Cuando se produce una alarma de prioridad media, la bomba rebobinará automáticamente y detendrá toda la administración de insulina. Aparecerá un mensaje emergente en la PDA con detalles y acciones sugeridas. Toque Aceptar para cerrar el mensaje emergente. Sustituya el reservorio para reinicializar el sistema y reanudar la administración.
+
+- Las alarmas de baja prioridad aparecen solo una vez y no se repiten. ¡Bien hecho! Ahora ya sabes cómo funcionan las alarmas de la bomba Equil y qué pretenden comunicar las distintas alertas. Si se produce una alarma, mantén la calma y sigue las instrucciones que aparecen en la pantalla. Si necesitas más orientación, consulta el manual de usuario o ponte en contacto con atención al cliente. ¡Estás muy bien preparado para seguir adelante!

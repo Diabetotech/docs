@@ -1,62 +1,19 @@
-<div class="video-container">
+﻿<div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLHLpqGaC-3q-BWkQUGebcATI9FxXnrM4J&index=5" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>6. Connexion à d'autres appareils</u>**
 
-Bienvenue dans cette leçon consacrée à la connexion de votre CGM LinX à d'autres
-appareils. Dans cette vidéo, vous apprendrez à intégrer votre capteur à des montres
-connectées et découvrirez les possibilités offertes par les stylos à insuline
-connectés et les pompes à insuline. Commençons.
-6.1 Montres connectées
-Votre smartphone et une montre connectée compatible peuvent recevoir
-simultanément les données provenant directement du capteur LinX. Cela vous
-permet de consulter en temps réel vos mesures de glycémie, vos tendances et vos
-alertes directement sur votre poignet. Sur Android Watch, l'application LinX Watch est préinstallée. Sur Apple Watch, l'application LinX Watch s'installe
-automatiquement sur l'Apple Watch appairé lorsque vous installez l'application
-LinX sur votre iPhone. Une connexion fiable est nécessaire pour l’appairage et la
-transmission des données. Assurez-vous que le Bluetooth est activé sur votre
-smartphone et votre montre, et que les deux appareils sont connectés à un réseau
-Wi-Fi ou mobile.
-Vérifiez que vous êtes connecté à l'application LinX sur votre smartphone, puis
-ouvrez l'application LinX sur votre montre. Sur Android Watch, vous pouvez soit
-appuyer deux fois sur le cadran de la montre LinX pour ouvrir l'application, soit
-sélectionner « LinX » dans la liste des applications de la montre. Un code QR
-apparaîtra sur l'écran de la montre. Pour associer la montre à votre compte, utilisez
-le scanner de l'application LinX sur votre smartphone. Depuis l'écran d'accueil, vous
-pouvez accéder au scanner en allant dans « Centre personnel », puis en appuyant
-sur « Montre compatible », « Montre Android » et « Scanner ».
-Sur l'Apple Watch, l'application LinX est accessible depuis la liste des applications.
-Suivez les instructions de l'application mobile pour vous connecter à la montre. Une
-fois que votre montre est connectée et associée à votre compte, elle affiche
-automatiquement les données du capteur actif.
-Pour coupler le capteur LinX avec une montre Android, appuyez sur « RECHERCHE
-DE CAPTEUR » pour afficher la liste des numéros de série (SN) des capteurs à
-proximité. Sélectionnez votre appareil, vérifiez le numéro de série par rapport à
-l'étiquette sur le boîtier du capteur, puis appuyez sur « COUPLER ». Une fois le
-couplage réussi et la période de préchauffage terminée, les valeurs de glucose en
-temps réel s'afficheront dans l'application de la montre. Pour l'Apple Watch, suivez
-les instructions de l'application pour effectuer le couplage automatiquement.
-6.2 Stylos à insuline connectés
-À présent, le LinX CGM ne se connecte pas directement à la plupart des stylos à
-insuline connectés disponibles dans le commerce.
-6.3 Pompes à insuline intelligentes
-Le LinX CGM est conçu pour s'intégrer parfaitement à la pompe à insuline Equil S
-Patch , avec pour objectif à long terme de permettre la mise en place d'un système
-automatisé d'administration d'insuline.
+Bienvenue dans cette leçon consacrée à la connexion de votre CGM LinX à d'autres appareils. Dans cette vidéo, vous apprendrez à intégrer votre capteur à des montres connectées et découvrirez les possibilités offertes par les stylos à insuline connectés et les pompes à insuline. Commençons.
 
-Actuellement, les données du capteur LinX et de la pompe Equil peuvent être
-consultées ensemble sur la plateforme web PanCares ; toutefois, l'algorithme AID
-n'est pas encore disponible dans le commerce.
-De plus, le LinX CGM est réputé compatible avec AndroidAPS, un système AID
-open source, via xDrip+ en mode compagnon.
-Sachez que l'utilisation d'applications open source telles qu'AndroidAPS et xDrip+
-comporte des risques inhérents et n'est pas prise en charge par MicroTech Medical
-ni approuvée par les autorités réglementaires. Nous mettons ces informations à votre disposition dans un souci de transparence. Toutefois, nous vous
-recommandons vivement de ne pas vous engager dans cette pratique sans en avoir
-préalablement compris l’ensemble des risques et des implications.
-Dans cette vidéo, nous avons couvert la connexion du système LinX CGM aux
-montres connectées, aux stylos à insuline, et aux pompes à insuline. Ces
-intégrations peuvent vous aider à regrouper vos appareils au sein d'un système
-coordonné, ce qui facilite la prise de mesures en fonction des tendances et permet
-d'ajuster le traitement du diabète avec une plus grande précision.
+### 6.1 Montres connectées
+
+Votre smartphone et une montre connectée compatible peuvent recevoir simultanément les données provenant directement du capteur LinX. Cela vous permet de consulter en temps réel vos mesures de glycémie, vos tendances et vos alertes directement sur votre poignet. Sur Android Watch, l'application LinX Watch est préinstallée. Sur Apple Watch, l'application LinX Watch s'installe automatiquement sur l'Apple Watch appairé lorsque vous installez l'application LinX sur votre iPhone. Une connexion fiable est nécessaire pour l’appairage et la transmission des données. Assurez-vous que le Bluetooth est activé sur votre smartphone et votre montre, et que les deux appareils sont connectés à un réseau Wi-Fi ou mobile. Vérifiez que vous êtes connecté à l'application LinX sur votre smartphone, puis ouvrez l'application LinX sur votre montre. Sur Android Watch, vous pouvez soit appuyer deux fois sur le cadran de la montre LinX pour ouvrir l'application, soit sélectionner « LinX » dans la liste des applications de la montre. Un code QR apparaîtra sur l'écran de la montre. Pour associer la montre à votre compte, utilisez le scanner de l'application LinX sur votre smartphone. Depuis l'écran d'accueil, vous pouvez accéder au scanner en allant dans « Centre personnel », puis en appuyant sur « Montre compatible », « Montre Android » et « Scanner ». Sur l'Apple Watch, l'application LinX est accessible depuis la liste des applications. Suivez les instructions de l'application mobile pour vous connecter à la montre. Une fois que votre montre est connectée et associée à votre compte, elle affiche automatiquement les données du capteur actif. Pour coupler le capteur LinX avec une montre Android, appuyez sur « RECHERCHE DE CAPTEUR » pour afficher la liste des numéros de série (SN) des capteurs à proximité. Sélectionnez votre appareil, vérifiez le numéro de série par rapport à l'étiquette sur le boîtier du capteur, puis appuyez sur « COUPLER ». Une fois le couplage réussi et la période de préchauffage terminée, les valeurs de glucose en temps réel s'afficheront dans l'application de la montre. Pour l'Apple Watch, suivez les instructions de l'application pour effectuer le couplage automatiquement.
+
+### 6.2 Stylos à insuline connectés
+
+À présent, le LinX CGM ne se connecte pas directement à la plupart des stylos à insuline connectés disponibles dans le commerce.
+
+### 6.3 Pompes à insuline intelligentes
+
+Le LinX CGM est conçu pour s'intégrer parfaitement à la pompe à insuline Equil S Patch , avec pour objectif à long terme de permettre la mise en place d'un système automatisé d'administration d'insuline. Actuellement, les données du capteur LinX et de la pompe Equil peuvent être consultées ensemble sur la plateforme web PanCares ; toutefois, l'algorithme AID n'est pas encore disponible dans le commerce. De plus, le LinX CGM est réputé compatible avec AndroidAPS, un système AID open source, via xDrip+ en mode compagnon. Sachez que l'utilisation d'applications open source telles qu'AndroidAPS et xDrip+ comporte des risques inhérents et n'est pas prise en charge par MicroTech Medical ni approuvée par les autorités réglementaires. Nous mettons ces informations à votre disposition dans un souci de transparence. Toutefois, nous vous recommandons vivement de ne pas vous engager dans cette pratique sans en avoir préalablement compris l’ensemble des risques et des implications. Dans cette vidéo, nous avons couvert la connexion du système LinX CGM aux montres connectées, aux stylos à insuline, et aux pompes à insuline. Ces intégrations peuvent vous aider à regrouper vos appareils au sein d'un système coordonné, ce qui facilite la prise de mesures en fonction des tendances et permet d'ajuster le traitement du diabète avec une plus grande précision.
