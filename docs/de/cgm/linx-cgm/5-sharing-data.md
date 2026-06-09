@@ -1,8 +1,28 @@
-﻿<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-rWqh9nBlhjZi36mUl6Kvi -->
+<!-- VIDEO PLAYLIST: https://www.youtube.com/playlist?list=PLHLpqGaC-3q-rWqh9nBlhjZi36mUl6Kvi -->
 <div class="video-container">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/51UJutK7sK4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## **<u>5. Daten teilen</u>**
 
-<!-- Transkript hier einfügen -->
+Willkommen zu dieser Lektion über die gemeinsame Nutzung von Daten mit LinX CGM. In diesem Video besprechen wir, wie Sie Ihre Sensordaten mit Ihrem Gesundheitsdienstleister und Ihren Angehörigen teilen und mit der LinX-App Berichte erstellen können. Lassen Sie uns beginnen.
+
+### 5.1 Weitergabe von Daten an Ihren Gesundheitsdienstleister und Ihre Angehörigen
+
+Um Ihre Glukosedaten mit einem Gesundheitsdienstleister oder einer Pflegekraft zu teilen, müssen diese zunächst ein separates Konto in der LinX-App erstellen und dabei die gleichen Schritte wie für die Sensoranwendung befolgen. Beachten Sie, dass Pflegekräfte den Sensor möglicherweise nicht selbst verwenden, aber die LinX CGM-App nutzen können, um aus der Ferne auf Ihre Glukosedaten zuzugreifen und Benachrichtigungen zu Ihren Alarmen zu erhalten.  Tippen Sie in Ihrer LinX-App auf das Symbol „Persönliches Konto”. Wählen Sie „Teilen/Folgen”. Standardmäßig ist „Meine Freigaben” ausgewählt. Klicken Sie auf „+ Kontoautorisierung“. Geben Sie hier die E-Mail-Adresse des Gesundheitsdienstleisters oder der Pflegekraft ein, mit denen Sie Ihre Daten teilen möchten. Sie können auch einen Spitznamen vergeben, um zwischen Ihren Followern zu unterscheiden. Auf der Seite der Pflegekraft sollte „Persönliches Zentrum“, „Folgen/Teilen“ ausgewählt werden. Hier wählen sie „Meine Follower“ und finden Ihr Konto in der Liste ihrer Follower. Sie können Ihnen einen Spitznamen zuweisen und auswählen, welche Alarme sie erhalten möchten. Auf dem Startbildschirm der Pflegekraft erscheint neben dem „Persönlichen Zentrum“ ein zusätzliches Symbol, über das sie zur Fernüberwachung der Trends ihrer Follower wechseln können. 
+
+Eine weitere Option ist Pancares, eine Plattform zur Verwaltung von Diabetesdaten, die sich in das LinX CGM integrieren lässt und über einen Webbrowser von jedem Gerät aus zugänglich ist. Sensornutzer können ein persönliches Konto erstellen, um CGM-Daten mit Familienangehörigen und Freunden zu teilen, und sie können auch ihren Gesundheitsdienstleistern Zugriff gewähren, damit diese die Daten aus der Ferne einsehen können. Gesundheitsdienstleister können ihrerseits ein Konto für Ärzte für ihre Praxis einrichten.
+
+Wenn Sie ein Gesundheitsdienstleister sind, können Sie auf der Registerkarte „Patienten” des Pancares-Dashboards auf „Neuen Patienten hinzufügen” klicken. Füllen Sie alle mit einem roten Sternchen gekennzeichneten Pflichtfelder aus und klicken Sie anschließend auf „Erstellen”. Aktualisieren Sie die Seite, um sicherzustellen, dass der neue Patient in Ihrer Liste angezeigt wird. Nachdem Sie den Patienten ausgewählt haben, klicken Sie auf „CGM-Überwachung” und anschließend auf „CGM-App-Konto”, um das Pancares-Konto des Patienten mit seinen LinX-CGM-Daten zu verknüpfen. Es gibt zwei Methoden, um diese Verknüpfung herzustellen. Wenn der Patient nicht physisch in Ihrer Klinik anwesend ist, wählen Sie „App-Konto eingeben“ und geben Sie seine E-Mail-Adresse ein. Der Patient muss dann das Menü „Einstellungen“ in seiner LinX CGM-App öffnen, zu „Berechtigungsverwaltung“ navigieren und „Mit Pancares-Konto teilen“ auswählen, um die ausstehende Anfrage zu akzeptieren. Wenn der Patient in der Klinik ist, wählen Sie „QR-Code scannen“. Der Patient sollte dann denselben Bildschirm „Mit Pancares-Konto teilen“ in seiner App öffnen, auf „Pancares-QR-Code scannen“ tippen und den QR-Code auf Ihrem Pancares-Bildschirm scannen, um eine Verbindung herzustellen. 
+
+### 5.2 Berichte erstellen
+
+Um einen AGP-Bericht direkt aus der LinX-App zu exportieren, navigieren Sie zum Bildschirm „Trends“. In dieser Ansicht können Sie durch eine allgemeine Übersicht Ihrer Daten scrollen oder einen bestimmten Datumsbereich auswählen. Sobald Sie die gewünschten Daten ausgewählt haben, tippen Sie auf die Schaltfläche „Exportieren“ oben rechts auf dem Bildschirm und anschließend auf „Bestätigen“, um einen Bericht zu erstellen. 
+
+Nach einigen Sekunden erscheint ein PDF-Bericht auf dem Bildschirm Ihres Telefons. Tippen Sie auf die Schaltfläche „Teilen“ in der oberen rechten Ecke, um die PDF-Datei direkt an die E-Mail-Adresse Ihres Arztes oder Ihrer Angehörigen zu senden.
+
+### Als Gesundheitsdienstleister können Sie die PanCares-Plattform nutzen, um Berichte anzuzeigen und zu erstellen. Sobald Sie das CGM-Konto eines Patienten mit PanCares verknüpft haben, aktualisieren Sie die Webseite, um sicherzustellen, dass die neuesten Daten synchronisiert und auf dem Dashboard angezeigt werden. Nach der Aktualisierung können Sie die LinX-CGM-Seriennummer des Patienten, die Zeitbereichsstatistik und die Live-Glukosedaten anzeigen, sofern der Patient seinen Sensor derzeit trägt. 
+
+### Um einen Bericht zu erstellen, wählen Sie den Patienten in Ihrer Liste aus und klicken Sie dann auf AGP.  Wählen Sie einen Datumsbereich für den Bericht aus. Achten Sie dabei auf die mit einem kleinen Punkt markierten Daten, die anzeigen, dass für einen bestimmten Tag Daten verfügbar sind. Nachdem Sie den gewünschten Zeitraum ausgewählt haben, klicken Sie auf „Bericht erstellen“, um eine PDF-Version des AGP-Berichts zu erstellen. 
+
+### In dieser Lektion haben wir uns mit den Funktionen zur Datenfreigabe und Berichterstellung von LinX CGM befasst. Bei regelmäßiger Nutzung erleichtern diese Optionen Ihnen und Ihrem Gesundheitsdienstleister die Überprüfung von Trends, die Abstimmung der nächsten Schritte und das Treffen zeitnaher, datengestützter Behandlungsentscheidungen.
