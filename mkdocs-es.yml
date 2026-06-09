@@ -503,6 +503,9 @@ extra:
     - name: Français
       link: https://diabetotech.github.io/docs/fr/
       lang: fr
+    - name: Deutsch
+      link: https://diabetotech.github.io/docs/de/
+      lang: de
   social:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@diabetotech

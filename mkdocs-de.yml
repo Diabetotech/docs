@@ -454,6 +454,17 @@ nav:
       - 4. Berichtinterpretation: pens/smart-mdi-inpen-module/4-report-interpretation.md
       - 5. Fallbericht: pens/smart-mdi-inpen-module/5-case-report.md
 
+  - Lernpläne:
+    - Übersicht: learning-plans/index.md
+    - Für Patienten & Familien: learning-plans/patient.md
+    - Für medizinisches Fachpersonal: learning-plans/hcp.md
+
+  - Mitmachen:
+    - Wie Sie helfen können: contribute/index.md
+    - Inhalte übersetzen: contribute/translate.md
+    - Inhalte auf GitHub verbessern: contribute/github.md
+    - Spenden: contribute/donate.md
+
 extra:
   analytics:
     provider: google
