@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Diabetotech — Professional Learning Plan</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --green:#1D9E75; --green-l:#E1F5EE; --green-m:#9FE1CB; --green-d:#085041; --green-xd:#04342C;
+  --ink:#18181b; --ink-2:#52525b; --ink-3:#a1a1aa;
+  --white:#ffffff; --surface:#f4f6f4; --card:#ffffff;
+  --border:rgba(0,0,0,.08); --border-2:rgba(0,0,0,.13);
+  --r:12px; --r-sm:8px; --r-lg:18px;
+  --l1:#3b82f6; --l1-bg:#eff6ff; --l1-border:#bfdbfe;
+  --l2:#8b5cf6; --l2-bg:#f5f3ff; --l2-border:#ddd6fe;
+  --l3:#1D9E75; --l3-bg:#E1F5EE; --l3-border:#9FE1CB;
+  --l4:#f59e0b; --l4-bg:#fffbeb; --l4-border:#fcd34d;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'DM Sans',sans-serif;background:var(--surface);color:var(--ink);min-height:100vh;-webkit-font-smoothing:antialiased}
+
+/* ── VIEW SWITCHER ── */
+.views{position:fixed;top:0;left:0;right:0;z-index:200;background:rgba(4,52,44,.95);backdrop-filter:blur(8px);display:flex;align-items:center;padding:8px 16px;gap:4px;border-bottom:1px solid rgba(255,255,255,.1)}
+.view-btn{padding:6px 14px;border-radius:20px;font-size:11.5px;font-weight:500;cursor:pointer;border:1px solid rgba(255,255,255,.18);color:rgba(255,255,255,.55);background:transparent;font-family:'DM Sans',sans-serif;transition:all .2s;letter-spacing:.01em}
+.view-btn.on{background:white;color:var(--green-xd);border-color:white}
+.view-sep{width:1px;height:16px;background:rgba(255,255,255,.15);margin:0 4px}
+.view-logo{font-family:'Fraunces',serif;font-size:13px;color:rgba(255,255,255,.7);margin-right:auto;font-style:italic}
+
+/* ── PAGE ── */
+.page{display:none;padding-top:44px}
+.page.on{display:block}
+
+/* ════════════════════════
+   BUILDER
+════════════════════════ */
+
+.b-header{background:var(--green-xd);padding:2.5rem 1.5rem 3.5rem;position:relative;overflow:hidden}
+.b-header::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle,rgba(157,225,203,.14) 1px,transparent 1px);background-size:26px 26px}
+.b-header::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:36px;background:var(--surface);border-radius:36px 36px 0 0}
+.b-inner{max-width:740px;margin:0 auto;position:relative;z-index:1}
+
+.b-eyebrow{font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:.1em;color:var(--green-m);margin-bottom:.6rem;opacity:0;animation:fadeUp .5s .05s forwards}
+.b-title{font-family:'Fraunces',serif;font-size:clamp(1.8rem,4vw,2.8rem);color:white;line-height:1.15;margin-bottom:.7rem;opacity:0;animation:fadeUp .6s .12s forwards}
+.b-title em{font-style:italic;color:var(--green-m)}
+.b-sub{font-size:14px;font-weight:300;color:rgba(255,255,255,.6);line-height:1.65;max-width:500px;margin-bottom:1.5rem;opacity:0;animation:fadeUp .6s .2s forwards}
+
+.framework-pill{display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:var(--r-sm);padding:7px 12px;font-size:12px;color:rgba(255,255,255,.7);opacity:0;animation:fadeUp .6s .28s forwards}
+.framework-pill svg{width:13px;height:13px;fill:var(--green-m);flex-shrink:0}
+
+/* builder main */
+.b-main{max-width:740px;margin:0 auto;padding:2rem 1.5rem 5rem}
+
+/* steps */
+.steps{display:flex;gap:0;margin-bottom:2rem;border-radius:var(--r);overflow:hidden;border:1px solid var(--border);background:var(--card)}
+.step-tab{flex:1;padding:11px 14px;font-size:12px;font-weight:500;color:var(--ink-3);cursor:pointer;text-align:center;border-right:1px solid var(--border);transition:all .2s;background:var(--card)}
+.step-tab:last-child{border-right:none}
+.step-tab.on{background:var(--green-l);color:var(--green-d);font-weight:500}
+.step-tab.done{color:var(--green);background:var(--card)}
+.step-num{display:inline-flex;width:18px;height:18px;border-radius:50%;align-items:center;justify-content:center;font-size:10px;font-weight:600;background:var(--border);color:var(--ink-2);margin-right:6px;vertical-align:middle}
+.step-tab.on .step-num{background:var(--green);color:white}
+.step-tab.done .step-num{background:var(--green-l);color:var(--green-d)}
+
+/* form cards */
+.fc{background:var(--card);border:1px solid var(--border);border-radius:var(--r-lg);padding:1.5rem;margin-bottom:1.25rem}
+.fc-title{font-size:14px;font-weight:500;margin-bottom:1.25rem;display:flex;align-items:center;gap:9px;color:var(--ink)}
+.fc-title-icon{font-size:18px}
+.fg2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.fg3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.field{display:flex;flex-direction:column;gap:5px}
+.field label{font-size:11.5px;font-weight:500;color:var(--ink-2);text-transform:uppercase;letter-spacing:.04em}
+.field select,.field input{padding:9px 12px;font-size:13.5px;border:1px solid var(--border-2);border-radius:var(--r-sm);background:white;color:var(--ink);font-family:'DM Sans',sans-serif;transition:border-color .15s}
+.field select:focus,.field input:focus{outline:none;border-color:var(--green)}
+
+/* competency level selector */
+.level-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.level-card{border:1.5px solid var(--border);border-radius:var(--r);padding:14px 16px;cursor:pointer;transition:all .2s;position:relative}
+.level-card:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(0,0,0,.06)}
+.level-card.selected{border-width:2px}
+.level-card[data-lv="1"].selected{border-color:var(--l1);background:var(--l1-bg)}
+.level-card[data-lv="2"].selected{border-color:var(--l2);background:var(--l2-bg)}
+.level-card[data-lv="3"].selected{border-color:var(--l3);background:var(--l3-bg)}
+.level-card[data-lv="4"].selected{border-color:var(--l4);background:var(--l4-bg)}
+.lv-badge{display:inline-block;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;padding:2px 8px;border-radius:20px;margin-bottom:6px}
+.lv-1{background:var(--l1-bg);color:var(--l1);border:1px solid var(--l1-border)}
+.lv-2{background:var(--l2-bg);color:var(--l2);border:1px solid var(--l2-border)}
+.lv-3{background:var(--l3-bg);color:var(--l3);border:1px solid var(--l3-border)}
+.lv-4{background:var(--l4-bg);color:var(--l4);border:1px solid var(--l4-border)}
+.level-card-title{font-size:13.5px;font-weight:500;color:var(--ink);margin-bottom:3px}
+.level-card-desc{font-size:12px;color:var(--ink-2);line-height:1.5;font-weight:300}
+.level-check{position:absolute;top:10px;right:12px;width:18px;height:18px;border-radius:50%;background:var(--green);display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .2s}
+.level-card.selected .level-check{opacity:1}
+.level-check svg{width:10px;height:10px;fill:white}
+
+/* country */
+.country-grid{display:flex;flex-wrap:wrap;gap:8px}
+.cty-btn{display:inline-flex;align-items:center;gap:7px;padding:8px 14px;border-radius:var(--r-sm);border:1px solid var(--border-2);background:white;cursor:pointer;font-family:'DM Sans',sans-serif;font-size:13px;color:var(--ink);transition:all .2s;white-space:nowrap}
+.cty-btn:hover{border-color:rgba(29,158,117,.35)}
+.cty-btn.on{border-color:var(--green);background:var(--green-l);color:var(--green-d);font-weight:500}
+.cty-flag{font-size:17px}
+.cty-dot{width:6px;height:6px;background:var(--green);border-radius:50%;flex-shrink:0}
+.country-note{font-size:11.5px;color:var(--ink-3);margin-top:8px}
+
+/* device grid */
+.device-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(195px,1fr));gap:9px}
+.dev-card{background:white;border:1.5px solid var(--border);border-radius:var(--r);padding:13px 15px;cursor:pointer;transition:all .2s;position:relative}
+.dev-card:hover{border-color:rgba(29,158,117,.3);box-shadow:0 3px 12px rgba(29,158,117,.07);transform:translateY(-1px)}
+.dev-card.on{border-color:var(--green);background:var(--green-l)}
+.dev-card.on .dev-check{opacity:1}
+.dev-rec::before{content:'★ recommended';position:absolute;top:-1px;left:12px;background:var(--green);color:white;font-size:9px;font-weight:600;padding:2px 7px;border-radius:0 0 6px 6px;letter-spacing:.04em;text-transform:uppercase}
+.dev-cat{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px;margin-top:14px}
+.dev-rec .dev-cat{margin-top:20px}
+.dev-name{font-size:13.5px;font-weight:500;color:var(--ink);margin-bottom:2px;padding-right:20px}
+.dev-sub{font-size:11.5px;color:var(--ink-2);font-weight:300}
+.dev-reimb{display:flex;align-items:center;gap:4px;font-size:10.5px;color:#15803d;font-weight:500;margin-top:5px}
+.dev-reimb svg{width:10px;height:10px;fill:#15803d}
+.dev-check{position:absolute;top:10px;right:11px;width:18px;height:18px;background:var(--green);border-radius:50%;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .2s}
+.dev-check svg{width:10px;height:10px;fill:white}
+.cat-divider{display:flex;align-items:center;gap:10px;margin:1.5rem 0 .75rem}
+.cat-divider-line{flex:1;height:1px;background:var(--border)}
+.cat-divider-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-3);white-space:nowrap}
+.cat-badge{font-size:10.5px;padding:2px 8px;border-radius:20px;font-weight:500}
+.os-note{background:#fffbeb;border:1px solid #fcd34d;border-radius:var(--r-sm);padding:11px 14px;font-size:12.5px;color:#92400e;font-weight:300;line-height:1.6;margin-bottom:.75rem}
+
+/* generate bar */
+.gen-bar{position:sticky;bottom:1.5rem;z-index:100}
+.gen-card{background:white;border:1px solid var(--border);border-radius:var(--r-lg);padding:1rem 1.5rem;box-shadow:0 8px 32px rgba(0,0,0,.1);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.gen-info{font-size:13px;color:var(--ink-2)}
+.gen-info strong{color:var(--ink);font-weight:500}
+.gen-info span{color:var(--green);font-weight:500}
+.btn-gen{padding:11px 28px;background:var(--green);color:white;border:none;border-radius:var(--r-sm);font-size:14px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif;white-space:nowrap;transition:background .15s}
+.btn-gen:hover{background:var(--green-d)}
+
+/* buttons */
+.btn-row{display:flex;gap:8px;margin-top:1.5rem;flex-wrap:wrap}
+.btn-sec{padding:9px 18px;background:transparent;color:var(--ink-2);border:1px solid var(--border-2);border-radius:var(--r-sm);font-size:13px;cursor:pointer;font-family:'DM Sans',sans-serif;transition:all .15s}
+.btn-sec:hover{border-color:var(--green);color:var(--green)}
+
+/* share */
+.share-box{background:var(--green-l);border:1px solid var(--green-m);border-radius:var(--r-lg);padding:1.5rem;margin-bottom:1.25rem}
+.share-box-title{font-size:14px;font-weight:500;color:var(--green-d);margin-bottom:.4rem;display:flex;align-items:center;gap:8px}
+.share-box-sub{font-size:13px;color:var(--green-d);font-weight:300;margin-bottom:1rem;opacity:.75;line-height:1.6}
+.share-row{display:flex;gap:8px}
+.share-input{flex:1;padding:9px 12px;font-size:11.5px;border:1px solid var(--green-m);border-radius:var(--r-sm);background:white;color:var(--ink);font-family:monospace}
+.btn-copy{padding:9px 18px;background:var(--green);color:white;border:none;border-radius:var(--r-sm);font-size:13px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif;white-space:nowrap;transition:background .15s}
+.btn-copy:hover{background:var(--green-d)}
+.copy-ok{font-size:12px;color:var(--green);font-weight:500;margin-top:6px;height:16px;opacity:0;transition:opacity .3s}
+
+/* step 3 summary */
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:13px;margin-bottom:1.25rem}
+.summary-row{display:contents}
+.summary-label{color:var(--ink-2);padding:7px 0;border-bottom:1px solid var(--border)}
+.summary-val{font-weight:500;padding:7px 0;border-bottom:1px solid var(--border)}
+
+/* ════════════════════════
+   PROFESSIONAL PLAN
+════════════════════════ */
+
+.p-header{background:var(--green-xd);padding:2.5rem 1.5rem 0;position:relative;overflow:hidden}
+.p-header::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle,rgba(157,225,203,.14) 1px,transparent 1px);background-size:26px 26px}
+.p-header::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:36px;background:var(--surface);border-radius:36px 36px 0 0}
+.p-inner{max-width:740px;margin:0 auto;position:relative;z-index:1;padding-bottom:3.5rem}
+
+.trust-badge{display:inline-flex;align-items:center;gap:7px;background:rgba(157,225,203,.15);border:1px solid rgba(157,225,203,.25);border-radius:20px;padding:5px 12px;font-size:11.5px;color:var(--green-m);font-weight:500;margin-bottom:.9rem;opacity:0;animation:fadeUp .5s .05s forwards}
+.trust-badge svg{width:13px;height:13px;fill:var(--green-m)}
+.p-title{font-family:'Fraunces',serif;font-size:clamp(1.8rem,4vw,2.7rem);color:white;line-height:1.15;margin-bottom:.7rem;opacity:0;animation:fadeUp .6s .12s forwards}
+.p-title em{font-style:italic;color:var(--green-m)}
+.p-sub{font-size:14px;font-weight:300;color:rgba(255,255,255,.6);line-height:1.65;max-width:520px;margin-bottom:1.5rem;opacity:0;animation:fadeUp .6s .2s forwards}
+.p-pills{display:flex;flex-wrap:wrap;gap:7px;opacity:0;animation:fadeUp .6s .28s forwards}
+.ppill{font-size:11.5px;font-weight:500;padding:4px 12px;border-radius:20px;border:1px solid}
+.ppill-g{background:rgba(157,225,203,.18);color:#8ee8c5;border-color:rgba(157,225,203,.25)}
+.ppill-b{background:rgba(181,212,244,.14);color:#93c5fd;border-color:rgba(181,212,244,.2)}
+.ppill-p{background:rgba(206,203,246,.14);color:#c4b5fd;border-color:rgba(206,203,246,.2)}
+.ppill-y{background:rgba(252,211,77,.12);color:#fbbf24;border-color:rgba(252,211,77,.2)}
+
+/* competency level banner */
+.lv-banner{margin:0 auto;max-width:740px;padding:0 1.5rem;position:relative;z-index:10;opacity:0;animation:fadeUp .5s .35s forwards}
+.lv-banner-inner{border-radius:var(--r-lg);padding:1.25rem 1.5rem;border:2px solid;display:flex;align-items:flex-start;gap:16px}
+.lv-banner-icon{font-size:28px;flex-shrink:0;margin-top:2px}
+.lv-banner-text h3{font-size:14px;font-weight:500;margin-bottom:4px}
+.lv-banner-text p{font-size:13px;font-weight:300;line-height:1.6}
+.lv-banner-badge{margin-left:auto;flex-shrink:0;text-align:center}
+
+/* stats */
+.stats-wrap{max-width:740px;margin:0 auto;padding:0 1.5rem;position:relative;z-index:10;opacity:0;animation:fadeUp .55s .42s forwards}
+.stats-card{background:white;border-radius:var(--r-lg);box-shadow:0 2px 20px rgba(0,0,0,.06);display:grid;grid-template-columns:repeat(4,1fr);overflow:hidden}
+.stat{padding:1rem;text-align:center;border-right:1px solid var(--border)}
+.stat:last-child{border-right:none}
+.stat-label{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin-bottom:4px}
+.stat-val{font-size:20px;font-weight:600;color:var(--ink)}
+.stat-val.g{color:var(--green)}
+
+/* main */
+.p-main{max-width:740px;margin:0 auto;padding:2rem 1.5rem 5rem}
+
+/* framework note */
+.framework-note{background:white;border:1px solid var(--border);border-left:3px solid var(--green);border-radius:0 var(--r-sm) var(--r-sm) 0;padding:12px 16px;font-size:13px;font-weight:300;color:var(--ink-2);line-height:1.6;margin-bottom:2rem}
+.framework-note strong{font-weight:500;color:var(--ink)}
+.framework-note a{color:var(--green);text-decoration:none}
+
+/* cme upsell */
+.cme-upsell{background:white;border:1px solid var(--border);border-radius:var(--r-lg);padding:1.25rem 1.5rem;margin-bottom:1.5rem;display:flex;align-items:center;gap:14px}
+.cme-icon{font-size:26px;flex-shrink:0}
+.cme-text p:first-child{font-size:14px;font-weight:500;margin-bottom:3px}
+.cme-text p:last-child{font-size:12.5px;color:var(--ink-2);font-weight:300}
+.cme-link{margin-left:auto;flex-shrink:0}
+.cme-link a{display:inline-block;padding:8px 16px;background:var(--ink);color:white;border-radius:var(--r-sm);font-size:12.5px;font-weight:500;text-decoration:none;white-space:nowrap;transition:background .15s}
+.cme-link a:hover{background:var(--green-d)}
+
+/* module sections */
+.mod-section{margin-bottom:1.25rem;opacity:0;animation:fadeUp .4s forwards}
+.mod-section:nth-child(1){animation-delay:.5s}.mod-section:nth-child(2){animation-delay:.57s}
+.mod-section:nth-child(3){animation-delay:.64s}.mod-section:nth-child(4){animation-delay:.71s}
+.mod-section:nth-child(5){animation-delay:.78s}.mod-section:nth-child(6){animation-delay:.85s}
+
+.mod-head{display:flex;align-items:center;gap:12px;padding:13px 18px;background:white;border-radius:var(--r-lg);cursor:pointer;border:1px solid var(--border);transition:all .2s}
+.mod-head:hover{border-color:rgba(29,158,117,.3)}
+.mod-head.open{border-radius:var(--r-lg) var(--r-lg) 0 0;border-bottom-color:transparent}
+.mod-head-left{display:flex;align-items:center;gap:12px;flex:1;min-width:0}
+.mod-icon{width:34px;height:34px;flex-shrink:0;border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:16px}
+.mod-text-lbl{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin-bottom:2px}
+.mod-text-title{font-size:14px;font-weight:500;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mod-head-right{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.mod-dur{font-size:12px;color:var(--ink-2);background:var(--surface);padding:3px 9px;border-radius:20px}
+.chevron{width:18px;height:18px;transition:transform .25s;color:var(--ink-3)}
+.mod-head.open .chevron{transform:rotate(180deg)}
+.lesson-list{background:white;border:1px solid var(--border);border-top:none;border-radius:0 0 var(--r-lg) var(--r-lg);max-height:0;overflow:hidden;transition:max-height .35s cubic-bezier(.4,0,.2,1)}
+.lesson-list.open{max-height:4000px}
+.lesson{display:flex;align-items:center;padding:11px 18px;border-bottom:1px solid var(--border);gap:12px;text-decoration:none;color:inherit;cursor:pointer;transition:background .15s}
+.lesson:last-child{border-bottom:none}
+.lesson:hover{background:#f9fafb}
+.lesson-num{width:22px;height:22px;flex-shrink:0;background:var(--green-l);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:600;color:var(--green-d)}
+.lesson-body{flex:1;min-width:0}
+.lesson-title{font-size:13.5px;font-weight:400;color:var(--ink)}
+.badge-opt{font-size:10.5px;font-weight:500;padding:2px 8px;border-radius:20px;background:#fff7ed;color:#c2410c;border:1px solid #fed7aa}
+.badge-dur{font-size:11.5px;color:var(--ink-3);background:var(--surface);padding:2px 8px;border-radius:20px}
+.lesson-arrow{color:var(--green);font-size:14px;flex-shrink:0;transition:transform .15s}
+.lesson:hover .lesson-arrow{transform:translateX(3px)}
+
+/* speed tip */
+.speed-tip{background:white;border-left:3px solid var(--green);border-radius:0 var(--r-sm) var(--r-sm) 0;padding:13px 16px;font-size:13px;font-weight:300;color:var(--ink-2);margin-top:2rem;line-height:1.6}
+.speed-tip strong{font-weight:500;color:var(--ink)}
+
+/* footer */
+.footer{text-align:center;padding:1.5rem 1rem 3rem;font-size:12px;font-weight:300;color:var(--ink-3)}
+.footer a{color:var(--green);text-decoration:none}
+
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:560px){
+  .stats-card{grid-template-columns:1fr 1fr}
+  .stat:nth-child(2){border-right:none}
+  .stat:nth-child(3){border-top:1px solid var(--border)}
+  .fg2,.fg3{grid-template-columns:1fr}
+  .level-grid{grid-template-columns:1fr}
+  .gen-card{flex-direction:column;align-items:stretch}
+  .btn-gen{text-align:center}
+}
+@media print{
+  .views,.gen-bar{display:none}
+  .lesson-list{max-height:9999px!important}
+  .mod-head{cursor:default}
+  .chevron,.lesson-arrow{display:none}
+}
+</style>
+</head>
+<body>
+
+<!-- VIEW SWITCHER -->
+<div class="views">
+  <span class="view-logo">Diabetotech</span>
+  <button class="view-btn on" onclick="show('builder')">Plan builder</button>
+  <div class="view-sep"></div>
+  <button class="view-btn" onclick="show('plan')">Learning plan preview</button>
+</div>
+
+<!-- ════════════════════════════════
+     BUILDER
+════════════════════════════════ -->
+<div id="page-builder" class="page on">
+
+  <div class="b-header">
+    <div class="b-inner">
+      <div class="b-eyebrow">Professional education</div>
+      <h1 class="b-title">Build a learning plan<br>for your <em>care team</em></h1>
+      <p class="b-sub">For endocrinologists, diabetologists, diabetes educators and nurses. Select the competency level, country and devices — a tailored plan is generated instantly.</p>
+      <div class="framework-pill">
+        <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+        Aligned with Richardson et al. 2026 National Competency Framework (Diabetic Medicine)
+      </div>
+    </div>
+  </div>
+
+  <main class="b-main">
+
+    <!-- STEPS -->
+    <div class="steps" id="steps">
+      <div class="step-tab on" id="st1" onclick="goStep(1)"><span class="step-num">1</span>Profile & level</div>
+      <div class="step-tab" id="st2" onclick="goStep(2)"><span class="step-num">2</span>Country & devices</div>
+      <div class="step-tab" id="st3" onclick="goStep(3)"><span class="step-num">3</span>Share</div>
+    </div>
+
+    <!-- STEP 1 -->
+    <div id="bs1">
+
+      <div class="fc">
+        <div class="fc-title"><span class="fc-title-icon">👤</span> Who is this plan for?</div>
+        <div class="fg2" style="margin-bottom:12px">
+          <div class="field">
+            <label>Name / team (optional)</label>
+            <input type="text" id="b-name" placeholder="e.g. Diabetes team Brussels"/>
+          </div>
+          <div class="field">
+            <label>Language</label>
+            <select id="b-lang">
+              <option value="en">English</option>
+              <option value="nl">Nederlands</option>
+              <option value="fr">Français</option>
+              <option value="de">Deutsch</option>
+              <option value="es">Español</option>
+            </select>
+          </div>
+        </div>
+        <div class="field">
+          <label>Role / audience</label>
+          <select id="b-role">
+            <option value="endocrinologist">Endocrinologist / Diabetologist</option>
+            <option value="educator">Diabetes educator</option>
+            <option value="nurse">Diabetes specialist nurse</option>
+            <option value="gp">General practitioner / primary care</option>
+            <option value="other">Other HCP (hospital, community)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="fc">
+        <div class="fc-title"><span class="fc-title-icon">📊</span> Competency level <span style="font-size:11px;font-weight:300;color:var(--ink-3);margin-left:4px">Richardson et al. 2026</span></div>
+        <div class="level-grid">
+          <div class="level-card" data-lv="1" onclick="selectLevel(1)">
+            <span class="lv-badge lv-1">Level 1 — Awareness</span>
+            <div class="level-card-title">Non-specialist HCP</div>
+            <div class="level-card-desc">Encounters diabetes technology occasionally. Needs basic awareness, safety-critical knowledge and ability to signpost.</div>
+            <div class="level-check"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg></div>
+          </div>
+          <div class="level-card selected" data-lv="2" onclick="selectLevel(2)">
+            <span class="lv-badge lv-2">Level 2 — Competence</span>
+            <div class="level-card-title">Regular diabetes care</div>
+            <div class="level-card-desc">Provides regular diabetes care. Needs to interpret data, manage common issues, understand different systems.</div>
+            <div class="level-check"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg></div>
+          </div>
+          <div class="level-card" data-lv="3" onclick="selectLevel(3)">
+            <span class="lv-badge lv-3">Level 3 — Expertise</span>
+            <div class="level-card-title">Diabetes technology specialist</div>
+            <div class="level-card-desc">Primary role is diabetes technology. Needs onboarding skills, complex scenarios, report interpretation, peer support.</div>
+            <div class="level-check"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg></div>
+          </div>
+          <div class="level-card" data-lv="4" onclick="selectLevel(4)">
+            <span class="lv-badge lv-4">Level 4 — Leadership</span>
+            <div class="level-card-title">Service leader / educator</div>
+            <div class="level-card-desc">Local or regional leadership role. Needs comprehensive expertise across all systems plus complex case management.</div>
+            <div class="level-check"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-gen" onclick="goStep(2)">Next: select country & devices →</button>
+      </div>
+    </div>
+
+    <!-- STEP 2 -->
+    <div id="bs2" style="display:none">
+
+      <div class="fc">
+        <div class="fc-title"><span class="fc-title-icon">🌍</span> Country</div>
+        <p style="font-size:13px;color:var(--ink-2);font-weight:300;margin-bottom:1rem;line-height:1.6">Select your country to show only devices that are available and reimbursed there. Countries with a green dot are validated by Diabetotech experts.</p>
+        <div class="country-grid">
+          <button class="cty-btn on" onclick="selectCountry(this,'BE','🇧🇪','Belgium')"><span class="cty-flag">🇧🇪</span>Belgium<div class="cty-dot"></div></button>
+          <button class="cty-btn" onclick="selectCountry(this,'NL','🇳🇱','Netherlands')"><span class="cty-flag">🇳🇱</span>Netherlands<div class="cty-dot"></div></button>
+          <button class="cty-btn" onclick="selectCountry(this,'US','🇺🇸','United States')"><span class="cty-flag">🇺🇸</span>United States<div class="cty-dot"></div></button>
+          <button class="cty-btn" onclick="selectCountry(this,'DE','🇩🇪','Germany')"><span class="cty-flag">🇩🇪</span>Germany</button>
+          <button class="cty-btn" onclick="selectCountry(this,'FR','🇫🇷','France')"><span class="cty-flag">🇫🇷</span>France</button>
+          <button class="cty-btn" onclick="selectCountry(this,'UK','🇬🇧','United Kingdom')"><span class="cty-flag">🇬🇧</span>United Kingdom</button>
+          <button class="cty-btn" onclick="selectCountry(this,'AU','🇦🇺','Australia')"><span class="cty-flag">🇦🇺</span>Australia</button>
+          <button class="cty-btn" onclick="selectCountry(this,'OTHER','🌐','Other')"><span class="cty-flag">🌐</span>Other</button>
+        </div>
+        <div class="country-note">● Green dot = validated by Dr. Inge Van Boxelaer / Diabetotech. Other countries use EMA/FDA database data. <a href="#" style="color:var(--green)">Validate your country →</a></div>
+      </div>
+
+      <div class="fc">
+        <div class="fc-title"><span class="fc-title-icon">🔧</span> Select devices <span style="font-size:11px;font-weight:300;color:var(--ink-3);margin-left:4px" id="country-showing">showing Belgium</span></div>
+        <p style="font-size:13px;color:var(--ink-2);font-weight:300;margin-bottom:1rem">Recommended base package is pre-selected. Add or remove based on your clinical focus.</p>
+
+        <!-- CGM -->
+        <div class="cat-divider"><div class="cat-divider-line"></div><span class="cat-divider-label">CGM — Glucose sensors</span><span class="cat-badge" style="background:#eff6ff;color:#1d4ed8;border:1px solid #bfdbfe" id="cgm-count">4 selected</span><div class="cat-divider-line"></div></div>
+        <div class="device-grid" id="cgm-grid"></div>
+
+        <!-- PUMPS -->
+        <div class="cat-divider"><div class="cat-divider-line"></div><span class="cat-divider-label">Insulin pumps</span><span class="cat-badge" style="background:#f5f3ff;color:#6d28d9;border:1px solid #ddd6fe" id="pump-count">3 selected</span><div class="cat-divider-line"></div></div>
+        <div class="device-grid" id="pump-grid"></div>
+
+        <!-- AID -->
+        <div class="cat-divider"><div class="cat-divider-line"></div><span class="cat-divider-label">AID — Closed-loop systems</span><span class="cat-badge" style="background:#E1F5EE;color:#085041;border:1px solid #9FE1CB" id="aid-count">2 selected</span><div class="cat-divider-line"></div></div>
+        <div class="device-grid" id="aid-grid"></div>
+
+        <!-- OPEN SOURCE -->
+        <div class="cat-divider"><div class="cat-divider-line"></div><span class="cat-divider-label">Open source AID</span><span class="cat-badge" style="background:#fff7ed;color:#c2410c;border:1px solid #fed7aa" id="os-count">0 selected</span><div class="cat-divider-line"></div></div>
+        <div class="os-note">⚠️ Open source AID systems are not commercially approved but are actively used by patients. Including them is valuable for clinicians working with tech-savvy patients.</div>
+        <div class="device-grid" id="os-grid"></div>
+      </div>
+
+      <!-- GENERATE BAR -->
+      <div class="gen-bar">
+        <div class="gen-card">
+          <div class="gen-info"><span id="gen-count">10</span> modules selected · <strong id="gen-dur">~8h 30min</strong> · <span>free access</span></div>
+          <button class="btn-gen" onclick="goStep(3)">Generate plan →</button>
+        </div>
+      </div>
+
+      <div class="btn-row" style="margin-top:5rem">
+        <button class="btn-sec" onclick="goStep(1)">← Back</button>
+      </div>
+    </div>
+
+    <!-- STEP 3 -->
+    <div id="bs3" style="display:none">
+
+      <div class="share-box">
+        <div class="share-box-title">🔗 Share this learning plan</div>
+        <div class="share-box-sub">Anyone who opens this link sees exactly this plan — devices filtered to the selected country, at the right competency level. No account needed.</div>
+        <div class="share-row">
+          <input class="share-input" id="share-url" readonly onclick="this.select()" value="diabetotech.github.io/docs/plan/educator/?country=BE&lang=en&level=2&..."/>
+          <button class="btn-copy" onclick="copyLink()">Copy link</button>
+        </div>
+        <div class="copy-ok" id="copy-ok">✓ Copied to clipboard</div>
+      </div>
+
+      <div class="fc">
+        <div class="fc-title"><span class="fc-title-icon">📋</span> Plan summary</div>
+        <div class="summary-grid">
+          <div class="summary-label">Name / team</div><div class="summary-val" id="s-name">—</div>
+          <div class="summary-label">Language</div><div class="summary-val" id="s-lang">—</div>
+          <div class="summary-label">Role</div><div class="summary-val" id="s-role">—</div>
+          <div class="summary-label">Competency level</div><div class="summary-val" id="s-level">—</div>
+          <div class="summary-label">Country</div><div class="summary-val" id="s-country">—</div>
+          <div class="summary-label">Modules selected</div><div class="summary-val" id="s-modules" style="color:var(--green)">—</div>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-sec" onclick="goStep(2)">← Adjust devices</button>
+        <button class="btn-sec" onclick="goStep(1)">New plan</button>
+        <button class="btn-sec" onclick="show('plan')">Preview plan →</button>
+        <button class="btn-sec" onclick="window.print()">Print / PDF</button>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <p>Diabetotech Professional Education · <a href="https://www.diabetotech.com">diabetotech.com</a></p>
+    <p style="margin-top:4px">Framework aligned with Richardson et al. 2026 · <em>Diabetic Medicine</em> · doi:10.1111/dme.70253</p>
+  </footer>
+</div>
+
+<!-- ════════════════════════════════
+     PROFESSIONAL PLAN
+════════════════════════════════ -->
+<div id="page-plan" class="page">
+
+  <div class="p-header">
+    <div class="p-inner">
+      <div class="trust-badge">
+        <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+        Curated by Dr. Inge Van Boxelaer — Diabetotech · Only approved &amp; reimbursed devices
+      </div>
+      <h1 class="p-title">Professional learning plan<br><em>Belgium — Level 2</em></h1>
+      <p class="p-sub">For endocrinologists, diabetologists and diabetes educators. Content covers all devices approved and reimbursed in Belgium, aligned with the Richardson et al. (2026) national competency framework.</p>
+      <div class="p-pills">
+        <span class="ppill ppill-g">English</span>
+        <span class="ppill ppill-b">🇧🇪 Belgium</span>
+        <span class="ppill ppill-p">Level 2 — Competence</span>
+        <span class="ppill ppill-y">Independent · non-promotional</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- COMPETENCY LEVEL BANNER -->
+  <div class="lv-banner">
+    <div class="lv-banner-inner" style="border-color:#8b5cf6;background:#f5f3ff">
+      <div class="lv-banner-icon">📊</div>
+      <div class="lv-banner-text">
+        <h3 style="color:#5b21b6">Level 2 — Competence (Richardson et al. 2026)</h3>
+        <p style="color:#6d28d9;opacity:.8">This plan covers the competencies expected from HCPs who provide regular diabetes care and need to understand different systems, interpret downloaded data, manage common issues and support patients with basic technology decisions.</p>
+      </div>
+      <div class="lv-banner-badge">
+        <div style="font-size:26px;font-weight:600;color:#6d28d9;line-height:1">L2</div>
+        <div style="font-size:9px;color:#8b5cf6;font-weight:600;text-transform:uppercase;letter-spacing:.04em">competence</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- STATS -->
+  <div class="stats-wrap" style="margin-top:1rem">
+    <div class="stats-card">
+      <div class="stat"><div class="stat-label">Modules</div><div class="stat-val g">10</div></div>
+      <div class="stat"><div class="stat-label">Watch time</div><div class="stat-val">~8h 30min</div></div>
+      <div class="stat"><div class="stat-label">At 1.5×</div><div class="stat-val">~5h 40min</div></div>
+      <div class="stat"><div class="stat-label">+ CME credits</div><div class="stat-val" style="font-size:13px;padding-top:4px"><a href="https://www.diabetotech.com" target="_blank" style="color:#1d4ed8;text-decoration:none;font-weight:500">diabetotech.com</a></div></div>
+    </div>
+  </div>
+
+  <main class="p-main">
+
+    <div class="framework-note">
+      <strong>About this plan:</strong> Content is aligned with the <strong>Richardson et al. (2026) National Competency Framework</strong> (<em>Diabetic Medicine</em>, doi:10.1111/dme.70253). This plan addresses Level 2 competencies — understanding different systems, data interpretation, and management of common clinical scenarios. For CME accreditation and EACCME certificates, visit <a href="https://www.diabetotech.com" target="_blank">diabetotech.com →</a>
+    </div>
+
+    <div class="cme-upsell">
+      <div class="cme-icon">🏆</div>
+      <div class="cme-text">
+        <p>Want CME accreditation?</p>
+        <p>This free plan gives full access to all videos and transcripts. For EACCME-accredited certificates and CME points, complete the certified course on our platform.</p>
+      </div>
+      <div class="cme-link"><a href="https://www.diabetotech.com" target="_blank">diabetotech.com →</a></div>
+    </div>
+
+    <!-- MODULE: CGM Master -->
+    <div class="mod-section">
+      <div class="mod-head open" onclick="toggleMod(this)">
+        <div class="mod-head-left">
+          <div class="mod-icon" style="background:#eff6ff">📡</div>
+          <div>
+            <div class="mod-text-lbl">Master module</div>
+            <div class="mod-text-title">Glucose sensors — general principles</div>
+          </div>
+        </div>
+        <div class="mod-head-right">
+          <span class="mod-dur">37.5 min</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="lesson-list open">
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/glucose-sensors/1-introduction/" target="_blank">
+          <div class="lesson-num">1</div><div class="lesson-body"><div class="lesson-title">Introduction to glucose sensors</div></div>
+          <div style="display:flex;gap:6px"><span class="badge-dur">3.5 min</span></div><span class="lesson-arrow">→</span>
+        </a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/glucose-sensors/2-comparison-of-different-sensors/" target="_blank">
+          <div class="lesson-num">2</div><div class="lesson-body"><div class="lesson-title">Comparison of different sensors</div></div>
+          <div style="display:flex;gap:6px"><span class="badge-dur">9.5 min</span></div><span class="lesson-arrow">→</span>
+        </a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/glucose-sensors/3-reliability-of-glucose-sensors/" target="_blank">
+          <div class="lesson-num">3</div><div class="lesson-body"><div class="lesson-title">Reliability of glucose sensors</div></div>
+          <div style="display:flex;gap:6px"><span class="badge-dur">9 min</span></div><span class="lesson-arrow">→</span>
+        </a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/glucose-sensors/4-effective-sensor-site-management/" target="_blank">
+          <div class="lesson-num">4</div><div class="lesson-body"><div class="lesson-title">Effective sensor site management</div></div>
+          <div style="display:flex;gap:6px"><span class="badge-opt">optional</span><span class="badge-dur">9.5 min</span></div><span class="lesson-arrow">→</span>
+        </a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/glucose-sensors/5-interpreting-sensor-reports/" target="_blank">
+          <div class="lesson-num">5</div><div class="lesson-body"><div class="lesson-title">Interpreting sensor reports</div></div>
+          <div style="display:flex;gap:6px"><span class="badge-dur">6 min</span></div><span class="lesson-arrow">→</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- MODULE: Dexcom G7 -->
+    <div class="mod-section">
+      <div class="mod-head" onclick="toggleMod(this)">
+        <div class="mod-head-left">
+          <div class="mod-icon" style="background:#eef2ff">🔵</div>
+          <div>
+            <div class="mod-text-lbl">CGM — Belgium</div>
+            <div class="mod-text-title">Dexcom G7</div>
+          </div>
+        </div>
+        <div class="mod-head-right">
+          <span class="mod-dur">40 min</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="lesson-list">
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/dexcom-g7/1-introduction/" target="_blank"><div class="lesson-num">1</div><div class="lesson-body"><div class="lesson-title">Introduction</div></div><div style="display:flex;gap:6px"><span class="badge-dur">3 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/dexcom-g7/2-placing-the-sensor/" target="_blank"><div class="lesson-num">2</div><div class="lesson-body"><div class="lesson-title">Placing the sensor</div></div><div style="display:flex;gap:6px"><span class="badge-dur">5 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/dexcom-g7/3-starting-the-sensor/" target="_blank"><div class="lesson-num">3</div><div class="lesson-body"><div class="lesson-title">Starting the sensor</div></div><div style="display:flex;gap:6px"><span class="badge-dur">11.5 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/dexcom-g7/4-setting-alarms/" target="_blank"><div class="lesson-num">4</div><div class="lesson-body"><div class="lesson-title">Setting alarms</div></div><div style="display:flex;gap:6px"><span class="badge-dur">5 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/cgm/dexcom-g7/5-data-sharing/" target="_blank"><div class="lesson-num">5</div><div class="lesson-body"><div class="lesson-title">Data sharing</div></div><div style="display:flex;gap:6px"><span class="badge-opt">optional</span><span class="badge-dur">6 min</span></div><span class="lesson-arrow">→</span></a>
+      </div>
+    </div>
+
+    <!-- MODULE: Pump Master -->
+    <div class="mod-section">
+      <div class="mod-head" onclick="toggleMod(this)">
+        <div class="mod-head-left">
+          <div class="mod-icon" style="background:#f5f3ff">⚙️</div>
+          <div>
+            <div class="mod-text-lbl">Master module</div>
+            <div class="mod-text-title">Insulin pumps — general principles</div>
+          </div>
+        </div>
+        <div class="mod-head-right">
+          <span class="mod-dur">35.5 min</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="lesson-list">
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/pumps/insulin-pumps-the-master-module/1-introduction/" target="_blank"><div class="lesson-num">1</div><div class="lesson-body"><div class="lesson-title">Introduction</div></div><div style="display:flex;gap:6px"><span class="badge-dur">3 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/pumps/insulin-pumps-the-master-module/2-comparison-of-different-insulin-pumps/" target="_blank"><div class="lesson-num">2</div><div class="lesson-body"><div class="lesson-title">Comparison of different insulin pumps</div></div><div style="display:flex;gap:6px"><span class="badge-dur">8 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/pumps/insulin-pumps-the-master-module/3-insulin-settings/" target="_blank"><div class="lesson-num">3</div><div class="lesson-body"><div class="lesson-title">Insulin settings</div></div><div style="display:flex;gap:6px"><span class="badge-dur">13 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/pumps/insulin-pumps-the-master-module/4-reservoir-and-infusion-set-replacement/" target="_blank"><div class="lesson-num">4</div><div class="lesson-body"><div class="lesson-title">Reservoir and infusion set replacement</div></div><div style="display:flex;gap:6px"><span class="badge-dur">8.5 min</span></div><span class="lesson-arrow">→</span></a>
+      </div>
+    </div>
+
+    <!-- MODULE: AID Master -->
+    <div class="mod-section">
+      <div class="mod-head" onclick="toggleMod(this)">
+        <div class="mod-head-left">
+          <div class="mod-icon" style="background:#ecfdf5">🔄</div>
+          <div>
+            <div class="mod-text-lbl">Master module</div>
+            <div class="mod-text-title">AID systems — closed-loop general</div>
+          </div>
+        </div>
+        <div class="mod-head-right">
+          <span class="mod-dur">48.5 min</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="lesson-list">
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/aid-systems/1-introduction/" target="_blank"><div class="lesson-num">1</div><div class="lesson-body"><div class="lesson-title">Introduction</div></div><div style="display:flex;gap:6px"><span class="badge-dur">3 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/aid-systems/2-the-cares-framework/" target="_blank"><div class="lesson-num">2</div><div class="lesson-body"><div class="lesson-title">The CARES framework</div></div><div style="display:flex;gap:6px"><span class="badge-dur">6 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/aid-systems/3-key-education-points/" target="_blank"><div class="lesson-num">3</div><div class="lesson-body"><div class="lesson-title">Key education points</div></div><div style="display:flex;gap:6px"><span class="badge-dur">8 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/aid-systems/5-interpreting-reports/" target="_blank"><div class="lesson-num">4</div><div class="lesson-body"><div class="lesson-title">Interpreting reports</div></div><div style="display:flex;gap:6px"><span class="badge-dur">13 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/aid-systems/7-a-comprehensive-automated-insulin-delivery-overview/" target="_blank"><div class="lesson-num">5</div><div class="lesson-body"><div class="lesson-title">Comprehensive AID overview</div></div><div style="display:flex;gap:6px"><span class="badge-opt">optional</span><span class="badge-dur">17 min</span></div><span class="lesson-arrow">→</span></a>
+      </div>
+    </div>
+
+    <!-- MODULE: Omnipod 5 -->
+    <div class="mod-section">
+      <div class="mod-head" onclick="toggleMod(this)">
+        <div class="mod-head-left">
+          <div class="mod-icon" style="background:#fffbeb">🤖</div>
+          <div>
+            <div class="mod-text-lbl">AID — Belgium</div>
+            <div class="mod-text-title">Omnipod 5 closed-loop system</div>
+          </div>
+        </div>
+        <div class="mod-head-right">
+          <span class="mod-dur">63 min</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="lesson-list">
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/omnipod-5/1-introduction/" target="_blank"><div class="lesson-num">1</div><div class="lesson-body"><div class="lesson-title">Introduction</div></div><div style="display:flex;gap:6px"><span class="badge-dur">3.5 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/omnipod-5/3-linking-components-together/" target="_blank"><div class="lesson-num">2</div><div class="lesson-body"><div class="lesson-title">Linking components together</div></div><div style="display:flex;gap:6px"><span class="badge-dur">11 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/omnipod-5/4-how-the-omnipod-5-system-works/" target="_blank"><div class="lesson-num">3</div><div class="lesson-body"><div class="lesson-title">How Omnipod 5 works in closed-loop</div></div><div style="display:flex;gap:6px"><span class="badge-dur">11.5 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/omnipod-5/5-creating-and-interpreting-reports/" target="_blank"><div class="lesson-num">4</div><div class="lesson-body"><div class="lesson-title">Creating and interpreting reports</div></div><div style="display:flex;gap:6px"><span class="badge-dur">15 min</span></div><span class="lesson-arrow">→</span></a>
+        <a class="lesson" href="https://diabetotech.github.io/docs/en/aid/omnipod-5/6-managing-special-situations/" target="_blank"><div class="lesson-num">5</div><div class="lesson-body"><div class="lesson-title">Managing special situations</div></div><div style="display:flex;gap:6px"><span class="badge-dur">8 min</span></div><span class="lesson-arrow">→</span></a>
+      </div>
+    </div>
+
+    <div class="speed-tip">
+      <strong>Tip:</strong> Most video players allow you to adjust playback speed. At 1.5× this plan takes <strong>~5h 40min</strong>. Most professionals start at 1.25× and work up.
+    </div>
+
+    <div class="btn-row" style="margin-top:2rem">
+      <button class="btn-sec" onclick="show('builder')">← Back to builder</button>
+      <button class="btn-sec" onclick="window.print()">Print / PDF</button>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <p>Diabetotech Professional Education · <a href="https://www.diabetotech.com">diabetotech.com</a> · Independent & non-promotional</p>
+    <p style="margin-top:4px">Aligned with Richardson et al. 2026 · <em>Diabetic Medicine</em> · doi:10.1111/dme.70253 · Curated by Dr. Inge Van Boxelaer</p>
+  </footer>
+</div>
+
+<script>
+// ── DATA ──────────────────────────────────────────────────────
+const COUNTRIES = {
+  BE:{label:'Belgium',flag:'🇧🇪',curated:true,
+    cgm:['cgm-master','dexcom-g7','freestyle-libre-3','dexcom-one-plus','freestyle-libre-2','accu-chek-smartguide','caresens-air'],
+    pump:['pump-master','omnipod-dash','minimed-780g','tandem-tslim','mylife-ypsopump','dana-i'],
+    aid:['aid-master','omnipod-5','minimed-780g-aid','mylife-loop','tandem-control-iq'],
+    os:['androidaps','diy-loop','iaps','trio']},
+  NL:{label:'Netherlands',flag:'🇳🇱',curated:true,
+    cgm:['cgm-master','dexcom-g7','freestyle-libre-3','dexcom-one-plus','freestyle-libre-2','accu-chek-smartguide','caresens-air','touchcare-nano-cgm'],
+    pump:['pump-master','omnipod-dash','minimed-780g','tandem-tslim','mylife-ypsopump','dana-i','kaleido'],
+    aid:['aid-master','omnipod-5','minimed-780g-aid','mylife-loop','tandem-control-iq','diabeloop-kaleido','touchcare-nano-system'],
+    os:['androidaps','diy-loop','iaps','trio']},
+  US:{label:'United States',flag:'🇺🇸',curated:true,
+    cgm:['cgm-master','dexcom-g7','dexcom-g6','freestyle-libre-3','freestyle-libre-2'],
+    pump:['pump-master','omnipod-dash','omnipod-5-pump','ilet-device','twiist','minimed-780g','tandem-tslim','tandem-mobi'],
+    aid:['aid-master','omnipod-5','ilet-system','minimed-780g-aid','tandem-control-iq','tandem-mobi-system'],
+    os:['androidaps','diy-loop','iaps','trio']},
+};
+
+const DEVICES = {
+  // CGM
+  'cgm-master':{name:'Glucose sensors — general',sub:'Principles, reliability, site management',cat:'cgm',icon:'📡',iconBg:'#eff6ff',rec:true,dur:37.5,path:'cgm/glucose-sensors'},
+  'dexcom-g7':{name:'Dexcom G7',sub:'CGM',cat:'cgm',icon:'🔵',iconBg:'#eef2ff',rec:true,reimb:true,dur:40,path:'cgm/dexcom-g7'},
+  'freestyle-libre-3':{name:'FreeStyle Libre 3',sub:'CGM',cat:'cgm',icon:'🟢',iconBg:'#f0fdf4',rec:true,reimb:true,dur:35,path:'cgm/freestyle-libre-3'},
+  'dexcom-one-plus':{name:'Dexcom ONE Plus',sub:'CGM',cat:'cgm',rec:false,reimb:true,dur:22,path:'cgm/dexcom-one-plus'},
+  'dexcom-g6':{name:'Dexcom G6',sub:'CGM',cat:'cgm',rec:false,reimb:true,dur:24,path:'cgm/dexcom-g6'},
+  'freestyle-libre-2':{name:'FreeStyle Libre 2 (Plus)',sub:'CGM',cat:'cgm',rec:false,reimb:true,dur:28,path:'cgm/freestyle-libre-2'},
+  'accu-chek-smartguide':{name:'Accu-Chek Smartguide',sub:'CGM',cat:'cgm',rec:false,reimb:true,dur:41,path:'cgm/accu-chek-smartguide-cgm'},
+  'caresens-air':{name:'CareSens Air',sub:'CGM',cat:'cgm',rec:false,reimb:true,dur:37,path:'cgm/caresens-air'},
+  'touchcare-nano-cgm':{name:'TouchCare Nano CGM',sub:'CGM',cat:'cgm',rec:false,reimb:true,dur:27,path:'cgm/touchcare-nano-cgm'},
+  // PUMPS
+  'pump-master':{name:'Insulin pumps — general',sub:'Settings, reservoir, infusion sets',cat:'pump',icon:'⚙️',iconBg:'#f5f3ff',rec:true,dur:35.5,path:'pumps/insulin-pumps-the-master-module'},
+  'omnipod-dash':{name:'Omnipod DASH',sub:'Tubeless patch pump',cat:'pump',rec:true,reimb:true,dur:29.5,path:'pumps/omnipod-dash'},
+  'minimed-780g':{name:'MiniMed 780G',sub:'Insulin pump',cat:'pump',rec:true,reimb:true,dur:20,path:'pumps/minimed-780g-insulin-pump'},
+  'tandem-tslim':{name:'Tandem t:slim X2',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:26,path:'pumps/tandem-tslim-x2'},
+  'mylife-ypsopump':{name:'mylife YpsoPump',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:27,path:'pumps/mylife-ypsopump'},
+  'dana-i':{name:'DANA-i Pump',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:44.5,path:'pumps/dana-i-pump'},
+  'kaleido':{name:'Kaleido IP',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:20,path:'pumps/kaleido-ip'},
+  'omnipod-5-pump':{name:'Omnipod 5 (pump)',sub:'Tubeless patch pump',cat:'pump',rec:true,reimb:true,dur:29.5,path:'pumps/omnipod-dash'},
+  'ilet-device':{name:'iLet Device',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:35,path:'pumps/ilet-device'},
+  'twiist':{name:'twiist Pump',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:32,path:'pumps/twiist-insulin-pump'},
+  'tandem-mobi':{name:'Tandem Mobi',sub:'Insulin pump',cat:'pump',rec:false,reimb:true,dur:5,path:'pumps/tandem-mobi-insulin-pump'},
+  // AID
+  'aid-master':{name:'AID systems — general',sub:'CARES framework, indications, reports',cat:'aid',icon:'🔄',iconBg:'#ecfdf5',rec:true,dur:48.5,path:'aid/aid-systems'},
+  'omnipod-5':{name:'Omnipod 5',sub:'Closed-loop AID',cat:'aid',icon:'🤖',iconBg:'#fffbeb',rec:true,reimb:true,dur:63,path:'aid/omnipod-5'},
+  'minimed-780g-aid':{name:'MiniMed 780G AID',sub:'Closed-loop AID',cat:'aid',rec:true,reimb:true,dur:20,path:'aid/minimed-780g-aid-system'},
+  'mylife-loop':{name:'mylife Loop',sub:'Closed-loop AID',cat:'aid',rec:false,reimb:true,dur:43,path:'aid/mylife-loop'},
+  'tandem-control-iq':{name:'Tandem Control-IQ',sub:'Closed-loop AID',cat:'aid',rec:false,reimb:true,dur:51.5,path:'aid/tandem-control-iq-transcript'},
+  'diabeloop-kaleido':{name:'Diabeloop-Kaleido',sub:'Closed-loop AID',cat:'aid',rec:false,reimb:true,dur:55,path:'aid/diabeloop-kaleido'},
+  'touchcare-nano-system':{name:'TouchCare Nano System',sub:'Closed-loop AID',cat:'aid',rec:false,reimb:true,dur:36,path:'aid/touchcare-nano-system'},
+  'ilet-system':{name:'iLet System',sub:'Closed-loop AID',cat:'aid',rec:true,reimb:true,dur:55,path:'aid/ilet-system'},
+  'tandem-mobi-system':{name:'Tandem Mobi System',sub:'Closed-loop AID',cat:'aid',rec:false,reimb:true,dur:42,path:'aid/tandem-mobi-system'},
+  // OPEN SOURCE
+  'androidaps':{name:'AndroidAPS',sub:'Open source — community supported',cat:'os',dur:52.5,path:'aid/androidaps'},
+  'diy-loop':{name:'DIY Loop',sub:'Open source — community supported',cat:'os',dur:50,path:'aid/diy-loop'},
+  'iaps':{name:'iAPS',sub:'Open source — community supported',cat:'os',dur:66.5,path:'aid/iaps'},
+  'trio':{name:'Trio',sub:'Open source — community supported',cat:'os',dur:72,path:'aid/trio'},
+};
+
+const LEVEL_INFO = {
+  1:{label:'Awareness',color:'#3b82f6',bg:'#eff6ff',border:'#bfdbfe',icon:'📋',
+     desc:'Non-specialist HCP who encounters diabetes technology occasionally. Safety-critical knowledge + signposting.'},
+  2:{label:'Competence',color:'#8b5cf6',bg:'#f5f3ff',border:'#ddd6fe',icon:'📊',
+     desc:'Regular diabetes care. Understands different systems, interprets data, manages common issues.'},
+  3:{label:'Expertise',color:'#1D9E75',bg:'#E1F5EE',border:'#9FE1CB',icon:'🎯',
+     desc:'Primary role is diabetes technology. Onboarding, complex scenarios, report interpretation, peer support.'},
+  4:{label:'Leadership',color:'#f59e0b',bg:'#fffbeb',border:'#fcd34d',icon:'⭐',
+     desc:'Local/regional leadership. Comprehensive expertise, complex case management, service development.'},
+};
+
+const LANG_LABELS = {en:'English',nl:'Nederlands',fr:'Français',de:'Deutsch',es:'Español'};
+const ROLE_LABELS = {
+  endocrinologist:'Endocrinologist / Diabetologist',
+  educator:'Diabetes educator',
+  nurse:'Diabetes specialist nurse',
+  gp:'General practitioner',
+  other:'Other HCP'
+};
+
+// ── STATE ──────────────────────────────────────────────────────
+let state = {
+  level: 2,
+  country: 'BE',
+  countryLabel: 'Belgium',
+  countryFlag: '🇧🇪',
+  selected: new Set(['cgm-master','dexcom-g7','freestyle-libre-3','pump-master','omnipod-dash','minimed-780g','aid-master','omnipod-5','minimed-780g-aid']),
+};
+
+// ── NAVIGATION ─────────────────────────────────────────────────
+function show(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('on'));
+  document.getElementById('page-'+id).classList.add('on');
+  document.querySelectorAll('.view-btn').forEach((b,i) => b.classList.toggle('on',(i===0&&id==='builder')||(i===1&&id==='plan')));
+  window.scrollTo(0,0);
+}
+
+function goStep(n) {
+  [1,2,3].forEach(i => {
+    document.getElementById('bs'+i).style.display = i===n?'block':'none';
+    const tab = document.getElementById('st'+i);
+    tab.classList.remove('on','done');
+    if(i===n) tab.classList.add('on');
+    else if(i<n) tab.classList.add('done');
+  });
+  if(n===2) renderDevices();
+  if(n===3) renderSummary();
+  window.scrollTo(0,0);
+}
+
+// ── LEVEL ──────────────────────────────────────────────────────
+function selectLevel(lv) {
+  state.level = lv;
+  document.querySelectorAll('.level-card').forEach(c => c.classList.remove('selected'));
+  document.querySelector(`.level-card[data-lv="${lv}"]`).classList.add('selected');
+}
+
+// ── COUNTRY ────────────────────────────────────────────────────
+function selectCountry(btn, code, flag, label) {
+  document.querySelectorAll('.cty-btn').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  state.country = code;
+  state.countryLabel = label;
+  state.countryFlag = flag;
+  document.getElementById('country-showing').textContent = `showing ${label}`;
+  renderDevices();
+}
+
+// ── DEVICES ────────────────────────────────────────────────────
+function renderDevices() {
+  const cd = COUNTRIES[state.country] || COUNTRIES.BE;
+  renderGrid('cgm-grid', cd.cgm, 'cgm-count', 'cgm');
+  renderGrid('pump-grid', cd.pump, 'pump-count', 'pump');
+  renderGrid('aid-grid', cd.aid, 'aid-count', 'aid');
+  renderGrid('os-grid', cd.os, 'os-count', 'os');
+  updateGenBar();
+}
+
+function renderGrid(gridId, ids, countId, cat) {
+  const grid = document.getElementById(gridId);
+  const catColors = {cgm:{text:'#1d4ed8',bg:'#eff6ff'},pump:{text:'#6d28d9',bg:'#f5f3ff'},aid:{text:'#085041',bg:'#E1F5EE'},os:{text:'#c2410c',bg:'#fff7ed'}};
+  const c = catColors[cat];
+  grid.innerHTML = ids.map(id => {
+    const d = DEVICES[id]; if(!d) return '';
+    const on = state.selected.has(id);
+    return `<div class="dev-card${on?' on':''}${d.rec?' dev-rec':''}" onclick="toggleDev('${id}','${cat}','${countId}')">
+      <div class="dev-cat" style="color:${c.text}">${d.cat==='cgm'?'CGM':d.cat==='pump'?'Pump':d.cat==='aid'?'AID':'Open source'}</div>
+      <div class="dev-name">${d.name}</div>
+      <div class="dev-sub">${d.sub||''}</div>
+      ${d.reimb?`<div class="dev-reimb"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>Reimbursed</div>`:''}
+      <div class="dev-check"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg></div>
+    </div>`;
+  }).join('');
+  updateCount(countId, ids);
+}
+
+function toggleDev(id, cat, countId) {
+  if(state.selected.has(id)) state.selected.delete(id);
+  else state.selected.add(id);
+  const card = document.querySelector(`.dev-card[onclick*="'${id}'"]`);
+  if(card) card.classList.toggle('on', state.selected.has(id));
+  const cd = COUNTRIES[state.country]||COUNTRIES.BE;
+  const catMap = {cgm:cd.cgm,pump:cd.pump,aid:cd.aid,os:cd.os};
+  updateCount(countId, catMap[cat]||[]);
+  updateGenBar();
+}
+
+function updateCount(id, ids) {
+  const sel = ids.filter(x => state.selected.has(x)).length;
+  document.getElementById(id).textContent = `${sel} selected`;
+}
+
+function totalMins() {
+  return [...state.selected].reduce((s,id) => s + (DEVICES[id]?.dur||0), 0);
+}
+
+function fmtDur(m) {
+  const h = Math.floor(m/60), min = Math.round(m%60);
+  return h > 0 ? `~${h}h ${min}min` : `~${min} min`;
+}
+
+function updateGenBar() {
+  document.getElementById('gen-count').textContent = state.selected.size;
+  document.getElementById('gen-dur').textContent = fmtDur(totalMins());
+}
+
+// ── SUMMARY / SHARE ────────────────────────────────────────────
+function renderSummary() {
+  const lv = state.level;
+  const li = LEVEL_INFO[lv];
+  document.getElementById('s-name').textContent = document.getElementById('b-name').value||'—';
+  document.getElementById('s-lang').textContent = LANG_LABELS[document.getElementById('b-lang').value]||'English';
+  document.getElementById('s-role').textContent = ROLE_LABELS[document.getElementById('b-role').value]||'—';
+  document.getElementById('s-level').textContent = `Level ${lv} — ${li.label}`;
+  document.getElementById('s-country').textContent = `${state.countryFlag} ${state.countryLabel}`;
+  document.getElementById('s-modules').textContent = `${state.selected.size} modules · ${fmtDur(totalMins())}`;
+  // build URL
+  const lang = document.getElementById('b-lang').value;
+  const role = document.getElementById('b-role').value;
+  const name = encodeURIComponent(document.getElementById('b-name').value||'');
+  const mods = [...state.selected].join(',');
+  const url = `diabetotech.github.io/docs/plan/educator/?country=${state.country}&lang=${lang}&level=${lv}&role=${role}&name=${name}&modules=${mods}`;
+  document.getElementById('share-url').value = url;
+}
+
+function copyLink() {
+  const inp = document.getElementById('share-url');
+  navigator.clipboard.writeText(inp.value).catch(() => {inp.select();document.execCommand('copy');});
+  const fb = document.getElementById('copy-ok');
+  fb.style.opacity = '1';
+  setTimeout(() => fb.style.opacity = '0', 2500);
+}
+
+// ── MOD TOGGLE ─────────────────────────────────────────────────
+function toggleMod(head) {
+  head.classList.toggle('open');
+  head.nextElementSibling.classList.toggle('open');
+}
+
+// ── INIT ───────────────────────────────────────────────────────
+renderDevices();
+</script>
+</body>
+</html>

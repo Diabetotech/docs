@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Diabetotech — My Learning Plan</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --green:#1D9E75;--green-l:#E1F5EE;--green-m:#9FE1CB;--green-d:#085041;--green-xd:#04342C;
+  --ink:#18181b;--ink-2:#52525b;--ink-3:#a1a1aa;
+  --white:#fff;--surface:#f4f6f4;--card:#fff;
+  --border:rgba(0,0,0,.08);--border-2:rgba(0,0,0,.13);
+  --r:12px;--r-sm:8px;--r-lg:18px;
+  --warm:#fffbf5;--warm-border:#fde8c8;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'DM Sans',sans-serif;background:var(--surface);color:var(--ink);-webkit-font-smoothing:antialiased}
+
+/* ── NAV ── */
+.topbar{background:var(--green-xd);padding:10px 1.5rem;display:flex;align-items:center;gap:12px}
+.topbar-logo{font-family:'Fraunces',serif;font-size:14px;font-style:italic;color:rgba(255,255,255,.8)}
+.topbar-sep{width:1px;height:14px;background:rgba(255,255,255,.2)}
+.topbar-label{font-size:12px;color:rgba(255,255,255,.5);font-weight:300}
+
+/* ── PAGES ── */
+.page{display:none}
+.page.on{display:block}
+
+/* ════════════════
+   BUILDER
+════════════════ */
+.b-header{background:var(--green-xd);padding:2.5rem 1.5rem 3.5rem;position:relative;overflow:hidden}
+.b-header::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle,rgba(157,225,203,.14) 1px,transparent 1px);background-size:26px 26px}
+.b-header::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:36px;background:var(--surface);border-radius:36px 36px 0 0}
+.b-inner{max-width:680px;margin:0 auto;position:relative;z-index:1}
+.b-eyebrow{font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:.1em;color:var(--green-m);margin-bottom:.6rem;opacity:0;animation:up .5s .05s forwards}
+.b-title{font-family:'Fraunces',serif;font-size:clamp(1.9rem,4.5vw,3rem);color:white;line-height:1.15;margin-bottom:.7rem;opacity:0;animation:up .6s .12s forwards}
+.b-title em{font-style:italic;color:var(--green-m)}
+.b-sub{font-size:14px;font-weight:300;color:rgba(255,255,255,.6);line-height:1.7;max-width:480px;opacity:0;animation:up .6s .2s forwards}
+
+.b-main{max-width:680px;margin:0 auto;padding:2rem 1.5rem 5rem}
+
+/* form card */
+.fc{background:var(--card);border:1px solid var(--border);border-radius:var(--r-lg);padding:1.5rem;margin-bottom:1.25rem}
+.fc-title{font-size:14px;font-weight:500;margin-bottom:1.25rem;display:flex;align-items:center;gap:9px}
+.fc-icon{font-size:18px}
+.fg2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.field{display:flex;flex-direction:column;gap:5px}
+.field label{font-size:11.5px;font-weight:500;color:var(--ink-2);text-transform:uppercase;letter-spacing:.04em}
+.field select,.field input{padding:9px 12px;font-size:13.5px;border:1px solid var(--border-2);border-radius:var(--r-sm);background:white;color:var(--ink);font-family:'DM Sans',sans-serif;transition:border-color .15s}
+.field select:focus,.field input:focus{outline:none;border-color:var(--green)}
+
+/* device selector cards */
+.dev-section{margin-bottom:1.75rem}
+.dev-section-title{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-3);display:flex;align-items:center;gap:10px;margin-bottom:.75rem}
+.dev-section-line{flex:1;height:1px;background:var(--border)}
+.dev-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:9px}
+.dev-card{background:white;border:1.5px solid var(--border);border-radius:var(--r);padding:12px 14px;cursor:pointer;transition:all .18s;position:relative}
+.dev-card:hover{border-color:rgba(29,158,117,.35);box-shadow:0 3px 12px rgba(29,158,117,.07);transform:translateY(-1px)}
+.dev-card.on{border-color:var(--green);background:var(--green-l)}
+.dev-card.on .dev-check{opacity:1}
+.dev-name{font-size:13.5px;font-weight:500;padding-right:18px;margin-bottom:2px}
+.dev-sub{font-size:11.5px;color:var(--ink-2);font-weight:300}
+.dev-check{position:absolute;top:9px;right:10px;width:17px;height:17px;background:var(--green);border-radius:50%;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .18s}
+.dev-check svg{width:9px;height:9px;fill:white}
+
+/* bottom bar */
+.gen-bar{position:sticky;bottom:1.5rem;z-index:100}
+.gen-card{background:white;border:1px solid var(--border);border-radius:var(--r-lg);padding:.9rem 1.5rem;box-shadow:0 8px 32px rgba(0,0,0,.1);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.gen-info{font-size:13px;color:var(--ink-2)}
+.gen-info strong{color:var(--ink);font-weight:500}
+.btn-gen{padding:11px 28px;background:var(--green);color:white;border:none;border-radius:var(--r-sm);font-size:14px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif;white-space:nowrap;transition:background .15s}
+.btn-gen:hover{background:var(--green-d)}
+.btn-sec{padding:9px 18px;background:transparent;color:var(--ink-2);border:1px solid var(--border-2);border-radius:var(--r-sm);font-size:13px;cursor:pointer;font-family:'DM Sans',sans-serif}
+.btn-sec:hover{border-color:var(--green);color:var(--green)}
+
+/* ════════════════
+   PLAN
+════════════════ */
+.p-header{background:var(--green-xd);padding:2.5rem 1.5rem 0;position:relative;overflow:hidden}
+.p-header::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle,rgba(157,225,203,.14) 1px,transparent 1px);background-size:26px 26px}
+.p-header::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:36px;background:var(--surface);border-radius:36px 36px 0 0}
+.p-inner{max-width:680px;margin:0 auto;position:relative;z-index:1;padding-bottom:3.5rem}
+
+.hello-badge{display:inline-flex;align-items:center;gap:7px;background:rgba(157,225,203,.15);border:1px solid rgba(157,225,203,.25);border-radius:20px;padding:5px 14px;font-size:12px;color:var(--green-m);font-weight:400;margin-bottom:.9rem;font-family:'Fraunces',serif;font-style:italic;opacity:0;animation:up .5s .05s forwards}
+.p-title{font-family:'Fraunces',serif;font-size:clamp(1.9rem,4.5vw,2.9rem);color:white;line-height:1.15;margin-bottom:.7rem;opacity:0;animation:up .6s .12s forwards}
+.p-title em{font-style:italic;color:var(--green-m)}
+.p-sub{font-size:14px;font-weight:300;color:rgba(255,255,255,.55);line-height:1.7;max-width:500px;margin-bottom:1.5rem;opacity:0;animation:up .6s .2s forwards}
+.p-pills{display:flex;flex-wrap:wrap;gap:7px;opacity:0;animation:up .6s .28s forwards}
+.ppill{font-size:11.5px;padding:4px 12px;border-radius:20px;border:1px solid;font-weight:400}
+.pg{background:rgba(157,225,203,.18);color:#8ee8c5;border-color:rgba(157,225,203,.25)}
+.pb{background:rgba(181,212,244,.14);color:#93c5fd;border-color:rgba(181,212,244,.2)}
+
+/* stats strip */
+.stats-wrap{max-width:680px;margin:0 auto;padding:0 1.5rem;position:relative;z-index:10;opacity:0;animation:up .5s .35s forwards}
+.stats{background:white;border-radius:var(--r-lg);box-shadow:0 2px 20px rgba(0,0,0,.07);display:grid;grid-template-columns:repeat(3,1fr);overflow:hidden}
+.stat{padding:.9rem 1rem;text-align:center;border-right:1px solid var(--border)}
+.stat:last-child{border-right:none}
+.stat-label{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin-bottom:3px}
+.stat-val{font-size:19px;font-weight:600;color:var(--ink)}
+.stat-val.g{color:var(--green)}
+
+.p-main{max-width:680px;margin:0 auto;padding:2rem 1.5rem 5rem}
+
+/* family note */
+.family-note{background:var(--warm);border:1px solid var(--warm-border);border-radius:var(--r-lg);padding:1.25rem 1.5rem;margin-bottom:2rem;display:flex;gap:14px;align-items:flex-start;opacity:0;animation:up .5s .42s forwards}
+.family-note-icon{font-size:22px;flex-shrink:0;margin-top:2px}
+.family-note-text p:first-child{font-size:14px;font-weight:500;margin-bottom:4px;color:#92400e}
+.family-note-text p:last-child{font-size:13px;color:#a16207;font-weight:300;line-height:1.6}
+
+/* module sections */
+.mod{margin-bottom:1.25rem;opacity:0;animation:up .4s forwards}
+.mod:nth-child(1){animation-delay:.48s}.mod:nth-child(2){animation-delay:.55s}
+.mod:nth-child(3){animation-delay:.62s}.mod:nth-child(4){animation-delay:.69s}
+.mod:nth-child(5){animation-delay:.76s}.mod:nth-child(6){animation-delay:.83s}
+.mod:nth-child(7){animation-delay:.90s}.mod:nth-child(8){animation-delay:.97s}
+
+.mod-head{display:flex;align-items:center;gap:12px;padding:13px 18px;background:white;border-radius:var(--r-lg);cursor:pointer;border:1px solid var(--border);transition:all .2s}
+.mod-head:hover{border-color:rgba(29,158,117,.3)}
+.mod-head.open{border-radius:var(--r-lg) var(--r-lg) 0 0;border-bottom-color:transparent}
+.mod-icon{width:34px;height:34px;flex-shrink:0;border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:16px}
+.mod-left{flex:1;min-width:0}
+.mod-step{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin-bottom:2px}
+.mod-name{font-size:14px;font-weight:500;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mod-right{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.mod-dur{font-size:12px;color:var(--ink-2);background:var(--surface);padding:3px 9px;border-radius:20px}
+.chevron{width:18px;height:18px;transition:transform .25s;color:var(--ink-3)}
+.mod-head.open .chevron{transform:rotate(180deg)}
+.lesson-list{background:white;border:1px solid var(--border);border-top:none;border-radius:0 0 var(--r-lg) var(--r-lg);max-height:0;overflow:hidden;transition:max-height .35s cubic-bezier(.4,0,.2,1)}
+.lesson-list.open{max-height:4000px}
+.lesson{display:flex;align-items:center;padding:11px 18px;border-bottom:1px solid var(--border);gap:12px;text-decoration:none;color:inherit;cursor:pointer;transition:background .15s}
+.lesson:last-child{border-bottom:none}
+.lesson:hover{background:#f9fafb}
+.lesson-num{width:22px;height:22px;flex-shrink:0;background:var(--green-l);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:600;color:var(--green-d)}
+.lesson-body{flex:1;min-width:0}
+.lesson-title{font-size:13.5px;color:var(--ink)}
+.badge-opt{font-size:10.5px;padding:2px 8px;border-radius:20px;background:#fff7ed;color:#c2410c;border:1px solid #fed7aa;font-weight:500}
+.badge-dur{font-size:11.5px;color:var(--ink-3);background:var(--surface);padding:2px 8px;border-radius:20px}
+.lesson-arr{color:var(--green);flex-shrink:0;font-size:14px;transition:transform .15s}
+.lesson:hover .lesson-arr{transform:translateX(3px)}
+
+/* tips */
+.tip{background:white;border-left:3px solid var(--green);border-radius:0 var(--r-sm) var(--r-sm) 0;padding:12px 16px;font-size:13px;font-weight:300;color:var(--ink-2);line-height:1.6;margin:1.5rem 0}
+.tip strong{font-weight:500;color:var(--ink)}
+
+/* share */
+.share-card{background:var(--green-l);border:1px solid var(--green-m);border-radius:var(--r-lg);padding:1.5rem;margin-top:2rem}
+.share-title{font-size:14px;font-weight:500;color:var(--green-d);margin-bottom:.4rem}
+.share-sub{font-size:13px;color:var(--green-d);opacity:.7;font-weight:300;margin-bottom:1rem;line-height:1.6}
+.share-row{display:flex;gap:8px}
+.share-input{flex:1;padding:8px 12px;font-size:11.5px;border:1px solid var(--green-m);border-radius:var(--r-sm);background:white;font-family:monospace;color:var(--ink)}
+.btn-copy{padding:9px 18px;background:var(--green);color:white;border:none;border-radius:var(--r-sm);font-size:13px;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif;white-space:nowrap}
+.btn-copy:hover{background:var(--green-d)}
+.copy-ok{font-size:12px;color:var(--green);font-weight:500;margin-top:6px;height:16px;opacity:0;transition:opacity .3s}
+.btn-row{display:flex;gap:8px;margin-top:1.5rem;flex-wrap:wrap}
+
+/* footer */
+.footer{text-align:center;padding:1.5rem 1rem 3rem;font-size:12px;font-weight:300;color:var(--ink-3)}
+.footer a{color:var(--green);text-decoration:none}
+
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:540px){
+  .fg2{grid-template-columns:1fr}
+  .dev-grid{grid-template-columns:1fr 1fr}
+  .stats{grid-template-columns:1fr 1fr}
+  .stat:nth-child(2){border-right:none}
+  .stat:nth-child(3){grid-column:1/-1;border-top:1px solid var(--border)}
+  .gen-card{flex-direction:column;align-items:stretch}
+  .btn-gen{text-align:center}
+}
+@media print{
+  .topbar,.gen-bar{display:none}
+  .lesson-list{max-height:9999px!important}
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <span class="topbar-logo">Diabetotech</span>
+  <div class="topbar-sep"></div>
+  <span class="topbar-label">Free learning plans</span>
+</div>
+
+<!-- ════════════ BUILDER ════════════ -->
+<div id="page-builder" class="page on">
+
+  <div class="b-header">
+    <div class="b-inner">
+      <div class="b-eyebrow">Your personal learning plan</div>
+      <h1 class="b-title">Learning about<br><em>your diabetes device</em></h1>
+      <p class="b-sub">Tell us which devices you use — or are about to start — and we'll build a step-by-step learning plan just for you. Free, no account needed.</p>
+    </div>
+  </div>
+
+  <main class="b-main">
+
+    <div class="fc">
+      <div class="fc-title"><span class="fc-icon">👋</span> A little about you</div>
+      <div class="fg2" style="margin-bottom:12px">
+        <div class="field">
+          <label>Your first name (optional)</label>
+          <input type="text" id="b-name" placeholder="e.g. Sarah"/>
+        </div>
+        <div class="field">
+          <label>Language</label>
+          <select id="b-lang">
+            <option value="en">English</option>
+            <option value="nl">Nederlands</option>
+            <option value="fr">Français</option>
+            <option value="de">Deutsch</option>
+            <option value="es">Español</option>
+          </select>
+        </div>
+      </div>
+      <div class="fg2">
+        <div class="field">
+          <label>I am</label>
+          <select id="b-who">
+            <option value="patient">A person with diabetes</option>
+            <option value="caregiver">A parent / caregiver</option>
+            <option value="child">A child with diabetes</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>My situation</label>
+          <select id="b-situation">
+            <option value="starting">Starting a new device</option>
+            <option value="using">Already using my device</option>
+            <option value="exploring">Exploring my options</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class="fc">
+      <div class="fc-title"><span class="fc-icon">📡</span> My glucose sensor (CGM)</div>
+      <p style="font-size:13px;color:var(--ink-2);font-weight:300;margin-bottom:1rem">Select your current or upcoming CGM. Don't know yet? Skip and ask your care team first.</p>
+      <div class="dev-grid" id="cgm-grid"></div>
+    </div>
+
+    <div class="fc">
+      <div class="fc-title"><span class="fc-icon">⚙️</span> My insulin pump</div>
+      <p style="font-size:13px;color:var(--ink-2);font-weight:300;margin-bottom:1rem">Select your pump if you use one. Using injections only? Leave this empty.</p>
+      <div class="dev-grid" id="pump-grid"></div>
+    </div>
+
+    <div class="fc">
+      <div class="fc-title"><span class="fc-icon">🤖</span> My closed-loop system (AID)</div>
+      <p style="font-size:13px;color:var(--ink-2);font-weight:300;margin-bottom:1rem">If your pump and sensor work together automatically, select your system here.</p>
+      <div class="dev-grid" id="aid-grid"></div>
+      <div style="margin-top:1rem;padding-top:1rem;border-top:1px solid var(--border)">
+        <p style="font-size:12px;font-weight:500;color:var(--ink-2);margin-bottom:.6rem">Open source AID</p>
+        <div class="dev-grid" id="os-grid"></div>
+      </div>
+    </div>
+
+    <div class="gen-bar">
+      <div class="gen-card">
+        <div class="gen-info"><strong id="gen-count">0</strong> devices selected · <strong id="gen-dur">—</strong> of video content</div>
+        <button class="btn-gen" onclick="buildPlan()">Build my plan →</button>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <p>Diabetotech · <a href="https://www.diabetotech.com">diabetotech.com</a> · Independent & non-promotional</p>
+  </footer>
+</div>
+
+<!-- ════════════ PLAN ════════════ -->
+<div id="page-plan" class="page">
+
+  <div class="p-header">
+    <div class="p-inner">
+      <div class="hello-badge" id="hello-badge">Your personal plan is ready</div>
+      <h1 class="p-title" id="plan-title">Learning plan<br>for <em id="plan-name-title">you</em></h1>
+      <p class="p-sub" id="plan-sub">A step-by-step guide through your diabetes devices — at your own pace, in your own language.</p>
+      <div class="p-pills" id="plan-pills"></div>
+    </div>
+  </div>
+
+  <div class="stats-wrap">
+    <div class="stats">
+      <div class="stat"><div class="stat-label">Modules</div><div class="stat-val g" id="s-mods">—</div></div>
+      <div class="stat"><div class="stat-label">Total video</div><div class="stat-val" id="s-dur">—</div></div>
+      <div class="stat"><div class="stat-label">At 1.5×</div><div class="stat-val" id="s-fast">—</div></div>
+    </div>
+  </div>
+
+  <main class="p-main">
+
+    <div class="family-note" id="family-note">
+      <div class="family-note-icon">👨‍👩‍👧</div>
+      <div class="family-note-text">
+        <p>For family members and caregivers</p>
+        <p id="family-note-text">This plan is also useful for parents, partners and caregivers. Understanding how the device works will help you support your loved one and feel more confident.</p>
+      </div>
+    </div>
+
+    <div id="modules-container"></div>
+
+    <div class="tip">
+      <strong>Tip:</strong> Most video players let you increase playback speed. At 1.5× this plan takes <span id="tip-fast">—</span>. Start at 1.25× and work up — you won't miss anything.
+    </div>
+
+    <div class="share-card">
+      <div class="share-title">🔗 Share or save this plan</div>
+      <div class="share-sub">Copy this link and share it with your care team, a family member, or save it to come back later. The plan opens exactly as you built it.</div>
+      <div class="share-row">
+        <input class="share-input" id="share-url" readonly onclick="this.select()"/>
+        <button class="btn-copy" onclick="copyLink()">Copy</button>
+      </div>
+      <div class="copy-ok" id="copy-ok">✓ Copied!</div>
+    </div>
+
+    <div class="btn-row">
+      <button class="btn-sec" onclick="backToBuilder()">← Adjust my selection</button>
+      <button class="btn-sec" onclick="window.print()">Print / PDF</button>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <p>Diabetotech · Free learning plans for people with diabetes · <a href="https://www.diabetotech.com">Full certified courses at diabetotech.com</a></p>
+    <p style="margin-top:4px">Content curated by Dr. Inge Van Boxelaer · Independent & non-promotional · CC BY-NC 4.0</p>
+  </footer>
+</div>
+
+<script>
+const BASE = 'https://diabetotech.github.io/docs';
+
+const DEVICES = {
+  // CGM
+  'cgm-master':{name:'Glucose sensors — how they work',sub:'General introduction — start here',cat:'cgm',icon:'📡',bg:'#eff6ff',dur:37.5,
+    lessons:[
+      {t:'Introduction',d:3.5,p:'en/cgm/glucose-sensors/1-introduction/'},
+      {t:'Comparison of different sensors',d:9.5,p:'en/cgm/glucose-sensors/2-comparison-of-different-sensors/'},
+      {t:'Reliability of glucose sensors',d:9,p:'en/cgm/glucose-sensors/3-reliability-of-glucose-sensors/'},
+      {t:'Effective sensor site management',d:9.5,opt:true,p:'en/cgm/glucose-sensors/4-effective-sensor-site-management/'},
+      {t:'Interpreting sensor reports',d:6,p:'en/cgm/glucose-sensors/5-interpreting-sensor-reports/'},
+    ]},
+  'dexcom-g7':{name:'Dexcom G7',sub:'Continuous glucose sensor',cat:'cgm',icon:'🔵',bg:'#eef2ff',dur:40,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/cgm/dexcom-g7/1-introduction/'},
+      {t:'Placing the sensor',d:5,p:'en/cgm/dexcom-g7/2-placing-the-sensor/'},
+      {t:'Starting the sensor',d:11.5,p:'en/cgm/dexcom-g7/3-starting-the-sensor/'},
+      {t:'Setting alarms',d:5,p:'en/cgm/dexcom-g7/4-setting-alarms/'},
+      {t:'Data sharing',d:6,opt:true,p:'en/cgm/dexcom-g7/5-data-sharing/'},
+      {t:'Case report',d:6,opt:true,p:'en/cgm/dexcom-g7/7-case-report/'},
+    ]},
+  'freestyle-libre-3':{name:'FreeStyle Libre 3',sub:'Continuous glucose sensor',cat:'cgm',icon:'🟢',bg:'#f0fdf4',dur:35,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/cgm/freestyle-libre-3/1-introduction/'},
+      {t:'Placing the sensor',d:5,p:'en/cgm/freestyle-libre-3/2-placing-the-sensor/'},
+      {t:'Starting and scanning the sensor',d:9,p:'en/cgm/freestyle-libre-3/3-starting-and-scanning-the-sensor/'},
+      {t:'Setting alarms',d:5,p:'en/cgm/freestyle-libre-3/4-setting-alarms/'},
+      {t:'Sharing data',d:5,opt:true,p:'en/cgm/freestyle-libre-3/5-sharing-data/'},
+      {t:'Case report',d:5,opt:true,p:'en/cgm/freestyle-libre-3/7-case-report/'},
+    ]},
+  'dexcom-one-plus':{name:'Dexcom ONE Plus',sub:'Continuous glucose sensor',cat:'cgm',icon:'🔵',bg:'#eef2ff',dur:22,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/cgm/dexcom-one-plus/1-introduction/'},
+      {t:'Placing the sensor',d:4,p:'en/cgm/dexcom-one-plus/2-placing-the-sensor/'},
+      {t:'Starting the sensor',d:7,p:'en/cgm/dexcom-one-plus/3-starting-the-sensor/'},
+      {t:'Setting alarms',d:4,p:'en/cgm/dexcom-one-plus/4-setting-alarms/'},
+      {t:'Data sharing',d:4,opt:true,p:'en/cgm/dexcom-one-plus/5-data-sharing/'},
+    ]},
+  'freestyle-libre-2':{name:'FreeStyle Libre 2 (Plus)',sub:'Continuous glucose sensor',cat:'cgm',icon:'🟢',bg:'#f0fdf4',dur:28,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/cgm/freestyle-libre-2/1-introduction/'},
+      {t:'Placing the sensor',d:4,p:'en/cgm/freestyle-libre-2/2-placing-the-sensor/'},
+      {t:'Starting and scanning the sensor',d:8,p:'en/cgm/freestyle-libre-2/3-starting-and-scanning-the-sensor/'},
+      {t:'Sharing data',d:5,opt:true,p:'en/cgm/freestyle-libre-2/5-sharing-data/'},
+    ]},
+  'accu-chek-smartguide':{name:'Accu-Chek Smartguide',sub:'Continuous glucose sensor',cat:'cgm',dur:41,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/cgm/accu-chek-smartguide-cgm/1-introduction/'},
+      {t:'Placing the sensor',d:5,p:'en/cgm/accu-chek-smartguide-cgm/2-placing-the-sensor/'},
+      {t:'Starting the sensor',d:10,p:'en/cgm/accu-chek-smartguide-cgm/3-starting-the-sensor/'},
+      {t:'Setting alarms',d:8,p:'en/cgm/accu-chek-smartguide-cgm/4-setting-alarms/'},
+      {t:'Sharing data',d:5,opt:true,p:'en/cgm/accu-chek-smartguide-cgm/5-sharing-data/'},
+    ]},
+  'caresens-air':{name:'CareSens Air',sub:'Continuous glucose sensor',cat:'cgm',dur:37,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/cgm/caresens-air/1-introduction/'},
+      {t:'Placing the sensor',d:5,p:'en/cgm/caresens-air/2-placing-the-sensor/'},
+      {t:'Starting the sensor',d:9,p:'en/cgm/caresens-air/3-starting-the-sensor/'},
+      {t:'Setting alerts',d:7,p:'en/cgm/caresens-air/4-setting-alerts/'},
+    ]},
+  // PUMPS
+  'pump-master':{name:'How insulin pumps work',sub:'General introduction — start here',cat:'pump',icon:'⚙️',bg:'#f5f3ff',dur:35.5,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/pumps/insulin-pumps-the-master-module/1-introduction/'},
+      {t:'Comparison of different insulin pumps',d:8,p:'en/pumps/insulin-pumps-the-master-module/2-comparison-of-different-insulin-pumps/'},
+      {t:'Insulin settings',d:13,p:'en/pumps/insulin-pumps-the-master-module/3-insulin-settings/'},
+      {t:'Reservoir and infusion set replacement',d:8.5,p:'en/pumps/insulin-pumps-the-master-module/4-reservoir-and-infusion-set-replacement/'},
+    ]},
+  'omnipod-dash':{name:'Omnipod DASH',sub:'Tubeless insulin pump',cat:'pump',icon:'💊',bg:'#fdf4ff',dur:29.5,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/pumps/omnipod-dash/1-introduction/'},
+      {t:'Pump operation',d:6,p:'en/pumps/omnipod-dash/2-pump-operation/'},
+      {t:'Insulin setup',d:8,p:'en/pumps/omnipod-dash/3-insulin-setup/'},
+      {t:'Replacing the Pod',d:6,p:'en/pumps/omnipod-dash/4-replacing-the-pod/'},
+      {t:'Pump alarms',d:4,p:'en/pumps/omnipod-dash/5-pump-alarms/'},
+    ]},
+  'minimed-780g':{name:'MiniMed 780G',sub:'Insulin pump',cat:'pump',dur:20,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/pumps/minimed-780g-insulin-pump/1-introduction/'},
+      {t:'Insulin setup',d:6,p:'en/pumps/minimed-780g-insulin-pump/3-insulin-setup/'},
+      {t:'Reservoir and infusion set replacement',d:6,p:'en/pumps/minimed-780g-insulin-pump/4-reservoir-and-infusion-set-replacement/'},
+      {t:'Pump alarms',d:5,p:'en/pumps/minimed-780g-insulin-pump/5-pump-alarms/'},
+    ]},
+  'mylife-ypsopump':{name:'mylife YpsoPump',sub:'Insulin pump',cat:'pump',dur:27,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/pumps/mylife-ypsopump/1-introduction/'},
+      {t:'How it works',d:6,p:'en/pumps/mylife-ypsopump/2-how-the-mylife-ypsopump-works/'},
+      {t:'Insulin setup',d:8,p:'en/pumps/mylife-ypsopump/3-insulin-setup/'},
+      {t:'Reservoir and infusion set replacement',d:7,p:'en/pumps/mylife-ypsopump/4-reservoir-and-infusion-set-replacement/'},
+    ]},
+  'tandem-tslim':{name:'Tandem t:slim X2',sub:'Insulin pump',cat:'pump',dur:26,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/pumps/tandem-tslim-x2/1-introduction/'},
+      {t:'How it works',d:6,p:'en/pumps/tandem-tslim-x2/2-how-the-tandem-t-slim-x2-insulin-pump-works/'},
+      {t:'Insulin setup',d:8,p:'en/pumps/tandem-tslim-x2/3-insulin-setup/'},
+      {t:'Reservoir and infusion set replacement',d:6,p:'en/pumps/tandem-tslim-x2/4-reservoir-and-infusion-set-replacement/'},
+    ]},
+  'dana-i':{name:'DANA-i Pump',sub:'Insulin pump',cat:'pump',dur:44.5,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/pumps/dana-i-pump/1-introduction/'},
+      {t:'Pump operation',d:10,p:'en/pumps/dana-i-pump/2-pump-operation/'},
+      {t:'Programming the pump',d:12,p:'en/pumps/dana-i-pump/3-programming-the-pump/'},
+      {t:'Reservoir and infusion set replacement',d:8,p:'en/pumps/dana-i-pump/4-reservoir-and-infusion-set-replacement/'},
+    ]},
+  // AID
+  'aid-master':{name:'How closed-loop systems work',sub:'General introduction — start here',cat:'aid',icon:'🔄',bg:'#ecfdf5',dur:35,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/aid/aid-systems/1-introduction/'},
+      {t:'The CARES framework',d:6,p:'en/aid/aid-systems/2-the-cares-framework/'},
+      {t:'Key education points',d:8,p:'en/aid/aid-systems/3-key-education-points/'},
+      {t:'Starting an AID system',d:8,p:'en/aid/aid-systems/4-starting-an-aid-system-indications-timing-and-choosing-the-right-system/'},
+      {t:'Interpreting reports',d:10,p:'en/aid/aid-systems/5-interpreting-reports/'},
+    ]},
+  'omnipod-5':{name:'Omnipod 5',sub:'Closed-loop system',cat:'aid',icon:'🤖',bg:'#fffbeb',dur:63,
+    lessons:[
+      {t:'Introduction',d:3.5,p:'en/aid/omnipod-5/1-introduction/'},
+      {t:'Omnipod 5 according to the CARES paradigm',d:11,p:'en/aid/omnipod-5/2-omnipod-5-according-to-the-cares-paradigm/'},
+      {t:'Linking components together',d:11,p:'en/aid/omnipod-5/3-linking-components-together/'},
+      {t:'How the Omnipod 5 system works',d:11.5,p:'en/aid/omnipod-5/4-how-the-omnipod-5-system-works/'},
+      {t:'Creating and interpreting reports',d:15,p:'en/aid/omnipod-5/5-creating-and-interpreting-reports/'},
+      {t:'Managing special situations',d:8,p:'en/aid/omnipod-5/6-managing-special-situations/'},
+    ]},
+  'minimed-780g-aid':{name:'MiniMed 780G AID',sub:'Closed-loop system',cat:'aid',dur:48,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/aid/minimed-780g-aid-system/1-introduction/'},
+      {t:'MiniMed 780G according to the CARES paradigm',d:10,p:'en/aid/minimed-780g-aid-system/2-minimed-780g-according-to-the-cares-paradigm/'},
+      {t:'How the MiniMed 780G works',d:12,p:'en/aid/minimed-780g-aid-system/4-how-the-minimed-780g-works/'},
+      {t:'Creating and interpreting reports',d:12,p:'en/aid/minimed-780g-aid-system/5-creating-and-interpreting-reports/'},
+    ]},
+  'mylife-loop':{name:'mylife Loop',sub:'Closed-loop system',cat:'aid',dur:43,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/aid/mylife-loop/1-introduction/'},
+      {t:'Linking components together',d:8,p:'en/aid/mylife-loop/3-linking-components-together/'},
+      {t:'How mylife Loop works',d:10,p:'en/aid/mylife-loop/4-how-mylife-loop-works/'},
+      {t:'Creating and interpreting reports',d:10,p:'en/aid/mylife-loop/5-creating-and-interpreting-reports/'},
+      {t:'Managing special situations',d:8,p:'en/aid/mylife-loop/6-managing-special-situations/'},
+    ]},
+  'tandem-control-iq':{name:'Tandem Control-IQ',sub:'Closed-loop system',cat:'aid',dur:51.5,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/aid/tandem-control-iq-transcript/1-introduction/'},
+      {t:'Tandem Control-IQ according to the CARES paradigm',d:12,p:'en/aid/tandem-control-iq-transcript/2-tandem-control-iq-technology-according-to-the-cares-paradigm/'},
+      {t:'Linking components together',d:10,p:'en/aid/tandem-control-iq-transcript/3-linking-components-together/'},
+      {t:'How Tandem Control-IQ works',d:12,p:'en/aid/tandem-control-iq-transcript/4-how-the-tandem-control-iq-technology-works/'},
+      {t:'Managing special situations',d:8,p:'en/aid/tandem-control-iq-transcript/6-managing-special-situations/'},
+    ]},
+  // OPEN SOURCE
+  'androidaps':{name:'AndroidAPS',sub:'Open source closed-loop',cat:'os',dur:52.5,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/aid/androidaps/1-introduction/'},
+      {t:'AndroidAPS according to the CARES paradigm',d:12,p:'en/aid/androidaps/2-androidaps-according-to-the-cares-paradigm/'},
+      {t:'Linking components together',d:10,p:'en/aid/androidaps/3-linking-components-together/'},
+      {t:'How AndroidAPS works',d:10,p:'en/aid/androidaps/4-how-androidaps-works/'},
+      {t:'Creating and interpreting reports',d:9,p:'en/aid/androidaps/5-creating-and-interpreting-reports/'},
+      {t:'Managing special situations',d:7,p:'en/aid/androidaps/6-managing-special-situations/'},
+    ]},
+  'diy-loop':{name:'DIY Loop',sub:'Open source closed-loop',cat:'os',dur:50,
+    lessons:[
+      {t:'Introduction',d:3,p:'en/aid/diy-loop/1-introduction/'},
+      {t:'DIY Loop according to the CARES paradigm',d:12,p:'en/aid/diy-loop/2-diy-loop-according-to-the-cares-paradigm/'},
+      {t:'Linking components together',d:10,p:'en/aid/diy-loop/3-linking-components-together/'},
+      {t:'How DIY Loop works',d:10,p:'en/aid/diy-loop/4-how-diy-loop-works/'},
+      {t:'Creating and interpreting reports',d:9,p:'en/aid/diy-loop/5-creating-and-interpreting-reports/'},
+    ]},
+  'iaps':{name:'iAPS',sub:'Open source closed-loop',cat:'os',dur:66.5,
+    lessons:[
+      {t:'Introduction',d:2.5,p:'en/aid/iaps/1-introduction/'},
+      {t:'iAPS according to the CARES paradigm',d:15,p:'en/aid/iaps/2-iaps-according-to-the-cares-paradigm/'},
+      {t:'Linking components together',d:10,p:'en/aid/iaps/3-linking-components-together/'},
+      {t:'How iAPS works',d:9.5,p:'en/aid/iaps/4-how-iaps-works/'},
+      {t:'Creating and interpreting reports',d:9.5,p:'en/aid/iaps/5-creating-and-interpreting-reports/'},
+      {t:'Managing special situations',d:9,p:'en/aid/iaps/6-managing-special-situations/'},
+    ]},
+  'trio':{name:'Trio',sub:'Open source closed-loop',cat:'os',dur:72,
+    lessons:[
+      {t:'Introduction',d:2.5,p:'en/aid/trio/1-introduction/'},
+      {t:'Trio according to the CARES paradigm',d:26.5,p:'en/aid/trio/2-trio-according-to-the-cares-paradigm/'},
+      {t:'Linking components together',d:11,p:'en/aid/trio/3-linking-components-together/'},
+      {t:'How Trio works',d:9,p:'en/aid/trio/4-how-trio-works/'},
+      {t:'Creating and interpreting reports',d:11,p:'en/aid/trio/5-creating-and-interpreting-reports/'},
+      {t:'Managing special situations',d:10,p:'en/aid/trio/6-managing-special-situations/'},
+      {t:'Case report',d:2,p:'en/aid/trio/7-case-report/'},
+    ]},
+};
+
+// what to show in each grid
+const CGM_LIST = ['cgm-master','dexcom-g7','freestyle-libre-3','dexcom-one-plus','freestyle-libre-2','accu-chek-smartguide','caresens-air'];
+const PUMP_LIST = ['pump-master','omnipod-dash','minimed-780g','mylife-ypsopump','tandem-tslim','dana-i'];
+const AID_LIST = ['aid-master','omnipod-5','minimed-780g-aid','mylife-loop','tandem-control-iq'];
+const OS_LIST = ['androidaps','diy-loop','iaps','trio'];
+
+// auto-include logic: selecting a device also includes its master module
+const MASTER = {cgm:'cgm-master',pump:'pump-master',aid:'aid-master'};
+
+let selected = new Set();
+
+function renderGrid(gridId, ids) {
+  const g = document.getElementById(gridId);
+  g.innerHTML = ids.map(id => {
+    const d = DEVICES[id]; if(!d) return '';
+    const on = selected.has(id);
+    return `<div class="dev-card${on?' on':''}" onclick="toggleDev('${id}')">
+      <div class="dev-name">${d.name}</div>
+      <div class="dev-sub">${d.sub}</div>
+      <div class="dev-check"><svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg></div>
+    </div>`;
+  }).join('');
+}
+
+function toggleDev(id) {
+  const d = DEVICES[id];
+  if(selected.has(id)){
+    selected.delete(id);
+  } else {
+    selected.add(id);
+    // auto-add master module
+    if(d.cat==='cgm' && id!=='cgm-master') selected.add('cgm-master');
+    if(d.cat==='pump' && id!=='pump-master') selected.add('pump-master');
+    if(d.cat==='aid' && id!=='aid-master') selected.add('aid-master');
+  }
+  // re-render all grids
+  renderGrid('cgm-grid', CGM_LIST);
+  renderGrid('pump-grid', PUMP_LIST);
+  renderGrid('aid-grid', AID_LIST);
+  renderGrid('os-grid', OS_LIST);
+  updateBar();
+}
+
+function totalMins() {
+  return [...selected].reduce((s,id)=>s+(DEVICES[id]?.dur||0),0);
+}
+function fmtDur(m) {
+  const h=Math.floor(m/60),min=Math.round(m%60);
+  return h>0?`~${h}h ${min}min`:`~${min} min`;
+}
+
+function updateBar() {
+  document.getElementById('gen-count').textContent = selected.size;
+  document.getElementById('gen-dur').textContent = selected.size ? fmtDur(totalMins()) : '—';
+}
+
+// ── BUILD PLAN ──────────────────────────────────────────────────
+function buildPlan() {
+  if(!selected.size){ alert('Please select at least one device first.'); return; }
+
+  const name = document.getElementById('b-name').value.trim();
+  const lang = document.getElementById('b-lang').value;
+  const who = document.getElementById('b-who').value;
+  const situation = document.getElementById('b-situation').value;
+  const mins = totalMins();
+  const fastMins = Math.round(mins / 1.5);
+
+  // header
+  document.getElementById('plan-name-title').textContent = name || (who==='caregiver' ? 'your family' : 'you');
+  document.getElementById('plan-sub').textContent = situation === 'starting'
+    ? 'A step-by-step guide through your new diabetes device — at your own pace.'
+    : situation === 'exploring'
+    ? 'An overview of the devices you are exploring — to help you ask the right questions.'
+    : 'A personalised guide to getting the most out of your diabetes device.';
+
+  // pills
+  const langLabels={en:'English',nl:'Nederlands',fr:'Français',de:'Deutsch',es:'Español'};
+  const pills = document.getElementById('plan-pills');
+  pills.innerHTML = `<span class="ppill pg">${langLabels[lang]||'English'}</span>`
+    + (name?`<span class="ppill pb">For ${name}</span>`:'')
+    + `<span class="ppill pg">${selected.size} modules</span>`;
+
+  // stats
+  document.getElementById('s-mods').textContent = selected.size;
+  document.getElementById('s-dur').textContent = fmtDur(mins);
+  document.getElementById('s-fast').textContent = fmtDur(fastMins);
+  document.getElementById('tip-fast').textContent = fmtDur(fastMins);
+
+  // family note
+  const fn = document.getElementById('family-note');
+  if(who==='caregiver'){
+    document.getElementById('family-note-text').textContent = 'As a caregiver or parent, these videos will help you understand exactly how the device works — so you can support your loved one with confidence and know when to step in.';
+    fn.style.display='flex';
+  } else if(who==='patient'){
+    fn.style.display='flex';
+  } else {
+    fn.style.display='none';
+  }
+
+  // build 6-step ordered module list
+  const ORDER = ['cgm-master','dexcom-g7','freestyle-libre-3','dexcom-one-plus','freestyle-libre-2','accu-chek-smartguide','caresens-air',
+    'pump-master','omnipod-dash','minimed-780g','mylife-ypsopump','tandem-tslim','dana-i',
+    'aid-master','omnipod-5','minimed-780g-aid','mylife-loop','tandem-control-iq',
+    'androidaps','diy-loop','iaps','trio'];
+  const ordered = ORDER.filter(id => selected.has(id));
+
+  const container = document.getElementById('modules-container');
+  container.innerHTML = '';
+  let stepNum = 1;
+
+  ordered.forEach((id,i) => {
+    const d = DEVICES[id];
+    const div = document.createElement('div');
+    div.className = 'mod';
+    div.style.animationDelay = `${0.48+i*0.07}s`;
+
+    const isMaster = id.endsWith('-master');
+    const catLabel = {cgm:'Glucose sensor',pump:'Insulin pump',aid:'Closed-loop AID',os:'Open source AID'}[d.cat]||'';
+    const stepLabel = isMaster ? `Step ${stepNum++} — ${catLabel} basics` : `Step ${stepNum++} — Your ${catLabel}`;
+
+    const lessonsHtml = d.lessons.map((l,li)=>`
+      <a class="lesson" href="${BASE}/${l.p}" target="_blank">
+        <div class="lesson-num">${li+1}</div>
+        <div class="lesson-body"><div class="lesson-title">${l.t}</div></div>
+        <div style="display:flex;gap:6px;flex-shrink:0">
+          ${l.opt?'<span class="badge-opt">optional</span>':''}
+          <span class="badge-dur">${l.d} min</span>
+        </div>
+        <span class="lesson-arr">→</span>
+      </a>`).join('');
+
+    div.innerHTML = `
+      <div class="mod-head${i===0?' open':''}" onclick="toggleMod(this)">
+        <div class="mod-icon" style="background:${d.bg||'#f5f5f5'}">${d.icon||'📋'}</div>
+        <div class="mod-left">
+          <div class="mod-step">${stepLabel}</div>
+          <div class="mod-name">${d.name}</div>
+        </div>
+        <div class="mod-right">
+          <span class="mod-dur">${fmtDur(d.dur)}</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="lesson-list${i===0?' open':''}">${lessonsHtml}</div>`;
+    container.appendChild(div);
+  });
+
+  // share URL
+  const mods = ordered.join(',');
+  const url = `${window.location.origin}${window.location.pathname}?name=${encodeURIComponent(name)}&lang=${lang}&who=${who}&modules=${mods}`;
+  document.getElementById('share-url').value = url;
+
+  document.getElementById('page-builder').classList.remove('on');
+  document.getElementById('page-plan').classList.add('on');
+  window.scrollTo(0,0);
+}
+
+function backToBuilder() {
+  document.getElementById('page-plan').classList.remove('on');
+  document.getElementById('page-builder').classList.add('on');
+  window.scrollTo(0,0);
+}
+
+function toggleMod(head) {
+  head.classList.toggle('open');
+  head.nextElementSibling.classList.toggle('open');
+}
+
+function copyLink() {
+  const inp = document.getElementById('share-url');
+  navigator.clipboard.writeText(inp.value).catch(()=>{inp.select();document.execCommand('copy');});
+  const fb = document.getElementById('copy-ok');
+  fb.style.opacity='1';
+  setTimeout(()=>fb.style.opacity='0',2500);
+}
+
+// ── URL PARAMS — load pre-built plan ──────────────────────────
+(function(){
+  const p = new URLSearchParams(window.location.search);
+  if(!p.has('modules')) return;
+  const mods = p.get('modules').split(',').filter(Boolean);
+  mods.forEach(id=>{ if(DEVICES[id]) selected.add(id); });
+  if(p.has('lang')) document.getElementById('b-lang').value = p.get('lang');
+  if(p.has('who')) document.getElementById('b-who').value = p.get('who');
+  if(p.has('name')) document.getElementById('b-name').value = p.get('name');
+  updateBar();
+  renderGrid('cgm-grid',CGM_LIST);
+  renderGrid('pump-grid',PUMP_LIST);
+  renderGrid('aid-grid',AID_LIST);
+  renderGrid('os-grid',OS_LIST);
+  if(selected.size) buildPlan();
+})();
+
+// ── INIT ──────────────────────────────────────────────────────
+renderGrid('cgm-grid', CGM_LIST);
+renderGrid('pump-grid', PUMP_LIST);
+renderGrid('aid-grid', AID_LIST);
+renderGrid('os-grid', OS_LIST);
+</script>
+</body>
+</html>
